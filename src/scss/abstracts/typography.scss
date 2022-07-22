@@ -1,0 +1,37 @@
+body {
+    font-family: 'Merriweather', 'Georgia', serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+
+p, ul, ol, h1, h2, h3 {
+    margin-top: 0;
+
+    * + & {
+        margin-top: 30px;
+    }
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+main {
+    p, ul, ol {
+        line-height: 1.6666667;
+    }
+
+}

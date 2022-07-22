@@ -1,0 +1,346 @@
+/* COMMON STYLES */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+}
+
+body,
+main {
+    overflow-x: hidden;
+}
+
+main {
+    position: relative;
+}
+
+.stripe {
+    background: #333;
+    height: 100vh;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 2rem;
+}
+
+.container {
+    background-color: $white;
+    width: 100%;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 768px;
+
+    &-full {
+        width: 100%;
+        max-width: none;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* HELPER CLASSES */
+
+.position-relative {
+    position: relative;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
+
+.align-end {
+    align-items: flex-end;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.align-start {
+    align-items: flex-start;
+}
+
+.align-self-end {
+    align-self: flex-end;
+}
+
+.flex-1-desktop {
+    @include desktop {
+        flex: 0 0 10%!important;
+    }
+}
+
+.flex-2-desktop {
+    @include desktop {
+        flex: 0 0 20%!important;
+    }
+}
+
+.flex-3-desktop {
+    @include desktop {
+        flex: 0 0 30%!important;
+    }
+}
+
+.flex-4-desktop {
+    @include desktop {
+        flex: 0 0 40%!important;
+    }
+}
+
+.flex-5-desktop {
+    @include desktop {
+        flex: 0 0 50%!important;
+    }
+}
+
+.flex-6-desktop {
+    @include desktop {
+        flex: 0 0 60%!important;
+    }
+}
+
+.flex-7-desktop {
+    @include desktop {
+        flex: 0 0 70%!important;
+    }
+}
+
+.flex-8-desktop {
+    @include desktop {
+        flex: 0 0 80%!important;
+    }
+}
+
+.flex-9-desktop {
+    @include desktop {
+        flex: 0 0 90%!important;
+    }
+}
+
+.m-0-desktop {
+    @include desktop {
+        margin: 0!important;
+    }
+}
+
+.mt-0-desktop  {
+    @include desktop {
+        margin-top: 0!important;
+    }
+}
+
+.mt-1-desktop  {
+    @include desktop {
+        margin-top: 10px!important;
+    }
+}
+
+.mt-2-desktop  {
+    @include desktop {
+        margin-top: 20px!important;
+    }
+}
+
+.mt-3-desktop  {
+    @include desktop {
+        margin-top: 30px!important;
+    }
+}
+
+.mt-4-desktop  {
+    @include desktop {
+        margin-top: 40px!important;
+    }
+}
+
+.mt-5-desktop  {
+    @include desktop {
+        margin-top: 50px!important;
+    }
+}
+
+.mb-0-desktop {
+    @include desktop {
+        margin-bottom: 0!important;
+    }
+}
+
+.mb-1-desktop {
+    @include desktop {
+        margin-bottom: 10px!important;
+    }
+}
+
+.mb-2-desktop {
+    @include desktop {
+        margin-bottom: 20px!important;
+    }
+}
+
+.mb-3-desktop {
+    @include desktop {
+        margin-bottom: 30px!important;
+    }
+}
+
+.mb-4-desktop {
+    @include desktop {
+        margin-bottom: 40px!important;
+    }
+}
+
+.mb-5-desktop {
+    @include desktop {
+        margin-bottom: 40px!important;
+    }
+}
+
+.p-0-desktop {
+    @include desktop {
+        padding: 0!important;
+    }
+}
+
+/* MOBILE HELPER CLASSES */
+
+.d-none-mobile {
+    @media (max-width: #{$desktop - 1px}) {
+        display: none!important;
+    }
+}
+
+.flex-row-mobile {
+    @include mobile {
+        flex-direction: row!important;
+    }
+}
+
+.flex-col-mobile {
+    @include mobile {
+        flex-direction: column!important;
+    }
+}
+
+.flex-1 {
+    flex: 0 0 10%;
+}
+
+.flex-2 {
+    flex: 0 0 20%;
+}
+
+.flex-3 {
+    flex: 0 0 30%;
+}
+
+.flex-4 {
+    flex: 0 0 40%;
+}
+
+.flex-5 {
+    flex: 0 0 50%;
+}
+
+.flex-6 {
+    flex: 0 0 60%;
+}
+
+.flex-7 {
+    flex: 0 0 70%;
+}
+
+.flex-8 {
+    flex: 0 0 80%;
+}
+
+.flex-9 {
+    flex: 0 0 90%;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.mt-0 {
+    margin-top: 0;
+}
+
+.mt-1 {
+    margin-top: 10px;
+}
+
+.mt-2 {
+    margin-top: 20px;
+}
+
+.mt-3 {
+    margin-top: 30px;
+}
+
+.mt-4 {
+    margin-top: 40px;
+}
+
+.mt-5 {
+    margin-top: 50px;
+}
+
+.mb-0 {
+    margin-bottom: 0;
+}
+
+.mb-1 {
+    margin-bottom: 10px;
+}
+
+.mb-2 {
+    margin-bottom: 20px;
+}
+
+.mb-3 {
+    margin-bottom: 30px;
+}
+
+.mb-4 {
+    margin-bottom: 40px;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}

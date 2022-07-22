@@ -1,0 +1,31 @@
+/* BREAKPOINT MIXINS */
+
+@mixin desktopXl {
+  @media (min-width: #{$desktopXl}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+    @media (min-width: #{$desktop}) {
+      @content;
+    }
+}
+
+@mixin tablet {
+    @media (min-width: #{$tablet}) and (max-width: #{$desktop - 1px}) {
+      @content;
+    }
+}
+
+@mixin mobile {
+    @media (max-width: #{$mobile}) {
+      @content;
+    }
+}
+
+/* LAYOUT MIXINS */
+
+.hidden {
+  display: none;
+}

@@ -1,0 +1,39 @@
+{
+  "name": "lenacapavir_hcp",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run buildinit && npm run buildcss && npm run buildhtml && npm run buildimages && npm run buildjs",
+    "buildcss": "node-sass --output-style compressed --include-path scss src/scss/main.scss webroot/css/styles.css",
+    "buildhtml": "npx @11ty/eleventy",
+    "buildimages": "imagemin src/images/* --out-dir=webroot/images",
+    "buildinit": "make-dir webroot/js",
+    "buildjs": "make-dir webroot/js && terser src/js/custom.js -o webroot/js/custom.min.js",
+    "cleandir": "del-cli webroot",
+    "start": "npm run build && concurrently --kill-others \"npm run start-server\" \"npm run watch\"",
+    "start-server": "http-server ./webroot -p 5309 -o -c-1",
+    "watch": "npm run watchcss & npm run watchhtml & npm run watchjs",
+    "watchcss": "nodemon --watch src/scss -e scss -x \"npm run buildcss\"",
+    "watchhtml": "nodemon --watch src -e njk -x \"npm run buildhtml\"",
+    "watchjs": "nodemon --watch src/js -e js -x \"npm run buildjs\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "concurrently": "^7.0.0",
+    "cpy-cli": "^3.1.1",
+    "del-cli": "^4.0.1",
+    "html-minifier": "^4.0.0",
+    "http-server": "^14.1.0",
+    "imagemin-cli": "^7.0.0",
+    "make-dir-cli": "^3.0.0",
+    "move-file-cli": "^3.0.0",
+    "node-sass": "^6.0.1",
+    "nodemon": "^2.0.14",
+    "normalize.css": "^8.0.1",
+    "terser": "^5.10.0"
+  }
+}
