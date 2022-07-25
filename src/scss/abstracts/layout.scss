@@ -5,6 +5,8 @@
 }
 
 body {
+    background: $blue;
+    padding-left: 70px;
     position: relative;
 }
 
@@ -14,22 +16,12 @@ main {
 }
 
 main {
+    color: $white;
     position: relative;
 }
 
-.stripe {
-    background: #333;
-    height: 100vh;
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 2rem;
-}
-
 .container {
-    background-color: $white;
-    width: 100%;
-    height: 100%;
+    width: calc(100% - 30px);
     margin-right: auto;
     margin-left: auto;
     max-width: 768px;
@@ -38,10 +30,14 @@ main {
         width: 100%;
         max-width: none;
     }
+
+    @include desktop {
+        width: 100%;
+    }
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: inherit;
 }
 

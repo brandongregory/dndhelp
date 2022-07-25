@@ -15,7 +15,7 @@
     "start-server": "http-server ./webroot -p 5309 -o -c-1",
     "watch": "npm run watchcss & npm run watchhtml & npm run watchjs",
     "watchcss": "nodemon --watch src/scss -e scss -x \"npm run buildcss\"",
-    "watchhtml": "nodemon --watch src -e njk -x \"npm run buildhtml\"",
+    "watchhtml": "nodemon --watch src -e njk,md -x \"npm run buildhtml\"",
     "watchjs": "nodemon --watch src/js -e js -x \"npm run buildjs\""
   },
   "keywords": [],

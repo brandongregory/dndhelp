@@ -1,0 +1,20 @@
+---
+layout: layout.njk
+meta_title: "5e Character Creation"
+meta_description: 
+page_name: home
+section_name: home
+---
+
+<div id="breadcrumbs"></div>
+
+1. [Home](/)
+2. Character Creation
+
+# DnD 5e Character Creation
+
+Want to know how to build the perfect archer? Need some info on what general roles your character can play or what each class does? Check out these articles.
+
+* [Class Playstyles in DnD 5e](/5e-character-creation/class-playstyles/) &ndash; General overviews on what each class does and how it plays, along with examples from pop culture
+* [Mental Stats Compared in DnD 5e](/5e-character-creation/mental-stats-compared/) &ndash; A comparison of Intelligence, Wisdom, and Charisma—what they mean for your character and roleplay
+* [Party Roles in DnD 5e](/5e-character-creation/party-roles/) &ndash; General advice on roles or niches that generally can be filled by DnD characters

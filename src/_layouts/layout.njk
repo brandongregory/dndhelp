@@ -10,12 +10,28 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/1e02ee533a.js" crossorigin="anonymous"></script>
 </head>
-<body class="container {{ body_class }}">
-    <div class="stripe"></div>
+<body class="{{ body_class }}">
+    <div class="navbar">
+        <button class="navbar-toggle closed">
+            <span class="navbar-open"><i class="fa-solid fa-bars"></i></span>
+            <span class="navbar-closed"><i class="fa-solid fa-xmark"></i></span>
+        </button>
+    </div>
+    <nav class="navigation closed">
+        <p class="navigation-title"><i class="fa-solid fa-ellipsis-vertical"></i>&nbsp;Navigation</p>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/5e-character-creation/">5e Character Creation</a></li>
+            <li><a href="/5e-build-guides/">5e Build Guides</a></li>
+            <li><a href="/about/">About</a></li>
+        </ul>
+    </nav>
     <!-- HEADER COMPONENT -->
-    <header class="header">
-
+    <header>
+        <div class="logo"><a href="/"><i class="fa-solid fa-dice-d6"></i> Manic Tabletop</a></div>
+        <div class="tagline">Tabletop RPG advice in the common language</div>
     </header>
 
     <!-- PAGE CONTENT -->
@@ -24,9 +40,11 @@
     </main>
 
     <!-- FOOTER COMPONENT-->
-    <footer class="footer">
-
+    <footer class="footer container">
+        <p>All writing by <a href="http://brandongregorycreative.com">Brandon Gregory</a>.</p>
+        <p>[Title of your Fan Content] is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. &copy;Wizards of the Coast LLC.</p>
     </footer>
 </body>
 <script>const page_name = "{{ page_name }}"</script>
+<script src="/js/custom.min.js"></script>
 </html>
