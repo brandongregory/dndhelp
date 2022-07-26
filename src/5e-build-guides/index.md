@@ -15,4 +15,4 @@ section_name: home
 
 Want to know how to build the perfect archer? Check out these articles.
 
-* [Archer Builds in DnD 5e](/5e-build-guides/archer-builds/) &ndash; 10 notable archer builds in DnD 5e
+* [Archer Builds in DnD 5e](/5e-build-guides/archer-builds/) &ndash; Subclasses and feats for great archer builds in DnD 5e

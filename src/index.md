@@ -7,7 +7,7 @@ page_name: home
 section_name: home
 ---
 
-# DnD Help
+# Kobold Think Tank: Tabletop RPG Advice for Little Dragons
 
 Welcome to my website. A full intro will go here. Filler text here...
 

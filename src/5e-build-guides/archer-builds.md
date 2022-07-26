@@ -72,19 +72,25 @@ With Monks being so stat-dependent, you're pretty much locked into choosing a ra
 
 Rangers are the iconic archers, and Gloom Stalkers are a great archetype for it. Striking from the shadows and specializing in surprise attacks, Gloom Stalkers pack a powerful punch in the first round of combat, and are essentially invisible in darkness. More than any other class, Gloom Stalkers are _significantly_ more powerful in the dark. Couple this with some Ranger magic and tracking skills and you have a dangerous archer.
 
-As an archer Ranger, Dexterity will be your highest stat. Rangers typically have a high Wisdom score, and that's doubly important for Gloomstalkers. For most Rangers, Wisdom is used for the few spells they have that force a saving throw, but Gloomstalkers also get a bonus to initiative based on their Wisdom, and a lot of their power comes in the first round of combat, so getting the jump on enemies is important. With the Gloomstalker's affinity for darkness, it really helps to pick a race with darkvision. With all of those needs, wood elves make fantastic Gloomstalkers, but other races can work as well.
+As an archer Ranger, Dexterity will be your highest stat. Rangers typically have a high Wisdom score, and that's doubly important for Gloom Stalkers. For most Rangers, Wisdom is used for the few spells they have that force a saving throw, but Gloom Stalkers also get a bonus to initiative based on their Wisdom, and a lot of their power comes in the first round of combat, so getting the jump on enemies is important. With the Gloom Stalker's affinity for darkness, it really helps to pick a race with darkvision. With all of those needs, wood elves make fantastic Gloom Stalkers, but other races can work as well.
 
 ### Ranger – Hunter
 
-Hunters are probably the simplest Ranger subclass with most of their abilities either allowing you to do more damage or take less. If you want a simple, unpretentious archer that does good damage to either single targets or groups, this might be a good fit. Ranger magic still gives some battlefield control and utility options, so they’re more than point-and-shoot archers. Rangers typically have a high Wisdom in addition to Dexterity.
+Hunters are probably the simplest Ranger subclass, with most of their abilities either allowing you to do more damage or take less. Compared to other Ranger archetypes, they get fewer spells, but more damage and defense capabilities. It really captures the feel of a rugged, badass hunter stalking its prey through the woods. If you want a simple, unpretentious archer that does good damage to either single targets or groups, this might be a good fit. Ranger magic still gives some battlefield control and utility options, so they’re more than point-and-shoot archers.
+
+A lot of what makes a good Gloom Stalker applies here too. Dexterity will be your highest stat. If you want to make use of some of the Ranger's control spells, a higher Wisdom score is nice, but you can build a perfectly viable Ranger with a lower Wisdom by focusing on spells that don't require a saving throw. Constitution is always important. Just about any race can make a good Hunter, but races that get a bonus to Dexterity are top picks.
 
 ### Rogue – Assassin
 
-Rogues use Sneak Attack to boost their damage. Rather than getting a ton of shots in like a Fighter, Rogues get one shot per turn, but it’s devastating. Stealth is important for many classes, but it’s absolutely essential for Rogues. Assassins play into this even more by giving significant bonuses to surprise attacks. If the idea of waiting in the shadows and taking down a group of enemies one by one without any of them catching on appeals to you, this might be the class for it. They’re the ultimate sniper class, getting as close to one-shot kills as a character in D&D can get. On the downside, they don’t have a lot of abilities that help with combat after the first round, so proceed with caution. Assassins don’t have any particular affinity for any of the mental stats.
+Rogues use Sneak Attack to boost their damage. Rather than getting a ton of shots in like a Fighter, Rogues get one shot per turn, but it’s devastating. Stealth is important for many classes, but it’s absolutely essential for Rogues. Assassins play into this even more by giving significant bonuses to surprise attacks. If the idea of waiting in the shadows and taking down a group of enemies one by one without any of them catching on appeals to you, this might be the class for it. They’re the ultimate sniper class, getting as close to one-shot kills as a character in D&D can get. On the downside, they don’t have a lot of abilities that help with combat _after_ the first round, so proceed with caution.
+
+Dexterity is important for Rogues and should be your highest stat. Past that, Assassins don’t have any particular affinity for any of the mental stats, so it's really up to you which to boost. You can go for a calculating tactician with high Intelligence, a patient and observant stalker with high Wisdom, or a deceptive infiltrator with high Charisma. Constitution is important, but Rogues should stay out of sight, and Assassins doubly so, so your main goal is not to get into melee at all. Any race that gets a boost to Dexterity will be good, but with only one stat really required, any race can make a good Assassin. Darkvision can be very useful.
 
 ### Rogue – Scout
 
-Like other Rogues, Scouts focus on single powerful shots and staying out of danger, but the Scout subclass gives some additional tools to accomplish that. Scouts eventually get the ability to boost Sneak Attack with two attacks per turn, which gives them some pretty extreme damage if both sneak attacks land. To stay out of danger, they get a disengage ability to leap back if they get caught in melee as well as increased movement speed. They also gain expertise in the nature-themed skills: Nature and Survival. Scouts don’t necessarily need any mental stat above others, but Wisdom is a good fit with their bonus skills.
+Like other Rogues, Scouts focus on single powerful shots and staying out of danger, but the Scout subclass gives some additional tools to accomplish that. Scouts eventually get the ability to boost Sneak Attack with two attacks per turn, which gives them some pretty extreme damage if both sneak attacks land. To stay out of danger, they get a disengage ability to leap back if they get caught in melee as well as increased movement speed. They also gain expertise in the nature-themed skills: Nature and Survival.
+
+As a Rogue, Dexterity should be your highest stat. Scouts don’t necessarily need any mental stat above others, but Wisdom is a good fit for Perception and Survival. Scout is a subclass that just thematically screams Elf, but any race with a bonus to Dexterity will be good—and, really, any race can work here. Harengon isn't a great choice, though, because of the overlap in racial abilities and class abilities.
 
 ### Honorable Mentions
 
@@ -102,4 +108,36 @@ If you want the ability to shoot things from afar and are open to some builds th
 
 ### Sharpshooter
 
-The number 1 feat for high-damage archers is Sharpshooter.
+The number 1 feat for high-damage archers is Sharpshooter. This feat allows you to take a -5 to your attack role for a +10 to bonus. The catch is that you don't have to decide whether to use this feature until after you roll (but before you know if it hits). It also greatly increases the range of ranged weapons like bows. If your attack rolls are generally high or you have a reliable way of getting advantage on attacks, you can get some truly wild damage with this feat.
+
+### Crossbow Expert
+
+Crossbow Expert removes the reloading property of crossbows, allowing you to fire more than once per turn, and removes the penalty for shooting an enemy within 5 feet of you. Most importantly, though, it allows you to fire a hand crossbow as a bonus action. Hand crossbows aren't particularly damaging weapons, only having a d4 damage die. So why choose this feat? If you have Sharpshooter, you can add +10 to that one bonus attack. On top of all that, hand crossbows are one-handed weapons, so you can use a shield. The Sharpshooter/Crossbow Expert combination has a reputation for being a bit of a cheap move, but it is undeniably powerful.
+
+### Fighting Initiate
+
+If you don't already have the Archery fighting style, get the Archery fighting style.
+
+### Skulker
+
+A good feat for sneaky archers, like the Rogue Assassin. This allows you to hide when lightly obscured. Lightly obscured can mean anything from dim light (like a shadow) to snow or rain, so it greatly expands your opportunities for hiding. Additionally, if you fire a shot and miss, the enemy knows something is out there, but it doesn't give away your location. Lastly, dim light doesn't impose disadvantage on your Perception checks. Remember that, even if you have darkvision, darkness is still dim light and imposes disadvantage on Perception checks. These are all things that will make life easier for sneaky archers; however, bear in mind that Wood Elves already get some of these features.
+
+### Magic Initiate: Wizard
+
+Cantrips are always useful, but the real use of this feat is getting access to the Find Familiar spell. Choosing an owl familiar provides a reliable way to get advantage on attacks. Owls have a feature called flyby, where they can fly away from an opponent without provoking opportunity attacks. So you can get your owl familiar to fly up and harass an enemy (technically, taking the Help action), giving you advantage on your next attack.
+
+### Fey Touched
+
+Misty Step is a useful spell for any archer, but getting access to the Hex spell can really boost your damage. It's a concentration spell, but as a ranged character, you won't have much trouble keeping your concentration. This becomes more deadly as a character gets more attacks, so its much more useful for a Fighter than a Rogue.
+
+### Mobile
+
+Extra movement can be very useful, as your range is likely to be greater than most of the opponents you face, but the real benefit of this feat is that hitting an opponent with a melee attack prevents them from making opportunity attacks against you, allowing you to disengage from as many enemies as you have attacks without giving up damage that turn.
+
+### Elven Accuracy
+
+When you get advantage on an attack, roll three dice instead of two and take the highest. If you have a reliable way of getting advantage on attacks, this can greatly increase your accuracy. Pairs very well with Sharpshooter to offset the opportunity cost of taking a penalty to attack rolls. Note that you have to be an elf.
+
+### Poisoner
+
+Often overlooked, but it's basically free damage if you're not using your bonus action. Bear in mind that a good number of enemies are immune to poison damage, but there are still a lot that will be affected.
