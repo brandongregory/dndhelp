@@ -6,7 +6,6 @@
 
 body {
     background: $red;
-    padding-left: 70px;
     position: relative;
 }
 
@@ -21,7 +20,7 @@ main {
 }
 
 .container {
-    width: calc(100% - 30px);
+    width: calc(100% - 60px);
     margin-right: auto;
     margin-left: auto;
     max-width: 768px;

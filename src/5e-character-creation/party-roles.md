@@ -16,13 +16,14 @@ section_name: home
 
 This is not official by any means, but here are common roles party members can fill. When thinking of the character you want to build, try to make sure you can adequately fill one battle role and one exploration role. For instance, a Rogue is a good striker and infiltrator, easily falling into those two categories. Fighter abilities lean much more toward combat, but Fighters have some flexibility with their builds, allowing you to allocate stats and pick feats to fill an exploration role.
 
-**Contents**
+<div markdown="1" class="contents">
+<strong>Contents</strong>
 
 1. [Battle Roles](#BattleRoles)
     1. [Blaster](#BattleRoles-Blaster)
     2. [Controller](#BattleRoles-Controller)
     3. [Striker](#BattleRoles-Striker)
-    4. [Support](#BattleRoles-Tank)
+    4. [Support](#BattleRoles-Support)
     5. [Tank](#BattleRoles-Tank)
 2. [Exploration Roles](#ExplorationRoles)
     1. [Face](#ExplorationRoles-Face)
@@ -30,6 +31,7 @@ This is not official by any means, but here are common roles party members can f
     3. [Knowledge](#ExplorationRoles-Knowledge)
     4. [Scout](#ExplorationRoles-Scout)
     5. [Utility](#ExplorationRoles-Utility)
+</div>
 
 ## <a name="BattleRoles"></a>Battle Roles
 

@@ -18,7 +18,8 @@ If you're newer to DnD, or just haven't played some of the classes, you may be w
 
 This page is meant to give a basic overview on what each class does and how it plays. It's not a perfect guide, because some of the classes can be very diverse; however, this should give you a good general idea of how the classes are different and which might be best for you.
 
-**Contents**
+<div class="contents" markdown="1">
+<strong>Contents</strong>
 
 1. [Artificer](#Artificer)
 2. [Barbarian](#Barbarian)
@@ -33,6 +34,7 @@ This page is meant to give a basic overview on what each class does and how it p
 11. [Sorcerer](#Sorcerer)
 12. [Warlock](#Warlock)
 13. [Wizard](#Wizard)
+</div>
 
 ## <a name="Artificer"></a>Artificer
 

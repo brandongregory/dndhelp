@@ -1,0 +1,16 @@
+.contents {
+    background: $darkred;
+    display: inline-block;
+    font-size: .875rem;
+    padding: 15px;
+
+    strong {
+        display: block;
+        margin-bottom: 15px;
+    }
+
+    ol {
+        margin: 0;
+        padding-left: 30px;
+    }
+}

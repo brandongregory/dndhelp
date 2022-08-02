@@ -1,7 +1,7 @@
 header {
     background: $darkred;
     color: $white;
-    display: flex;
+    display: none;
     flex-direction: column;
     justify-content: space-between;
     height: 70px;
@@ -9,10 +9,14 @@ header {
     padding: 8px 15px;
 
     .logo {
+        background-image: url('/images/kobold-logo.png');
+        background-repeat: no-repeat;
+        background-size: 30px 30px;
         font-family: "Roboto Condensed", sans-serif;
         font-size: 24px;
         font-weight: bold;
         line-height: 30px;
+        padding-left: 45px;
 
         a {
             text-decoration: none;
@@ -25,6 +29,7 @@ header {
     }
 
     @include tabletUp {
+        display: flex;
         flex-direction: row;
         padding: 20px 30px;
     }

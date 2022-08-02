@@ -4,23 +4,28 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ meta_title }}</title>
+    <title>{{ meta_title }} | Kobold Think Tank</title>
     <meta name="description" content="{{ meta_description }}">
     <link rel="stylesheet" href="/css/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/1e02ee533a.js" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F676RNX958"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-F676RNX958');</script>
 </head>
 <body class="{{ body_class }}">
     <div class="navbar">
         <button class="navbar-toggle closed">
-            <span class="navbar-open"><i class="fa-solid fa-bars"></i></span>
-            <span class="navbar-closed"><i class="fa-solid fa-xmark"></i></span>
+            <span class="navbar-open"></span>
+            <span class="navbar-closed"></span>
         </button>
+        <div class="mobileTitle">Kobold Think Tank</div>
+        <a href="/" class="home-link"></a>
     </div>
     <nav class="navigation closed">
-        <p class="navigation-title"><i class="fa-solid fa-ellipsis-vertical"></i>&nbsp;Navigation</p>
+        <p class="navigation-title"><span class="navigation-icon"></span>Navigation</p>
         <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/5e-character-creation/">5e Character Creation</a></li>

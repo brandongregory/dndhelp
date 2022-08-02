@@ -16,3 +16,4 @@ section_name: home
 Want to know how to build the perfect archer? Check out these articles.
 
 * [Archer Builds in DnD 5e](/5e-build-guides/archer-builds/) &ndash; Subclasses and feats for great archer builds in DnD 5e
+* [Tank Builds in DnD 5e](/5e-build-guides/tank-builds/) &ndash; Subclasses, feats, and magic items for strong tank builds in DnD 5e

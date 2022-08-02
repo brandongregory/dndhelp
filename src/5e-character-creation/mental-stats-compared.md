@@ -16,7 +16,17 @@ section_name: home
 
 Dungeons and Dragons 5e gives you 3 mental stats: Intelligence, Wisdom, and Charisma. Picking which one of these you want to invest in can have a lot of impact on your character, not only in the skills they’re good at, but also from a roleplaying perspective.
 
-## Intelligence
+<div class="contents" markdown="1">
+<strong>Contents</strong>
+
+1. [Intelligence](#Intelligence)
+2. [Wisdom](#Wisdom)
+3. [Charisma](#Charisma)
+4. [Do Stats Limit What My Character Can Do?](#Do-Stats-Limit)
+5. [Are Any of These Better Than the Others?](#Are-Any-Better)
+</div>
+
+## <a name="Intelligence"></a>Intelligence
 
 Intelligence is the classic “book smarts.” Anyone can be educated, but an intelligent character will remember things years or decades later and be able to logically put things together much more efficiently than other characters. It’s a required stat for scholars, but tacticians and military commanders, as well as investigator types, also have high intelligence.
 
@@ -44,7 +54,7 @@ High-intelligence characters in pop culture include:
 * Tony Stark/Iron Man from the Marvel movies
 * Gandalf from Lord of the Rings
 
-## Wisdom
+## <a name="Wisdom"></a>Wisdom
 
 Wisdom is more of a “street smarts,” compared to Intelligence, and most often measures intuition and awareness. This includes general awareness of surroundings, awareness of how other people are acting and reacting, awareness of a patient’s health, and self-awareness. Characters that spend a lot of time in self reflection are usually high-wisdom characters, but rugged outdoors types and streetwise rogues or ruffians often have a high wisdom stat as well.
 
@@ -72,7 +82,7 @@ High-wisdom characters from pop culture include:
 * Toph Beifong from Avatar: The Last Airbender
 * Wolverine from the X-Men franchise
 
-## Charisma
+## <a name="Charisma"></a>Charisma
 
 Charisma can best be described as a force of personality and an ability to convince other people to do things. It’s often thought of as likeability, but that’s not necessarily true. Charismatic characters run the gamut from cunning and manipulative to charming and inspirational, and when they talk, people listen.
 
@@ -101,12 +111,12 @@ High-charisma characters from pop culture include:
 * Olivier Armstrong from Full Metal Alchemist: Brotherhood
 * Star Lord from Guardians of the Galaxy
 
-## Do Stats Limit What My Character Can Do?
+## <a name="Do-Stats-Limit"></a>Do Stats Limit What My Character Can Do?
 
 Not necessarily. If you have a good plan as a player, a low-intelligence character shouldn’t be banned from talking about it (unless you want to). The random nature of rolls also means that a low-charisma character might roll higher than the bard on a persuasion check.
 
 Low stats can be fun to roleplay, though. When creating Sha’Ivae, I intentionally gave him a really low charisma score (6), and it’s been fun roleplaying his hilariously incompetent attempts at persuasion. I highly suggest anyone, when creating a character, give thought not only to what they’re good at, but also to what they’re really bad at. Those moments can be very memorable.
 
-## Are Any of These Better Than Others?
+## <a name="Are-Any-Better"></a>Are Any of These Better Than Others?
 
 From a roleplaying perspective, no—each has a good place in the game and can make for a fun character. Think about what you want to focus on as a player and go with that, if your class allows some flexibility in build requirements. From a mechanical perspective, Wisdom skills are used slightly more frequently than Intelligence skills, although that’s not a reason to avoid one over the other. If you like jumping into conversations, Charisma can be very useful.
