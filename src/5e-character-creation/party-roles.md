@@ -153,6 +153,8 @@ To be an effective tank, you need some way of getting enemies to focus on you. T
 
 Barbarians are excellent tanks, with Paladins and Fighters following closely behind, although many other classes can be built to take hits. Circle of the Moon Druids can wildshape into tanky animals, and Rangers and Monks can be built defensively. The Armorer Artificer can also be a great tank.
 
+If you're looking for a little more detail, read my article on [Tank Builds in DnD 5e](/5e-build-guides/tank-builds/).
+
 **Workarounds**
 
 Giving a frontline character magic items like the Staff of Defense or Ring of Spell Storing that enable them to cast defensive magic can help make a non-Tank frontline character, like a Monk, into a passable tank.
