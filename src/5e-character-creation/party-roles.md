@@ -105,6 +105,8 @@ Good control spells include:
 
 Bard, Druids, Warlocks, and Wizards top the list, gaining many control spells. Monks and Paladins (especially the Oath of Redemption subclass) gain some good control options as well, but are generally unable to handle as many targets as spellcasters.
 
+For some more detailed build information, check out my article on [Control Casters in DnD 5e](/5e-build-guides/control-caster-builds/).
+
 **Workarounds**
 
 Some magic items, like Wand of Web, give access to some control spells. Also, any character with a good Athletics score and grapple opponents and provide some control options in a pinch.
