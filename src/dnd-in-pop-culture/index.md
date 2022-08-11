@@ -15,5 +15,6 @@ section_name: home
 
 Curious about how your favorite Marvel characters or video game heroes would translate to DnD? There aren't always perfect fits mechanically, but these comparisons get close. These can be great for learning how each class and subclass works, or might just be fun to research.
 
-* [Dragon Age Characters in DnD](/dnd-in-pop-culture/dragon-age-in-dnd/) &ndash; There are plenty of similarities, so see how your favorite Dragon Age characters would be created in Dungeons and Dragons
-* [Final Fantasy Characters in DnD](/dnd-in-pop-culture/final-fantasy-in-dnd/) &ndash; Final Fantasy games include a wide assortment of characters, many of which line up nicely with DnD classes
+* [Dragon Age Characters in DnD](/dnd-in-pop-culture/dragon-age-in-dnd/)
+* [Final Fantasy Characters in DnD](/dnd-in-pop-culture/final-fantasy-in-dnd/)
+* [One Piece Characters in DnD](/dnd-in-pop-culture/one-piece-in-dnd/)

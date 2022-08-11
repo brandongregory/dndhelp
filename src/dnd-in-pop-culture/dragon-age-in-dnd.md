@@ -37,9 +37,11 @@ Dragon Age is already fairly similar to DnD, so some of the comparisons were eas
 |Oghren   |Barbarian|Path of the Battlerager|
 |Sebastian|Cleric   |Domain of War          |
 |Sera     |Fighter  |Arcane Archer          |
+|Sigrun   |Barbarian|Path of the Totem Warrior|
 |Solas    |Druid    |Circle of Dreams       |
 |Tallis   |Rogue    |Soulknife              |
 |Varric   |Ranger   |Fey Wanderer           |
+|Velana   |Druid    |Circle of the Land     |
 |Vivienne |Fighter  |Eldritch Knight        |
 |Wynne    |Cleric   |Life Domain            |
 |Zevran   |Ranger   |Gloomstalker           |

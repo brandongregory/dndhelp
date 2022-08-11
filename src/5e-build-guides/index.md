@@ -17,5 +17,6 @@ Want to know how to build the perfect archer? Check out these articles.
 
 * [Archer Builds in DnD 5e](/5e-build-guides/archer-builds/) &ndash; Subclasses and feats for great archer builds in DnD 5e
 * [Control Casters in DnD 5e](/5e-build-guides/control-caster-builds/) &ndash; A breakdown of spells, classes, and feats for controller casters
+* [Ultimate Dart Thrower Builds in DnD 5e](/5e-build-guides/dart-thrower-builds/) &ndash; The ultimate guide to DnD characters who use darts as their primary weapons
 * [Spear and Quarterstaff Builds in 5e](/5e-build-guides/spear-and-quarterstaff-builds/) &ndash; Considerations, feats, and tips for building a martial character who uses a spear or quarterstaff as their main weapon
 * [Tank Builds in DnD 5e](/5e-build-guides/tank-builds/) &ndash; Subclasses, feats, and magic items for strong tank builds in DnD 5e
