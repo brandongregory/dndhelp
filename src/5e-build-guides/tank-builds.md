@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-meta_title: "Archer Builds in DnD 5e"
+meta_title: "Tank Builds in DnD 5e"
 meta_description: 
 page_name: home
 section_name: home
