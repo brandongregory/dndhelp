@@ -3,7 +3,6 @@ const navigation = document.querySelector(".navigation");
 
 navbarToggle.addEventListener("click", function(clickEvent) {
     clickEvent.preventDefault();
-    console.log("clicked");
     if (navbarToggle.classList.contains("open")) {
         navbarToggle.classList.remove("open");
         navbarToggle.classList.add("closed");
@@ -16,5 +15,3 @@ navbarToggle.addEventListener("click", function(clickEvent) {
         navigation.classList.add("open");
     }
 });
-
-console.log("loaded");
