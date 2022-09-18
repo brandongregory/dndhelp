@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 meta_title: "5e Character Creation"
-meta_description: 
+meta_description: "Basic tips and clarifications for character creation in DnD 5e"
 page_name: home
 section_name: home
 ---

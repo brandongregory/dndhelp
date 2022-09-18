@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 meta_title: "Tank Builds in DnD 5e"
-meta_description: 
+meta_description: "Unlike video games, tanking is deceptively difficult in DnD. Here are some builds for the most effective tanks."
 page_name: home
 section_name: home
 ---

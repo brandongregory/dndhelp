@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 meta_title: "Ultimate Dart Thrower Builds in DnD 5e"
-meta_description: 
+meta_description: "Are dart builds viable in 5e? Surprisingly, yes! Here's a bit of background info and build suggestions for dart throwers in DnD."
 page_name: home
 section_name: home
 ---

@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 meta_title: "Class Playstyles in DnD 5e"
-meta_description: 
+meta_description: "A basic overview of each DnD class, what makes it shine, and how it contributes to the party, with pop culture examples."
 page_name: home
 section_name: home
 ---

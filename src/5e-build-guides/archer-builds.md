@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 meta_title: "Archer Builds in DnD 5e"
-meta_description: 
+meta_description: "Anyone can hold a bow, but few really shine. Picking the right class, subclass, feats, and magic items can make your archer powerful and fun to play."
 page_name: home
 section_name: home
 ---

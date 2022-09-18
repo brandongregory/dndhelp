@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 meta_title: "Party Roles in DnD 5e"
-meta_description: 
+meta_description: "Light armor, medium armor, or heavy armor? This can be confusing, but the mechanics provide some clear advantages for each. Here's a primer."
 page_name: home
 section_name: home
 ---

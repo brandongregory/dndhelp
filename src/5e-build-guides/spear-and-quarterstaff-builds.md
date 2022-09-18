@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 meta_title: "Spear and Quarterstaff Builds in DnD 5e"
-meta_description: 
+meta_description: "Whether it's done for mechanics or flavor, quarterstaff and spear builds can be tricky in DnD. Here are some considerations and tips for building the best."
 page_name: home
 section_name: home
 ---

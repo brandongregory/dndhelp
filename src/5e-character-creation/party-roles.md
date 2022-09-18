@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 meta_title: "Party Roles in DnD 5e"
-meta_description: 
+meta_description: "Thinking about what type of DnD character to play can seem intimidating. Here are some basic combat and exploration roles your character can be built for."
 page_name: home
 section_name: home
 ---

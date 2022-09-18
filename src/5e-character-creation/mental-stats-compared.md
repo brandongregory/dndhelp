@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 meta_title: "Mental Stats Compared in DnD 5e"
-meta_description: 
+meta_description: "What's the difference between Intelligence and Wisdom? Can low-Charisma characters be likeable? Here's a quick comparison of the three mental stats."
 page_name: home
 section_name: home
 ---

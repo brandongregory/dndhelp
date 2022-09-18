@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 meta_title: "Mental Stats Compared in DnD 5e"
-meta_description: 
+meta_description: "Choosing between strength and dexterity in DnD can be tricky. Here's a quick guide on the pros and cons of each, along with how each class handles it."
 page_name: home
 section_name: home
 ---
