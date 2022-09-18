@@ -72,6 +72,8 @@ Other good blasting spells include:
 
 Cleric, Sorcerer, Wizard top the list, all of which can make excellent Blasters. Druids and Warlocks can be built to be Blasters, but don't have as many options as the top-tier Blasters. Past that, a few odd subclasses, like the Artillerist Artificer, get some blasting spells, but bear in mind that half-casters get spells much later in the game than full casters. That coveted Fireball spell may be a bit underwhelming if you're getting it at level 9 rather than level 5.
 
+For some more detailed build information, check out my article on [Blaster Casters in DnD 5e](/5e-build-guides/blaster-caster-builds/).
+
 **Workarounds**
 
 There are a variety of magic items that give access to one blasting spell, which can give just about any character some blasting potential. Your Ranger may excel at taking down single targets, but give them a Wand of Fireballs and their versatility just went up quite a bit.
