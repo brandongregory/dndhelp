@@ -53,6 +53,7 @@ High-intelligence characters in pop culture include:
 * Tali’Zorah from Mass Effect
 * Tony Stark/Iron Man from the Marvel movies
 * Gandalf from Lord of the Rings
+* Willow from Buffy the Vampire Slayer
 
 ## <a name="Wisdom"></a>Wisdom
 
@@ -74,6 +75,7 @@ Classes likely to have a high wisdom stat include:
 
 High-wisdom characters from pop culture include:
 
+* Buffy from Buffy the Vampire Slayer
 * Daryl Dixon from The Walking Dead
 * Garrus Vakarian from Mass Effect
 * Hawkeye from the Marvel movies
@@ -110,6 +112,7 @@ High-charisma characters from pop culture include:
 * Leliana from Dragon Age
 * Olivier Armstrong from Full Metal Alchemist: Brotherhood
 * Star Lord from Guardians of the Galaxy
+* Xander from Buffy the Vampire Slayer
 
 ## <a name="Do-Stats-Limit"></a>Do Stats Limit What My Character Can Do?
 

@@ -1,3 +1,4 @@
+const body = document.querySelector("body");
 const navbarToggle = document.querySelector(".navbar-toggle");
 const navigation = document.querySelector(".navigation");
 
