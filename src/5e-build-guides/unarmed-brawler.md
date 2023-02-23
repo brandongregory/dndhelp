@@ -83,7 +83,7 @@ Harnessing primal magic from giants, the Rune Knight grants a toolkit of abiliti
 
 ### Eldritch Knight
 
-The Eldritch Knight subclass grants a few simple spells to Fighters. Defensive spells like Absorb Elements and Shield will be your bread and butter, and can help any Fighter build be a defensive powerhouse. Eldritch Knights get an ability to summon their chosen weapon to them if they’re ever separated, which will usually be wasted on an unarmed character, but most of the other abilities will be of some use. The Eldritch Knight is great for more defensive builds, but adding some magic to your Fighter might be great flavor as well.
+The Eldritch Knight subclass grants a few simple spells to Fighters. Defensive spells like Absorb Elements and Shield will be your bread and butter, and can help any Fighter build be a defensive powerhouse. Eldritch Knights get an ability to summon their chosen weapon to them if they’re ever separated, which may be wasted on an unarmed character (pro-tip: bond to a net!), but most of the other abilities will be of some use. The Eldritch Knight is great for more defensive builds, but adding some magic to your Fighter might be great flavor as well.
 
 ## <a name="feats-for-unarmed-fighters"></a>Feats for Unarmed Fighters
 
@@ -113,7 +113,7 @@ Without a shield, lower AC might get you pretty beat up. With the Fighting Initi
 
 Mentioned above, but without homebrewing, these two items are the only way for an unarmed Fighter to get magic damage with their attacks.
 
-### Belt of [x] Giant Strength
+### Belt of [Frost, Stone, Fire, Cloud, Storm] Giant Strength
 
 With Strength being your most important stat, the ability to go over 20 is a huge benefit. It’s also the closest you’re going to get to a +[x] weapon without homebrewing.
 

@@ -80,7 +80,7 @@ Difficulty: ★★★★★
 
 Fighters are trained killers, having mastered multiple weapons and relying on their expert training when enemies face them. They can be built equally well with either strength or dexterity, and make great front-line characters or powerful archers. Their class features are almost entirely combat-based, so you won’t get much out of the class for out-of-combat challenges. More than any other class, though, Fighters are a blank slate, and any type of character you want can be a Fighter—if you want to be a standard knight, that works, but a Japanese-inspired swordsman or a Native American-style warrior can work just as well.
 
-Example: [The Mountain and the Viper from Game of Thrones](https://www.youtube.com/watch?v=g3jhRxnNUNw) - Great example of both a dexterity-based and strength-based Fighter
+Example: [Hector vs. Achilles from Troy](https://www.youtube.com/watch?v=NQ62frK74u0)
 
 Difficulty: ★☆☆☆☆
 
@@ -112,7 +112,7 @@ Difficulty: ★★☆☆☆
 
 Rogues are experts in stealth and subterfuge, often preferring to strike a vulnerable opponent than to take one head-on. Most of their damage comes from sneak attack, so rather than getting a bunch of attacks like a Fighter, they get one big attack per turn. They can get in trouble if a strong opponent focuses on them, but they have multiple abilities to either get themselves out of trouble or avoid damage. Out of combat, they have excellent stealth skills that can make them capable scouts or infiltrators, and they get more skill proficiencies than anyone except Bards, so they end up being good at doing a lot of things.
 
-Example: [Arya Stark from Game of Thrones](https://www.youtube.com/watch?v=_e_rT5aotbQ)
+Example: [Wasp in Ant Man and the Wasp](https://www.youtube.com/watch?v=uvYtcQ5dNss)
 
 Difficulty: ★★☆☆☆
 
