@@ -56,7 +56,7 @@ Difficulty: ★★☆☆☆
 
 Bards are the quintessential jacks of all trades and are able to fill a wide variety of roles, reminiscent of the old red mages of Final Fantasy games. They’re full casters and get good support and control options, but they can wear light armor and fight with weapons when needed. They get a lot of skill proficiencies and can fill any gaps in the party’s array of skills. Bards also have a lot of options for making the entire party stronger, making any ally more effective at what they do. As high-charisma characters, bards are notoriously strong social characters and natural performers.
 
-Example: [Soul King Brook from One Piece](https://www.youtube.com/watch?v=YG0K4k9292s)
+Example: [Soul King Brook from One Piece](https://www.youtube.com/watch?v=isAb1S_yA74)
 
 Difficulty: ★★★★☆
 
@@ -64,7 +64,7 @@ Difficulty: ★★★★☆
 
 Clerics are full casters who wear armor, making them much more durable than most other spellcasters, and they actually do quite well on the front lines of combat. They have the best support magic, but a wide variety of subclasses allows them to serve just about any role on the battlefield, from ranged blaster to frontline warrior to trickster illusionist and even mind reader. They can also absolutely destroy undead monsters, which is nice flavor which comes in handy from time to time. Clerics gain their powers from a god, and there are a wide variety of gods to choose from, making many different character concepts possible.
 
-Example: [Pike Trickfoot from The Legend of Vox Machina](https://www.youtube.com/watch?v=mAJf5SzA5TI)
+Example: [Pike Trickfoot from The Legend of Vox Machina](https://youtu.be/oeRxeWIOjAI?t=120)
 
 Difficulty: ★★★☆☆
 
@@ -72,7 +72,7 @@ Difficulty: ★★★☆☆
 
 Druids are nature-based spellcasters who get a lot of great support and control spell options, and some good attack spells. They can transform into various animals—typically weaker animals that are used more for utility, like turning into a hawk to scout ahead, but there is one subclass that can turn into more powerful animals for combat. Most druids will stay far away from the front lines, choosing instead to hinder enemies, support their allies, or use their magic and animal transformations for out of combat challenges.
 
-Examples: [Poison Ivy from Batman](https://www.youtube.com/watch?v=MNGR6UN06qw) and [Beast Boy from Teen Titans](https://www.youtube.com/watch?v=A6kzB9qkoHA)
+Examples: [Layla from Sky High](https://www.youtube.com/watch?v=MPmFZKrZ-mU) and [Beast Boy from Teen Titans](https://www.youtube.com/watch?v=A6kzB9qkoHA)
 
 Difficulty: ★★★★★
 

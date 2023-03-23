@@ -25,3 +25,15 @@ Final Fantasy IV was a classic that drew me into the Final Fantasy world for the
 * [Rosa Joanna Farrell](/dnd-in-pop-culture/final-fantasy/ff4-rosa/)
 * [Yang Fang Leiden](/dnd-in-pop-culture/final-fantasy/ff4-yang/)
 
+## Final Fantasy VI
+
+Final Fantasy VI, originally released in the US as Final Fantasy III, broke the mold with the esper system. Characters became a lot more flexible, allowing even meatheads like Sabin to become powerful mages; but almost every character had a unique class skill that set them apart. Here are some DnD approximations.
+
+* [Celes Chere](/dnd-in-pop-culture/final-fantasy/ff6-celes/)
+
+Celes Chere	FF6	Aasimar	Paladin	Oath of the Ancients
+Edgar Figaro	FF6	Human	Artificer	Battlesmith
+Locke Cole	FF6	Lightfoot Halfling	Rogue	Thief
+Sabin Figaro	FF6	Human	Monk	Way of the Sun Soul
+Shadow	FF6	Wood Elf	Rogue	Soulknife
+Terra Bradford	FF6	High Elf	Wizard	Bladesinging
