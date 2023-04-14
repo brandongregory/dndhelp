@@ -12,7 +12,17 @@ section_name: home
 2. [Homebrew](/5e-homebrew/)
 3. Monk - Way of the Sly Serpent
 
-# Way of the Sly Serpent
+# Monk - Way of the Sly Serpent
+
+<img
+  src="/images/Monk-Way-of-the-Sly-Serpent-Muted.webp"
+  srcset="/images/Monk - Way of the Sly Serpent - Muted - 720.webp 720w,
+          /images/Monk-Way-of-the-Sly-Serpent-Muted.webp 1536w"
+  sizes="(min-width: 768px) 768px,
+         360px"
+  alt="Illustration of a half-elf man in fine clothing with a baseball bat slung over his shoulder"
+  class="hero"
+  height="720" width="720" />
 
 The Way of the Sly Serpent is a martial art that evolved in cities as practitioners adapted traditional monastic traditions to the more practical requirements of city life. Rather than cloistered warriors with little understanding of the outside world, monks of this tradition were intimately aware of how things worked in cities, which often ran quite contrary to the quiet life most other monks were accustomed to.
 

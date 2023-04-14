@@ -12,7 +12,17 @@ section_name: home
 2. [Homebrew](/5e-homebrew/)
 3. Paladin - Oath of Freedom
 
-# Oath of Freedom
+# Paladin - Oath of Freedom
+
+<img
+  src="/images/Paladin-Oath-of-Freedom-Muted.webp"
+  srcset="/images/Paladin - Oath of Freedom - Muted - 720.webp 720w,
+          /images/Paladin-Oath-of-Freedom-Muted.webp 1536w"
+  sizes="(min-width: 768px) 768px,
+         360px"
+  alt="Illustration of a goblin in a breastplate wielding a short sword over his head"
+  class="hero"
+  height="720" width="720" />
 
 The Oath of Freedom compels paladins to fight against tyranny and ensure freedom for the oppressed. This often puts them at odds with established authorities, which can make a straight fight a no-win situation. Paladins of the Oath of Freedom have tactics to stand against multiple foes and protect others who may not be as capable in combat as they are.
 
@@ -28,7 +38,6 @@ The Tenets of Freedom compel paladins to stand against tyranny and protect those
 
 **Teach the Way of Freedom.** The fight against injustice cannot be won by one paladin, however strong. Teach others how to defend themselves so that they may stand against tyranny even when duty calls you elsewhere.
 
-
 ## Oath Spells
 
 _3rd-level Oath of Freedom feature_
@@ -40,11 +49,10 @@ You gain oath spells at the paladin levels listed in the Oath of Freedom Spells 
 |Paladin Level|Spell|
 |-------------|-----|
 |3rd|sanctuary, sleep|
-|5th|hold person, warding bond|
-|9th|fear, hypnotic pattern|
-|13th|freedom of movement, stoneskin|
-|17th|destructive wave, wall of force|
-
+|5th|shatter, warding bond|
+|9th|dispel magic, slow|
+|13th|freedom of movement, resilient sphere|
+|17th|circle of power, destructive wave|
 
 ## Channel Divinity
 
@@ -52,36 +60,31 @@ _3rd-level Oath of Freedom feature_
 
 You gain the following two Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.
 
-**Throwdown.** You can use your Channel Divinity to let out an irresistible battle cry to the opponents around you. As an action, you force each creature of your choice that you can see within 10 feet of you to make a Wisdom saving throw. On a failed save, a creature has disadvantage on attack rolls against anybody but you. If opponents are affected by this, you gain a bonus to your armor class equal to your proficiency bonus until the effect wears off.
+**Throwdown.** You can use your Channel Divinity to let out an irresistible battle cry to the opponents around you. As an action, you force each creature of your choice that you can see within 10 feet of you to make a Wisdom saving throw against your spell DC. On a failed save, a creature has disadvantage on attack rolls against anybody but you for 1 minute.
 
-**Last Stand.** You can use your Channel Divinity to stand strong against multiple enemies. When 2 or more enemies are within 10 feet of you, you can use your Channel Divinity to gain a bonus to attack rolls and a bonus to your armor class equal to your proficiency bonus. This effect lasts for 1 minute, but ends early if you end your turn with no enemies within 10 feet of you.
+**Last Stand.** When you are reduced to 0 hit points, you can use your Channel Divinity to make one last stand against your enemy. You make one melee attack against each creature of your choice that is within your reach before falling unconscious.
 
-
-## Aura of Inspiration
+## Aura of Caution
 
 _7th-level Oath of Freedom feature_
 
-You exude an aura that inspires nearby allies to fight with all their might. Friendly creatures within 10 feet of you have advantage on melee attack rolls made against enemies within 10 feet of you.
-
-At the 18th level, this aura expands to 30 feet.
-
-
-## Guerilla Tactics
-
-_15th-level Oath of Freedom feature_
-
-The fight against unjust tyrants is not always a straightforward one. You and allies you can see within 10 feet of you have advantage on Stealth checks and can take Hide as a bonus action.
+The fight against unjust tyrants is not always a straightforward one. You and allies you can see within 10 feet of you have advantage on Stealth checks.
 
 At the 18th level, this distance expands to 30 feet.
 
+## Deflect Blows
+
+_15th-level Oath of Freedom feature_
+
+When you or a creature you can see within 10 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the target’s AC for that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of 1). If the attack does miss, choose a different creature within 10 feet of you, other than the attacker. The chosen creature becomes the target of the original attack, using the same attack roll and regardless of the range of that attack.
+
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 ## One Against Many
 
 _20th-level Oath of Freedom feature_
 
 You gain the ability to stand against groups of opponents. As an action, you can magically become an valiant defender, gaining the following benefits for 1 minute:
-
-
 
 * You have resistance to all damage.
 * When you take the Attack action on your turn, you can make two additional attacks as part of that action as long as those attacks hit different targets.

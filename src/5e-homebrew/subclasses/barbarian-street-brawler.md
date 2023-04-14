@@ -12,7 +12,17 @@ section_name: home
 2. [Homebrew](/5e-homebrew/)
 3. Barbarian - Path of the Street Brawler
 
-# Path of the Street Brawler
+# Barbarian - Path of the Street Brawler
+
+<img
+  src="/images/Barbarian-Path-of-the-Street-Brawler-Muted.webp"
+  srcset="/images/Barbarian - Path of the Street Brawler - Muted - 720.webp 720w,
+          /images/Barbarian-Path-of-the-Street-Brawler-Muted.webp 1536w"
+  sizes="(min-width: 768px) 768px,
+         360px"
+  alt="Illustration of a half-orc man in fine clothing winding up for a punch"
+  class="hero"
+  height="720" width="720" />
 
 Barbarians who walk the Path of the Street Brawler get their training in the streets and use their street smarts and enormous strength to overpower their foes with their bare fists. Instead of growing up in isolated villages, these barbarians often grow up in large cities, getting their early training through mentors with a myriad of backgrounds and usually finding work as hired muscle for dealings in the city, although some make a living as professional boxers.
 
@@ -44,7 +54,7 @@ You gain a climbing speed equal to your walking speed, and you can climb difficu
 
 _10th-level Path of the Street Brawler feature_
 
-When you hit a creature with an unarmed attack while raging, you focus on hitting vulnerable places that hinder the creature. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Strength modifier + your proficiency bonus) or suffer one of the following effects (your choice):
+When you hit a creature with an unarmed attack while raging, you focus on hitting vulnerable places that hinder the creature. The target must succeed on a Strength saving throw (DC equal to 8 + your Strength modifier + your proficiency bonus) or suffer one of the following effects (your choice):
 
 * Be knocked prone
 * Have disadvantage on attack rolls until the start of your next turn

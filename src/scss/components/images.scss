@@ -1,0 +1,15 @@
+img {
+    display: block;
+    max-width: 100%;
+}
+
+img.hero {
+    height: 320px;
+    margin: 0 auto;
+    width: 320px;
+
+    @include desktop {
+        height: 768px;
+        width: 768px;
+    }
+}
