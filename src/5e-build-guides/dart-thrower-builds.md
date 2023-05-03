@@ -20,6 +20,8 @@ Have you ever watched someone tossing darts in a bar and thought, that should be
 <strong>Contents</strong>
 
 1. [What Are War Darts?](#What-Are-War-Darts)
+    1. _What About Throwing Knives?_
+    2. _Can This Work with a Boomerang?_
 2. [The Mechanics of Thrown Weapons in 5e](#The-Mechanics-of-Thrown-Weapons-in-5e)
 3. [Fighting Style Synergies](#Fighting-Style-Synergies)
 4. [Magic Damage](#Magic-Damage)
@@ -33,6 +35,20 @@ Have you ever watched someone tossing darts in a bar and thought, that should be
 The darts that are thrown as weapons in DnD are a far cry from the little darts thrown at targets in bars. They’re most likely based on the [Roman Plumbata](https://en.wikipedia.org/wiki/Plumbata), heavy weighted darts that were often tossed underhand up into the air to rain death and chaos down on enemy parties. These weapons had a barbed tip and metal shaft, along with a heavy lead weight, to make them fall down with a good amount of force. The heavier metal shafts and weights were attached to a longer wooden shaft with fletching to keep it moving straight once gravity took control. These were about 1 foot long and were typically 4.5-12.3 ounces (130-350 grams). These were not little novelty playthings that you tossed gingerly, they could do some serious damage.
 
 In DnD, darts are mechanically very similar to throwing daggers, but they can easily be played as a more serious weapon, able to sink into a target with much more force than a light throwing dagger could manage. With some of the build tips in this article, darts can absolutely be more deadly than throwing daggers.
+
+### What About Throwing Knives?
+
+If you don't like the concept of war darts and want to be a knife-throwing fiend, darts can be re-flavored as throwing daggers. The benefits are listed out in this article (darts would be better throwing daggers than actual daggers), but also factor in that darts are significantly cheaper and lighter than daggers, so a dagger throwing build would mechanically work best as a dart build.
+
+If you want throwing daggers to be your gimmick, you might also look into the Soul Knife Rogue subclass, which summons spectral daggers which can be thrown. For regular (non-spectral) daggers, though, this article will be your guide.
+
+### Can This Work with a Boomerang?
+
+Yes and no. Rules as written, the boomerang is a ranged weapon; however, it lacks the Thrown property, so some of the synergies here won't work. This seems like a major oversight, as the boomerang is pretty obviously a thrown weapon in the same way that a dart is. If you really want a boomerang build, ask your DM if you can play with boomerangs having the Thrown property. Mechanically, boomerangs are very similar to darts, so there aren't really any balance problems with this. Keep in mind that if you're using an online character sheet like DND Beyond, bonuses that apply to thrown weapons may not automatically apply on your character sheet and may have to be added through manual adjustment.
+
+Also bear in mind that boomerangs only come back to you if they miss. If you want a boomerang that comes back to you every time, take a look at the Returning Weapon infusion builds below—otherwise, you'll have to carry multiple boomerangs.
+
+All that said, most of the information on this page can also apply to boomerangs if you want that Aussie warrior.
 
 ## <a name="The-Mechanics-of-Thrown-Weapons-in-5e"></a>The Mechanics of Thrown Weapons in 5e
 

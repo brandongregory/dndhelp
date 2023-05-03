@@ -21,6 +21,7 @@ While swords and bows may be objectively better weapons, there’s just somethin
 <strong>Contents</strong>
 
 1. [Spears vs Quarterstaffs](#Spears-vs-Quarterstaffs)
+    1. _Can I Use a Baseball Bat?_
 2. [Getting the Most From Your Attacks](#Getting-the-Most-From-Your-Attacks)
 3. [Using Dexterity With Spears and Quarterstaffs](#Using-Dexterity-With-Spears-and-Quarterstaffs)
 4. [Using Wisdom With Quarterstaffs](#Using-Wisdom-With-Quarterstaffs)
@@ -36,6 +37,9 @@ If you want a spear that does 1d8 damage with one hand (so you can use a shield)
 
 Another factor to consider is the availability of magic items. There are basic versions of spears (and yklwas), but there’s a far greater variety of magic staffs available with a variety of effects. For instance, the Staff of Defense can really help increase your defenses, and the Spider Staff can give you some useful utility options as well as bonus damage. If you really want to use spears, you might talk to your DM about reflavoring a magic sword as a spear to give you some more options.
 
+### Can I Use a Baseball Bat?
+
+Sure. Just use a quarterstaff and call it a baseball bat. That's probably the best way to go about doing this if you want a Harley Quinn type character.
 
 ## <a name="Getting-the-Most-From-Your-Attacks"></a>Getting the Most From Your Attacks
 
@@ -45,7 +49,7 @@ Additive bonuses add damage to each attack. Classic examples are the Barbarian r
 
 With a bonus to each attack, you can wrack up some more damage by getting another attack in each round. Any class can do this with the Polearm Master feat. This allows you to make a bonus action attack using a 1d4 damage die, making it lower damage than the main attack, but with additive bonuses mentioned above, this can still be a good source of damage.
 
-With these tactics in mind, you face another important choice. Both spears and quarterstaffs are versatile weapons, meaning they can be used with one hand, or with both hands for additional damage. If the class you’re playing in is proficient with shields, this means choosing between a little less damage and added defense, or going all in on damage for a slight boost. I see a lot of people recommend the one-handed with shield approach, but choose whichever works best for your character.
+With these tactics in mind, you face another important choice. Both spears and quarterstaffs are versatile weapons, meaning they can be used with one hand, or with both hands for additional damage. If the class you’re playing in is proficient with shields, this means choosing between a little less damage and added defense, or going all in on damage for a slight boost. If you take the Dueling fighting style, however, the damage is about equal for both options, essentially giving you free defense with a shield. If you can get both a shield and the Dueling fighting style, weapon and shield is mechanically better, but choose whichever works best for your character.
 
 
 ## <a name="Using-Dexterity-With-Spears-and-Quarterstaffs"></a>Using Dexterity With Spears and Quarterstaffs

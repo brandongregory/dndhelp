@@ -14,6 +14,16 @@ section_name: home
 
 # Rogue - Sniper
 
+<img
+  src="/images/Rogue-Sniper-Muted.webp"
+  srcset="/images/Rogue-Sniper-Muted-720.webp 720w,
+          /images/Rogue-Sniper-Muted.webp 1536w"
+  sizes="(min-width: 768px) 768px,
+         360px"
+  alt="Illustration of a half-elf woman in a cowboy hat looking carefully down a notched arrow"
+  class="hero"
+  height="720" width="720" />
+
 Many rogues use bows and crossbows, but Snipers use them with deadly accuracy, making shots that are seemingly impossible and scoring devastating hits on unsuspecting foes.
 
 ## Master Archer

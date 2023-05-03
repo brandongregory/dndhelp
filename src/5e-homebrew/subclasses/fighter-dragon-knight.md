@@ -14,6 +14,16 @@ section_name: home
 
 # Fighter - Dragon Knight
 
+<img
+  src="/images/Fighter - Dragon Knight - Muted.webp"
+  srcset="/images/Fighter - Dragon Knight - Muted - 720.webp 720w,
+          /images/Fighter - Dragon Knight - Muted.webp 1536w"
+  sizes="(min-width: 768px) 768px,
+         360px"
+  alt="Illustration of an angelic-looking human man wielding a spear gearing up for a strike"
+  class="hero"
+  height="720" width="720" />
+
 It’s said that the first dragon knights were trained by Bahamut himself and tasked with keeping the world safe from evil. Regardless of their origins, their techniques have been passed down to you. Dragon Knights have an impressive acrobatic fighting style, often relying on agility rather than raw strength, and can summon spectral spears to fight with. 
 
 ## Dragon Tongue

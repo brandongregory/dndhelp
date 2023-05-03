@@ -13,3 +13,14 @@ img.hero {
         width: 768px;
     }
 }
+
+img.hero-half {
+    height: 160px;
+    margin: 0 auto;
+    width: 320px;
+
+    @include desktop {
+        height: 384px;
+        width: 768px;
+    }
+}
