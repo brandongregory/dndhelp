@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Strength-Based Unarmed Brawler Builds in DnD 5e"
 meta_description: "Want to be a rough-and-tumble street brawler WITHOUT the mystical element of Monks? A strong brawler might be your best bet."
 page_name: home
-section_name: home
+section_name: build
+tags: build
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Strength-Based Unarmed Brawler Builds in DnD 5e
 
 # Strength-Based Unarmed Brawler Builds in DnD 5e
+<p class="author">by Brandon Gregory</p>
 
 Monks are great at a lot of things on DnD 5e, but they don’t fit every unarmed character. Sometimes, you just want a tough-as-nails street brawler who can punch really, really hard—without messing with that mystical stuff the Monks do. If you want a fast and nimble martial artist, you still can’t beat the Monk, but strength-based unarmed characters do better in other classes—which is exactly what this guide covers.
 

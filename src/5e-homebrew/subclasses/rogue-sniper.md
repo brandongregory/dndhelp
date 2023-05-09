@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Homebrew Class: Rogue - Sniper"
 meta_description: "A homebrew Rogue subclass for 5e"
 page_name: home
-section_name: home
+section_name: homebrew
+tags: homebrew
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Rogue - Sniper
 
 # Rogue - Sniper
+<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Rogue-Sniper-Muted.webp"

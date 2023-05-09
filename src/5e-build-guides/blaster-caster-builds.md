@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Blaster Caster Builds in DnD 5e"
 meta_description: "Blaster casters excel at attacking groups of foes and can be fun to play. Here's a breakdown of classes, spells, and feats to make the best blaster builds."
 page_name: home
-section_name: home
+section_name: build
+tags: build
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Blaster Caster Builds in DnD 5e
 
 # Blaster Caster Builds in DnD 5e
+<p class="author">by Brandon Gregory</p>
 
 Blasting enemies with magic is not only incredibly fun in DnD, it’s a great way to contribute to the party. Blasters excel at taking out crowds of weaker foes, but can absolutely take on more powerful foes as well. For the purposes of this article, “Blaster” means a caster who can cast area of effect (AOE) spells that damage the entire area. Spells that damage a single target are also useful, but those are categorized under the Striker role. The quintessential blasting spell is Fireball, but there are many options that fit the bill (listed below). Single-target spells like Magic Missile and Eldritch Blast are categorically not blasting spells.
 

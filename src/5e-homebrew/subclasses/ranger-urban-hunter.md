@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Homebrew Class: Ranger - Urban Hunter"
 meta_description: "A homebrew Ranger subclass for 5e"
 page_name: home
-section_name: home
+section_name: homebrew
+tags: homebrew
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Ranger - Urban Hunter
 
 # Ranger - Urban Hunter
+<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Ranger-Urban-Hunter-Muted.webp"

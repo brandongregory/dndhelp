@@ -1,5 +1,6 @@
 const { minify } = require("terser");
 const htmlmin = require("html-minifier");
+const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 module.exports = function(eleventyConfig) {
   // Minify HTML
@@ -13,8 +14,43 @@ module.exports = function(eleventyConfig) {
       });
       return minified;
     }
-
     return content;
+  });
+  // Plugins
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  // Collections
+  eleventyConfig.addCollection("builds", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/5e-build-guides/**/*.md");
+  });
+  eleventyConfig.addCollection("character-creation", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/5e-character-creation/**/*.md");
+  });
+  eleventyConfig.addCollection("homebrew", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/5e-homebrew/**/*.md");
+  });
+  eleventyConfig.addCollection("pop-culture", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/dnd-in-pop-culture/**/*.md");
+  });
+  // Get related posts
+  eleventyConfig.addFilter('randomSiblings', function (collection, page) {
+      const siblings = collection;
+      console.log(siblings);
+      const randomSiblings = [];
+      const randomNumbers = [];
+      const siblingsLength = siblings.length;
+      const maxLength = 3;
+      for (let i = 0; i < siblingsLength; i++) {
+        if (siblings[i].page.fileSlug == page) randomNumbers.push(i);
+      }
+      while (siblingsLength > 0 && randomSiblings.length < maxLength && randomSiblings.length < siblingsLength) {
+        const randomNumber = Math.floor(Math.random() * siblings.length);
+        if (!randomNumbers.includes(randomNumber)) {
+            const randomSibling = siblings[randomNumber] || null;
+            randomSiblings.push(randomSibling);
+            randomNumbers.push(randomNumber);
+        }
+      }
+      return randomSiblings;
   });
   // Return your Object options:
   return {

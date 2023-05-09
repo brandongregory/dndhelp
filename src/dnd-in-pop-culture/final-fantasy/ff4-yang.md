@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Yang from Final Fantasy IV in DnD"
 meta_description: "Can FF4's unusually buff monk be built in Dungeons and Dragons? Well, you can get pretty close! Here's an odd monk build with high survivability."
 page_name: home
-section_name: home
+section_name: pop-culture
+tags: pop-culture
 ---
 
 <div id="breadcrumbs"></div>
@@ -14,6 +15,7 @@ section_name: home
 4. Yang from Final Fantasy IV
 
 # Yang from Final Fantasy IV in DnD
+<p class="author">by Brandon Gregory</p>
 
 <img src="/images/ff4-yang.webp" alt="Yang Fang Leiden from Final Fantasy IV" class="pull-right" style="max-width: 200px;">
 

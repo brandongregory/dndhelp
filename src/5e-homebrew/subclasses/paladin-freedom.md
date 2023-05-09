@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Homebrew Class: Paladin - Oath of Freedom"
 meta_description: "A homebrew Paladin subclass for 5e"
 page_name: home
-section_name: home
+section_name: homebrew
+tags: homebrew
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Paladin - Oath of Freedom
 
 # Paladin - Oath of Freedom
+<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Paladin-Oath-of-Freedom-Muted.webp"

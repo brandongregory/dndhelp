@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Mental Stats Compared in DnD 5e"
 meta_description: "What's the difference between Intelligence and Wisdom? Can low-Charisma characters be likeable? Here's a quick comparison of the three mental stats."
 page_name: home
-section_name: home
+section_name: character-creation
+tags: character-creation
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Mental Stats Compared in DnD 5e
 
 # Mental Stats Compared in 5e
+<p class="author">by Brandon Gregory</p>
 
 Dungeons and Dragons 5e gives you 3 mental stats: Intelligence, Wisdom, and Charisma. Picking which one of these you want to invest in can have a lot of impact on your character, not only in the skills they’re good at, but also from a roleplaying perspective.
 

@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "DnD in Pop Culture"
 meta_description: 
 page_name: home
-section_name: home
+section_name: pop-culture
+eleventyExcludeFromCollections: true
 ---
 
 <div id="breadcrumbs"></div>

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm run buildinit && npm run buildcss && npm run buildhtml && npm run buildimages && npm run buildjs",
-    "buildcss": "node-sass --output-style compressed --include-path scss src/scss/main.scss webroot/css/styles.css && node-sass --output-style compressed --include-path scss src/scss/main.scss src/_includes/inlinecss.html",
+    "buildcss": "node-sass --output-style compressed --include-path scss src/scss/main.scss src/_includes/styles.css",
     "buildhtml": "npx @11ty/eleventy",
     "buildimages": "imagemin src/images/**/* --out-dir=webroot/images",
     "buildinit": "make-dir webroot/js",
@@ -22,8 +22,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0",
-    "concurrently": "^7.6.0",
+    "@11ty/eleventy": "^2.0.1",
+    "@navillus/eleventy-plugin-inline-css": "^1.0.3",
+    "concurrently": "^8.0.1",
     "cpy-cli": "^4.2.0",
     "del-cli": "^5.0.0",
     "html-minifier": "^4.0.0",
@@ -32,8 +33,8 @@
     "make-dir-cli": "^3.0.0",
     "move-file-cli": "^3.0.0",
     "node-sass": "^8.0.0",
-    "nodemon": "^2.0.20",
+    "nodemon": "^2.0.22",
     "normalize.css": "^8.0.1",
-    "terser": "^5.16.4"
+    "terser": "^5.17.2"
   }
 }

@@ -4,6 +4,7 @@ meta_title: "Dragon Age Characters in DnD"
 meta_description: 
 page_name: home
 section_name: home
+eleventyExcludeFromCollections: true
 ---
 
 <div id="breadcrumbs"></div>

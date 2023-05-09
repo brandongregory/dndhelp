@@ -4,6 +4,7 @@ meta_title: "5e Homebrew"
 meta_description: "Classes, subclasses, and more for DnD 5e"
 page_name: home
 section_name: home
+eleventyExcludeFromCollections: true
 ---
 
 <div id="breadcrumbs"></div>

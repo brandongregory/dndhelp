@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Homebrew Class: Barbarian - Path of the Street Brawler"
 meta_description: "A homebrew Barbarian subclass for 5e"
 page_name: home
-section_name: home
+section_name: homebrew
+tags: homebrew
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Barbarian - Path of the Street Brawler
 
 # Barbarian - Path of the Street Brawler
+<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Barbarian-Path-of-the-Street-Brawler-Muted.webp"

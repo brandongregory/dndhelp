@@ -14,7 +14,8 @@ main {
     overflow-x: hidden;
 }
 
-main {
+main,
+aside {
     color: $white;
     position: relative;
 }

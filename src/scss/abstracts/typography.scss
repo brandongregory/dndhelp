@@ -31,10 +31,16 @@ h1, h2, h3 {
 
 h1 {
     font-size: 2rem;
-    margin-top: 1em;
+    margin: 1em 0 0 0;
 
     @include desktop {
         font-size: 3rem;
+    }
+
+    & + p.author {
+        font-size: .888888rem;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin-top: .5rem;
     }
 }
 

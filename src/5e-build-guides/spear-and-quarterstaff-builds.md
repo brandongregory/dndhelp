@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Spear and Quarterstaff Builds in DnD 5e"
 meta_description: "Whether it's done for mechanics or flavor, quarterstaff and spear builds can be tricky in DnD. Here are some considerations and tips for building the best."
 page_name: home
-section_name: home
+section_name: build
+tags: build
 ---
 
 <div id="breadcrumbs"></div>
@@ -14,6 +15,7 @@ section_name: home
 
 
 # Spear and Quarterstaff Builds in DnD 5e
+<p class="author">by Brandon Gregory</p>
 
 While swords and bows may be objectively better weapons, there’s just something fun about a classic warrior using a simple weapon like a spear or quarterstaff. Historically, these weapons were quite powerful, but in DnD, the weapons are a bit lackluster compared to other options. These characters are still very viable, though, with the right builds. If you’re interested in making a character that uses the quarterstaff or spear as their primary weapon, here’s how to make the most of that.
 

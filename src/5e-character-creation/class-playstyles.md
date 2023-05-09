@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Class Playstyles in DnD 5e"
 meta_description: "A basic overview of each DnD class, what makes it shine, and how it contributes to the party, with pop culture examples."
 page_name: home
-section_name: home
+section_name: character-creation
+tags: character-creation
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Class Playstyles in DnD 5e
 
 # Class Playstyles in DnD 5e
+<p class="author">by Brandon Gregory</p>
 
 If you're newer to DnD, or just haven't played some of the classes, you may be wondering what each of them is like. What's the difference between a Fighter and Barbarian, for instance, or a Sorcerer and a Wizard? Sometimes even reading the introductions in the handbooks don't give you a clear idea, and it can be hard to get that without getting way into the mechanics of each class.
 
@@ -37,15 +39,6 @@ This page is meant to give a basic overview on what each class does and how it p
 </div>
 
 ## <a name="Artificer"></a>Artificer
-
-<img
-  src="/images/class-portrait-artificer-720.webp"
-  srcset="/images/class-portrait-artificer-720.webp 720w,
-          /images/class-portrait-artificer-1536.webp 1536w"
-  sizes="(min-width: 768px) 768px, 360px"
-  alt="Illustration of a kobold artificer in a city at night, wearing night vision goggles"
-  class="hero-half"
-  height="360" width="720" />
 
 Artificers are a diverse half-caster class, and the biggest thing they bring to the table is versatility. They get access to a lot of utility magic, many tool proficiencies, and their subclasses allow them to fill a variety of roles. Depending on subclass choice, they can play reasonably well as support characters, tanks, ranged blasters, or frontline strikers. As high-intelligence characters, Artificers are skilled investigators and also often serve as a source of knowledge in many areas: magic, history, religion, or nature. They also gain the ability to create magic items which can be used either by them or other party members, which can make them more powerful, but can also give them more versatility, such as pulling out a cap that allows them to breathe underwater when no one else in the party is prepared to go diving.
 

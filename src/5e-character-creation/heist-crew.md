@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Putting Together a Heist Crew for DnD 5e"
 meta_description: "If you're putting together a crew for a heist adventure, party roles and needs can be quite different than in a regular adventure. Here are 6 roles to succeed."
 page_name: home
-section_name: home
+section_name: character-creation
+tags: character-creation
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Putting Together a Heist Crew for DnD 5e
 
 # Putting Together a Heist Crew for DnD 5e
+<p class="author">by Brandon Gregory</p>
 
 Whether you’re putting together a crew for **_Keys from the Golden Vault_** or just working a heist into your regular campaign, a heist crew has a few different roles than your average adventuring party. Stealth and deception are often more important than damage output, and casting Fireball on a guard is sure to bring every guard in the area down on you.
 

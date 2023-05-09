@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Homebrew Class: Artificer - Chaos Agent"
 meta_description: "A homebrew Artificer subclass for 5e"
 page_name: home
-section_name: home
+section_name: homebrew
+tags: homebrew
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Artificer - Chaos Agent
 
 # Artificer - Chaos Agent
+<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Artificer-Chaos-Agent-Muted.webp"

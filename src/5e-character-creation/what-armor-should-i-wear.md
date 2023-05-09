@@ -1,9 +1,10 @@
 ---
 layout: layout.njk
-meta_title: "Party Roles in DnD 5e"
+meta_title: "Armor types in DnD 5e"
 meta_description: "Light armor, medium armor, or heavy armor? This can be confusing, but the mechanics provide some clear advantages for each. Here's a primer."
 page_name: home
-section_name: home
+section_name: character-creation
+tags: character-creation
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. What Armor Should I Wear?
 
 # What Armor Should I Wear?
+<p class="author">by Brandon Gregory</p>
 
 _A guide to armor in D&amp;D 5e_
 

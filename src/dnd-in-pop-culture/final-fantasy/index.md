@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Final Fantasy Characters in DnD"
 meta_description: 
 page_name: home
-section_name: home
+section_name: pop-culture
+eleventyExcludeFromCollections: true
 ---
 
 <div id="breadcrumbs"></div>

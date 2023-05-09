@@ -1,9 +1,10 @@
 ---
 layout: layout.njk
-meta_title: "Mental Stats Compared in DnD 5e"
+meta_title: "Dexterity vs Strength Builds in DnD 5e"
 meta_description: "Choosing between strength and dexterity in DnD can be tricky. Here's a quick guide on the pros and cons of each, along with how each class handles it."
 page_name: home
-section_name: home
+section_name: character-creation
+tags: character-creation
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Dexterity vs Strength Builds in DnD 5e
 
 # Dexterity vs Strength Builds in DnD 5e
+<p class="author">by Brandon Gregory</p>
 
 Martial classes live and die on their ability to do weapon damage, but most martial characters can be built to rely on either strength or dexterity. We tend to think of a Medieval sword fighter as a strong brute, but a fast, dextrous fighter can be just as effective. This is a breakdown of both styles, and a breakdown of what classes can use which styles.
 

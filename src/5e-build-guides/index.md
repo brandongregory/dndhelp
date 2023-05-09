@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "5e Build Guides"
 meta_description: "DnD 5e guides for specific character build concepts, like archers, AOE mages, tanks, and more"
 page_name: home
-section_name: home
+section_name: build
+eleventyExcludeFromCollections: true
 ---
 
 <div id="breadcrumbs"></div>

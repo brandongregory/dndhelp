@@ -1,0 +1,45 @@
+aside {
+    border-top: 1px solid #FFF;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    h3 {
+        a {
+            color: $gold;
+            text-decoration: none;
+        }    
+    }
+    ul {
+        display: grid;
+        gap: 1rem 1rem;
+        margin: 0;
+        padding: 0;
+        li {
+            background: $darkred;
+            display: block;
+            list-style-type: none;
+            padding: 1rem;
+        }
+        @include tabletDown {
+            grid-template-rows: 1fr 1fr 1fr 1fr;
+        }
+        @include desktop {
+            align-items: stretch;
+            justify-items: stretch;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+        p.description {
+            font-size: .75em;
+            line-height: 1.5;
+        }
+        p.link {
+            font-size: .75em;
+            line-height: 1.5;
+            text-align: right;
+            a {
+                display: block;
+                font-family: 'Roboto Condensed', sans-serif;
+                padding: .5rem;
+            }
+        }
+    }
+}

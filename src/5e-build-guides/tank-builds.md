@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Tank Builds in DnD 5e"
 meta_description: "Unlike video games, tanking is deceptively difficult in DnD. Here are some builds for the most effective tanks."
 page_name: home
-section_name: home
+section_name: build
+tags: build
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Tank Builds in DnD 5e
 
 # Tank Builds in DnD 5e
+<p class="author">by Brandon Gregory</p>
 
 In gaming, a Tank is an iconic role, drawing the enemies' ire so your more fragile teammates stay safe. Tanks in DnD work a bit differently. In video games, dedicated tanks will have methods of generating aggro, forcing nearby enemies to focus on them. There isn't really a mechanic for this in DnD. The Tank Phallacy in DnD is that you can build an extremely defensive character who can stand up to any attack, but there's nothing stopping an enemy from running right around you and attacking the wizard in back of you.
 

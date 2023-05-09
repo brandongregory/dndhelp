@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Edward from Final Fantasy IV in DnD"
 meta_description: "No party needs another horny bard. Edward is a tragic bard with strong controller abilities that can be a benefit to any party."
 page_name: home
-section_name: home
+section_name: pop-culture
+tags: pop-culture
 ---
 
 <div id="breadcrumbs"></div>
@@ -14,6 +15,7 @@ section_name: home
 4. Edward from Final Fantasy IV
 
 # Edward from Final Fantasy IV in DnD
+<p class="author">by Brandon Gregory</p>
 
 <img src="/images/ff4-edward.webp" alt="Edward Chris von Muir from Final Fantasy IV" class="pull-right" style="max-width: 200px;">
 

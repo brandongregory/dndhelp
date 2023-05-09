@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Homebrew Class: Monk - Way of the Sly Serpent"
 meta_description: "A homebrew Monk subclass for 5e"
 page_name: home
-section_name: home
+section_name: homebrew
+tags: homebrew
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Monk - Way of the Sly Serpent
 
 # Monk - Way of the Sly Serpent
+<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Monk-Way-of-the-Sly-Serpent-Muted.webp"

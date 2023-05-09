@@ -3,7 +3,8 @@ layout: layout.njk
 meta_title: "Homebrew Class: Fighter - Dragon Knight"
 meta_description: "A homebrew Fighter subclass for 5e"
 page_name: home
-section_name: home
+section_name: homebrew
+tags: homebrew
 ---
 
 <div id="breadcrumbs"></div>
@@ -13,6 +14,7 @@ section_name: home
 3. Fighter - Dragon Knight
 
 # Fighter - Dragon Knight
+<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Fighter - Dragon Knight - Muted.webp"
