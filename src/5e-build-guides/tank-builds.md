@@ -5,6 +5,7 @@ meta_description: "Unlike video games, tanking is deceptively difficult in DnD. 
 page_name: home
 section_name: build
 tags: build
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

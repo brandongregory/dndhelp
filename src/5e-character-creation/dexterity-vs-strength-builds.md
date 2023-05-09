@@ -5,6 +5,7 @@ meta_description: "Choosing between strength and dexterity in DnD can be tricky.
 page_name: home
 section_name: character-creation
 tags: character-creation
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

@@ -5,6 +5,7 @@ meta_description:
 page_name: home
 section_name: pop-culture
 eleventyExcludeFromCollections: true
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

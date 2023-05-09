@@ -5,6 +5,7 @@ meta_description: "Basic tips and clarifications for character creation in DnD 5
 page_name: home
 section_name: home
 eleventyExcludeFromCollections: true
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

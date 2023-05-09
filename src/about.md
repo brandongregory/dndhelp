@@ -3,6 +3,7 @@ layout: layout.njk
 meta_title: "About This Site"
 meta_description: 
 page_name: about
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

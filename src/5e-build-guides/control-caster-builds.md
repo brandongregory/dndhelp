@@ -5,6 +5,7 @@ meta_description: "Control casters can absolutely wreck an enemy party. Here's a
 page_name: home
 section_name: build
 tags: build
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

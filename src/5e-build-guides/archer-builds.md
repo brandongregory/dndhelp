@@ -5,6 +5,7 @@ meta_description: "Anyone can hold a bow, but few really shine. Picking the righ
 page_name: home
 section_name: build
 tags: build
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

@@ -5,6 +5,7 @@ meta_description: "If you're putting together a crew for a heist adventure, part
 page_name: home
 section_name: character-creation
 tags: character-creation
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

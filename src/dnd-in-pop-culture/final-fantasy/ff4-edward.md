@@ -5,6 +5,7 @@ meta_description: "No party needs another horny bard. Edward is a tragic bard wi
 page_name: home
 section_name: pop-culture
 tags: pop-culture
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

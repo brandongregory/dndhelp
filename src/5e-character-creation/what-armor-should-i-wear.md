@@ -5,6 +5,7 @@ meta_description: "Light armor, medium armor, or heavy armor? This can be confus
 page_name: home
 section_name: character-creation
 tags: character-creation
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

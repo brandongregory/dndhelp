@@ -5,6 +5,7 @@ meta_description: "A basic overview of each DnD class, what makes it shine, and 
 page_name: home
 section_name: character-creation
 tags: character-creation
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

@@ -5,6 +5,7 @@ meta_description: "Blaster casters excel at attacking groups of foes and can be 
 page_name: home
 section_name: build
 tags: build
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

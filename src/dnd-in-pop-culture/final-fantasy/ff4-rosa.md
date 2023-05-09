@@ -5,6 +5,7 @@ meta_description: "Much more than a simple healer, Rosa was an amazing character
 page_name: home
 section_name: pop-culture
 tags: pop-culture
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

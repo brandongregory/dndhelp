@@ -5,6 +5,7 @@ meta_description: "Can FF4's unusually buff monk be built in Dungeons and Dragon
 page_name: home
 section_name: pop-culture
 tags: pop-culture
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

@@ -5,6 +5,7 @@ meta_description: "Whether it's done for mechanics or flavor, quarterstaff and s
 page_name: home
 section_name: build
 tags: build
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

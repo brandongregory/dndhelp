@@ -5,6 +5,7 @@ meta_description: "A homebrew Fighter subclass for 5e"
 page_name: home
 section_name: homebrew
 tags: homebrew
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

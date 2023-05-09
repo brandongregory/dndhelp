@@ -5,6 +5,7 @@ meta_description: "Are dart builds viable in 5e? Surprisingly, yes! Here's a bit
 page_name: home
 section_name: build
 tags: build
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

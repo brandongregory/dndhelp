@@ -5,6 +5,7 @@ meta_description: "Classes, subclasses, and more for DnD 5e"
 page_name: home
 section_name: home
 eleventyExcludeFromCollections: true
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>

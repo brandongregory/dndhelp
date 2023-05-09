@@ -34,7 +34,6 @@ module.exports = function(eleventyConfig) {
   // Get related posts
   eleventyConfig.addFilter('randomSiblings', function (collection, page) {
       const siblings = collection;
-      console.log(siblings);
       const randomSiblings = [];
       const randomNumbers = [];
       const siblingsLength = siblings.length;

@@ -5,6 +5,7 @@ meta_description: "Thinking about what type of DnD character to play can seem in
 page_name: home
 section_name: character-creation
 tags: character-creation
+date: Last Modified
 ---
 
 <div id="breadcrumbs"></div>
