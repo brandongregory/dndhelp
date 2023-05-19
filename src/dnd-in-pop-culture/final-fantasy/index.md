@@ -26,3 +26,17 @@ Final Fantasy IV was a classic that drew me into the Final Fantasy world for the
 * [Edward Chris von Muir](/dnd-in-pop-culture/final-fantasy/ff4-edward/)
 * [Rosa Joanna Farrell](/dnd-in-pop-culture/final-fantasy/ff4-rosa/)
 * [Yang Fang Leiden](/dnd-in-pop-culture/final-fantasy/ff4-yang/)
+
+## Final Fantasy VI
+
+Final Fantasy VI dominated my imagination earlier in my life, and I still fondly remember the characters and settings from the game. While the esper system allowed for all characters to learn the same magic, each character had unique abilities and proficiencies that made them all distinct. Many of the character from FF6 work in DnD.
+
+* [Celes Chere](/dnd-in-pop-culture/final-fantasy/ff6-celes/)
+* [Terra Bradford](/dnd-in-pop-culture/final-fantasy/ff6-terra/)
+
+## Final Fantasy X
+
+Final Fantasy X was a milestone for the series: it was the first game in the more powerful Playstation 2, and the first game with voice acting. The voice direction and editing left a little to be desired, but the story was still deep and moving, and the characters each brought something special to gameplay (except Kimahri). With such strong character roles, it's easy to draw parallels to DnD.
+
+* [Rikku](/dnd-in-pop-culture/final-fantasy/ff10-rikku/)
+* [Yuna](/dnd-in-pop-culture/final-fantasy/ff10-yuna/)

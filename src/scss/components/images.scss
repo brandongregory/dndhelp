@@ -24,3 +24,14 @@ img.hero-half {
         width: 768px;
     }
 }
+
+img.tiny-hero {
+    height: 160px;
+    margin: 0 auto;
+    width: 160px;
+
+    @include desktop {
+        height: 384px;
+        width: 384px;
+    }
+}

@@ -18,7 +18,14 @@ date: Last Modified
 # Edward from Final Fantasy IV in DnD
 <p class="author">by Brandon Gregory</p>
 
-<img src="/images/ff4-edward.webp" alt="Edward Chris von Muir from Final Fantasy IV" class="pull-right" style="max-width: 200px;">
+<img
+  src="/images/ff4-edward-360.webp"
+  srcset="/images/ff4-edward-360.webp 360w,
+          /images/ff4-edward-768.webp 768w"
+  sizes="(min-width: 768px) 384px,180px"
+  alt="Graphic of Edward Chris von Muir from Final Fantasy IV"
+  class="tiny-hero"
+  height="360" width="360" />
 
 Edward Chris von Muir is a Bard through and through. In Final Fantasy IV, I don't think any argument can be made for Edward being one of the stronger characters, but his focus on control abilities can actually make for a pretty fantastic DnD character. Bards came in third in my [Control Caster Build guide](/5e-build-guides/control-caster-builds/), but a dedicated Bard Controller can be a force to reckon with on the battlefield while still having some support and utility abilities available to fill the Bard's role as a jack-of-all-trades.
 

@@ -18,13 +18,20 @@ date: Last Modified
 # Rosa from Final Fantasy IV in DnD
 <p class="author">by Brandon Gregory</p>
 
-<img src="/images/ff4-rosa.webp" alt="Rosa Joanna Farrell from Final Fantasy IV" class="pull-right" style="max-width: 200px;">
+<img
+  src="/images/ff4-rosa-360.webp"
+  srcset="/images/ff4-rosa-360.webp 360w,
+          /images/ff4-rosa-768.webp 768w"
+  sizes="(min-width: 768px) 384px,180px"
+  alt="Graphic of Rosa Joanna Farrell from Final Fantasy IV"
+  class="tiny-hero"
+  height="360" width="360" />
 
-Rosa Joanna Farrell was the love interest for protagonist Cecil Harvey, and Cecil spends much of the early plot trying to rescue his love. But damsel in distress she is not. Once Cecil rescues Rosa from the main villain, she joins the party and stays there through the end of the game, proving to be one of the most important members of the party for the tough battles toward the end of the game. There's a little more to her than simply "the healer," though, so read this guide to find out how to really get the many aspects of her right.
+Rosa Joanna Farrell was the love interest for protagonist [Cecil Harvey](/dnd-in-pop-culture/final-fantasy/ff4-cecil/), and Cecil spends much of the early plot trying to rescue his love. But damsel in distress she is not. Once Cecil rescues Rosa from the main villain, she joins the party and stays there through the end of the game, proving to be one of the most important members of the party for the tough battles toward the end of the game. There's a little more to her than simply "the healer," though, so read this guide to find out how to really get the many aspects of her right.
 
 ## Picking a Class and Subclass
 
-With Rosa's primary feature being support magic, Cleric is an obvious fit—but it's even more fitting when you consider why Rosa became a white mage to begin with. Rosa's mother was a white mage who fought alongside Rosa's father, who was a knight of Baron. When her love, Cecil, became a knight of Baron, Rosa followed in her mother's footsteps, not just so she could heal Cecil's wounds, but so she could be there with him when he fought. Remember that, in addition to being an amazing white mage, Rosa is also the best archer in the game with her Aim action. She's not a heavy-hitter like some of the other party members, but she can definitely hold her own when needed. A combat healer who rushes in to fight alongside the knights is the archetype for the Cleric.
+With Rosa's primary feature being [support magic](/5e-build-guides/support-caster-builds/), Cleric is an obvious fit—but it's even more fitting when you consider why Rosa became a white mage to begin with. Rosa's mother was a white mage who fought alongside Rosa's father, who was a knight of Baron. When her love, Cecil, became a knight of Baron, Rosa followed in her mother's footsteps, not just so she could heal Cecil's wounds, but so she could be there with him when he fought. Remember that, in addition to being an amazing white mage, Rosa is also the best [archer](/5e-build-guides/archer-builds/) in the game with her Aim action. She's not a heavy-hitter like some of the other party members, but she can definitely hold her own when needed. A combat healer who rushes in to fight alongside the knights is the archetype for the Cleric.
 
 With her healing ability, it might be tempting to make Rosa a Life Cleric for the increased healing, but that's completely overlooking the combat abilities Rosa had. Rosa could boost her accuracy with a bow, and in doing so became the hardest hitting archer in the game. Her drive to learn archery and her aptitude with it are actually a great fit for the War Domain. War Clerics gain proficiency with martial weapons, so they can use longbows while Life Clerics can use shortbows at best. War Clerics can also boost their accuracy tremendously, making feats like Sharpshooter just free damage. One place the War Cleric really shines, though, is in making other strong martials in the party even more effective. So if a War Cleric is fighting alongside the Paladin she loves, she can boost his efficiency as well as her own, making for a power team.
 

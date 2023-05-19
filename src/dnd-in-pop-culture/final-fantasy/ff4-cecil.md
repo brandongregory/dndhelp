@@ -18,7 +18,14 @@ date: Last Modified
 # Cecil from Final Fantasy IV in DnD
 <p class="author">by Brandon Gregory</p>
 
-<img src="/images/ff4-cecil.webp" alt="Cecil Harvey from Final Fantasy IV" class="pull-right" style="max-width: 220px;">
+<img
+  src="/images/ff4-cecil-360.webp"
+  srcset="/images/ff4-cecil-360.webp 360w,
+          /images/ff4-cecil-768.webp 768w"
+  sizes="(min-width: 768px) 384px,180px"
+  alt="Graphic of Cecil Harvey from Final Fantasy IV"
+  class="tiny-hero"
+  height="360" width="360" />
 
 Cecil Harvey is the beloved protagonist in Final Fantasy IV and begins the game as a Dark Knight (for which there's no real DnD equivalent), but grows into something more recognizable: a Paladin. Cecil is definitely not the bland, generic do-gooder stereotype that many Paladins seem to fall into; he has an interesting mix of a dark (but not _too_ dark) past, a misaligned sense of duty, feelings of guilt and inadequacy, and a superhuman lineage that all give some amazing plot hooks for a Dungeons and Dragons character. Let's dig in!
 
@@ -26,7 +33,7 @@ Cecil Harvey is the beloved protagonist in Final Fantasy IV and begins the game 
 
 The games tells us that Cecil is a Paladin, and that's honestly a fantastic fit for him. But what subclass do we choose? There are actually a few good options.
 
-Based on Cecil's abilities in the game, he has some minor healing abilities, like _all_ Paladins, but one unique mechanic he has is the Cover ability to protect weaker party members. If you want to lean into Cecil's abilities as a defender, Oath of the Crown is a great fit, and this also ties into his past serving a kingdom even when he knows it's not right. Oath of the Crown offers some fantastic defender abilities, including the ability to just take a hit for an ally—sound familiar?
+Based on Cecil's abilities in the game, he has some minor healing abilities, like _all_ Paladins, but one unique mechanic he has is the Cover ability to protect weaker party members. If you want to lean into Cecil's abilities as a [defender](/5e-build-guides/tank-builds/), Oath of the Crown is a great fit, and this also ties into his past serving a kingdom even when he knows it's not right. Oath of the Crown offers some fantastic defender abilities, including the ability to just take a hit for an ally—sound familiar?
 
 If you instead want to base your choice on Cecil's character and personality, Oath of Devotion might be a better fit. Oath of Devotion is known for being the generic Paladin choice, but it actually suits him perfectly. A big part of Cecil's growth as a character is moving from a Lawful Neutral alignment to a Neutral Good alignment—and a big part of that is embracing goodness and virtue while letting go of his duty to the lawfulness of his country. That's what the Oath of Devotion is all about. You don't get the best-in-class defender abilities of the Oath of the Crown, but the Oath of Devotion is incorruptible—a great fit for Cecil's character.
 

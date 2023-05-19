@@ -20,7 +20,7 @@ aside {
             padding: 1rem;
         }
         @include tabletDown {
-            grid-template-rows: 1fr 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr 1fr;
         }
         @include desktop {
             align-items: stretch;
