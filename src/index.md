@@ -1,13 +1,12 @@
 ---
 layout: layout.njk
-meta_title: "DnD and Tabletop Tips and Advice"
+meta_title: "Kobold Think Tank: Tabletop RPG Advice for Little Dragons"
 meta_description: "Kobold Think Tank is a resource for tabletop RPGs, especially Dungeons &amp; Dragons 5e. We provide thorough but easy to understand articles on characters, concepts, and general play."
 page_name: home
 section_name: home
+eleventyExcludeFromCollections: true
 date: Last Modified
 ---
-
-# Kobold Think Tank: Tabletop RPG Advice for Little Dragons
 
 Kobold Think Tank is a resource for tabletop RPGs, especially Dungeons &amp; Dragons 5e. We aim to provide thorough but easy to understand articles on characters, concepts, and general play.
 

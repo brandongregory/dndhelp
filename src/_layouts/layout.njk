@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head itemscope itemtype="http://schema.org/WebSite">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ meta_title }} | Kobold Think Tank</title>
-    <link rel="canonical" href="https://koboldthinktank.site{{ page.url }}" />
+    <title>{{ meta_title }} | {{ siteName }}</title>
+    <link rel="canonical" href="{{ siteUrl }}{{ page.url }}" />
     <meta name="description" content="{{ meta_description }}">
-    <meta name="author" content="Brandon Gregory">
+    <meta name="author" content="{{ author }}">
     <meta name="generator" content="{{ eleventy.generator }}">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"{{ siteUrl }}","url":"{{ siteUrl }}","name":"{{ siteName }}","publisher":{"@type":"Person","name":"Brandon Gregory"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"{{ siteUrl }}{{ page.url }}","url":"{{ siteUrl }}{{ page.url }}","name":"{{ meta_title }} | {{ siteName }}","dateModified":" {{ page.date.toISOString() }} ","isPartOf":{"@id":"{{ siteUrl }}"},"inLanguage":"en-US"},{"@type":"Article","headline":"{{ meta_title }}","dateModified":"{{ page.date.toISOString() }}","author":{"@type":"Person","name":"{{ author }}"},"publisher":{"@type":"Person","name":"Brandon Gregory"},"description":"{{ meta_description }}","name":"{{ meta_title }} | {{ siteName }}","inLanguage":"en-US","mainEntityOfPage":{"@id":"{{ siteUrl }}{{ page.url }}"}}]}</script>
     {% set css %}
     {% include "styles.css" %}
     {% endset %}
@@ -50,6 +51,22 @@
 
     <!-- PAGE CONTENT -->
     <main class="container">
+        <ol id="breadcrumbs" role="navigation">
+            <li><a href="/">Home</a></li>
+            {% if parent %}
+            <li><a href="{{parent.url}}">{{ parent.name }}</a></li>
+            {% endif %}
+            {% if parent2 %}
+            <li><a href="{{parent2.url}}">{{ parent2.name }}</a></li>
+            {% endif %}
+            <li>{{ meta_title }}</li>
+        </ol>
+
+        <h1>{{ meta_title }}</h1>
+        {% if eleventyExcludeFromCollections != true %}
+        <p class="author">by {{ author }}</p>
+        {% endif %}
+
         {{ content | safe }}
     </main>
 
@@ -76,7 +93,6 @@
         <p>Kobold Think Tank is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. &copy;Wizards of the Coast LLC.</p>
     </footer>
 </body>
-<script>const page_name = "{{ page_name }}";</script>
 <script src="/js/custom.min.js" defer></script>
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="koboldthinktank" data-description="Support me on Buy me a coffee!" data-message="Like this? Buy me a coffee!" data-color="#FFCA28" data-position="Right" data-x_margin="18" data-y_margin="18" defer></script>
 </html>

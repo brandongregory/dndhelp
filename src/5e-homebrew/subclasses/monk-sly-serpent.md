@@ -2,27 +2,20 @@
 layout: layout.njk
 meta_title: "Homebrew Class: Monk - Way of the Sly Serpent"
 meta_description: "A homebrew Monk subclass for 5e"
-page_name: home
+author: "Brandon Gregory"
 section_name: homebrew
 tags: homebrew
 date: Last Modified
+parent:
+  name: Homebrew
+  url: /5e-homebrew/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Homebrew](/5e-homebrew/)
-3. Monk - Way of the Sly Serpent
-
-# Monk - Way of the Sly Serpent
-<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Monk-Way-of-the-Sly-Serpent-Muted.webp"
   srcset="/images/Monk - Way of the Sly Serpent - Muted - 720.webp 720w,
           /images/Monk-Way-of-the-Sly-Serpent-Muted.webp 1536w"
-  sizes="(min-width: 768px) 768px,
-         360px"
+  sizes="(min-width: 768px) 768px,360px"
   alt="Illustration of a half-elf man in fine clothing with a baseball bat slung over his shoulder"
   class="hero"
   height="720" width="720" />

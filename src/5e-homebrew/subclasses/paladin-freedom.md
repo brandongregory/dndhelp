@@ -2,27 +2,20 @@
 layout: layout.njk
 meta_title: "Homebrew Class: Paladin - Oath of Freedom"
 meta_description: "A homebrew Paladin subclass for 5e"
-page_name: home
+author: "Brandon Gregory"
 section_name: homebrew
 tags: homebrew
 date: Last Modified
+parent:
+  name: Homebrew
+  url: /5e-homebrew/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Homebrew](/5e-homebrew/)
-3. Paladin - Oath of Freedom
-
-# Paladin - Oath of Freedom
-<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Paladin-Oath-of-Freedom-Muted.webp"
   srcset="/images/Paladin - Oath of Freedom - Muted - 720.webp 720w,
           /images/Paladin-Oath-of-Freedom-Muted.webp 1536w"
-  sizes="(min-width: 768px) 768px,
-         360px"
+  sizes="(min-width: 768px) 768px,360px"
   alt="Illustration of a goblin in a breastplate wielding a short sword over his head"
   class="hero"
   height="720" width="720" />

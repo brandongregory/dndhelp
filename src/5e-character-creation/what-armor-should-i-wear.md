@@ -2,22 +2,14 @@
 layout: layout.njk
 meta_title: "Armor types in DnD 5e"
 meta_description: "Light armor, medium armor, or heavy armor? This can be confusing, but the mechanics provide some clear advantages for each. Here's a primer."
-page_name: home
+author: "Brandon Gregory"
 section_name: character-creation
 tags: character-creation
 date: Last Modified
+parent:
+  name: Character Creation
+  url: /5e-character-creation/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Character Creation](/5e-character-creation/)
-3. What Armor Should I Wear?
-
-# What Armor Should I Wear?
-<p class="author">by Brandon Gregory</p>
-
-_A guide to armor in D&amp;D 5e_
 
 Knowing what kind of armor to choose (ie – light, medium, heavy) can be confusing for newcomers and veterans alike. For instance, you might expect medium armor to protect better than light, but that's not always the case. Here’s a breakdown.
 

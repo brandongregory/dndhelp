@@ -2,27 +2,20 @@
 layout: layout.njk
 meta_title: "Homebrew Class: Rogue - Sniper"
 meta_description: "A homebrew Rogue subclass for 5e"
-page_name: home
+author: "Brandon Gregory"
 section_name: homebrew
 tags: homebrew
 date: Last Modified
+parent:
+  name: Homebrew
+  url: /5e-homebrew/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Homebrew](/5e-homebrew/)
-3. Rogue - Sniper
-
-# Rogue - Sniper
-<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Rogue-Sniper-Muted.webp"
   srcset="/images/Rogue-Sniper-Muted-720.webp 720w,
           /images/Rogue-Sniper-Muted.webp 1536w"
-  sizes="(min-width: 768px) 768px,
-         360px"
+  sizes="(min-width: 768px) 768px,360px"
   alt="Illustration of a half-elf woman in a cowboy hat looking carefully down a notched arrow"
   class="hero"
   height="720" width="720" />

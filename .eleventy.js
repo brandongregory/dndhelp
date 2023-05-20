@@ -3,6 +3,10 @@ const htmlmin = require("html-minifier");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 module.exports = function(eleventyConfig) {
+  // Global Data
+  eleventyConfig.addGlobalData("siteName", "Kobold Think Tank");
+  eleventyConfig.addGlobalData("siteUrl", "https://koboldthinktank.site");
+  eleventyConfig.addGlobalData("siteDescription", "Kobold Think Tank is a resource for tabletop RPGs, especially Dungeons & Dragons 5e. We aim to provide thorough but easy to understand articles on characters, concepts, and general play.");
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     // Eleventy 1.0+: use this.inputPath and this.outputPath instead

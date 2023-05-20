@@ -2,21 +2,17 @@
 layout: layout.njk
 meta_title: "Cecil from Final Fantasy IV in DnD"
 meta_description: "Cecil is a quintessential paladin, but his dark past can give him a unique angle for a DnD character."
-page_name: home
+author: "Brandon Gregory"
 section_name: pop-culture
 tags: pop-culture
 date: Last Modified
+parent:
+  name: DnD in Pop Culture
+  url: /dnd-in-pop-culture/
+parent2:
+  name: Final Fantasy in DnD
+  url: /dnd-in-pop-culture/final-fantasy/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [DnD in Pop Culture](/dnd-in-pop-culture)
-3. [Final Fantasy Characters in DnD](/dnd-in-pop-culture/final-fantasy/)
-4. Cecil from Final Fantasy IV
-
-# Cecil from Final Fantasy IV in DnD
-<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/ff4-cecil-360.webp"

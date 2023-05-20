@@ -2,20 +2,14 @@
 layout: layout.njk
 meta_title: "Archer Builds in DnD 5e"
 meta_description: "Anyone can hold a bow, but few really shine. Picking the right class, subclass, feats, and magic items can make your archer powerful and fun to play."
-page_name: home
+author: "Brandon Gregory"
 section_name: build
 tags: build
 date: Last Modified
+parent:
+  name: Build Guides
+  url: /5e-build-guides/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Build Guides](/5e-build-guides/)
-3. Archer Builds in DnD 5e
-
-# Archer Builds in DnD 5e
-<p class="author">by Brandon Gregory</p>
 
 Want to build an archer as your Dungeons & Dragons 5e character? Here are significant builds to look at.
 

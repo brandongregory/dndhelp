@@ -1,21 +1,14 @@
 ---
 layout: layout.njk
-meta_title: "5e Build Guides"
+meta_title: "DnD 5e Build Guides"
 meta_description: "DnD 5e guides for specific character build concepts, like archers, AOE mages, tanks, and more"
-page_name: home
+author: "Brandon Gregory"
 section_name: build
 eleventyExcludeFromCollections: true
 date: Last Modified
 ---
 
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. Build Guides
-
-# DnD 5e Build Guides
-
-Want to know how to build the perfect archer? Check out these articles.
+Want to know how to build the perfect archer or support caster? Check out these articles.
 
 * [Archer Builds in DnD 5e](/5e-build-guides/archer-builds/) &ndash; Subclasses and feats for great archer builds in DnD 5e
 * [Blaster Caster Builds in DnD 5e](/5e-build-guides/blaster-caster-builds/) &ndash; A breakdown of spells, classes, and feats for blasters, or AOE casters

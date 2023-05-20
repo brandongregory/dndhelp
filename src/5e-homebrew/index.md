@@ -1,19 +1,12 @@
 ---
 layout: layout.njk
-meta_title: "5e Homebrew"
+meta_title: "DnD 5e Homebrew"
 meta_description: "Classes, subclasses, and more for DnD 5e"
-page_name: home
-section_name: home
+author: "Brandon Gregory"
+section_name: homebrew
 eleventyExcludeFromCollections: true
 date: Last Modified
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. 5e Homebrew
-
-# DnD 5e Homebrew
 
 A collection of some of the homebrew I've created over the years.
 

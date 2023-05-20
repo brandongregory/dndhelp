@@ -2,20 +2,14 @@
 layout: layout.njk
 meta_title: "Control Caster Builds in DnD 5e"
 meta_description: "Control casters can absolutely wreck an enemy party. Here's a look at classes, spells, and feats for control casters to make your build the most effective."
-page_name: home
+author: "Brandon Gregory"
 section_name: build
 tags: build
 date: Last Modified
+parent:
+  name: Build Guides
+  url: /5e-build-guides/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Build Guides](/5e-build-guides/)
-3. Control Caster Builds in DnD 5e
-
-# Control Caster Builds in DnD 5e
-<p class="author">by Brandon Gregory</p>
 
 [Support casters](/5e-character-creation/party-roles/#BattleRoles-Support) and [Blasters](/5e-character-creation/party-roles/#BattleRoles-Blaster) are important, but a good [Controller](/5e-character-creation/party-roles/#BattleRoles-Controller) mage can absolutely wreck an enemy party, potentially turning some encounters into a cakewalk. They have spells to completely take some enemies out of the fight or chop the battlefield in half, turning one tough encounter into two easy ones. Most full casters can fill this role, but here’s a breakdown on which classes do it best.
 

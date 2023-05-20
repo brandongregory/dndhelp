@@ -2,21 +2,17 @@
 layout: layout.njk
 meta_title: "Edward from Final Fantasy IV in DnD"
 meta_description: "No party needs another horny bard. Edward is a tragic bard with strong controller abilities that can be a benefit to any party."
-page_name: home
+author: "Brandon Gregory"
 section_name: pop-culture
 tags: pop-culture
 date: Last Modified
+parent:
+  name: DnD in Pop Culture
+  url: /dnd-in-pop-culture/
+parent2:
+  name: Final Fantasy in DnD
+  url: /dnd-in-pop-culture/final-fantasy/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [DnD in Pop Culture](/dnd-in-pop-culture)
-3. [Final Fantasy Characters in DnD](/dnd-in-pop-culture/final-fantasy/)
-4. Edward from Final Fantasy IV
-
-# Edward from Final Fantasy IV in DnD
-<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/ff4-edward-360.webp"

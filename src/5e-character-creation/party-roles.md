@@ -2,20 +2,14 @@
 layout: layout.njk
 meta_title: "Party Roles in DnD 5e"
 meta_description: "Thinking about what type of DnD character to play can seem intimidating. Here are some basic combat and exploration roles your character can be built for."
-page_name: home
+author: "Brandon Gregory"
 section_name: character-creation
 tags: character-creation
 date: Last Modified
+parent:
+  name: Character Creation
+  url: /5e-character-creation/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Character Creation](/5e-character-creation/)
-3. Party Roles in DnD 5e
-
-# Party Roles in DnD 5e
-<p class="author">by Brandon Gregory</p>
 
 This is not official by any means, but here are common roles party members can fill. When thinking of the character you want to build, try to make sure you can adequately fill one battle role and one exploration role. For instance, a Rogue is a good striker and infiltrator, easily falling into those two categories. Fighter abilities lean much more toward combat, but Fighters have some flexibility with their builds, allowing you to allocate stats and pick feats to fill an exploration role.
 

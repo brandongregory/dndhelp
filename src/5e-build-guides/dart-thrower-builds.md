@@ -2,20 +2,14 @@
 layout: layout.njk
 meta_title: "Ultimate Dart Thrower Builds in DnD 5e"
 meta_description: "Are dart builds viable in 5e? Surprisingly, yes! Here's a bit of background info and build suggestions for dart throwers in DnD."
-page_name: home
+author: "Brandon Gregory"
 section_name: build
 tags: build
 date: Last Modified
+parent:
+  name: Build Guides
+  url: /5e-build-guides/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Build Guides](/5e-build-guides/)
-3. Ultimate Dart Thrower Builds in DnD 5e
-
-# Ultimate Dart Thrower Builds in DnD 5e
-<p class="author">by Brandon Gregory</p>
 
 Have you ever watched someone tossing darts in a bar and thought, that should be my DnD character? Well, probably not. But darts in DnD can actually be effective weapons, proving to be much more deadly than the little things we throw for sport. This is not an overly powerful build by any measure (unlike some older versions of DnD, where darts were wildly overpowered), but a dart thrower can make for a unique and fun character with the right build.
 

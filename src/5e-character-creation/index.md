@@ -1,19 +1,12 @@
 ---
 layout: layout.njk
-meta_title: "5e Character Creation"
+meta_title: "DnD 5e Character Creation"
 meta_description: "Basic tips and clarifications for character creation in DnD 5e"
-page_name: home
-section_name: home
+author: "Brandon Gregory"
+section_name: character-creation
 eleventyExcludeFromCollections: true
 date: Last Modified
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. Character Creation
-
-# DnD 5e Character Creation
 
 Want to know how to build the perfect archer? Need some info on what general roles your character can play or what each class does? Check out these articles.
 

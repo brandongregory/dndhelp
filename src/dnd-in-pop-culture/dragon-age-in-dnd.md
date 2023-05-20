@@ -2,19 +2,14 @@
 layout: layout.njk
 meta_title: "Dragon Age Characters in DnD"
 meta_description: 
-page_name: home
+author: "Brandon Gregory"
 section_name: home
 eleventyExcludeFromCollections: true
 date: Last Modified
+parent:
+  name: DnD in Pop Culture
+  url: /dnd-in-pop-culture/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [DnD in Pop Culture](/dnd-in-pop-culture)
-3. Dragon Age Characters in DnD
-
-# Dragon Age Characters in DnD
 
 Dragon Age is already fairly similar to DnD, so some of the comparisons were easy; some I had a reach a bit for, but I still think all of these are good fits.
 

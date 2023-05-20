@@ -2,19 +2,14 @@
 layout: layout.njk
 meta_title: "One Piece Characters in DnD"
 meta_description: 
-page_name: home
+author: "Brandon Gregory"
 section_name: home
 eleventyExcludeFromCollections: true
 date: Last Modified
+parent:
+  name: DnD in Pop Culture
+  url: /dnd-in-pop-culture/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [DnD in Pop Culture](/dnd-in-pop-culture)
-3. One Piece Characters in DnD
-
-# One Piece Characters in DnD
 
 From the Straw Hat Pirates to some other characters (including Shanks!), a lot of the One Piece characters have rough equivalents in Dungeons &amp; Dragons. Some I had trouble placing (sorry, Jinbei), but here's a list of good DnD analogies for One Piece characters.
 

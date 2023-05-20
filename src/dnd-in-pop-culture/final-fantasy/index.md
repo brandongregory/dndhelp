@@ -2,19 +2,14 @@
 layout: layout.njk
 meta_title: "Final Fantasy Characters in DnD"
 meta_description: 
-page_name: home
+author: "Brandon Gregory"
 section_name: pop-culture
 eleventyExcludeFromCollections: true
 date: Last Modified
+parent:
+  name: DnD in Pop Culture
+  url: /dnd-in-pop-culture/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [DnD in Pop Culture](/dnd-in-pop-culture)
-3. Final Fantasy Characters in DnD
-
-# Final Fantasy Characters in DnD
 
 Final Fantasy has its own robust class system and there aren't always exact matches to the DnD world, but some of the characters are just so iconic that they're worth looking at in DnD. Sorted by game. I'm also adding to this section, so if you don't see what you want, check back later!
 

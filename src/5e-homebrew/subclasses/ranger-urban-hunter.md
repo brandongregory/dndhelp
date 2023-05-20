@@ -2,27 +2,20 @@
 layout: layout.njk
 meta_title: "Homebrew Class: Ranger - Urban Hunter"
 meta_description: "A homebrew Ranger subclass for 5e"
-page_name: home
+author: "Brandon Gregory"
 section_name: homebrew
 tags: homebrew
 date: Last Modified
+parent:
+  name: Homebrew
+  url: /5e-homebrew/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Homebrew](/5e-homebrew/)
-3. Ranger - Urban Hunter
-
-# Ranger - Urban Hunter
-<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Ranger-Urban-Hunter-Muted.webp"
   srcset="/images/Ranger - Urban Hunter - Muted - 720.webp 720w,
           /images/Ranger-Urban-Hunter-Muted.webp 1536w"
-  sizes="(min-width: 768px) 768px,
-         360px"
+  sizes="(min-width: 768px) 768px,360px"
   alt="Illustration of a dark dwarf woman with a crossbow"
   class="hero"
   height="720" width="720" />

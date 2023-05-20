@@ -2,27 +2,20 @@
 layout: layout.njk
 meta_title: "Homebrew Class: Artificer - Chaos Agent"
 meta_description: "A homebrew Artificer subclass for 5e"
-page_name: home
+author: "Brandon Gregory"
 section_name: homebrew
 tags: homebrew
 date: Last Modified
+parent:
+  name: Homebrew
+  url: /5e-homebrew/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Homebrew](/5e-homebrew/)
-3. Artificer - Chaos Agent
-
-# Artificer - Chaos Agent
-<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/Artificer-Chaos-Agent-Muted.webp"
   srcset="/images/Artificer - Chaos Agent - Muted - 720.webp 720w,
           /images/Artificer-Chaos-Agent-Muted.webp 1536w"
-  sizes="(min-width: 768px) 768px,
-         360px"
+  sizes="(min-width: 768px) 768px,360px"
   alt="Illustration of a gnome woman with an explosive device"
   class="hero"
   height="720" width="720" />

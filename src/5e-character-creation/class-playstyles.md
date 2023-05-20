@@ -2,20 +2,14 @@
 layout: layout.njk
 meta_title: "Class Playstyles in DnD 5e"
 meta_description: "A basic overview of each DnD class, what makes it shine, and how it contributes to the party, with pop culture examples."
-page_name: home
+author: "Brandon Gregory"
 section_name: character-creation
 tags: character-creation
 date: Last Modified
+parent:
+  name: Character Creation
+  url: /5e-character-creation/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Character Creation](/5e-character-creation/)
-3. Class Playstyles in DnD 5e
-
-# Class Playstyles in DnD 5e
-<p class="author">by Brandon Gregory</p>
 
 If you're newer to DnD, or just haven't played some of the classes, you may be wondering what each of them is like. What's the difference between a Fighter and Barbarian, for instance, or a Sorcerer and a Wizard? Sometimes even reading the introductions in the handbooks don't give you a clear idea, and it can be hard to get that without getting way into the mechanics of each class.
 

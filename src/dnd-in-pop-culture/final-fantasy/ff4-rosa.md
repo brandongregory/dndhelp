@@ -2,21 +2,17 @@
 layout: layout.njk
 meta_title: "Rosa from Final Fantasy IV in DnD"
 meta_description: "Much more than a simple healer, Rosa was an amazing character in Final Fantasy IV, and can be a great basis for a build in DnD."
-page_name: home
+author: "Brandon Gregory"
 section_name: pop-culture
 tags: pop-culture
 date: Last Modified
+parent:
+  name: DnD in Pop Culture
+  url: /dnd-in-pop-culture/
+parent2:
+  name: Final Fantasy in DnD
+  url: /dnd-in-pop-culture/final-fantasy/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [DnD in Pop Culture](/dnd-in-pop-culture)
-3. [Final Fantasy Characters in DnD](/dnd-in-pop-culture/final-fantasy/)
-4. Rosa from Final Fantasy IV
-
-# Rosa from Final Fantasy IV in DnD
-<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/ff4-rosa-360.webp"

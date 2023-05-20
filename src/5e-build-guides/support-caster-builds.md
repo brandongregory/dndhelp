@@ -2,20 +2,14 @@
 layout: layout.njk
 meta_title: "Support Caster Builds in DnD 5e"
 meta_description: "Support casters, including healers and buffers, can be absolutely vital in a DnD party. Here are some of the best classes and feats for support casters."
-page_name: home
+author: "Brandon Gregory"
 section_name: build
 tags: build
 date: Last Modified
+parent:
+  name: Build Guides
+  url: /5e-build-guides/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [Build Guides](/5e-build-guides/)
-3. Support Caster Builds in DnD 5e
-
-# Support Caster Builds in DnD 5e
-<p class="author">by Brandon Gregory</p>
 
 Support casters can be absolutely vital in a party, sometimes making the difference between a total party kill and a victory. Small parties don’t necessarily need a dedicated support character, but every party will be stronger with some support features. But support is a very varied role. Some classes have amazing healing spells but can struggle to buff their teammates, while some classes have amazing buffs but virtually no healing spells. Balancing healing and buffing with the needs of your team can take some planning.
 

@@ -2,21 +2,17 @@
 layout: layout.njk
 meta_title: "Rikku from Final Fantasy X in DnD"
 meta_description: "Rikku is an enthusiastic and oddly adorable thief in Final Fantasy X, but she's also a fantastic support and utility character. Here's how to build her in DnD."
-page_name: home
+author: "Brandon Gregory"
 section_name: pop-culture
 tags: pop-culture
 date: Last Modified
+parent:
+  name: DnD in Pop Culture
+  url: /dnd-in-pop-culture/
+parent2:
+  name: Final Fantasy in DnD
+  url: /dnd-in-pop-culture/final-fantasy/
 ---
-
-<div id="breadcrumbs"></div>
-
-1. [Home](/)
-2. [DnD in Pop Culture](/dnd-in-pop-culture)
-3. [Final Fantasy Characters in DnD](/dnd-in-pop-culture/final-fantasy/)
-4. Rikku from Final Fantasy X
-
-# Rikku from Final Fantasy X in DnD
-<p class="author">by Brandon Gregory</p>
 
 <img
   src="/images/ff10-rikku-360.webp"
