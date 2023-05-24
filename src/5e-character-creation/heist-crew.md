@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Putting Together a Heist Crew for DnD 5e"
 meta_description: "If you're putting together a crew for a heist adventure, party roles and needs can be quite different than in a regular adventure. Here are 6 roles to succeed."
 author: "Brandon Gregory"
 section_name: character-creation
-tags: character-creation
+tags: ['character-creation']
 date: Last Modified
 parent:
   name: Character Creation

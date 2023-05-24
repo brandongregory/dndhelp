@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Mental Stats Compared in DnD 5e"
 meta_description: "What's the difference between Intelligence and Wisdom? Can low-Charisma characters be likeable? Here's a quick comparison of the three mental stats."
 author: "Brandon Gregory"
 section_name: character-creation
-tags: character-creation
+tags: ['character-creation']
 date: Last Modified
 parent:
   name: Character Creation

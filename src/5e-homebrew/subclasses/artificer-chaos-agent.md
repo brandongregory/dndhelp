@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
-meta_title: "Homebrew Class: Artificer - Chaos Agent"
+layout: article.njk
+meta_title: "Artificer subclass: Chaos Agent"
 meta_description: "A homebrew Artificer subclass for 5e"
 author: "Brandon Gregory"
 section_name: homebrew
-tags: homebrew
+tags: ['homebrew']
 date: Last Modified
 parent:
   name: Homebrew

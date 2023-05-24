@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
-meta_title: "Homebrew Class: Fighter - Dragon Knight"
+layout: article.njk
+meta_title: "Fighter subclass: Dragon Knight"
 meta_description: "A homebrew Fighter subclass for 5e"
 author: "Brandon Gregory"
 section_name: homebrew
-tags: homebrew
+tags: ['homebrew']
 date: Last Modified
 parent:
   name: Homebrew

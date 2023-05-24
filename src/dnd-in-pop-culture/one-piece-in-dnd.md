@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "One Piece Characters in DnD"
-meta_description: 
+meta_description: "One Piece Characters in DnD"
 author: "Brandon Gregory"
-section_name: home
-eleventyExcludeFromCollections: true
+section_name: pop-culture
+tags: ['pop-culture-page']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

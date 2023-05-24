@@ -23,15 +23,6 @@ module.exports = function(eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   // Collections
-  eleventyConfig.addCollection("builds", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("src/5e-build-guides/**/*.md");
-  });
-  eleventyConfig.addCollection("character-creation", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("src/5e-character-creation/**/*.md");
-  });
-  eleventyConfig.addCollection("homebrew", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("src/5e-homebrew/**/*.md");
-  });
   eleventyConfig.addCollection("pop-culture", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/dnd-in-pop-culture/**/*.md");
   });

@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Ultimate Defender Tank Builds in DnD 5e"
 meta_description: "Unlike video games, tanking is deceptively difficult in DnD. Here are some builds for the most effective tanks."
 author: "Brandon Gregory"
 section_name: build
-tags: build
+tags: ['build']
 date: Last Modified
 parent:
   name: Build Guides

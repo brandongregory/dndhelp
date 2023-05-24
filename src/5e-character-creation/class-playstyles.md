@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Class Playstyles in DnD 5e"
 meta_description: "A basic overview of each DnD class, what makes it shine, and how it contributes to the party, with pop culture examples."
 author: "Brandon Gregory"
 section_name: character-creation
-tags: character-creation
+tags: ['character-creation']
 date: Last Modified
 parent:
   name: Character Creation

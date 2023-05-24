@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Armor types in DnD 5e"
 meta_description: "Light armor, medium armor, or heavy armor? This can be confusing, but the mechanics provide some clear advantages for each. Here's a primer."
 author: "Brandon Gregory"
 section_name: character-creation
-tags: character-creation
+tags: ['character-creation']
 date: Last Modified
 parent:
   name: Character Creation

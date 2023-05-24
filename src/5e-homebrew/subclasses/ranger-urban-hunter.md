@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
-meta_title: "Homebrew Class: Ranger - Urban Hunter"
+layout: article.njk
+meta_title: "Ranger subclass - Urban Hunter"
 meta_description: "A homebrew Ranger subclass for 5e"
 author: "Brandon Gregory"
 section_name: homebrew
-tags: homebrew
+tags: ['homebrew']
 date: Last Modified
 parent:
   name: Homebrew

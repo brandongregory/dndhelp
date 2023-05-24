@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
-meta_title: "Homebrew Class: Barbarian - Path of the Street Brawler"
+layout: article.njk
+meta_title: "Barbarian subclass: Path of the Street Brawler"
 meta_description: "A homebrew Barbarian subclass for 5e"
 author: "Brandon Gregory"
 section_name: homebrew
-tags: homebrew
+tags: ['homebrew']
 date: Last Modified
 parent:
   name: Homebrew
