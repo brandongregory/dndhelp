@@ -34,7 +34,7 @@ Rikku is the fastest playable character in FF10, meaning she would have a high D
 
 Rikku’s Mix ability, as well as her ability to use grenades and other specialty items, gives her unmatched versatility. She can do good damage, but can also heal as well as [Yuna](/dnd-in-pop-culture/final-fantasy/ff10-yuna/) or support the party with buffs. The Artificer core features offer great versatility and a good mix of magic and martial options, but the Alchemist subclass allows this character to fill the [support role](/5e-build-guides/support-caster-builds/) quite well, with healing and buffs to make the whole party stronger.
 
-If you really want some additional thief skills to fill that role as well, you can always multiclass into Rogue (the Thief subclass would be a great fit), but the Artificer gains great abilities to aid their play style at just about every level, so don’t put too many levels into another class.
+If you really want some additional thief skills to fill that role as well, you can always multiclass into Rogue (the Thief subclass would be a great fit), but the Artificer gains great abilities to aid their play style at just about every level, so don’t put too many levels into another class. Artificers also gain proficiency with Thieves Tools, so even a straight Artificer will get most of the way there.
 
 
 ## Picking a Race

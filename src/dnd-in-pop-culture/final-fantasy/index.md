@@ -34,4 +34,5 @@ Final Fantasy VI dominated my imagination earlier in my life, and I still fondly
 Final Fantasy X was a milestone for the series: it was the first game in the more powerful Playstation 2, and the first game with voice acting. The voice direction and editing left a little to be desired, but the story was still deep and moving, and the characters each brought something special to gameplay (except Kimahri). With such strong character roles, it's easy to draw parallels to DnD.
 
 * [Rikku](/dnd-in-pop-culture/final-fantasy/ff10-rikku/)
+* [Wakka](/dnd-in-pop-culture/final-fantasy/ff10-wakka/)
 * [Yuna](/dnd-in-pop-culture/final-fantasy/ff10-yuna/)
