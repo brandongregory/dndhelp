@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Wakka from Final Fantasy X in DnD"
 meta_description: "A lot of DnD builds, ya? Wakka's powerful ranged attacks and debilitating status effects translate well to DnD. Praise be to Yevon. Here's how to build him."
 author: "Brandon Gregory"
-section_name: pop-culture
-tags: pop-culture
+section_name: final-fantasy
+tags: ['final-fantasy']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

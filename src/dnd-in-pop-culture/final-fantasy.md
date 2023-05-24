@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Final Fantasy Characters in DnD"
-meta_description: 
+meta_description: "Final Fantasy Characters in DnD"
 author: "Brandon Gregory"
 section_name: pop-culture
-eleventyExcludeFromCollections: true
+tags: ['pop-culture-page']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

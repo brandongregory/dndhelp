@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Support Caster Builds in DnD 5e"
 meta_description: "Support casters, including healers and buffers, can be absolutely vital in a DnD party. Here are some of the best classes and feats for support casters."
 author: "Brandon Gregory"
 section_name: build
-tags: build
+tags: ['build']
 date: Last Modified
 parent:
   name: Build Guides

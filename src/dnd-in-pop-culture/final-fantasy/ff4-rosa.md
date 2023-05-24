@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Rosa from Final Fantasy IV in DnD"
 meta_description: "Much more than a simple healer, Rosa was an amazing character in Final Fantasy IV, and can be a great basis for a build in DnD."
 author: "Brandon Gregory"
-section_name: pop-culture
-tags: pop-culture
+section_name: final-fantasy
+tags: ['final-fantasy']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

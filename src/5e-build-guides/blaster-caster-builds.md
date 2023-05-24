@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Blaster Caster Builds in DnD 5e"
 meta_description: "Blaster casters excel at attacking groups of foes and can be fun to play. Here's a breakdown of classes, spells, and feats to make the best blaster builds."
 author: "Brandon Gregory"
 section_name: build
-tags: build
+tags: ['build']
 date: Last Modified
 parent:
   name: Build Guides

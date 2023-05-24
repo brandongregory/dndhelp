@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Dexterity vs Strength Builds in DnD 5e"
 meta_description: "Choosing between strength and dexterity in DnD can be tricky. Here's a quick guide on the pros and cons of each, along with how each class handles it."
 author: "Brandon Gregory"
 section_name: character-creation
-tags: character-creation
+tags: ['character-creation']
 date: Last Modified
 parent:
   name: Character Creation

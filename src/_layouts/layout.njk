@@ -50,43 +50,7 @@
     </header>
 
     <!-- PAGE CONTENT -->
-    <main class="container">
-        <div role="navigation">
-            <ol id="breadcrumbs">
-                <li><a href="/">Home</a></li>
-                {% if parent %}
-                <li><a href="{{parent.url}}">{{ parent.name }}</a></li>
-                {% endif %}
-                {% if parent2 %}
-                <li><a href="{{parent2.url}}">{{ parent2.name }}</a></li>
-                {% endif %}
-                <li>{{ meta_title }}</li>
-            </ol>
-        </div>
-
-        <h1>{{ meta_title }}</h1>
-        {% if eleventyExcludeFromCollections != true %}
-        <p class="author">by {{ author }}</p>
-        {% endif %}
-
-        {{ content | safe }}
-    </main>
-
-    {%- if tags.length -%}
-    {% set siblings = collections[section_name] | randomSiblings(page.fileSlug) %}
-    <aside class="container">
-        <h2>Related posts</h2>
-        <ul>
-            {%- for post in siblings -%}
-            <li>
-                <h3><a href="{{ post.url }}">{{ post.data.meta_title }}</a></h3>
-                <p class="description">{{post.data.meta_description}}</p>
-                <p class="link"><a href="{{ post.url }}">Read Now &raquo;</a></p>
-            </li>
-            {%- endfor -%}
-        </ul>
-    </aside>
-    {%- endif -%}
+    {{ content | safe }}
 
     <!-- FOOTER COMPONENT-->
     <footer class="footer container">

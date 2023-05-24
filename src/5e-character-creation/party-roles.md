@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Party Roles in DnD 5e"
 meta_description: "Thinking about what type of DnD character to play can seem intimidating. Here are some basic combat and exploration roles your character can be built for."
 author: "Brandon Gregory"
 section_name: character-creation
-tags: character-creation
+tags: ['character-creation']
 date: Last Modified
 parent:
   name: Character Creation

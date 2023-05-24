@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
-meta_title: "Homebrew Class: Paladin - Oath of Freedom"
+layout: article.njk
+meta_title: "Paladin subclass - Oath of Freedom"
 meta_description: "A homebrew Paladin subclass for 5e"
 author: "Brandon Gregory"
 section_name: homebrew
-tags: homebrew
+tags: ['homebrew']
 date: Last Modified
 parent:
   name: Homebrew

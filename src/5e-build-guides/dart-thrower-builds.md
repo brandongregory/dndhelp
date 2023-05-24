@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Ultimate Dart Thrower Builds in DnD 5e"
 meta_description: "Are dart builds viable in 5e? Surprisingly, yes! Here's a bit of background info and build suggestions for dart throwers in DnD."
 author: "Brandon Gregory"
 section_name: build
-tags: build
+tags: ['build']
 date: Last Modified
 parent:
   name: Build Guides

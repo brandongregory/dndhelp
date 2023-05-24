@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
-meta_title: "Homebrew Class: Rogue - Sniper"
+layout: article.njk
+meta_title: "Rogue subclass - Sniper"
 meta_description: "A homebrew Rogue subclass for 5e"
 author: "Brandon Gregory"
 section_name: homebrew
-tags: homebrew
+tags: ['homebrew']
 date: Last Modified
 parent:
   name: Homebrew

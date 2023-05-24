@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: article.njk
 meta_title: "Strength-Based Unarmed Brawler Builds in DnD 5e"
 meta_description: "Want to be a rough-and-tumble street brawler WITHOUT the mystical element of Monks? A strong brawler might be your best bet."
 author: "Brandon Gregory"
 section_name: build
-tags: build
+tags: ['build']
 date: Last Modified
 parent:
   name: Build Guides
