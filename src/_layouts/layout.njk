@@ -9,9 +9,11 @@
     <meta name="description" content="{{ meta_description }}">
     <meta name="author" content="{{ author }}">
     <meta name="generator" content="{{ eleventy.generator }}">
+    {% if article == true %}
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"{{ siteUrl }}","url":"{{ siteUrl }}","name":"{{ siteName }}","publisher":{"@type":"Person","name":"Brandon Gregory"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"{{ siteUrl }}{{ page.url }}","url":"{{ siteUrl }}{{ page.url }}","name":"{{ meta_title }} | {{ siteName }}","dateModified":" {{ page.date.toISOString() }} ","isPartOf":{"@id":"{{ siteUrl }}"},"inLanguage":"en-US"},{"@type":"Article","headline":"{{ meta_title }}","dateModified":"{{ page.date.toISOString() }}","author":{"@type":"Person","name":"{{ author }}"},"publisher":{"@type":"Person","name":"Brandon Gregory"},"description":"{{ meta_description }}","name":"{{ meta_title }} | {{ siteName }}","inLanguage":"en-US","mainEntityOfPage":{"@id":"{{ siteUrl }}{{ page.url }}"}}]}</script>
+    {% endif %}
     {% set css %}
-    {% include "styles.css" %}
+    {% include "styles.css" %}{% if article == true %}{% include "article.css" %}{% endif %}{% if toc == true %}{% include "toc.css" %}{% endif %}
     {% endset %}
     <style>{{ css | safe }}</style>
     <link rel="preconnect" href="https://fonts.googleapis.com">

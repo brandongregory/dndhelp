@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm run buildinit && npm run buildcss && npm run buildhtml && npm run buildimages && npm run buildjs",
-    "buildcss": "node-sass --output-style compressed --include-path scss src/scss/main.scss src/_includes/styles.css",
+    "buildcss": "node-sass --output-style compressed --include-path scss src/scss/main.scss src/_includes/styles.css && node-sass --output-style compressed --include-path scss src/scss/article.scss src/_includes/article.css && node-sass --output-style compressed --include-path scss src/scss/toc.scss src/_includes/toc.css",
     "buildhtml": "npx @11ty/eleventy",
     "buildimages": "imagemin src/images/**/* --out-dir=webroot/images",
     "buildinit": "make-dir webroot/js",

@@ -9,4 +9,4 @@ eleventyExcludeFromCollections: true
 date: Last Modified
 ---
 
-Want to know how to build the perfect archer? Need some info on what general roles your character can play or what each class does? Check out these articles.
+Need some info on what general roles your character can play or what each class does? Check out these articles.
