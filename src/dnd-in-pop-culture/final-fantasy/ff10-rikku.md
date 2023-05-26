@@ -28,7 +28,7 @@ Every Final Fantasy game needs a character who’s both excitable and adorable, 
 
 ## Picking a Class and Subclass
 
-Ordinarily, a pop-culture character will have different aspects of their skill set that can play out in very different ways, so I give multiple options here; however, in Rikku’s case, I think there’s one clear winner: an Alchemist Artificer. Rikku has the Steal ability, so she’s often talked about as the thief of the party, but both her backstory and other abilities point to an Alchemist.
+Ordinarily, a pop-culture character will have different aspects of their skill set that can play out in very different ways, so I give multiple options here; however, in Rikku’s case, I think there’s one clear winner: an **Alchemist Artificer**. Rikku has the Steal ability, so she’s often talked about as the thief of the party, but both her backstory and other abilities point to an Alchemist.
 
 Rikku is the fastest playable character in FF10, meaning she would have a high Dexterity score, but her background as an inventor and liberator of ancient technologies means she would have a high Intelligence too. Her thief skills (like Stealth and Sleight of Hand) are based on Dexterity, and she would probably have decent knowledge skills as well (specifically History and Arcana), which are based on Intelligence. So Dexterity and Intelligence are both important to this build.
 
@@ -39,19 +39,19 @@ If you really want some additional thief skills to fill that role as well, you c
 
 ## Picking a Race
 
-Rikku’s role as a quirky, enthusiastic, and adorable inventor is a perfect match for a Gnome. The excerpt on DnD Beyond reads, “A gnome’s energy and enthusiasm for living shines through every inch of his or her tiny body.” That seems to fit Rikku. Gnomes also have some useful racial features for an Artificer, including Darkvision (useful for anyone) and advantage on saving throws against magic (someone who investigates ancient magic and technology will probably have learned a thing or two about defending herself from it).
+Rikku’s role as a quirky, enthusiastic, and adorable inventor is a perfect match for a **Gnome**. The excerpt on DnD Beyond reads, “A gnome’s energy and enthusiasm for living shines through every inch of his or her tiny body.” That seems to fit Rikku. Gnomes also have some useful racial features for an Artificer, including Darkvision (useful for anyone) and advantage on saving throws against magic (someone who investigates ancient magic and technology will probably have learned a thing or two about defending herself from it).
 
 Forest Gnomes are a decent choice, gaining a useful cantrip and the less thematic ability to talk to animals. Rock Gnomes seem to be designed specifically with the Artificer class in mind, with racial features dedicated to inventing things. The new Deep Gnome in _Monsters of the Multiverse_ doesn’t play into the inventor role much, but offers some great stealth features, if you’re leaning more into the thief role Rikku plays.
 
-If you want something more exotic than a Gnome, a Kobold is an interesting choice. They get to choose a useful racial feature at level 1, and their Draconic Cry ability can grant advantage on attack rolls to the entire party, playing into the support role. As a character that delves into ancient ruins, this also gives more focus to that: discovering ancient dragon secrets, which can open up all sorts of story hooks.
+If you want something more exotic than a Gnome, a **Kobold** is an interesting choice. They get to choose a useful racial feature at level 1, and their Draconic Cry ability can grant advantage on attack rolls to the entire party, playing into the support role. As a character that delves into ancient ruins, this also gives more focus to that: discovering ancient dragon secrets, which can open up all sorts of story hooks.
 
 
 ## Background, Alignment, and Personality
 
 In the story of Final Fantasy X, Rikku has two distinct parts of her background: being a member of a close-knit group of outcasts, and seeking out and repurposing ancient technology (which could be magic in a DnD setting). Each lends itself to a different background.
 
-To play into Rikku’s status in society, the Urchin background would be a great fit. Being an outcast in a major city would allow her group of friends and family to be large enough to support a young inventor while also being outside of polite society and able to operate in relative privacy. The background also grants some useful rogue skills: Stealth and Sleight of Hand.
+To play into Rikku’s status in society, the **Urchin** background would be a great fit. Being an outcast in a major city would allow her group of friends and family to be large enough to support a young inventor while also being outside of polite society and able to operate in relative privacy. The background also grants some useful rogue skills: Stealth and Sleight of Hand.
 
-To make a Rikku character who’s more about seeking out old secrets in technology and magic, the Archaeologist background is a perfect fit. A character with this background would more likely be a part of a nomadic group that seeks out new ruins and artifacts, much like the Al Bhed in the game. The background grants proficiency in the History and Survival skills, and provides a unique class feature to give you additional knowledge when you enter a dungeon or ruin.
+To make a Rikku character who’s more about seeking out old secrets in technology and magic, the **Archaeologist** background from _Tomb of Annihilation_ is a perfect fit. A character with this background would more likely be a part of a nomadic group that seeks out new ruins and artifacts, much like the Al Bhed in the game. The background grants proficiency in the History and Survival skills, and provides a unique class feature to give you additional knowledge when you enter a dungeon or ruin.
 
-For alignment, Rikku seems to be a hard Chaotic Good. She sticks to helping people unless she feels she’s in danger, but she works for the good of herself and her friends at the expense of laws and social norms, rejecting lawful traditions and customs. A character who grew up alone or with few friends could feasibly be a Chaotic Neutral, but chaos is a large part of Rikku’s character.
+For alignment, Rikku seems to be a hard **Chaotic Good**. She sticks to helping people unless she feels she’s in danger, but she works for the good of herself and her friends at the expense of laws and social norms, rejecting lawful traditions and customs. A character who grew up alone or with few friends could feasibly be a Chaotic Neutral, but chaos is a large part of Rikku’s character.

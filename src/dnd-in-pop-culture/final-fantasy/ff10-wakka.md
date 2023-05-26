@@ -28,7 +28,7 @@ In Final Fantasy X, Wakka is as essential as characters come—he’s a powerful
 
 ## Picking a Class and Subclass
 
-Mechanically, Wakka has a few things he does really well. He’s a ranged attacker who hits like a truck and rarely misses. He’s also a debuffer, being able to easily inflict blindness and silence on enemies or take them out of the fight for a brief time. Thematically, Wakka doesn’t have a high Intelligence, and he’s always being bossed around by others, showing a lower Charisma, but he’s amazing at knowing what to do in the moment, pointing toward a higher Wisdom. 
+Mechanically, Wakka has a few things he does really well. He’s a [ranged attacker](/5e-build-guides/archer-builds/) who hits like a truck and rarely misses. He’s also a debuffer, being able to easily inflict blindness and silence on enemies or take them out of the fight for a brief time. Thematically, Wakka doesn’t have a high Intelligence, and he’s always being bossed around by others, showing a lower Charisma, but he’s amazing at knowing what to do in the moment, pointing toward a higher Wisdom. 
 
 All of this points to Wakka being a **Ranger**. While Rangers can be competent melee characters, their skills with a bow are what they’re known for, and they do great damage. Wakka’s skills as a debuffer can be accomplished with some of the Ranger spells like Fog Cloud and Silence (great analogies for the Darkness and Silence conditions in FFX), along with some other spells like Ensnaring Strike, Plant Growth, and Wind Wall (some of which require a higher Wisdom, so be aware of that when building the character). Wakka’s high accuracy can be accomplished by giving him the Archery fighting style.
 
@@ -50,7 +50,7 @@ If you’re less concerned with the theme of the race and just want some more us
 
 ## Background, Alignment, and Personality
 
-Wakka is a professional athlete, so that provides a pretty easy analogy for the background: the **Athlete** background from Mythic Odysseys of Theros. This grants proficiency with both the Athletics and Acrobatics skills, both of which can be useful for a highly physical character. Athlete characters also start with a leather ball, which can be your trademark blitzball.
+Wakka is a professional athlete, so that provides a pretty easy analogy for the background: the **Athlete** background from _Mythic Odysseys of Theros_. This grants proficiency with both the Athletics and Acrobatics skills, both of which can be useful for a highly physical character. Athlete characters also start with a leather ball, which can be your trademark blitzball.
 
 If you don’t want to be a professional athlete, Wakka is also a small-town boy who grew up isolated from the larger cities and aspects of civilization, making him a good fit for the **Outlander** background. This also grants proficiency in Athletics, but goes with Survival as a second skill—useful and thematic for any Ranger. This background works particularly well with the Hunter conclave, if you’re choosing to tailor your character’s story to that.
 
