@@ -66,3 +66,13 @@ main {
     }
 
 }
+
+ul.space-apart {
+    li {
+        padding: 8px 0;
+
+        @include desktop {
+            padding: 0;
+        }
+    }
+}

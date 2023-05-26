@@ -31,6 +31,8 @@ Buffers can be just as important to a party as healers and can make the whole pa
 
 ## Healing Spell Options by Class
 
+<div markdown="1" class="scroll-horizontal">
+
 |Lvl    |Spell              |Bar    |Cle    |Dru    |Sor    |War    |Wiz    |Art    |Pal    |Rng    |
 |-------|-------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 |Cantrip|Spare the Dying    |       |&times;|       |       |       |       |&times;|       |       |
@@ -62,7 +64,11 @@ Buffers can be just as important to a party as healers and can make the whole pa
 |9th    |Wish               |       |       |       |&times;|       |&times;|       |       |       |
 |Total  |                   |9      |18     |12     |2      |3      |5      |5      |7      |4      |
 
+</div>
+
 ## Buffing Spell Options by Class
+
+<div markdown="1" class="scroll-horizontal">
 
 |Lvl    |Spell                        |Bar    |Cle    |Dru    |Sor    |War    |Wiz    |Art    |Pal    |Rng    |
 |-------|-----------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -112,6 +118,8 @@ Buffers can be just as important to a party as healers and can make the whole pa
 |9th    |Foresight                    |&times;|       |&times;|       |&times;|&times;|       |       |       |
 |9th    |Wish                         |       |       |       |&times;|       |&times;|       |       |       |
 |Total  |                             |12     |19     |17     |16     |7      |19     |20     |12     |9      |
+
+</div>
 
 ## Support Caster Class Breakdown: Full-Casters
 

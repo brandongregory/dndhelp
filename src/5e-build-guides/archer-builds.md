@@ -67,9 +67,11 @@ The unique features of the Battlesmith Artificer allow you to build an archer wi
 
 **Party Roles**
 
-* [Knowledge](/5e-character-creation/party-roles/#ExplorationRoles-Knowledge)
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
-* [Utility](/5e-character-creation/party-roles/#ExplorationRoles-Utility)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Knowledge">Knowledge</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Utility">Utility</a></li>
+</ul>
 
 ### <a name="Subclass-Trickery"></a>Cleric – Trickery Domain
 
@@ -79,8 +81,10 @@ Clerics are full spellcasters and use Wisdom as their spellcasting stat. Tricker
 
 **Party Roles**
 
-* [Infiltration](/5e-character-creation/party-roles/#ExplorationRoles-Infiltration)
-* [Support](/5e-character-creation/party-roles/#BattleRoles-Tank)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Infiltration">Infiltration</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a>
+</ul>
 
 ### <a name="Subclass-War"></a>Cleric – War Domain
 
@@ -90,8 +94,10 @@ Clerics are full spellcasters and use Wisdom as their spellcasting stat. War Cle
 
 **Party Roles**
 
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
-* [Support](/5e-character-creation/party-roles/#BattleRoles-Tank)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a>
+</ul>
 
 ### <a name="Subclass-Arcane-Archer"></a>Fighter – Arcane Archer
 
@@ -103,8 +109,10 @@ Fighters typically focus on either Dexterity (using light armor) or Strength (us
 
 **Party Roles**
 
-* [Knowledge](/5e-character-creation/party-roles/#ExplorationRoles-Knowledge)
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Knowledge">Knowledge</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+</ul>
 
 ### <a name="Subclass-Battlemaster"></a>Fighter – Battlemaster
 
@@ -114,8 +122,10 @@ Fighters typically focus on either Dexterity (using light armor) or Strength (us
 
 **Party Roles**
 
-* [Controller](/5e-character-creation/party-roles/#BattleRoles-Controller)
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Controller">Controller</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+</ul>
 
 ### <a name="Subclass-Samurai"></a>Fighter – Samurai
 
@@ -125,7 +135,9 @@ A Samurai ability gives bonuses to social skills based on Wisdom, so having Wisd
 
 **Party Roles**
 
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+</ul>
 
 ### <a name="Subclass-Kensei"></a>Monk – Way of the Kensei
 
@@ -137,8 +149,10 @@ With Monks being so stat-dependent, you're pretty much locked into choosing a ra
 
 **Party Roles**
 
-* [Scout](/5e-character-creation/party-roles/#ExplorationRoles-Scout)
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Scout">Scout</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+</ul>
 
 ### <a name="Subclass-Gloom-Stalker"></a>Ranger – Gloom Stalker
 
@@ -148,8 +162,10 @@ As an archer Ranger, Dexterity will be your highest stat. Rangers typically have
 
 **Party Roles**
 
-* [Scout](/5e-character-creation/party-roles/#ExplorationRoles-Scout)
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Scout">Scout</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+</ul>
 
 ### <a name="Subclass-Hunter"></a>Ranger – Hunter
 
@@ -159,8 +175,10 @@ A lot of what makes a good Gloom Stalker applies here too. Dexterity will be you
 
 **Party Roles**
 
-* [Scout](/5e-character-creation/party-roles/#ExplorationRoles-Scout)
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Scout">Scout</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+</ul>
 
 ### <a name="Subclass-Assassin"></a>Rogue – Assassin
 
@@ -170,8 +188,10 @@ Dexterity is important for Rogues and should be your highest stat. Past that, As
 
 **Party Roles**
 
-* [Infiltration](/5e-character-creation/party-roles/#ExplorationRoles-Infiltration)
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Infiltration">Infiltration</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+</ul>
 
 ### <a name="Subclass-Scout"></a>Rogue – Scout
 
@@ -181,9 +201,11 @@ As a Rogue, Dexterity should be your highest stat. Scouts don’t necessarily ne
 
 **Party Roles**
 
-* [Infiltration](/5e-character-creation/party-roles/#ExplorationRoles-Infiltration)
-* [Scout](/5e-character-creation/party-roles/#ExplorationRoles-Scout)
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Infiltration">Infiltration</a>
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Scout">Scout</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a></li>
+</ul>
 
 ### <a name="Subclass-Honorable-Mentions"></a>Honorable Mentions
 

@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Ultimate Dart Thrower Builds in DnD 5e"
-meta_description: "Are dart builds viable in 5e? Surprisingly, yes! Here's a bit of background info and build suggestions for dart throwers in DnD."
+meta_description: "Whether you're going for Roman war darts or throwing daggers, darts in DnD are surprisingly effective. Here's a bit of background info and build suggestions for dart throwers in DnD."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -29,7 +29,7 @@ Have you ever watched someone tossing darts in a bar and thought, that should be
 
 ## <a name="What-Are-War-Darts"></a>What Are War Darts?
 
-The darts that are thrown as weapons in DnD are a far cry from the little darts thrown at targets in bars. They’re most likely based on the [Roman Plumbata](https://en.wikipedia.org/wiki/Plumbata), heavy weighted darts that were often tossed underhand up into the air to rain death and chaos down on enemy parties. These weapons had a barbed tip and metal shaft, along with a heavy lead weight, to make them fall down with a good amount of force. The heavier metal shafts and weights were attached to a longer wooden shaft with fletching to keep it moving straight once gravity took control. These were about 1 foot long and were typically 4.5-12.3 ounces (130-350 grams). These were not little novelty playthings that you tossed gingerly, they could do some serious damage.
+<dfn>Darts in Dungeons and Dragons</dfn> are a far cry from the little darts thrown at targets in bars. They’re most likely based on the [Roman Plumbata](https://en.wikipedia.org/wiki/Plumbata), heavy weighted darts that were often tossed underhand up into the air to rain death and chaos down on enemy parties. These weapons had a barbed tip and metal shaft, along with a heavy lead weight, to make them fall down with a good amount of force. The heavier metal shafts and weights were attached to a longer wooden shaft with fletching to keep it moving straight once gravity took control. These were about 1 foot long and were typically 4.5-12.3 ounces (130-350 grams). These were not little novelty playthings that you tossed gingerly, they could do some serious damage.
 
 In DnD, darts are mechanically very similar to throwing daggers, but they can easily be played as a more serious weapon, able to sink into a target with much more force than a light throwing dagger could manage. With some of the build tips in this article, darts can absolutely be more deadly than throwing daggers.
 

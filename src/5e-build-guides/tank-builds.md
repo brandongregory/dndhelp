@@ -58,8 +58,10 @@ Barbarians need a high Strength and Constitution, and a fairly high Dexterity, a
 
 **Party Roles**
 
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
-* [Tank](/5e-character-creation/party-roles/#BattleRoles-Tank)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a>
+</ul>
 
 ### <a name="Class-Totem-Warrior"></a>Barbarian – Path of the Totem Warrior
 
@@ -69,8 +71,10 @@ Most of what makes a great Ancestral Guardian Barbarian applies here too. Origin
 
 **Party Roles**
 
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
-* [Tank](/5e-character-creation/party-roles/#BattleRoles-Tank)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a></li>
+</ul>
 
 ### <a name="Class-Cavalier"></a>Fighter – Cavalier
 
@@ -80,8 +84,10 @@ For a Cavalier build, Strength and Constitution are a must. You probably don't w
 
 **Party Roles**
 
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
-* [Tank](/5e-character-creation/party-roles/#BattleRoles-Tank)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a></li>
+</ul>
 
 ### <a name="Class-Eldritch-Knight"></a>Fighter – Eldritch Knight
 
@@ -91,9 +97,11 @@ Eldritch Knights can be built with either Dexterity or Strength, and typically h
 
 **Party Roles**
 
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
-* [Tank](/5e-character-creation/party-roles/#BattleRoles-Tank)
-* [Knowledge](/5e-character-creation/party-roles/#ExplorationRoles-Knowledge)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a>
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Knowledge">Knowledge</a></li>
+</ul>
 
 ### <a name="Class-Crown"></a>Paladin – Oath of the Crown
 
@@ -103,9 +111,11 @@ Paladins are usually Strength-based, but there's no reason a Dexterity-based Oat
 
 **Party Roles**
 
-* [Face](/5e-character-creation/party-roles/#ExplorationRoles-Face)
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
-* [Tank](/5e-character-creation/party-roles/#BattleRoles-Tank) 
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Face">Face</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a></li>
+</ul>
 
 ### <a name="Class-Ancients"></a>Paladin – Oath of the Ancients
 
@@ -115,9 +125,11 @@ Most of what made a good Oath of the Crown Paladin also applies to Oath of the A
 
 **Party Roles**
 
-* [Face](/5e-character-creation/party-roles/#ExplorationRoles-Face)
-* [Striker](/5e-character-creation/party-roles/#BattleRoles-Striker)
-* [Tank](/5e-character-creation/party-roles/#BattleRoles-Tank) 
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Face">Face</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a></li>
+</ul>
 
 ### <a name="Class-Armorer"></a>Artificer – Armorer
 
@@ -127,9 +139,11 @@ Artificers are half-casters and get a good amount of spells, so their spellcasti
 
 **Party Roles**
 
-* [Knowledge](/5e-character-creation/party-roles/#ExplorationRoles-Knowledge)
-* [Tank](/5e-character-creation/party-roles/#BattleRoles-Tank)
-* [Utility](/5e-character-creation/party-roles/#ExplorationRoles-Utility)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Knowledge">Knowledge</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a>
+    <li><a href="/5e-character-creation/party-roles/#ExplorationRoles-Utility">Utility</a></li>
+</ul>
 
 ### <a name="Class-Moon"></a>Druid – Circle of the Moon
 
@@ -139,9 +153,11 @@ Since Druids use the animal stat blocks while wildshaped, Strength actually isn'
 
 **Party Roles**
 
-* [Controller](/5e-character-creation/party-roles/#BattleRoles-Controller)
-* [Support](/5e-character-creation/party-roles/#BattleRoles-Support)
-* [Tank](/5e-character-creation/party-roles/#BattleRoles-Tank)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Controller">Controller</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Support">Support</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a></li>
+</ul>
 
 ### <a name="Class-Life"></a>Cleric – Life Domain
 
@@ -151,8 +167,10 @@ As spellcasters, Wisdom is the primary stat and should be high for Life Clerics.
 
 **Party Roles**
 
-* [Support](/5e-character-creation/party-roles/#BattleRoles-Support)
-* [Tank](/5e-character-creation/party-roles/#BattleRoles-Tank)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Support">Support</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a></li>
+</ul>
 
 ### <a name="Class-Forge"></a>Cleric – Forge Domain
 
@@ -162,8 +180,10 @@ Everything that makes a good Life Cleric applies here too. Thematically, Dwarves
 
 **Party Roles**
 
-* [Support](/5e-character-creation/party-roles/#BattleRoles-Support)
-* [Tank](/5e-character-creation/party-roles/#BattleRoles-Tank)
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Support">Support</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a></li>
+</ul>
 
 ## <a name="Feat"></a>Best Feats for Tanks
 

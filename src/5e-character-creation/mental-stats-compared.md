@@ -31,7 +31,7 @@ Dungeons and Dragons 5e gives you 3 mental stats: Intelligence, Wisdom, and Char
 
 ## <a name="Intelligence"></a>Intelligence
 
-Intelligence is the classic “book smarts.” Anyone can be educated, but an intelligent character will remember things years or decades later and be able to logically put things together much more efficiently than other characters. It’s a required stat for scholars, but tacticians and military commanders, as well as investigator types, also have high Intelligence.
+<dfn>Intelligence</dfn> is the classic “book smarts.” Anyone can be educated, but an intelligent character will remember things years or decades later and be able to logically put things together much more efficiently than other characters. It’s a required stat for scholars, but tacticians and military commanders, as well as investigator types, also have high Intelligence.
 
 Intelligence skills include Arcana, History, Investigation, Nature, and Religion. Most of these are general knowledge skills and good rolls will allow you to ask the DM what your character knows about certain things in the world—for instance, hearing a nobleman’s name might mean little to most characters, but a good History roll would tell you that this nobleman has been publicly challenging the king and buffing up his military force lately. Investigation is the odd one of the bunch, and is mostly used for looking for clues and searching for things.
 
@@ -82,7 +82,7 @@ An example of this character type would be **Dr. House from the TV series _House
 
 ## <a name="Wisdom"></a>Wisdom
 
-Wisdom is more of a “street smarts,” compared to Intelligence, and most often measures intuition and awareness. This includes general awareness of surroundings, awareness of how other people are acting and reacting, awareness of a patient’s health, and self-awareness. Characters that spend a lot of time in self reflection are usually high-Wisdom characters, but rugged outdoors types and streetwise rogues or ruffians often have a high Wisdom stat as well.
+<dfn>Wisdom</dfn> is more of a “street smarts,” compared to Intelligence, and most often measures intuition and awareness. This includes general awareness of surroundings, awareness of how other people are acting and reacting, awareness of a patient’s health, and self-awareness. Characters that spend a lot of time in self reflection are usually high-Wisdom characters, but rugged outdoors types and streetwise rogues or ruffians often have a high Wisdom stat as well.
 
 Wisdom stats include Animal Handling, Insight, Medicine, Perception, and Survival. Insight is a skill for reading others and gauging their intentions, and Animal Handling is like people skills for animals. Perception and Survival are commonly thought of as scouting skills. Medicine is a bit of an odd fit, but it’s still technically a Wisdom skill.
 
@@ -135,7 +135,7 @@ An example of this more nuanced type of character would be **Rei from _Star Wars
 
 ## <a name="Charisma"></a>Charisma
 
-Charisma can best be described as a force of personality and an ability to convince other people to do things. It’s often thought of as likeability, but that’s not necessarily true. Charismatic characters run the gamut from cunning and manipulative to charming and inspirational, and when they talk, people listen.
+<dfn>Charisma</dfn> can best be described as a force of personality and an ability to convince other people to do things. It’s often thought of as likeability, but that’s not necessarily true. Charismatic characters run the gamut from cunning and manipulative to charming and inspirational, and when they talk, people listen.
 
 Charisma stats are entirely social and include Deception, Intimidation, Performance, and Persuasion. Most of these are used in conversation, but performance is a bit more. It involves showmanship and musical performances, but also convincing acting and even things like riling up a crowd to stand against a noble’s tyranny.
 

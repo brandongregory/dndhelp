@@ -1,7 +1,7 @@
 ---
 layout: home.njk
 meta_title: "About This Site"
-meta_description: 
+meta_description: "A little backstory on this site and its author"
 section_name: about
 tags: ['main-page']
 date: Last Modified

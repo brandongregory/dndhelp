@@ -31,6 +31,8 @@ Second, I’m only comparing spells available to the base classes. Many subclass
 
 Here are good control spells and classes that have them.
 
+<div markdown="1" class="scroll-horizontal">
+
 | Lvl | Spell                    | Bar | Cle | Dru | Sor | War | Wiz |
 |-----|--------------------------|-----|-----|-----|-----|-----|-----|
 | 1   | Command                  |     | &times;   |     |     |     |     |
@@ -75,7 +77,11 @@ Here are good control spells and classes that have them.
 | 9   | Time Stop                |     |     |     | &times;   |     | &times;   |
 | 9   | True Polymorph           | &times;   |     |     |     | &times;   | &times;   |
 
+</div>
+
 Here's the count on how many options each class has at each spell level:
+
+<div markdown="1" class="scroll-horizontal">
 
 |  Lvl  | Bar | Cle | Dru | Sor | War | Wiz |
 |-------|-----|-----|-----|-----|-----|-----|
@@ -89,6 +95,7 @@ Here's the count on how many options each class has at each spell level:
 | **8** | 2   | 0   | 0   | 2   | 2   | 3   |
 | **9** | 2   | 0   | 0   | 2   | 2   | 4   |
 
+</div>
 
 ## <a name="Control-Caster-Class-Breakdown"></a>Control Caster Class Breakdown
 

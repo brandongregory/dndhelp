@@ -11,7 +11,7 @@ parent:
   url: /5e-build-guides/
 ---
 
-Blasting enemies with magic is not only incredibly fun in DnD, it’s a great way to contribute to the party. Blasters excel at taking out crowds of weaker foes, but can absolutely take on more powerful foes as well. For the purposes of this article, “Blaster” means a caster who can cast area of effect (AOE) spells that damage the entire area. Spells that damage a single target are also useful, but those are categorized under the Striker role. The quintessential blasting spell is Fireball, but there are many options that fit the bill (listed below). Single-target spells like Magic Missile and Eldritch Blast are categorically not blasting spells.
+Blasting enemies with magic is not only incredibly fun in DnD, it’s a great way to contribute to the party. Blasters excel at taking out crowds of weaker foes, but can absolutely take on more powerful foes as well. For the purposes of this article, “<dfn>Blaster</dfn>” means a caster who can cast area of effect (AOE) spells that damage the entire area. Spells that damage a single target are also useful, but those are categorized under the Striker role. The quintessential blasting spell is Fireball, but there are many options that fit the bill (listed below). Single-target spells like Magic Missile and Eldritch Blast are categorically not blasting spells.
 
 Please note that, while some half-casters get some of these spells, they get them much later than full-casters. That Fireball spell is a lot less exciting when the Artificer gets it at level 9 while the Sorcerer has had it since level 5. For that reason, this will be a comparison of just the full-casters.
 
@@ -28,6 +28,8 @@ Also note that some subclasses get access to some of these spells and can make g
 ## <a name="Blaster-Spell-Options"></a>Blaster Spell Options by Class
 
 Here are good blasting spells and classes that have them.
+
+<div markdown="1" class="scroll-horizontal">
 
 |Lvl    |Spell                      |Bar|Cle|Dru|Sor|War|Wiz|
 |-------|---------------------------|---|---|---|---|---|---|
@@ -63,7 +65,11 @@ Here are good blasting spells and classes that have them.
 |9th    |Meteor Swarm               |   |   |   |&times;  |   |&times;  |
 |9th    |Psychic Scream             |&times;  |   |   |&times;  |&times;  |&times;  |
 
+</div>
+
 Here's the count on how many options each class has at each spell level:
+
+<div markdown="1" class="scroll-horizontal">
 
 |Lvl    |Bar                        |Cle|Dru|Sor|War|Wiz|
 |-------|---------------------------|---|---|---|---|---|
@@ -78,6 +84,7 @@ Here's the count on how many options each class has at each spell level:
 |8      |0                          |0  |1  |2  |0  |2  |
 |9      |1                          |0  |0  |2  |1  |2  |
 
+</div>
 
 ## <a name="Blaster-Caster-Class-Breakdown"></a>Blaster Caster Class Breakdown
 

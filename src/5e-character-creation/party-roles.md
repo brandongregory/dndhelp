@@ -36,7 +36,7 @@ Sooner or later, even the most roleplay-heavy DnD parties get into combat. While
 
 ### <a name="BattleRoles-Blaster"></a>Blaster
 
-A Blaster is able to attack an area of multiple opponents (known as area of effect damage, or AOE). This is almost exclusively a role filled by spellcasters like Clerics, Sorcerers, and Wizards, although a few Paladin and Barbarian subclasses dabble in this.
+A <dfn>Blaster</dfn> is able to attack an area of multiple opponents (known as area of effect damage, or AOE). This is almost exclusively a role filled by spellcasters like Clerics, Sorcerers, and Wizards, although a few Paladin and Barbarian subclasses dabble in this.
 
 Blasters excel at wiping out groups of weaker opponents and can turn some encounters into a cakewalk. They typically use limited resources (like spell slots) and have to make a tactical choice as to when and where to use their blasting spells.
 
@@ -77,7 +77,7 @@ There are a variety of magic items that give access to one blasting spell, which
 
 ### <a name="BattleRoles-Controller"></a>Controller
 
-Keeps enemies from engaging the party or fighting at full strength. Usually a function of spellcasters, but some martial characters can do this too. This usually involves taking enemies out of the fight, but can happen in other ways.
+A <dfn>Controller</dfn> keeps enemies from engaging the party or fighting at full strength. Usually a function of spellcasters, but some martial characters can do this too. This usually involves taking enemies out of the fight, but can happen in other ways.
 
 Most pure spellcasting classes (especially Druid, Wizard, and Warlock) have control spells and can support a Controller build. Spellcasters with control spells can shut down an entire area of enemies, effectively removing them from battle until you're ready to deal with them. Some half-casters, such as an Oath of Redemption Paladin, have access to these spells too. Monks have access to Stunning Strike and can make terribly effective Controllers, albeit for one target at a time.
 
@@ -112,7 +112,7 @@ Some magic items, like Wand of Web, give access to some control spells. Also, an
 
 ### <a name="BattleRoles-Striker"></a>Striker
 
-These are your main damage-dealers, specializing in attacking a single target. Can be achieved in a variety of ways. Many classes excel in this role, and every class has at least one subclass that excels in dealing damage. There are two ways to build this: sustained and nova damage.
+<dfn>Strikers</dfn> are your main damage-dealers, specializing in attacking a single target. Can be achieved in a variety of ways. Many classes excel in this role, and every class has at least one subclass that excels in dealing damage. There are two ways to build this: sustained and nova damage.
 
 Sustained damage characters will continue to do good damage with any number of fights, with either little reliance on limited resources or quick replenishment (on short rest). They can be relied on to do good damage in just about any situation. Fighters, Warlocks, Barbarians, Monks, and Rogues are all good at this.
 
@@ -128,7 +128,7 @@ There aren't many good workarounds for the Striker role. You need at least one i
 
 ### <a name="BattleRoles-Support"></a>Support
 
-Help teammates in battle in various ways. Can involve healing spells, buffs, or other ways of making teammates more effective.
+<dfn>Support characters</dfn> help teammates in battle in various ways. Can involve healing spells, buffs, or other ways of making teammates more effective.
 
 Healing is important, but not as important as it is in many video games. It's generally very difficult (and inadvisable) to keep up with healing allies in the middle of a fight. Healing is for quick saves when a character is near death (or has just been knocked out). It's usually a better idea to get the party to do more damage and end fights quickly than to keep everyone healed through the fight. In that sense, buffs can be just as important as healing for a support character.
 
@@ -144,7 +144,7 @@ Some races, such as Aasimar and Bugbear, have support features. The Healer feat 
 
 ### <a name="BattleRoles-Tank"></a>Tank
 
-Take the hits so teammates don't have to. Usually involves a high Constitution score, and good tanks have methods of increasing their threat.
+<dfn>Tanks</dfn> take the hits so teammates don't have to. Usually involves a high Constitution score, and good tanks have methods of increasing their threat.
 
 Beware the Tank Fallacy. You can build a highly defensive character that can withstand any damage, but there's nothing to stop an enemy from running right past you and attacking the wizard behind you. If a smart opponent sees someone in heavy armor and a wizard in robes behind them, they will almost certainly try for the wizard.
 
@@ -166,13 +166,13 @@ These roles cover things your party usually has to do out of combat.
 
 ### <a name="ExplorationRoles-Face"></a>Face
 
-Good in social encounters, particularly with convincing someone to do or believe something. Usually requires a high Charisma stat and/or good scores in Persuasion, Deception, and Intimidation.
+<dfn>Faces</dfn> are good in social encounters, particularly with convincing someone to do or believe something. Usually requires a high Charisma stat and/or good scores in Persuasion, Deception, and Intimidation.
 
 Bards are known for being great Faces, but any character with a high Charisma score can achieve this. Paladins, Sorcerers, and Warlocks all need Charisma for class features, but Rogues, Fighters, and even Barbarians can all have high Charisma scores too, if built that way. Some subclasses, such as the Rune Knight Fighter, grant advantage on skill checks for social encounters, and they can be effective faces too. Other subclasses, like the Fey Wanderer or Samurai, grant bonuses to social skills based on other stats.
 
 ### <a name="ExplorationRoles-Infiltration"></a>Infiltration
 
-Stealth, breaking & entering, general trickery. (Disarming traps falls here too.) Usually requires a high Dexterity stat and proficiency with Thieves' Tools. A decent Investigation skill can be really helpful too.
+<dfn>Infiltration characters</dfn> excel in stealth, breaking & entering, and general trickery. (Disarming traps falls here too.) Usually requires a high Dexterity stat and proficiency with Thieves' Tools. A decent Investigation skill can be really helpful too.
 
 There's one class that's all about this: Rogues. Every Rogue is good at this. Many other classes have subclasses with some Rogue-ish qualities, like the Trickery Cleric and Shadow Monk, but you can also build most characters to have these proficiencies, if desired. Some character backgrounds, such as Criminal, will grant proficiency in Thieves' Tools.
 
@@ -181,13 +181,16 @@ Armorer Artificers can also choose the Infiltrator model armor, which greatly in
 There are some spells that can grant these abilities too, such as Knock to open locks and Pass Without Trace to make the party good at sneaking, so some spellcasters can fill this role, assuming they can spare the spell slots.
 
 ### <a name="ExplorationRoles-Knowledge"></a>Knowledge
-<p>Knowing stuff about the things we encounter. In D&D, having a successful roll in a knowledge skill allows you to ask the DM for hints. Usually requires a good Intelligence stat, but can also be achieved with proficiency or expertise in knowledge skills.</p>
-<p>Classes that rely on intelligence are natural fits here. Wizards and Artificers top the list, but some other subclasses, like the Arcane Archer Fighter or Arcane Trickster Rogue, also need it. Other classes don't explicitly need a high intelligence, but can still work well as Knowledge types, such as the Knowledge Cleric or some Bards.</p>
-<p>It's also very possible to be good in just one knowledge skill, even if you're not broadly good at all of them. Rangers, for instance, often pick Nature as a skill proficiency, even though they may not know much about royal lineages or magic effects.</p>
+
+<dfn>Knowledge characters</dfn> know facts about the things your party encounters. In D&D, having a successful roll in a knowledge skill allows you to ask the DM for hints. Usually requires a good Intelligence stat, but can also be achieved with proficiency or expertise in knowledge skills.
+
+Classes that rely on intelligence are natural fits here. Wizards and Artificers top the list, but some other subclasses, like the Arcane Archer Fighter or Arcane Trickster Rogue, also need it. Other classes don't explicitly need a high intelligence, but can still work well as Knowledge types, such as the Knowledge Cleric or some Bards.
+
+It's also very possible to be good in just one knowledge skill, even if you're not broadly good at all of them. Rangers, for instance, often pick Nature as a skill proficiency, even though they may not know much about royal lineages or magic effects.
 
 ### <a name="ExplorationRoles-Scout"></a>Scout
 
-Stealth, perception, tracking skills. Usually involves a high Wisdom stat and/or Perception skill. Survival and Stealth skills help too.
+<dfn>Scout characters</dfn> cover stealth, perception, and tracking skills. Usually involves a high Wisdom stat and/or Perception skill. Survival and Stealth skills help too.
 
 One class is the undisputed king of this, and that is Ranger. Other classes can be built to fill this role, provided they have good scores in Stealth and Perception. (Monks and Rogues can make very decent Scouts.) Some magical spells, like Arcane Eye or Beast Sense, can also be used to scout.
 
@@ -195,7 +198,7 @@ Scouting is something that doesn't necessarily happen in every D&D game, but it'
 
 ### <a name="ExplorationRoles-Utility"></a>Utility
 
-Utility is, essentially, things you can do outside of combat, and Utility characters are good at doing a wide variety of things. This can mean having a lot of skill proficiencies, but having a wide variety of useful spells can also give some good utility. Tool proficiencies may also come into play, but not as often.
+Utility is, essentially, things you can do outside of combat, and <dfn>Utility characters</dfn> are good at doing a wide variety of things. This can mean having a lot of skill proficiencies, but having a wide variety of useful spells can also give some good utility. Tool proficiencies may also come into play, but not as often.
 
 For magical utility, Wizards are the top pick because they get access to more spells than anyone, allowing them to take niche spells that other classes couldn't afford a spot for. Artificers get a lot of great utility spells as well, despite being half-casters, and they pick up a lot of tool proficiencies as well. Knowledge Clerics can also use their Channel Divinity to give themselves temporary proficiency with any skill or tool.
 

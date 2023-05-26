@@ -14,13 +14,13 @@
         padding-left: 30px;
     }
 
-    li a {
-        line-height: 48px;
+    li {
+        padding: 8px 0;
     }    
 
     @include desktop {
-        li a {
-            line-height: inherit;
+        li {
+            padding: 0;
         }    
     }
 }
