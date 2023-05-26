@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "One Piece Characters in DnD"
-meta_description: "One Piece Characters in DnD"
+meta_description: "Whether it's Usopp doing that marksman thing, or Zoro, who's like a Samurai, or Nami, who isn't shy, One Piece characters can actually translate well to DnD."
 author: "Brandon Gregory"
 section_name: pop-culture
 tags: ['pop-culture-page']

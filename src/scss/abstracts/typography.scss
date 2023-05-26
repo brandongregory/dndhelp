@@ -64,7 +64,9 @@ main {
     p, ul, ol {
         line-height: 1.6666667;
     }
-
+    ul, ol {
+        padding-left: 2em;
+    }
 }
 
 ul.space-apart {

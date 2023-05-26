@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Dragon Age Characters in DnD"
-meta_description: "Dragon Age Characters in DnD"
+meta_description: "Dragon Age characters are well-loved, but also well-designed, and there are some fantastic analogies to DnD."
 author: "Brandon Gregory"
 section_name: pop-culture
 tags: ['pop-culture-page']

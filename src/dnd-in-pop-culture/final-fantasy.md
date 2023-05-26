@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Final Fantasy Characters in DnD"
-meta_description: "Final Fantasy Characters in DnD"
+meta_description: "Final Fantasy has its own robust class system and there aren't always exact matches to the DnD world, but some of the characters are just so iconic that they're worth looking at in DnD."
 author: "Brandon Gregory"
 section_name: pop-culture
 tags: ['pop-culture-page']
