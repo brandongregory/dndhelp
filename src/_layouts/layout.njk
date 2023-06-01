@@ -13,7 +13,7 @@
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"{{ siteUrl }}","url":"{{ siteUrl }}","name":"{{ siteName }}","publisher":{"@type":"Person","name":"Brandon Gregory"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"{{ siteUrl }}{{ page.url }}","url":"{{ siteUrl }}{{ page.url }}","name":"{{ meta_title }} | {{ siteName }}","dateModified":" {{ page.date.toISOString() }} ","isPartOf":{"@id":"{{ siteUrl }}"},"inLanguage":"en-US"},{"@type":"Article","headline":"{{ meta_title }}","dateModified":"{{ page.date.toISOString() }}","author":{"@type":"Person","name":"{{ author }}"},"publisher":{"@type":"Person","name":"Brandon Gregory"},"description":"{{ meta_description }}","name":"{{ meta_title }} | {{ siteName }}","inLanguage":"en-US","mainEntityOfPage":{"@id":"{{ siteUrl }}{{ page.url }}"}}]}</script>
     {% endif %}
     {% set css %}
-    {% include "styles.css" %}{% if article == true %}{% include "article.css" %}{% endif %}{% if toc == true %}{% include "toc.css" %}{% endif %}
+    {% include "styles.css" %}{% if article == true %}{% include "article.css" %}{% elif toc == true %}{% include "toc.css" %}{% endif %}
     {% endset %}
     <style>{{ css | safe }}</style>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -47,7 +47,7 @@
     </nav>
     <!-- HEADER COMPONENT -->
     <header>
-        <div class="logo"><a href="/"><i class="fa-solid fa-dragon"></i> Kobold Think Tank</a></div>
+        <div class="logo"><a href="/">Kobold Think Tank</a></div>
         <div class="tagline">Tabletop RPG advice for little dragons</div>
     </header>
 
@@ -56,8 +56,8 @@
 
     <!-- FOOTER COMPONENT-->
     <footer class="footer container">
-        <p>Made with ♥ by <a rel="author" href="http://brandongregorycreative.com">Brandon Gregory</a>. Email us at <a href="mailto:koboldthinktank@gmail.com">koboldthinktank@gmail.com</a>.</p>
-        <p>This page was last updated {{ page.date.toDateString() }}.</p>
+        <p><address>Made with ♥ by <a rel="author" href="http://brandongregorycreative.com">Brandon Gregory</a>. Email us at <a href="mailto:koboldthinktank@gmail.com">koboldthinktank@gmail.com</a>.</address></p>
+        <p>This page was last updated <time>{{ page.date.toDateString() }}</time>.</p>
         <p>Kobold Think Tank is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. &copy;Wizards of the Coast LLC.</p>
     </footer>
 </body>
