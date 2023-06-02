@@ -27,7 +27,7 @@ Final Fantasy IV was a classic that drew me into the Final Fantasy world for the
 Final Fantasy VI dominated my imagination earlier in my life, and I still fondly remember the characters and settings from the game. While the esper system allowed for all characters to learn the same magic, each character had unique abilities and proficiencies that made them all distinct. Many of the character from FF6 work in DnD.
 
 * [Celes Chere](/dnd-in-pop-culture/final-fantasy/ff6-celes/)
-* [Terra Bradford](/dnd-in-pop-culture/final-fantasy/ff6-terra/)
+* [Terra Branford](/dnd-in-pop-culture/final-fantasy/ff6-terra/)
 
 ## Final Fantasy VII Remake
 

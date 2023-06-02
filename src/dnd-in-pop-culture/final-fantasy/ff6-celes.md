@@ -23,7 +23,7 @@ parent2:
   class="tiny-hero"
   height="360" width="360" />
 
-Much more than some opera floozy, Celes was a general in the Gestahlian Empire who defected and joined the resistance. Much like other leading lady Terra Bradford, Celes has pretty solid fighting abilities, is able to equip most weapons and wear most armor, but is also one of the few characters in the game to learn magic naturally. Her Runic Blade ability allows her to nullify harmful spells cast against the party, making her invaluable when facing enemy mages. This concept actually has a pretty similar build in DnD, so read on!
+Much more than some opera floozy, Celes was a general in the Gestahlian Empire who defected and joined the resistance. Much like other leading lady Terra Branford, Celes has pretty solid fighting abilities, is able to equip most weapons and wear most armor, but is also one of the few characters in the game to learn magic naturally. Her Runic Blade ability allows her to nullify harmful spells cast against the party, making her invaluable when facing enemy mages. This concept actually has a pretty similar build in DnD, so read on!
 
 
 ## Picking a Class and Subclass

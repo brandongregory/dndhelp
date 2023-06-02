@@ -19,11 +19,11 @@ parent2:
   srcset="/images/ff6-terra-360.webp 360w,
           /images/ff6-terra-768.webp 768w"
   sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Terra Bradford from Final Fantasy VI"
+  alt="Graphic of Terra Branford from Final Fantasy VI"
   class="tiny-hero"
   height="360" width="360" />
 
-Terra Bradford was the protagonist for the first half of Final Fantasy VI, and her journey of self discovery and redemption drove the plot for other characters as well. Though young, she’s already experienced a lot of things in her life and has powerful abilities that set her apart from the common folk and even some of her peers. Terra is a complex character with an equally complex story and skill set, meaning there are a lot of different ways you could spin her character. This article explains the different aspects of her character as they relate to Dungeons and Dragons, allowing you to build a character based on Terra depending on which aspects of her story and skills you want to focus on.
+Terra Branford was the protagonist for the first half of Final Fantasy VI, and her journey of self discovery and redemption drove the plot for other characters as well. Though young, she’s already experienced a lot of things in her life and has powerful abilities that set her apart from the common folk and even some of her peers. Terra is a complex character with an equally complex story and skill set, meaning there are a lot of different ways you could spin her character. This article explains the different aspects of her character as they relate to Dungeons and Dragons, allowing you to build a character based on Terra depending on which aspects of her story and skills you want to focus on.
 
 
 ## Picking a Class and Subclass
