@@ -29,6 +29,12 @@ Final Fantasy VI dominated my imagination earlier in my life, and I still fondly
 * [Celes Chere](/dnd-in-pop-culture/final-fantasy/ff6-celes/)
 * [Terra Bradford](/dnd-in-pop-culture/final-fantasy/ff6-terra/)
 
+## Final Fantasy VII Remake
+
+Final Fantasy VII was an amazing game for its time, and the remake not only fleshed out more of the story, but fixed a lot of the things that didn't age well in the original game. Each of the characters (that we've seen so far) has a unique fighting style that translates well to a DnD setting.
+
+* [Yuffie Kisaragi](/dnd-in-pop-culture/final-fantasy/ff7r-yuffie/)
+
 ## Final Fantasy X
 
 Final Fantasy X was a milestone for the series: it was the first game in the more powerful Playstation 2, and the first game with voice acting. The voice direction and editing left a little to be desired, but the story was still deep and moving, and the characters each brought something special to gameplay (except Kimahri). With such strong character roles, it's easy to draw parallels to DnD.
