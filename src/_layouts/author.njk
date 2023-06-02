@@ -1,0 +1,33 @@
+---
+layout: layout.njk
+toc: true
+---
+
+<main class="container">
+    <div role="navigation">
+        <ol id="breadcrumbs">
+            <li><a href="/">Home</a></li>
+            <li><a href="/authors/">Authors</a></li>
+            <li>{{ author.name }}</li>
+        </ol>    
+    </div>
+    
+    <h1>Author: {{ author.name }}</h1>
+
+    <p>{{ author.bio }}</p>
+
+    {{ content | safe }}
+
+    <h2>Posts by {{ author.name }}</h2>
+
+    {% set pages = collections.all %}
+    <ul>
+        {%- for post in pages -%}
+        {% if post.data.author == author.name %}
+        <li>
+            <a href="{{ post.url }}">{{ post.data.meta_title }}</a> &ndash; {{ post.data.meta_description }}
+        </li>
+        {% endif %}
+        {%- endfor -%}
+    </ul>
+</main>

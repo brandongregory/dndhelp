@@ -18,7 +18,7 @@ article: true
     </div>
     
     <h1>{{ meta_title }}</h1>
-    <p class="author">by {{ author }}</p>
+    <p class="author">by <a href="/authors/{{ author | slugify }}/">{{ author }}</a></p>
     
     {{ content | safe }}
 </main>
