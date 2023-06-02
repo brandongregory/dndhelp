@@ -1,0 +1,25 @@
+---
+layout: layout.njk
+toc: true
+---
+
+<main class="container">
+    <div role="navigation">
+        <ol id="breadcrumbs">
+            <li><a href="/">Home</a></li>
+            <li>Authors</li>
+        </ol>    
+    </div>
+    
+    <h1>Authors</h1>
+
+    {{ content | safe }}
+
+    <ul>
+        {%- for author in authors -%}
+        <li>
+            <a href="/authors/{{ author.name | slugify }}/">{{ author.name }}</a>
+        </li>
+        {%- endfor -%}
+    </ul>
+</main>
