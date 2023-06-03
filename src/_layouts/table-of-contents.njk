@@ -15,7 +15,7 @@ toc: true
 
     {{ content | safe }}
 
-    {% set pages = collections[section_name] %}
+    {% set pages = collections[section_name] | sortCollection() %}
     <ul>
         {%- for post in pages -%}
         <li>

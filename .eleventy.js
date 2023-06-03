@@ -26,6 +26,14 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("pop-culture", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/dnd-in-pop-culture/**/*.md");
   });
+  // Sort collection by name
+  eleventyConfig.addFilter('sortCollection', function(collection) {
+    return collection.sort(function(a, b) {
+      const textA = a.data.meta_title.toUpperCase();
+      const textB = b.data.meta_title.toUpperCase();
+      return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
+    });
+  });
   // Get related posts
   eleventyConfig.addFilter('randomSiblings', function (collection, page) {
       const siblings = collection;
