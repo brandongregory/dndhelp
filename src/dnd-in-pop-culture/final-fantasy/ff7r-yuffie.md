@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Yuffie from Final Fantasy 7 Remake in DnD"
+meta_title: "Yuffie from Final Fantasy VII Remake in DnD"
 meta_description: "Yuffie is a surprisingly diverse character with good stealth and athletic skills who's equally dangerous up close and at range. Here's how to build her in DnD."
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -19,11 +19,11 @@ parent2:
   srcset="/images/ff7-yuffie-360.webp 360w,
           /images/ff7-yuffie-768.webp 768w"
   sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Yuffie from Final Fantasy 7 Remake"
+  alt="Graphic of Yuffie from Final Fantasy VII Remake"
   class="tiny-hero"
   height="360" width="360" />
 
-Yuffie Kisaragi, Final Fantasy 7’s cute but awkward ninja is a threat to enemies from any range, using her large shuriken as both a melee and ranged weapon. She’s highly mobile as well, using her acrobatics and natural athleticism to dash around the battlefield or survive accidental falls off of cliffs. All of that adds up to a pretty fun DnD character. Just watch your materia around her. Here’s how to build her.
+Yuffie Kisaragi, Final Fantasy VII’s cute but awkward ninja is a threat to enemies from any range, using her large shuriken as both a melee and ranged weapon. She’s highly mobile as well, using her acrobatics and natural athleticism to dash around the battlefield or survive accidental falls off of cliffs. All of that adds up to a pretty fun DnD character. Just watch your materia around her. Here’s how to build her.
 
 
 ## Picking a Class and Subclass
