@@ -4,7 +4,7 @@ meta_title: "Lulu from Final Fantasy X in DnD"
 meta_description: "Do you like magic? Do you like blowing things up? Do you want to be a goth princess? Lulu might be the DnD character you've been looking for!"
 author: "Brandon Gregory"
 section_name: final-fantasy
-tags: ['final-fantasy']
+tags: ['final-fantasy','pop-culture']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

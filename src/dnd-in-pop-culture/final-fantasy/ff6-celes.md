@@ -4,7 +4,7 @@ meta_title: "Celes from Final Fantasy VI in DnD"
 meta_description: "A magic knight who can absorb harmful magic, Celes was a powerful character in Final Fantasy VI. Here's how to build her in DnD."
 author: "Brandon Gregory"
 section_name: final-fantasy
-tags: ['final-fantasy']
+tags: ['final-fantasy','pop-culture']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

@@ -1,0 +1,33 @@
+---
+layout: custom.njk
+meta_title: "DnD 5e Homebrew"
+meta_description: "A collection of some of the homebrew I've created over the years for DnD. Mostly subclasses, but I'm adding things frequently."
+author: "Brandon Gregory"
+section_name: homebrew
+tags: ['main-page']
+date: Last Modified
+---
+
+<p>{{ meta_description }}</p>
+
+<h2>Magic Items</h2>
+
+{% set magicItems = collections['homebrew-magic-item'] | sortCollection() %}
+<ul>
+    {%- for post in magicItems -%}
+    <li>
+        <a href="{{ post.url }}">{{ post.data.meta_title }}</a> &ndash; {{ post.data.meta_description }}
+    </li>
+    {%- endfor -%}
+</ul>
+
+<h2>Subclasses</h2>
+
+{% set subclasses = collections['homebrew-subclass'] | sortCollection() %}
+<ul>
+    {%- for post in subclasses -%}
+    <li>
+        <a href="{{ post.url }}">{{ post.data.meta_title }}</a> &ndash; {{ post.data.meta_description }}
+    </li>
+    {%- endfor -%}
+</ul>

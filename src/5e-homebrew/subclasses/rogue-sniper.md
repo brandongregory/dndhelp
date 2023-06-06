@@ -1,10 +1,10 @@
 ---
 layout: article.njk
-meta_title: "Rogue subclass - Sniper"
-meta_description: "A homebrew Rogue subclass for 5e"
+meta_title: "Rogue - Sniper"
+meta_description: "A 5e homebrew Rogue subclass with superior archery skills, always seeking out the most advantageous spots on the battlefield"
 author: "Brandon Gregory"
-section_name: homebrew
-tags: ['homebrew']
+section_name: homebrew-subclass
+tags: ['homebrew','homebrew-subclass']
 date: Last Modified
 parent:
   name: Homebrew

@@ -4,7 +4,7 @@ meta_title: "Terra from Final Fantasy VI in DnD"
 meta_description: "Half-esper and powerful magic-user Terra from Final Fantasy VI is an interesting character and a challenge to build in DnD, but these tips will get you there!"
 author: "Brandon Gregory"
 section_name: final-fantasy
-tags: ['final-fantasy']
+tags: ['final-fantasy','pop-culture']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

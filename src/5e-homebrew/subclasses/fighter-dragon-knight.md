@@ -1,10 +1,10 @@
 ---
 layout: article.njk
-meta_title: "Fighter subclass: Dragon Knight"
-meta_description: "A homebrew Fighter subclass for 5e"
+meta_title: "Fighter - Dragon Knight"
+meta_description: "A 5ew homebrew Fighter subclass that fights using jump attacks and a spectral spear"
 author: "Brandon Gregory"
-section_name: homebrew
-tags: ['homebrew']
+section_name: homebrew-subclass
+tags: ['homebrew','homebrew-subclass']
 date: Last Modified
 parent:
   name: Homebrew

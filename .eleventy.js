@@ -22,10 +22,6 @@ module.exports = function(eleventyConfig) {
   });
   // Plugins
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
-  // Collections
-  eleventyConfig.addCollection("pop-culture", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("src/dnd-in-pop-culture/**/*.md");
-  });
   // Sort collection by name
   eleventyConfig.addFilter('sortCollection', function(collection) {
     return collection.sort(function(a, b) {

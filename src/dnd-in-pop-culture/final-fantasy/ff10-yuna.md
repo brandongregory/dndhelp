@@ -4,7 +4,7 @@ meta_title: "Yuna from Final Fantasy X in DnD"
 meta_description: "Yuna is a support caster who guides spirits into the afterlife and consoles their loved ones who are left behind. Is there an equivalent in DnD? Yes!"
 author: "Brandon Gregory"
 section_name: final-fantasy
-tags: ['final-fantasy']
+tags: ['final-fantasy','pop-culture']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

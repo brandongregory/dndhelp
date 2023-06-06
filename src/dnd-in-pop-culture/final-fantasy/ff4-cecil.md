@@ -4,7 +4,7 @@ meta_title: "Cecil from Final Fantasy IV in DnD"
 meta_description: "Cecil is a quintessential paladin, but his dark past can give him a unique angle for a DnD character."
 author: "Brandon Gregory"
 section_name: final-fantasy
-tags: ['final-fantasy']
+tags: ['final-fantasy','pop-culture']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

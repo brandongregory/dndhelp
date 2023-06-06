@@ -1,10 +1,10 @@
 ---
 layout: article.njk
-meta_title: "Paladin subclass - Oath of Freedom"
-meta_description: "A homebrew Paladin subclass for 5e"
+meta_title: "Paladin - Oath of Freedom"
+meta_description: "A 5e homebrew Paladin subclass that fights for freedom, focusing on defending others and fighting off multiple attackers"
 author: "Brandon Gregory"
-section_name: homebrew
-tags: ['homebrew']
+section_name: homebrew-subclass
+tags: ['homebrew','homebrew-subclass']
 date: Last Modified
 parent:
   name: Homebrew

@@ -1,0 +1,18 @@
+---
+layout: layout.njk
+toc: true
+---
+
+<main class="container">
+    <div role="navigation">
+        <ol id="breadcrumbs">
+            <li><a href="/">Home</a></li>
+            <li>{{ meta_title }}</li>
+        </ol>    
+    </div>
+    
+    <h1>{{ meta_title }}</h1>
+
+    {{ content | safe }}
+
+</main>

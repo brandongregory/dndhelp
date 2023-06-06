@@ -1,10 +1,10 @@
 ---
 layout: article.njk
-meta_title: "Monk subclass - Way of the Valkyrie"
-meta_description: "A homebrew Monk subclass for 5e"
+meta_title: "Monk - Way of the Valkyrie"
+meta_description: "A 5e homebrew Monk subclass that specializes in taking out flying opponents, as well as targets much bigger than them"
 author: "Brandon Gregory"
-section_name: homebrew
-tags: ['homebrew']
+section_name: homebrew-subclass
+tags: ['homebrew','homebrew-subclass']
 date: Last Modified
 parent:
   name: Homebrew

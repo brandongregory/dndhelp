@@ -4,7 +4,7 @@ meta_title: "Auron from Final Fantasy X in DnD"
 meta_description: "Auron, Final Fantasy X’s stoic warrior and mentor, was an invaluable party member throughout most of the game due to his survivability and raw damage output. Here's how to build him."
 author: "Brandon Gregory"
 section_name: final-fantasy
-tags: ['final-fantasy']
+tags: ['final-fantasy','pop-culture']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

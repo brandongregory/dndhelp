@@ -1,10 +1,10 @@
 ---
 layout: article.njk
-meta_title: "Barbarian subclass: Path of the Street Brawler"
-meta_description: "A homebrew Barbarian subclass for 5e"
+meta_title: "Barbarian - Path of the Street Brawler"
+meta_description: "A 5e homebrew Barbarian subclass that learned its fighting style in the streets and focuses on unarmed combat"
 author: "Brandon Gregory"
-section_name: homebrew
-tags: ['homebrew']
+section_name: homebrew-subclass
+tags: ['homebrew','homebrew-subclass']
 date: Last Modified
 parent:
   name: Homebrew

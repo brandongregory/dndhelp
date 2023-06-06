@@ -4,7 +4,7 @@ meta_title: "Yuffie from Final Fantasy VII Remake in DnD"
 meta_description: "Yuffie is a surprisingly diverse character with good stealth and athletic skills who's equally dangerous up close and at range. Here's how to build her in DnD."
 author: "Brandon Gregory"
 section_name: final-fantasy
-tags: ['final-fantasy']
+tags: ['final-fantasy','pop-culture']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

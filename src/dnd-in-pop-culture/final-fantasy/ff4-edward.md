@@ -4,7 +4,7 @@ meta_title: "Edward from Final Fantasy IV in DnD"
 meta_description: "No party needs another horny bard. Edward is a tragic bard with strong controller abilities that can be a benefit to any party."
 author: "Brandon Gregory"
 section_name: final-fantasy
-tags: ['final-fantasy']
+tags: ['final-fantasy','pop-culture']
 date: Last Modified
 parent:
   name: DnD in Pop Culture

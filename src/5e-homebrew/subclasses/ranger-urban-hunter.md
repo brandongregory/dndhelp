@@ -1,10 +1,10 @@
 ---
 layout: article.njk
-meta_title: "Ranger subclass - Urban Hunter"
-meta_description: "A homebrew Ranger subclass for 5e"
+meta_title: "Ranger - Urban Hunter"
+meta_description: "A 5e homebrew Ranger subclass that evolved to hunt in cities rather than forests"
 author: "Brandon Gregory"
-section_name: homebrew
-tags: ['homebrew']
+section_name: homebrew-subclass
+tags: ['homebrew','homebrew-subclass']
 date: Last Modified
 parent:
   name: Homebrew

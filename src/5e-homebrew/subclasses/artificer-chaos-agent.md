@@ -1,10 +1,10 @@
 ---
 layout: article.njk
-meta_title: "Artificer subclass: Chaos Agent"
-meta_description: "A homebrew Artificer subclass for 5e"
+meta_title: "Artificer - Chaos Agent"
+meta_description: "A 5e homebrew Artificer subclass that sows chaos in the enemy ranks using a variety of explosive devices"
 author: "Brandon Gregory"
-section_name: homebrew
-tags: ['homebrew']
+section_name: homebrew-subclass
+tags: ['homebrew','homebrew-subclass']
 date: Last Modified
 parent:
   name: Homebrew
