@@ -34,7 +34,7 @@ The _Dungeon Master’s Guide_ has a lot of little rules for how to play out thi
 
 ### 10-Foot Pole
 
-The humble 10-foot pole, a poor man’s Mage Hand, can be useful for checking for traps—and this is probably the most common use—but there are other ways to use them. Pick something up through a cage door, hoist a bucket to a higher spot, lift a party member up from a lower spot. In a pinch, a 10-foot pole can be whittled into a pike or cut down to a quarterstaff.
+The humble 10-foot pole, a poor man’s Mage Hand, can be useful for checking for traps—and this is probably the most common use—but there are other ways to use one. Pick something up through a cage door, hoist a bucket to a higher spot, lift a party member up from a lower spot. In a pinch, a 10-foot pole can be whittled into a pike or cut down to a quarterstaff.
 
 The only real challenge with 10-foot poles is carrying them. They’re not easy to carry on their own, and their length makes sure they won’t fit neatly in a Bag of Holding. Thoughtful DMs might provide one in the entrance to a dungeon, but you can’t count on that. At a cost of just 5 copper, though, it’s easy to buy one for a dungeon, then dispose of it when you leave.
 
@@ -53,7 +53,7 @@ Ropes are useful for climbing, but can have other uses. You can tie someone up, 
 
 ### Ram - Portable
 
-Sure, you can wait for your Rogue to pick the intricate lock, but if you’re in a hurry, nothing beats brute force. If stealth is not a factor (or sometimes even if it is), a ram can be the best way to force a door open. Another player character can also use the ram with you to give you advantage on the roll.
+Sure, you can wait for your Rogue to pick the intricate lock, but if you’re in a hurry, nothing beats brute force. If stealth is not a factor (or sometimes even if it is), a ram can be the best way to force a door open. Another player character can also help you use the ram to give you advantage on the roll.
 
 
 ### Caltrops
@@ -74,9 +74,9 @@ There are a ton of uses for ball bearings and creative players will always find 
 
 ### Oil
 
-The description paints this as a grenade-type weapon that you can splash on enemies to increase fire damage, and that can be useful, but it can also be useful to make anything, or any area, flammable. An object or area doused with oil will burn for 2 rounds, and this can be extended by throwing more oil into the flame.
+The description paints this as a grenade-type weapon that you can splash on enemies to increase fire damage, and that can be useful, but it can also be useful to make any object, or any area, flammable. An object or area doused with oil will burn for 2 rounds, and this can be extended by throwing more oil into the flame.
 
-Smash a vial of oil on the floor, and have someone else ignite it with a tinderbox or lit torch to create a floor hazard to make enemies think twice about stepping through it. The oil can be poured down ahead of time to create a trap, and can be ignited in a number of ways—the Firebolt spell, placing a lit torch precariously on top of a door, or placing a torch in the oil and igniting it from 30 feet away with the Druidcraft spell.
+Smash a vial of oil on the floor, and have someone else ignite it with a tinderbox or lit torch to create a floor hazard to make enemies think twice about stepping through it. The oil can be poured down ahead of time to create a trap, and can be ignited in a number of ways—the Firebolt spell, placing a lit torch precariously on top of a door, or placing an unlit torch in the oil and igniting it from 30 feet away with the Druidcraft spell.
 
 
 ### Acid
@@ -127,7 +127,7 @@ Also note: I see a lot of people recommending the Robe of Useful Items as a util
 
 ### Broom of Flying / Winged Boots
 
-Flight is extremely useful both in combat and out of combat and can turn some puzzles and encounters into a cakewalk. Both the Broom of Flying and Winged Boots are uncommon magic items—and that’s a real undervaluation considering how useful they are. Either one will get the job done.
+Flight is extremely useful both in combat and out of combat and can turn some puzzles and encounters into a cakewalk. Both the Broom of Flying and Winged Boots are uncommon magic items—and that’s a real undervaluation, considering how useful they are. Either one will get the job done.
 
 The Broom of Flying has a fly speed of 50 as long as you and your gear are fairly light, otherwise it switches to 30 with a heavier load. The Winged Boots match your walking speed and have a four-hour-per-day limit, but have no weight limit. For most characters, the Broom of Flying will be faster. There’s not a huge difference in how these two items perform, though, and either will serve you well.
 
@@ -173,7 +173,7 @@ Portable light is essential for any adventurer.
 
 “But Brandon,” I can hear you hypothetically saying, “my character has darkvision.”
 
-Darkvision allows you to see normally in dim light, but complete darkness is only upgraded to dim light—meaning you’ll still have trouble seeing colors or minute details, and you’ll have disadvantage on Perception checks. Your DM may have other penalties for trying to operate normally in complete darkness, even if you have darkvision.
+Darkvision allows you to see normally in dim light, but complete darkness is only upgraded to dim light—meaning you’ll still have trouble seeing colors or minute details, and you’ll have disadvantage on Perception checks. Your DM may have other penalties for trying to operate normally in complete darkness, like being unable to read, even if you have darkvision.
 
 The Everbright Lantern is your basic option. It’s a lantern that burns forever, and can be clipped to a belt.
 
@@ -203,7 +203,7 @@ Getting a free cast of a 1st-level spell can be useful as well, allowing you to 
 
 ### Ritual Caster
 
-Being able to cast spells as a ritual allows you to cast spells like Comprehend Languages, Detect Magic, and Find Familiar without using a spell slot at all, provided you know the spell and have an extra 10 minutes to cast it. This is fantastic for non-casters and casters alike, as many of these spells aren’t worth preparing every day, but can be useful in your downtime.
+Being able to cast spells as rituals allows you to cast spells like Comprehend Languages, Detect Magic, and Find Familiar without using a spell slot at all, provided you know the spell and have an extra 10 minutes to cast it. This is fantastic for non-casters and casters alike, as many of these spells aren’t worth preparing every day, but can be useful in your downtime.
 
 After you pick the feat, you can also add spells after the fact by finding spell scrolls and Wizards’ spell books that contain ritual spells. You’ll only be able to learn ritual spells up to the level you’d be able to cast anyway (so a Fighter with no spell slots wouldn’t be able to learn a level 3 ritual spell), but you can still have a lot of spell options basically for free this way.
 
