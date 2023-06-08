@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Adding Utility to Any Character"
-meta_description: "Artificers may be the ultimate utility class, but any chaaracter can add more utility into their problem-solving toolkit. Here are some ways to add utility options to any character."
+meta_description: "Artificers may be the ultimate utility class, but any character can add more utility into their problem-solving toolkit. Here are some ways to add utility options to any character."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
