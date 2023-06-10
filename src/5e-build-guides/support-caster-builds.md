@@ -9,6 +9,40 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+additionalStructuredData:
+  - '@type': ItemList
+    'name': Best Classes for Full-Caster Support Characters in DnD 5e
+    'numberOfItems': 6
+    'itemListOrder': Ascending
+    'itemListElement': [
+      'Bard',
+      'Cleric',
+      'Druid',
+      'Wizard',
+      'Sorcerer',
+      'Warlock'
+    ]
+  - '@type': ItemList
+    'name': Best Classes for Half-Caster Support Characters in DnD 5e
+    'numberOfItems': 3
+    'itemListOrder': Ascending
+    'itemListElement': [
+      'Artificer',
+      'Paladin',
+      'Ranger'
+    ]
+  - '@type': ItemList
+    'name': Best Feats for Support Characters in DnD 5e
+    'numberOfItems': 4
+    'itemListOrder': Ascending
+    'itemListElement': [
+      'Resilient',
+      'War Caster',
+      'Magic Initiate',
+      'Inspiring Leader'
+    ]
+
 ---
 
 Support casters can be absolutely vital in a party, sometimes making the difference between a total party kill and a victory. Small parties don’t necessarily need a dedicated support character, but every party will be stronger with some support features. But support is a very varied role. Some classes have amazing healing spells but can struggle to buff their teammates, while some classes have amazing buffs but virtually no healing spells. Balancing healing and buffing with the needs of your team can take some planning.

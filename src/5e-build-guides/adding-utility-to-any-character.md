@@ -9,6 +9,52 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+additionalStructuredData:
+  - '@type': ItemList
+    'name': Top 10 Mundane Items for Utility in DnD 5e
+    'numberOfItems': 10
+    'itemListOrder': Unordered
+    'itemListElement': [
+      '10-foot pole',
+      'Hammer and pitons',
+      'Ropes',
+      'Ram - Portable',
+      'Caltrops',
+      'Ball Bearings',
+      'Oil',
+      'Acid',
+      'Chalk',
+      'Flour'
+    ]
+  - '@type': ItemList
+    'name': Top 10 Magic Items for Utility in DnD 5e
+    'numberOfItems': 10
+    'itemListOrder': Unordered
+    'itemListElement': [
+      'Immovable Rod',
+      'Bag of Holding / Handy Haversack / Portable Hole',
+      'Broom of Flying / Winged Boots',
+      'Alchemy Jug',
+      'Helm of Comprehending Languages',
+      'Medallion of Thoughts',
+      'Breathing Bubble / Cap of Water Breathing / Cloak of the Manta Ray',
+      'Dust of Dryness / Decanter of Endless Water',
+      'Everbright Lantern / Candle of the Deep / Driftglobe',
+      'Kyrzin’s Ooze'
+    ]
+  - '@type': ItemList
+    'name': Top 5 Feats for Utility in DnD 5e
+    'numberOfItems': 5
+    'itemListOrder': Unordered
+    'itemListElement': [
+      'Magic Initiate',
+      'Ritual Caster',
+      'Eldritch Adept',
+      'Telekinetic',
+      'Telepathic'
+    ]
+
 ---
 
 Utility is basically things you can do both in and out of battle to solve problems. Some classes, like the Artificer and Wizard, provide amazing utility and can prepare your party to handle any type of problem. Even without a dedicated utility character, though, having some additional options available for problem-solving can help out any party.

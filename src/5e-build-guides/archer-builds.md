@@ -9,6 +9,58 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+additionalStructuredData:
+  - '@type': ItemList
+    'name': Best Classes and Subclasses for Archers in DnD 5e
+    'numberOfItems': 11
+    'itemListOrder': Unordered
+    'itemListElement': [
+      'Artificer - Battlesmith',
+      'Cleric - Trickery Domain',
+      'Cleric - War Domain',
+      'Fighter - Arcane Archer',
+      'Fighter - Battlesmith',
+      'Fighter - Samurai',
+      'Monk - Kensei',
+      'Ranger - Gloom Stalker',
+      'Ranger - Hunter',
+      'Rogue - Assassin',
+      'Rogue - Scout'
+    ]
+  - '@type': ItemList
+    'name': Best Feats for Archers in DnD 5e
+    'numberOfItems': 9
+    'itemListOrder': Unordered
+    'itemListElement': [
+      'Sharpshooter',
+      'Crossbow Expert',
+      'Fighting Initiate',
+      'Skulker',
+      'Magic Initiate',
+      'Fey Touched',
+      'Mobile',
+      'Elven Accuracy',
+      'Poisoner'
+    ]
+  - '@type': ItemList
+    'name': Best Magic Items for Archers in DnD 5e
+    'numberOfItems': 11
+    'itemListOrder': Unordered
+    'itemListElement': [
+      '+1/+2/+3 Weapon (Uncommon/Rare/Very Rare)',
+      'Weapon of Warning (Uncommon)',
+      'Bracers of Archery (Uncommon)',
+      'Manual of Quickness of Action (Very Rare)',
+      '+1/+2/+3 Ammunition (Uncommon/Rare/Very Rare)',
+      'Ammunition of Walloping (Common)',
+      'Cape of the Mountebank (Rare)',
+      'Broom of Flying (Uncommon)',
+      'Slippers of Spider Climbing (Uncommon)',
+      'Boots of Springing and Striding (Uncommon)',
+      'Quiver of Ehlonna (Uncommon)'
+    ]
+
 ---
 
 Want to build an archer as your Dungeons & Dragons 5e character? Here are significant builds to look at.

@@ -9,6 +9,52 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+additionalStructuredData:
+  - '@type': ItemList
+    'name': Best Classes and Subclasses for Tanks in DnD 5e
+    'numberOfItems': 10
+    'itemListOrder': Unordered
+    'itemListElement': [
+      'Barbarian – Path of the Ancestral Guardian',
+      'Barbarian – Path of the Totem Warrior',
+      'Fighter – Cavalier',
+      'Fighter – Eldritch Knight',
+      'Paladin – Oath of the Crown',
+      'Paladin – Oath of the Ancients',
+      'Artificer – Armorer',
+      'Druid – Circle of the Moon',
+      'Cleric – Life Domain',
+      'Cleric – Forge Domain'
+    ]
+  - '@type': ItemList
+    'name': Best Feats for Tanks in DnD 5e
+    'numberOfItems': 7
+    'itemListOrder': Unordered
+    'itemListElement': [
+      'Sentinel',
+      'Resilient',
+      'Alert',
+      'Shield Master',
+      'Slasher',
+      'Heavy Armor Master',
+      'Tough'
+    ]
+  - '@type': ItemList
+    'name': Best Magic Items for Tanks in DnD 5e
+    'numberOfItems': 8
+    'itemListOrder': Unordered
+    'itemListElement': [
+      'Belt of Dwarvenkind (Rare)',
+      'Mantle of Spell Resistance (Rare)',
+      'Periapt of Wound Closure (Uncommon)',
+      'Ring of Evasion (Rare)',
+      'Ring of Spell Storing (Rare)',
+      'Cloak of Protection/Stone of Luck (Uncommon)',
+      'Manual of Bodily Health (Very Rare)',
+      'Belt of Giant Strength (varies)'
+    ]
+
 ---
 
 In gaming, a Tank is an iconic role, drawing the enemies' ire so your more fragile teammates stay safe. Tanks in DnD work a bit differently. In video games, dedicated tanks will have methods of generating aggro, forcing nearby enemies to focus on them. There isn't really a mechanic for this in DnD. The Tank Phallacy in DnD is that you can build an extremely defensive character who can stand up to any attack, but there's nothing stopping an enemy from running right around you and attacking the wizard in back of you.

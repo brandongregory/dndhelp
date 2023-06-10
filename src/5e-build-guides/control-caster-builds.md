@@ -9,6 +9,32 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+additionalStructuredData:
+  - '@type': ItemList
+    'name': Best Classes for Control Casters in DnD 5e
+    'numberOfItems': 6
+    'itemListOrder': Ascending
+    'itemListElement': [
+      'Wizard',
+      'Sorcerer',
+      'Bard',
+      'Druid',
+      'Warlock',
+      'Cleric'
+    ]
+  - '@type': ItemList
+    'name': Best Feats for Control Casters in DnD 5e
+    'numberOfItems': 5
+    'itemListOrder': Ascending
+    'itemListElement': [
+      'Alert',
+      'Metamagic Adept',
+      'Resilient',
+      'Telekinetic',
+      'Tough'
+    ]
+
 ---
 
 [Support casters](/5e-character-creation/party-roles/#BattleRoles-Support) and [Blasters](/5e-character-creation/party-roles/#BattleRoles-Blaster) are important, but a good [Controller](/5e-character-creation/party-roles/#BattleRoles-Controller) mage can absolutely wreck an enemy party, potentially turning some encounters into a cakewalk. They have spells to completely take some enemies out of the fight or chop the battlefield in half, turning one tough encounter into two easy ones. Most full casters can fill this role, but here’s a breakdown on which classes do it best.
