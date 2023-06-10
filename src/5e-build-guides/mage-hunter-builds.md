@@ -21,7 +21,9 @@ If you want to make a mage hunter, witch hunter, or any other variation on that 
 
 ### Monk - Way of Shadow
 
-My first major character in 5e was a Monk. We eventually went up against a powerful Wizard who had been hired to kill us. It was a tense moment—until I stunlocked him and punched him to death over several turns. He didn’t get to cast a single spell after the fight had started.
+Mage hunting is a dangerous job, and an unprepared combatant can be dead in an instant. So imagine the audacity of a mage hunter who enters into fights not only with no magic, but also with no weapons or armor—just one person, trained to physical perfection, taking on opponents who can bend reality to their will. Now, imagine this unarmed opponent striking with such speed and precision that these super-powered opponents are stunned and staggered, unable to cast a single spell as they're beaten to death by a hunter's bare hands.
+
+Think about Asami Sato from _The Legend of Korra_, one half of lesbian powercouple [Korrasami](https://www.youtube.com/watch?v=6pdUQdndw4I) and also the only unpowered member of Team Avatar. [She's able to take care of herself](https://www.youtube.com/watch?v=Dd0p-ftcxEA&pp=ygUbbGVnZW5kIG9mIGtvcnJhIGFzYW1pIGZpZ2h0), though, and even rescues some of the more powerful benders at some points. Magical opponents often don't even get a chance to attack her as she uses her speed and fighting prowess to stun them and moves on.
 
 With their high mobility, many attacks, and Stunning Strike, Monks are an incredible threat to mages of any kind. Many mages can teleport, so the Monk’s mobility makes it much harder for them to get away, and Monks also excel at running right around the enemy’s front line so they can pound on the mages. Concentration checks are difficult for opponents to pass when they’re being hit 4 times in a single turn. Mages aren’t always great at Constitution saving throws (especially if they have to make 4 on one turn), so Stunning Strike can completely neutralize them during a fight. Monks also eventually gain proficiency in all saving throws, making them great at defending against magic.
 
@@ -36,7 +38,9 @@ As a mage hunter, a Shadow Monk might take great care to differentiate themselve
 
 ### Fighter - Eldritch Knight
 
-True mage hunters are going to know how to defend themselves against magic. **Eldritch Knights** don’t shun magic, but embrace it, using it to protect themselves from magic and boost their offensive capabilities as well. This clip of [Maki from Fire Force facing off against a group of enemy mages](https://www.youtube.com/watch?v=Su6dh2zXgSY) shows how an Eldritch Knight would handle a battle like that. Any build on this list can effectively fight mages, but the Eldritch Knight, more than any of the other options, can simply shrug off a Fireball and defiantly ask, “Is that the best you’ve got?”
+True mage hunters are going to know how to defend themselves against magic. **Eldritch Knights** don’t shun magic, but embrace it, using it to protect themselves from magic and boost their offensive capabilities as well. Any build on this list can effectively fight mages, but the Eldritch Knight, more than any of the other options, can simply shrug off a Fireball and defiantly ask, “Is that the best you’ve got?”
+
+This clip of [Maki from _Fire Force_ facing off against a group of enemy mages](https://www.youtube.com/watch?v=fNzTjelRsqg) shows how an Eldritch Knight would handle a battle like that. Maki is far from unpowered, but her offensive capabilities come mostly from her physical attacks—she uses her pyrokinetic abilities to counter pyrokinetic abilities in her foes. That's a good basis for an Eldritch Knight.
 
 Fighters on their own have a pretty good kit for fighting mages. Like Monks, they get a lot of attacks, meaning more opportunities to break a spellcaster’s concentration. They have a good amount of hit points. Their armor protects against much of the damage they face, and they get more ASIs than any other class, so it will be easier to take feats that protect you against other harmful spell effects.
 
@@ -52,6 +56,8 @@ As a mage hunter, an Eldritch Knight may lack the mobility of a Monk or the snea
 ### Paladin - Oath of the Watchers
 
 A mage hunter isn’t always motivated by revenge. Some are methodical in their approach, acting more as inquisitors than killers, holding magic users to a standard and seeking out those that violate this code of ethics. These inquisitors consider themselves part of a greater hierarchy—perhaps even one that’s higher than the laws of cities and nations. When a magic user steps over that line and becomes a true threat, these characters will hunt and kill these threats with religious zeal.
+
+Cassandra Pentaghast from the Dragon Age series is a great example of this, eventually becomeing the Inquisitor's right-hand woman in stopping a great threat. [This early clip from when she was a Seeker](https://www.youtube.com/watch?v=mxjOV0lmkh4&t=140s), from her spin-off movie _Dawn of the Seeker_, shows her in her element: hunting down cultists and stopping them from performing their deadly rituals. As she grows into this role (as we see her in _Dragon Age Inquisition_), we see her transition from a brash young fighter into someone obsessed with the truth, even if it's not what she wants to hear. Cassandra has a reputation for being stubborn, but it's her willingness to change what she thinks and feels based on the truth she uncovers that really defines her.
 
 Thematically, Paladins are great mage hunters because they have a very strict code of ethics that defines very clearly who they will hurt and who they won’t; this can easily extend to magic users specifically and give some definition to what kinds of transgressions are punishable by death. Paladins gain some mechanical benefits that aid in mage hunting as well—most notably, their level 6 feature Aura of Protection, which gives a bonus to all saving throws, giving them great defense against enemy mages.
 
@@ -69,6 +75,8 @@ As mage hunters, Oath of the Watchers Paladins are more than hunters—they’re
 ### Ranger - Monster Slayer
 
 Some mage hunters emphasize the hunter bit, taking time to methodically track evasive targets, sometimes setting ambushes for them and catching them when they’re most vulnerable. These hunters target true monsters, like vampires and evil fey, but could easily hunt less exotic monsters like power-hungry mages. Tracking relentlessly and striking from the darkness, these mage hunters don’t just see enemy mages as threats—they see them as prey.
+
+The Monster Slayer is an archetype with many pop culture examples, but one great one is [Geralt from _The Witcher_](https://www.youtube.com/watch?v=DeAjiWbNHKg). Geralt knows monsters, and he knows how to protect himself from them and kill them. But when the greatest threats end up being other humans, he's able to hunt and fight them just like he does the monsters.
 
 Rangers are surprisingly good on their own against enemy mages, gaining spells like Absorb Elements, Silence, and Nondetection. Their higher hit point pool and solid defense from armor make them pretty tough to kill, and they usually have higher Wisdom scores—with Wisdom being one of the most common saving throws forced by spells, this comes in handy.
 
