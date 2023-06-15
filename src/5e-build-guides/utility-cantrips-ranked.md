@@ -34,7 +34,7 @@ additionalStructuredData:
     ]
 ---
 
-While [any character can gain some extra utility with items or feats](/5e-build-guides/adding-utility-to-any-character/), cantrips are a great way to solve a lot of problems without costing any spell points. All full caster classes (Bard, Cleric, Druid, Sorcerer, Warlock, and Wizard) get cantrips at level 1, and can gain more as they level up. Multiclassing into one of these classes is a great way to gain some additional cantrips. Some class features, like the Warlock’s Pact of the Tome, grant additional cantrips as well.
+While [any character can gain some extra utility with items or feats](/5e-build-guides/adding-utility-to-any-character/), cantrips are a great way to solve a lot of problems without costing any spell points. All full caster classes (Bard, Cleric, Druid, Sorcerer, Warlock, and Wizard) get cantrips at level 1 and can gain more as they level up. Multiclassing into one of these classes is a great way to gain some additional cantrips. Some class features, like the Warlock’s Pact of the Tome, grant additional cantrips as well.
 
 For half-casters or non-casters, picking the Magic Initiate feat will give you 2 cantrips from another class’s spell list, which can be useful for picking up a few staple options. Other features, like the Ranger’s Druidic Warrior or the Paladin’s Blessed Warrior fighting styles, can give some cantrips as well.
 
@@ -64,7 +64,7 @@ While limited in use, Create Bonfire is notably one of the only cantrips availab
 
 ## 12. Gust
 
-Gust is available to Druids, Sorcerers, and Wizards. It has some use as a battlefield control spell, being able to push weaker opponents back, and that can be useful if the battlefield has area hazards like a lava pit or a Cleric’s Spirit Guardians spell. Where this cantrip shines as a utility spell, though, is in its ability to push around small objects. It’s amazing how many small problems can be solved with pushing or knocking over something small.
+Gust is available to Druids, Sorcerers, and Wizards. It has some use as a battlefield control spell, being able to push weaker opponents back, and that can be useful if the battlefield has area hazards like a lava pit or a Cleric’s Spirit Guardians spell. Where this cantrip shines as a utility spell, though, is in its ability to push around small objects. It’s amazing how many small problems can be solved by pushing or knocking over something small.
 
 
 ## 11. Mold Earth
@@ -83,7 +83,7 @@ Acid Splash is available to Artificers, Sorcerers, and Wizards. This can be used
 
 Dancing Lights is available to the Artificer, Bard, Sorcerer, and Wizard classes. It’s often regarded as a poor choice, but it does have some very useful applications.
 
-The most immediate problem this solves is that of darkness. Even for characters with darkvision, total darkness means your Perception checks are made with disadvantage. But there are other cantrips that solve this problem better and don’t require your concentration—a vital consideration for spellcasters.
+The most immediate problem this solves is that of darkness. Even for characters with darkvision, total darkness means your Perception checks are made with disadvantage. But other cantrips solve this problem better and don’t require your concentration—a vital consideration for spellcasters.
 
 Where this cantrip really shines is lighting up areas of the battlefield while leaving you and your allies shrouded in darkness. If you’re in darkness and your foes don’t have darkvision, this means that they can’t see you, so they have disadvantage to hit you and you have advantage to hit them.
 
@@ -92,7 +92,7 @@ As mentioned, concentration is a hot commodity for spellcasters and there are ho
 
 ## 8. Minor Illusion
 
-Minor Illusion is available to the Bard, Sorcerer, Warlock, and Wizard classes. The illusions it creates are admittedly quite limited, producing only visuals (so no sound or temperature sensations), and only last for a minute. Throwing up a false wall during a chase is a big gamble, because if the opponents stick around for more than 1 minute, your illusion is going to fall and leave you vulnerable again.
+Minor Illusion is available to the Bard, Sorcerer, Warlock, and Wizard classes. The illusions it creates are admittedly quite limited, producing only visuals (so no sound or temperature sensations), and only last for a minute. Throwing up a false wall during a chase is a big gamble because if the opponents stick around for more than 1 minute, your illusion is going to fall and leave you vulnerable again.
 
 This cantrip is probably most useful when you haven’t been noticed yet. If a guard is patrolling an area, a 1-minute illusionary crate or barrel to hide behind will probably be plenty of time for an unaware guard to walk by.
 
@@ -131,11 +131,11 @@ You might be asking why this cantrip has a saving throw. It’s because you can 
 
 ## 3. Druidcraft/Prestidigitation/Thaumaturgy
 
-There’s a hot debate as to which of these is the most useful. These are similar enoough to talk about together, but each of them is slightly different and can be useful in different situations. It might not matter, though, because there’s no class that has access to all 3—the choice of which to use is often made by your choice of class.
+There’s a hot debate as to which of these is the most useful. These are similar enough to talk about together, but each of them is slightly different and can be useful in different situations. It might not matter, though, because no class has access to all 3—the choice of which to use is often made by your choice of class.
 
-Prestidigitation is probably the most straightforward of the 3, and is available to the Artificer, Bard, Sorcerer, Warlock, and Wizard classes. If you can think of a small magical effect, chances are it can be accomplished with Prestidigitation. It can notably light or extinguish flames within range, which has a myriad of uses. It has a few niche uses, like flavoring food or drink, cleaning clothing, or even soiling someone else’s pants. Prestidigitation has the widest application of the 3 and can be used on things up to 10 feet away, making it really useful for trickster characters, but also broadly useful by just about anyone.
+Prestidigitation is probably the most straightforward of the 3 and is available to the Artificer, Bard, Sorcerer, Warlock, and Wizard classes. If you can think of a small magical effect, chances are it can be accomplished with Prestidigitation. It can notably light or extinguish flames within range, which has a myriad of uses. It has a few niche uses, like flavoring food or drink, cleaning clothing, or even soiling someone else’s pants. Prestidigitation has the widest application of the 3 and can be used on things up to 10 feet away, making it really useful for trickster characters, but also broadly useful by just about anyone.
 
-Druidcraft is a Druid exclusive that’s more limited in use, but has a few perks. It can also be used to light or extinguish flames, but unlike Prestidigitation, it has a 30-foot range, which means that Druidcraft can actually be used more effectively in battle. Throw some oil down on the ground and place a torch in the middle—you can ignite it from 30 feet away. If you’re trying to ambush an enemy party, you can extinguish their campfire or torches, making it harder for them to spot you. Druidcraft also has a unique ability to predict the weather, which may or may not be useful in your game depending on how much you’re using weather effects.
+Druidcraft is a Druid exclusive that’s more limited in use but has a few perks. It can also be used to light or extinguish flames, but unlike Prestidigitation, it has a 30-foot range, which means that Druidcraft can be used more effectively in battle. Throw some oil down on the ground and place a torch in the middle—you can ignite it from 30 feet away. If you’re trying to ambush an enemy party, you can extinguish their campfire or torches, making it harder for them to spot you. Druidcraft also has a unique ability to predict the weather, which may or may not be useful in your game depending on how much you’re using weather effects.
 
 Thaumaturgy is a Cleric exclusive and probably has the most limited usage of the 3 spells, but has some great applications for social encounters. You notably cannot light or extinguish flames with this. If you’re trying to make a dramatic first impression or get a message out to a crowd, Thaumaturgy is great for that.
 
@@ -144,7 +144,7 @@ The only time you need to think about which one of these to choose is when you�
 
 ## 2. Mage Hand
 
-Mage Hand is pretty widely available to Artificers, Bard, Sorcerers, Warlocks, and Wizards. There are a lot of situations where you either can’t reach something or don’t want to stick your hand in something. Mage Hand can be useful for picking up the keys to your jail cell, holding a bucket above a door, checking for traps, or doing something like pulling two levers at the same time.
+Mage Hand is pretty widely available to Artificers, Bards, Sorcerers, Warlocks, and Wizards. There are a lot of situations where you either can’t reach something or don’t want to stick your hand in something. Mage Hand can be useful for picking up the keys to your jail cell, holding a bucket above a door, checking for traps, or doing something like pulling two levers at the same time.
 
 Some feats or classes allow you to make your Mage Hand invisible: the Telekinetic feat, and the Arcane Trickster subclass for Rogue. Having an invisible Mage Hand is extremely useful and allows for some very creative applications.
 

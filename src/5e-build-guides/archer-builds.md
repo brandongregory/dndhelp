@@ -107,11 +107,11 @@ Want to build an archer as your Dungeons & Dragons 5e character? Here are signif
 
 ## <a name="Subclass"></a>Best Classes and Subclasses for Archers
 
-Many characters can hold a bow, but there are few that really shine. Picking the right class and subclass can go a long way to making an archer that's mechanically effective and satisfying to play.
+Many characters can hold a bow, but few really shine. Picking the right class and subclass can go a long way to making an archer that's mechanically effective and satisfying to play.
 
 ### <a name="Subclass-Battlesmith"></a>Artificer - Battlesmith
 
-Artificers aren't necessarily known for their high damage output, but provide an interesting take on an archer. Their Repeating Shot infusion provides some of the benefits of the Crossbow Master feat, allowing you to make multiple attacks with a crossbow without spending an action to reload, and essentially turns any crossbow into a +1 crossbow. If you're not a small class, you can use a heavy crossbow. Battlesmiths also get a Steel Defender—basically, a little automoton that helps them in battle—that they can control with a bonus action, potentially giving them another layer of defense from the front line.
+Artificers aren't necessarily known for their high damage output, but provide an interesting take on an archer. Their Repeating Shot infusion provides some of the benefits of the Crossbow Master feat, allowing you to make multiple attacks with a crossbow without spending an action to reload, and essentially turns any crossbow into a +1 crossbow. If you're not a small class, you can use a heavy crossbow. Battlesmiths also get a Steel Defender—basically, a little automaton that helps them in battle—that they can control with a bonus action, potentially giving them another layer of defense from the front line.
 
 The most interesting thing about the Battlesmith, though, is that it's able to use Intelligence to calculate weapon attack rolls and damage, rather than Dexterity or Strength, so this is the only archer on this list for whom light armor is not the best choice. On top of all that, bear in mind that, as an Artificer, you're a half-caster and will get some useful spells as well.
 
@@ -129,7 +129,7 @@ The unique features of the Battlesmith Artificer allow you to build an archer wi
 
 Not the strongest archer—in fact, probably the weakest on this list—but the Trickster Cleric brings a lot more to the table with strong trickery and support magic. At level 8, they get the ability to add poison to their weapon attacks, but they can also create illusory clones of themselves, make the party more sneaky, and plenty of other magical tricks. Bear in mind that Trickery Clerics do not have martial weapon proficiency, so they’re limited to either light crossbows or shortbows. Another downside, since you won’t be right on the front lines, you give up a lot of damage from Spirit Guardians (a cleric staple). But if you want a trickster character that can still use a bow, this might be what you're looking for.
 
-Clerics are full spellcasters and use Wisdom as their spellcasting stat. Trickery Clerics have access to light and medium armors, and simple weapons, so a dexterity-based archer build is possible, but it limits weapon options (although still leaves light crossbows open). If you're playing with set stat increases for races, picking a race with bonuses to Wisdom and Dexterity will help; if you're playing with customizable stats, based on rules in Tasha's, most races will work as a Trickery Cleric, but picking a race with additional weapon proficiencies (like elves, who get longbow proficiency) might help.
+Clerics are full spellcasters and use Wisdom as their spellcasting stat. Trickery Clerics have access to light and medium armor, and simple weapons, so a dexterity-based archer build is possible, but it limits weapon options (although still leaves light crossbows open). If you're playing with set stat increases for races, picking a race with bonuses to Wisdom and Dexterity will help; if you're playing with customizable stats, based on rules in Tasha's, most races will work as a Trickery Cleric, but picking a race with additional weapon proficiencies (like elves, who get longbow proficiency) might help.
 
 **Party Roles**
 
@@ -142,7 +142,7 @@ Clerics are full spellcasters and use Wisdom as their spellcasting stat. Tricker
 
 If you want to be more combat-focused but still have strong magical abilities, the War Cleric might be a better fit. Like all Clerics, you get access to powerful support and some attack spells, but as a War Cleric, you also gain the ability to strike with superhuman precision (or similarly bless your allies), which pairs really nicely with the Sharpshooter feat. With one attack per turn and martial weapon proficiency, that makes War Clerics a good candidate to use heavy crossbows. You can also add a few extra attacks per day (which are separate actions, so you don’t get caught loading your crossbow), add damage to all of your weapon attacks, and eventually gain resistance to all non-magical physical damage—something usually reserved for Barbarians.
 
-Clerics are full spellcasters and use Wisdom as their spellcasting stat. War Clerics get additional proficiencies in light, medium, and heavy armor, and simple and martial weapons. Archers pretty much require a Dexterity build, so your best bet is still light armor, but martial weapons proficiency opens up the possibility of longbows or heavy crossbows. Heavy crossbows in particular are a great fit because of the high damage die, but you don't get any of the pitfalls that typically come along with them as you only make one shot per turn. If you plan to use a longbow or heavy crossbow, bear in mind that both of those are heavy weapons, which means that small races will have problems.
+Clerics are full spellcasters and use Wisdom as their spellcasting stat. War Clerics get additional proficiencies in light, medium, and heavy armor, and simple and martial weapons. Archers pretty much require a Dexterity build, so your best bet is still light armor, but martial weapons proficiency opens up the possibility of longbows or heavy crossbows. Heavy crossbows, in particular, are a great fit because of the high damage die, but you don't get any of the pitfalls that typically come along with them as you only make one shot per turn. If you plan to use a longbow or heavy crossbow, bear in mind that both of those are heavy weapons, which means that small races will have problems.
 
 **Party Roles**
 
@@ -170,7 +170,7 @@ Fighters typically focus on either Dexterity (using light armor) or Strength (us
 
 This is similar to the Arcane Archer, but instead of powerful magic shots, you get trick shots that can do things like knock an opponent over, knock the weapon out of their hands, or shoot with increased accuracy. These aren’t as powerful as the arcane shots, but you’ll get to use them more often. One of the Battlemaster maneuvers will also give you advantage on an attack, which pairs really nicely with the Sharpshooter feat. If battlefield control sounds fun, this is a great class for it. Many who have played Battlemasters say that, of all the martial subclasses, this is the one that feels most like a spellcaster, even though it uses no magic.
 
-Fighters typically focus on either Dexterity (using light armor) or Strength (using heavy armor), so for this build, your highest stat would be Dexterity and you would wear light armor. There's no particular mental stat associated with Battlemasters, so which one you boost is entirely up to you. Some people lean into the battlefield tactician role with a high intelligence, while some might go for more of a perceptive sniper who doesn't miss much with a high Wisdom stat, and other might opt for a high Charisma for a field commander. Any race that gets a boost to Dexterity is great, as Fighters already gain proficiency in all weapons and armor.
+Fighters typically focus on either Dexterity (using light armor) or Strength (using heavy armor), so for this build, your highest stat would be Dexterity and you would wear light armor. There's no particular mental stat associated with Battlemasters, so which one you boost is entirely up to you. Some people lean into the battlefield tactician role with a high intelligence, while some might go for more of a perceptive sniper who doesn't miss much with a high Wisdom stat, and others might opt for a high Charisma for a field commander. Any race that gets a boost to Dexterity is great, as Fighters already gain proficiency in all weapons and armor.
 
 **Party Roles**
 
@@ -181,7 +181,7 @@ Fighters typically focus on either Dexterity (using light armor) or Strength (us
 
 ### <a name="Subclass-Samurai"></a>Fighter – Samurai
 
-Samurai gain an ability to grant themselves advantage on all attacks for a round. This can be useful with hard-to-hit-opponents, but synergizes really well with the Sharpshooter feat, which allows you to take a penalty to your attack roll for a boost to damage. If you’re an elf, you can also take the Elven Accuracy feat, which allows you to roll three times instead of twice with advantage and take the highest of all three. (Fighters get more stat increases than any other classes, so it’s easier to get feats than it would be for other classes.) You don’t really get trick shots like the Arcane Archer or Battlemaster, but with this combo, you can rack up some insane damage.
+Samurai gain an ability to grant themselves advantage on all attacks for a round. This can be useful with hard-to-hit opponents, but synergizes really well with the Sharpshooter feat, which allows you to take a penalty to your attack roll for a damage boost. If you’re an elf, you can also take the Elven Accuracy feat, which allows you to roll three times instead of twice with advantage and take the highest of all three. (Fighters get more stat increases than any other classes, so it’s easier to get feats than it would be for other classes.) You don’t get trick shots like the Arcane Archer or Battlemaster, but with this combo, you can rack up some wild damage.
 
 A Samurai ability gives bonuses to social skills based on Wisdom, so having Wisdom as one of your higher stats (after Dexterity and possibly Constitution) is a good call, and leans into the wise, disciplined warrior who doesn't miss much. Fighters already gain proficiency in all weapons and armor, so you will not need to seek proficiencies through your class. With Dexterity as your highest stat, you'll want to stick with light armor. Any race that gives a bonus to Dexterity will work, but a bonus to Wisdom is nice too.
 
@@ -195,7 +195,7 @@ A Samurai ability gives bonuses to social skills based on Wisdom, so having Wisd
 
 Monks aren’t typically known for ranged attacks, but the Kensei actually makes a great archer with some of the optional Monk rules added in Tasha’s Cauldron of Everything. With Ki-Fueled Attack, Monks can make an additional weapon attack as a bonus action, bringing the number of attacks Kensei archers have up to 3. Focused Aim allows Monks to spend ki points to increase an attack roll. Kensei also gain the ability to add damage to weapon attacks, boost the attack and damage rolls on their weapons, and eventually just straight-up re-roll misses. Couple all of this with the great mobility and utility of monks (and the ability to catch arrows shot at you and throw them back) and you have a very fun build.
 
-Monks are very dependent on multiple attributes, so pretty much all of your high stat rolls and ASIs will be locked up in increasing your Dexterity and Wisdom to 20, and possibly boosing your Constitution as well, since Monks get less hit points per level than Rangers and Fighters. Although the Kensei subclass grants proficiency to any Kensei weapons you select, if you want to use a bow before you get to level 3, you'll need a race that gives you proficiency in longbows (like elves). You can use shortbows, but with few bonuses to your damage, you'll want as powerful a weapon as possible. Kensei weapons do, however, open up some interesting ranged options, as low-damage weapoons will scale with your martial arts die. So a character with a sling or darts as their primary weapon becomes much more viable. With the Crusher feat, you can actually make a sling attack and knock your opponent back 5 feet, making for an interesting tactic.
+Monks are very dependent on multiple attributes, so pretty much all of your high stat rolls and ASIs will be locked up in increasing your Dexterity and Wisdom to 20, and possibly boosting your Constitution as well, since Monks get fewer hit points per level than Rangers and Fighters. Although the Kensei subclass grants proficiency to any Kensei weapons you select, if you want to use a bow before you get to level 3, you'll need a race that gives you proficiency in longbows (like elves). You can use shortbows, but with few bonuses to your damage, you'll want as powerful a weapon as possible. Kensei weapons do, however, open up some interesting ranged options, as low-damage weapons will scale with your martial arts die. So a character with a sling or darts as their primary weapon becomes much more viable. With the Crusher feat, you can make a sling attack and knock your opponent back 5 feet, making for an interesting tactic.
 
 With Monks being so stat-dependent, you're pretty much locked into choosing a race that gives bonuses to Dexterity and Wisdom (or possibly Constitution). Wood elves are a great fit mechanically, and gain proficiency with longbows. Ghostwise or Stout Halflings can work, but as small races, they have trouble with heavy weapons like longbows. If you're using the optional rules in Tasha's for custom stat increases per race, many other races become viable.
 
@@ -210,7 +210,7 @@ With Monks being so stat-dependent, you're pretty much locked into choosing a ra
 
 Rangers are the iconic archers, and Gloom Stalkers are a great archetype for it. Striking from the shadows and specializing in surprise attacks, Gloom Stalkers pack a powerful punch in the first round of combat, and are essentially invisible in darkness. More than any other class, Gloom Stalkers are _significantly_ more powerful in the dark. Couple this with some Ranger magic and tracking skills and you have a dangerous archer.
 
-As an archer Ranger, Dexterity will be your highest stat. Rangers typically have a high Wisdom score, and that's doubly important for Gloom Stalkers. For most Rangers, Wisdom is used for the few spells they have that force a saving throw, but Gloom Stalkers also get a bonus to initiative based on their Wisdom, and a lot of their power comes in the first round of combat, so getting the jump on enemies is important. With the Gloom Stalker's affinity for darkness, it really helps to pick a race with darkvision. With all of those needs, wood elves make fantastic Gloom Stalkers, but other races can work as well.
+As an archer Ranger, Dexterity will be your highest stat. Rangers typically have a high Wisdom score, and that's doubly important for Gloom Stalkers. For most Rangers, Wisdom is used for the few spells they have that force a saving throw, but Gloom Stalkers also get a bonus to initiative based on their Wisdom, and a lot of their power comes in the first round of combat, so getting the jump on enemies is important. With the Gloom Stalker's affinity for darkness, it helps to pick a race with darkvision. With all of those needs, wood elves make fantastic Gloom Stalkers, but other races can work as well.
 
 **Party Roles**
 
@@ -221,7 +221,7 @@ As an archer Ranger, Dexterity will be your highest stat. Rangers typically have
 
 ### <a name="Subclass-Hunter"></a>Ranger – Hunter
 
-Hunters are probably the simplest Ranger subclass, with most of their abilities either allowing you to do more damage or take less. Compared to other Ranger archetypes, they get fewer spells, but more damage and defense capabilities. It really captures the feel of a rugged, badass hunter stalking its prey through the woods. If you want a simple, unpretentious archer that does good damage to either single targets or groups, this might be a good fit. Ranger magic still gives some battlefield control and utility options, so they’re more than point-and-shoot archers.
+Hunters are probably the simplest Ranger subclass, with most of their abilities either allowing you to do more damage or take less. Compared to other Ranger archetypes, they get fewer spells, but more damage and defense capabilities. It captures the feel of a rugged, badass hunter stalking its prey through the woods. If you want a simple, unpretentious archer that does good damage to either single targets or groups, this might be a good fit. Ranger magic still gives some battlefield control and utility options, so they’re more than point-and-shoot archers.
 
 A lot of what makes a good Gloom Stalker applies here too. Dexterity will be your highest stat. If you want to make use of some of the Ranger's control spells, a higher Wisdom score is nice, but you can build a perfectly viable Ranger with a lower Wisdom by focusing on spells that don't require a saving throw. Constitution is always important. Just about any race can make a good Hunter, but races that get a bonus to Dexterity are top picks.
 
@@ -263,7 +263,7 @@ As a Rogue, Dexterity should be your highest stat. Scouts don’t necessarily ne
 
 * **Bard – College of Whispers** – Can use their inspiration die offensively for Psychic Blades, much like a Rogue’s sneak attack.
 * **Cleric – Life Domain** – If you’re looking for a Rosa from Final Fantasy IV vibe, this is it. Divine Strikes gives increased damage with weapons, including shortbows and light crossbows (or long bows if you’re an elf).
-* **Fighter – Champion** – The Champion has features that are generally useful to all fighting styles, but it’s only really strong if there’s a synergy with critical hits, such as extra damage or advantage on attacks. To make a Champion archer work, you really need the Piercer feat (to roll an additional damage die on critical hits) and a Heavy Crossbow (for a larger damage die). To make the crossbow work for multiple attacks, you’ll also need the Crossbow Expert feat. Two feats is a tall order for a build, but with the Fighter getting more ASIs than any other class, it’s do-able. If you’re wanting to play a badass with a huge crossbow, though, this can fit.
+* **Fighter – Champion** – The Champion has features that are generally useful to all fighting styles, but it’s only really strong if there’s a synergy with critical hits, such as extra damage or advantage on attacks. To make a Champion archer work, you really need the Piercer feat (to roll an additional damage die on critical hits) and a Heavy Crossbow (for a larger damage die). To make the crossbow work for multiple attacks, you’ll also need the Crossbow Expert feat. Two feats is a tall order for a build, but with the Fighter getting more ASIs than any other class, it’s doable. If you’re wanting to play a badass with a huge crossbow, though, this can fit.
 * **Ranger – Any other subclass** – Just about any Ranger can make a good archer.
 * **Rogue – Arcane Trickster** – Plenty of magical tricks at your disposal, and you get sneak attack to use with your archery. If you liked the idea of the Trickery Cleric but wanted a more combat-focused build, this might fit the bill.
 
@@ -277,7 +277,7 @@ The right feats can turn an archer character from good to great. Here are some o
 
 ### <a name="Feat-Sharpshooter"></a>Sharpshooter
 
-The number 1 feat for high-damage archers is Sharpshooter. This feat allows you to take a -5 to your attack role for a +10 to bonus. The catch is that you don't have to decide whether to use this feature until after you roll (but before you know if it hits). It also greatly increases the range of ranged weapons like bows. If your attack rolls are generally high or you have a reliable way of getting advantage on attacks, you can get some truly wild damage with this feat.
+The number 1 feat for high-damage archers is Sharpshooter. This feat allows you to take a -5 to your attack roll for a +10 to bonus. The catch is that you don't have to decide whether to use this feature until after you roll (but before you know if it hits). It also greatly increases the range of ranged weapons like bows. If your attack rolls are generally high or you have a reliable way of getting advantage on attacks, you can get some truly wild damage with this feat.
 
 ### <a name="Feat-Crossbow-Expert"></a>Crossbow Expert
 
@@ -297,7 +297,7 @@ Cantrips are always useful, but the real use of this feat is getting access to t
 
 ### <a name="Feat-Fey-Touched"></a>Fey Touched
 
-Misty Step is a useful spell for any archer, but getting access to the Hex spell can really boost your damage. It's a concentration spell, but as a ranged character, you won't have much trouble keeping your concentration. This becomes more deadly as a character gets more attacks, so its much more useful for a Fighter than a Rogue. Note that Hex provides most of the same benefits as Hunter's Mark, so there's no need for a Ranger to take this.
+Misty Step is a useful spell for any archer, but getting access to the Hex spell can really boost your damage. It's a concentration spell, but as a ranged character, you won't have much trouble keeping your concentration. This becomes more deadly as a character gets more attacks, so it's much more useful for a Fighter than a Rogue. Note that Hex provides most of the same benefits as Hunter's Mark, so there's no need for a Ranger to take this.
 
 ### <a name="Feat-Mobile"></a>Mobile
 
@@ -309,7 +309,7 @@ When you get advantage on an attack, roll three dice instead of two and take the
 
 ### <a name="Feat-Poisoner"></a>Poisoner
 
-Often overlooked, but it's basically free damage if you're not using your bonus action. Bear in mind that a good number of enemies are immune to poison damage, but there are still a lot that will be affected.
+Often overlooked, but it's basically free damage if you're not using your bonus action. Bear in mind that a good number of enemies are immune to poison damage, but there are still many that will be affected.
 
 ## <a name="Magic-Item"></a>Best Magic Items for Archers
 
@@ -333,7 +333,7 @@ The goal for any archer (except the Battlemaster) will be 20 Dexterity—unless 
 
 ### <a name="Magic-Item-123-Ammunition"></a>+1/+2/+3 Ammunition (Uncommon/Rare/Very Rare)
 
-These are single use, making them considerably less useful than a magic bow, but they have a few benefits. One is that the damage can be stacked, giving a bonus of up to +6, which is, frankly, insane. The second note is for DMs. If you want to give characters a temporary bonus for a single tough encounter, this is a great way to do it. You may regret giving them that +3 longbow, but giving them a few +3 arrows can really make for an epic moment in a big boss fight.
+These are single-use, making them considerably less useful than a magic bow, but they have a few benefits. One is that the damage can be stacked, giving a bonus of up to +6, which is, frankly, insane. The second note is for DMs. If you want to give characters a temporary bonus for a single tough encounter, this is a great way to do it. You may regret giving them that +3 longbow, but giving them a few +3 arrows can really make for an epic moment in a big boss fight.
 
 ### <a name="Magic-Item-Ammunition-of-Walloping"></a>Ammunition of Walloping (Common)
 

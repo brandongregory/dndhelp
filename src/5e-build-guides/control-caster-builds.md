@@ -37,7 +37,7 @@ additionalStructuredData:
 
 ---
 
-[Support casters](/5e-character-creation/party-roles/#BattleRoles-Support) and [Blasters](/5e-character-creation/party-roles/#BattleRoles-Blaster) are important, but a good [Controller](/5e-character-creation/party-roles/#BattleRoles-Controller) mage can absolutely wreck an enemy party, potentially turning some encounters into a cakewalk. They have spells to completely take some enemies out of the fight or chop the battlefield in half, turning one tough encounter into two easy ones. Most full casters can fill this role, but here’s a breakdown on which classes do it best.
+[Support casters](/5e-character-creation/party-roles/#BattleRoles-Support) and [Blasters](/5e-character-creation/party-roles/#BattleRoles-Blaster) are important, but a good [Controller](/5e-character-creation/party-roles/#BattleRoles-Controller) mage can absolutely wreck an enemy party, potentially turning some encounters into a cakewalk. They have spells to completely take some enemies out of the fight or chop the battlefield in half, turning one tough encounter into two easy ones. Most full casters can fill this role, but here’s a breakdown of which classes do it best.
 
 First, though, a bit of background on my class choices.
 
@@ -105,7 +105,7 @@ Here are good control spells and classes that have them.
 
 </div>
 
-Here's the count on how many options each class has at each spell level:
+Here's the count of how many options each class has at each spell level:
 
 <div markdown="1" class="scroll-horizontal">
 
@@ -130,7 +130,7 @@ While the Controller role can be filled by _most_ full-casters (sorry, Clerics),
 
 ### Wizard
 
-Wizards are best-in-class controllers, having the most control spell options by a pretty wide margin and with the Controller role being one of the things the class was designed for. Of the 41 control spells in the list above, Wizards have access to 35 of them, and have exclusive access to some pretty amazing options like Wall of Force and Maze. With the spell selection and the generous amount of spells the Wizard can learn and prepare, it’s easy to make a Wizard that’s good at control, damage, and utility. In short, the Wizard loses nothing by taking on the Controller role, making an excellent candidate.
+Wizards are best-in-class controllers, having the most control spell options by a pretty wide margin and with the Controller role being one of the things the class was designed for. Of the 41 control spells in the list above, Wizards have access to 35 of them, and have exclusive access to some pretty amazing options like Wall of Force and Maze. With the spell selection and the generous amount of spells the Wizard can learn and prepare, it’s easy to make a Wizard that’s good at control, damage, and utility. In short, the Wizard loses nothing by taking on the Controller role, making them an excellent candidate.
 
 Spell Options: ★★★★★
 
@@ -139,7 +139,7 @@ Role Fit: ★★★★★
 
 ### Sorcerer
 
-Sorcerers make excellent blasters, but they have some very good options for control as well. For spell selection, they’re basically Wizard light and have a lot of the same options that Wizards have. One limitation they have in comparison to Wizards is the lower number of spells they can learn, and they don’t prepare spells, giving them less versatility in their options than Wizards. While a Wizard can potentially learn almost every spell and swap them out on a long rest, Sorcerers have to choose the spells that are important to them and can only change them on a level up. Even with that limitation, Sorcerers can make great Controllers if you commit to the build.
+Sorcerers make excellent blasters, but they have some very good options for control as well. For spell selection, they’re basically Wizard-light and have a lot of the same options that Wizards have. One limitation they have in comparison to Wizards is the lower number of spells they can learn, and they don’t prepare spells, giving them less versatility in their options than Wizards. While a Wizard can potentially learn almost every spell and swap them out on a long rest, Sorcerers have to choose the spells that are important to them and can only change them on a level up. Even with that limitation, Sorcerers can make great Controllers if you commit to the build.
 
 Spell Options: ★★★★☆
 
@@ -157,7 +157,7 @@ Role Fit: ★★★☆☆
 
 ### Druid
 
-Druids are an odd mix of support, damage, and control spells, with some added utility from wildshape, making them very versatile characters. While their number of control spells is relatively low, they still have some excellent control options. At level 1, for example, Entangle is one of the best control spells and remains useful throughout the game—and it’s exclusive to Druids. Like Bards, Druids are often expected to be Support characters, but Druids are able to prepare spells each long rest, giving them far more versatility in their spell selection than a Bard or Sorcerer. The only real challenge for the role fit is that Druids have so many things they can do that it can be hard to decide when to use a control spell and when to do something else. Still, Druids are excellent Controllers that have plenty of options for absolutely wrecking an enemy party.
+Druids are an odd mix of support, damage, and control spells, with some added utility from wildshape, making them very versatile characters. While their number of control spells is relatively low, they still have some excellent control options. At level 1, for example, Entangle is one of the best control spells and remains useful throughout the game—and it’s exclusive to Druids. Like Bards, Druids are often expected to be Support characters, but Druids can prepare spells each long rest, giving them far more versatility in their spell selection than a Bard or Sorcerer. The only real challenge for the role fit is that Druids have so many things they can do that it can be hard to decide when to use a control spell and when to do something else. Still, Druids are excellent Controllers that have plenty of options for absolutely wrecking an enemy party.
 
 Spell Options: ★★★☆☆
 

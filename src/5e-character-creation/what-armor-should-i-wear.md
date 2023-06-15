@@ -19,7 +19,7 @@ Note that discussion around many of these refers to a Dexterity bonus. The Dexte
 
 ### Heavy Armor
 
-Heavy armor protects well, but inhibits movement. You gain the armor bonus, but no dexterity bonus. There are also strength requirements on heavy armor.
+Heavy armor protects well but inhibits movement. You gain the armor bonus, but no dexterity bonus. There are also strength requirements on heavy armor.
 
 The best mundane heavy armor is Plate. This offers an armor class of 18 and has a Strength requirement of 15. It also gives disadvantage on Stealth.
 
@@ -28,7 +28,7 @@ The best mundane heavy armor is Plate. This offers an armor class of 18 and has 
 
 ### Medium Armor
 
-Medium armor protect pretty well, but allows for a little more movement. You gain the armor bonus and _some_ of your dexterity bonus (up to 2).
+Medium armor protects pretty well, but allows for a little more movement. You gain the armor bonus and _some_ of your dexterity bonus (up to 2).
 
 The best mundane medium armor is Half Plate. This offers an armor class of 15 and you can gain a maximum +2 bonus if you have 14 Dexterity for a maximum armor class of 17. Half Plate gives disadvantage on Stealth.
 
@@ -39,7 +39,7 @@ If you take the Medium Armor Master feat, you can gain up to a +3 bonus if you h
 
 ### Light Armor
 
-Light armor doesn’t offer as much protection, but allows for superior mobility. You gain the armor bonus and your full dexterity bonus.
+Light armor doesn’t offer as much protection but allows for superior mobility. You gain the armor bonus and your full dexterity bonus.
 
 The best mundane light armor is Studded Leather. This offers an armor class of 12 and you can gain a +5 bonus if you have 20 Dexterity for a maximum armor class of 17. There is no penalty on Stealth.
 
@@ -57,11 +57,11 @@ With those options in mind, the second question is whether you want to focus on 
 
 The Artificer class itself gets access to light and medium armor. If you're not playing an Armorer (more on that in a moment), which armor you choose depends on if you want to max Dexterity or not. If you're planning on making your primary attack a crossbow or gun or something like that, it might make sense to max Dexterity, but weigh that against the option of maxing Intelligence, your spellcasting stat, first. Alchemists are more of a [Support](/5e-character-creation/party-roles/#BattleRoles-Support) subclass and will probably have better options than making weapon attacks frequently; Artillerists can be played as support characters or [Strikers](/5e-character-creation/party-roles#BattleRoles-Striker); Battlesmiths can use Intelligence as their attack stat and don't need Dexterity or Strength. If you max Dexterity, light armor can work, but if you're going to prioritize Intelligence, medium armor might be a better fit.
 
-The Armorer subclass has a feature that not only grants proficiency in heavy armor, but also removes the Strength restrictions, making that a great option for any Armorer that isn't concerned with stealth. If you _are_ concerned with stealth, there are some options that make light armor work really well.
+The Armorer subclass has a feature that not only grants proficiency in heavy armor, but also removes the Strength restrictions, making that a great option for any Armorer that isn't concerned with stealth. If you _are_ concerned with stealth, some options make light armor work really well.
 
 ### Barbarian
 
-Barbarians get access to light and medium armor, but also have an option for unarmored defense that takes 10 plus their Dexterity modifier plus their Constitution modifier. Dexterity-based barbarians are possible, but many of their iconic features only work with Strength, so it's generally better to max Strength, meaning light armor is out. When choosing between medium armor and unarmored defense, it depends heavily on how much you're pumping Dexterity and Constitution. If you can get a total +7 modifier between Dexterity and Constitution, you can match half plate.
+Barbarians get access to light and medium armor but also have an option for unarmored defense that takes 10 plus their Dexterity modifier plus their Constitution modifier. Dexterity-based barbarians are possible, but many of their iconic features only work with Strength, so it's generally better to max Strength, meaning light armor is out. When choosing between medium armor and unarmored defense, it depends heavily on how much you're pumping Dexterity and Constitution. If you can get a total +7 modifier between Dexterity and Constitution, you can match half plate.
 
 Early game, it's usually easier to go with medium armor. By mid-tier, you'll have had several more chances to boost your stats; but also bear in mind that you'll also probably have +1 or +2 armor at this point. If stealth is important to you, unarmored defense doesn't bring the penalty that half plate brings.
 
@@ -71,13 +71,13 @@ Most bards only get access to light armor, so Dexterity is an important stat for
 
 ### Cleric
 
-The Cleric class itself gets access to light and medium armor, but some subclasses (Forge, Life, Nature, Order, Tempest, Twilight, War) also gain access to heavy armor. Dexterity Clerics are very possible, but usually require proficiency with martial weapons, since there are few simple finesse weapons. Builds can be all over the place, so use the general advice above to pick your armor.
+The Cleric class itself gets access to light and medium armor, but some subclasses (Forge, Life, Nature, Order, Tempest, Twilight, War) also gain access to heavy armor. Dexterity Clerics are very possible, but usually require proficiency with martial weapons since there are few simple finesse weapons. Builds can be all over the place, so use the general advice above to pick your armor.
 
 ### Druid
 
 Druids can't wear metal armor. It's up to you and your DM to determine how far that goes (i.e. - Does studded leather count as metal armor? Can you get a breastplate made out of a tough animal hide or non-metal material?), but Druids have notoriously low AC as a result. Going with a strict interpretation of the rules, you can wear hide armor, which is the entry-level medium armor, and 14 dexterity for 14 AC, or leather armor and max Dexterity for an AC of 16 (that goes down if you're not at max Dexterity). Druids are also proficient with shields, which helps a bit, but let's just say it's a good thing a lot of your attack spells are ranged.
 
-Note that Druids also get access to Barkskin, a 2nd level spell that boosts your AC to 16. The spell lasts for 1 hour and does not require concentration. This might be a better choice for some Druids, if you can give up the spell slot.
+Note that Druids also get access to Barkskin, a 2nd level spell that boosts your AC to 16. The spell lasts for 1 hour and does not require concentration. This might be a better choice for some Druids if you can give up the spell slot.
 
 ### Fighter
 
@@ -97,7 +97,7 @@ Rangers get access to light and medium armor, so Dexterity builds are probably g
 
 ### Rogue
 
-Rogues are all about Dexterity, and only have access to light armor, so that's an easy choice.
+Rogues are all about Dexterity and only have access to light armor, so that's an easy choice.
 
 ### Sorcerer
 

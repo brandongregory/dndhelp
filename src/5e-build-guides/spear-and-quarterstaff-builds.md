@@ -37,7 +37,7 @@ Another factor to consider is the availability of magic items. There are basic v
 
 ### Can I Use a Baseball Bat?
 
-Sure. Just use a quarterstaff and call it a baseball bat. That's probably the best way to go about doing this if you want a Harley Quinn type character.
+Sure. Just use a quarterstaff and call it a baseball bat. That's probably the best way to go about doing this if you want a Harley Quinn-type character.
 
 
 ## <a name="Getting-the-Most-From-Your-Attacks"></a>Getting the Most From Your Attacks
@@ -61,7 +61,7 @@ If you don’t want to be a Monk, you can easily be another class and multiclass
 
 Fighter-Monks can also be a good fit, provided you choose a subclass that works with a high-Wisdom build. Fighters don’t get Hunter’s Mark, but they do get Action Surge, which can give you some good burst damage when needed. Battle Master Fighters can be a particularly fun build.
 
-Note that both Fighters and Rangers get access to a fighting style. For this build, there’s no clear winner. You can’t wear a shield, so you might as well use both hands for your weapon, so the dueling fighting style is out. Fighters get access to the unarmed style, although this won’t won’t work with your bonus action attacks and will offer little benefit (unless you lose your weapon somehow). The defense fighting style requires you to wear armor, which you cannot. Rangers get access to Druidic warrior, which grants two Druid cantrips, which can add some nice flavor. Blind fighting is available to both of them and can add some nice flavor and might come in handy if your DM pits you against invisible foes or makes you fight in magical darkness.
+Note that both Fighters and Rangers get access to a fighting style. For this build, there’s no clear winner. You can’t wear a shield, so you might as well use both hands for your weapon, so the dueling fighting style is out. Fighters get access to the unarmed style, although this won’t work with your bonus action attacks and will offer little benefit (unless you lose your weapon somehow). The defense fighting style requires you to wear armor, which you cannot. Rangers get access to Druidic Warrior, which grants two Druid cantrips, which can add some nice flavor. Blind fighting is available to both of them and can add some nice flavor and might come in handy if your DM pits you against invisible foes or makes you fight in magical darkness.
 
 
 ## <a name="Using-Wisdom-With-Quarterstaffs"></a>Using Wisdom With Quarterstaves
@@ -73,7 +73,7 @@ The downside to this is that the spell only lasts for 1 minute, and you might ha
 
 ## <a name="Strength-Based-Spear-and-Quarterstaff-Builds"></a>Strength-Based Spear and Quarterstaff Builds
 
-Strength-based spear and quarterstaff builds are probably the simplest and most straightforward. Here are some classes that do well with that. Any of these options can benefit from the Polearm Master feat to get an additional attack as a bonus action (along with some other goodies).
+Strength-based spear and quarterstaff builds are probably the most straightforward. Here are some classes that do well with that. Any of these options can benefit from the Polearm Master feat to get an additional attack as a bonus action (along with some other goodies).
 
 ### Barbarian - Path of the Totem Warrior
 
@@ -81,11 +81,11 @@ A Totem Warrior Barbarian is a solid choice with just about any weapon. The vari
 
 ### Barbarian - Path of the Zealot
 
-The idea of a religious zealot smashing or stabbing things with a simple weapon fits very well, and this subclass is loaded with flavor for roleplaying. Compared to a Totem Warrior Barbarian, the Zealot has fewer customization options, but the subclass features grant a nice boost to damage and later features allow you to basically shrug off death. As with the Totem Warrior, go for 14 Dexterity to wear medium armor, and max Strength.
+The idea of a religious zealot smashing or stabbing things with a simple weapon fits very well, and this subclass is loaded with flavor for roleplaying. Compared to a Totem Warrior Barbarian, the Zealot has fewer customization options, but the subclass features grant a nice boost to damage and later features allow you to basically shrug off death. As with the Totem Warrior, go for 14 Dexterity to wear medium armor and max Strength.
 
 ### Fighter - Battle Master
 
-The Fighter opens up some nice options for a Strength-based warrior, like heavy armor proficiency (so you don’t need to worry about Dexterity) and the Dueling fighting style (so you can wear a shield and get the same damage as using your weapon with both hands). The Battle Master subclass has great damage potential, but also great control options and some other tricks as well. With Battle Master maneuvers, you’ll be knocking your opponents around and truly feel like you’re a master of your weapon. Also, if you want a Roman or Greek style warrior with a spear and shield, this is the way to go. Max out your Strength. If you’re going for medium armor, shoot for 14 Dexterity; otherwise, you can drop it to 10 and wear heavy armor.
+The Fighter opens up some nice options for a Strength-based warrior, like heavy armor proficiency (so you don’t need to worry about Dexterity) and the Dueling fighting style (so you can wear a shield and get the same damage as using your weapon with both hands). The Battle Master subclass has great damage potential, but also great control options and some other tricks as well. With Battle Master maneuvers, you’ll be knocking your opponents around and truly feel like you’re a master of your weapon. Also, if you want a Roman- or Greek-style warrior with a spear and shield, this is the way to go. Max out your Strength. If you’re going for medium armor, shoot for 14 Dexterity; otherwise, you can drop it to 10 and wear heavy armor.
 
 ### Fighter - Rune Knight
 
@@ -108,7 +108,7 @@ Some levels in Monk are the key to any Dexterity-based spear and quarterstaff bu
 
 ### Monk - any
 
-If you want to stick with a single class, spears and quarterstaves are the best weapon choices for most Monks. The Kensei subclass opens up a few interesting weapon options ([including archery](/5e-build-guides/archer-builds/)), but just about any other Monk subclass will do great with a spear or quarterstaff. Monks get great class features to use their bonus action, so you definitely don’t need Polearm Master. You’ll want both your Dexterity and Wisdom to be as high as possible.
+If you want to stick with a single class, spears and quarterstaves are the best weapon choices for most Monks. The Kensei subclass opens up a few interesting weapon options ([including archery](/5e-build-guides/archer-builds/)), but just about any other Monk subclass will do great with a spear or quarterstaff. Monks get great class features to use their bonus action, so you don’t need Polearm Master. You’ll want both your Dexterity and Wisdom to be as high as possible.
 
 ### Monk 2 / Battle Master Fighter X
 
@@ -121,7 +121,7 @@ Hunter Rangers get Hunter’s Mark, which can make all of your attacks more pote
 
 ## <a name="Wisdom-Based-Shillelagh-Quarterstaff-Builds"></a>Wisdom-Based Shillelagh Quarterstaff Builds
 
-Wisdom-based builds only work with quarterstaves (or clubs) and require the Druidic Warrior fighting style to cast Shillelagh, limiting this to Rangers. Any Ranger can work, but two subclasses have synergy with a high Wisdom score that make them better choices.
+Wisdom-based builds only work with quarterstaves (or clubs) and require the Druidic Warrior fighting style to cast Shillelagh, limiting this to Rangers. Any Ranger can work, but two subclasses have synergy with a high Wisdom score that makes them better choices.
 
 ### Ranger - Beast Master
 
@@ -146,7 +146,7 @@ Neither quarterstaves nor spears have the heavy property, so both can be used by
 * **Goliath** - Some defensive abilities will help with your probably lower than average AC.
 * **Half-Orc** - Half-Orcs are always fantastic attackers and all of their features can help you.
 * **Hill Dwarf** - You’ll be light on defense, so the extra hit points help.
-* **Variant Human** - Some feats can really help this build, so getting one at level 1 can really help make a character more viable in the early levels.
+* **Variant Human** - Some feats can really help this build, so getting one at level 1 can help make a character more viable in the early levels.
 * **Wood Elf** - Great for Monk builds with some sneaky features.
 
 
@@ -156,7 +156,7 @@ Any of the standard martial character feats can apply here, but here are some wi
 
 ### Polearm Master
 
-As discussed above, this allows you to make a bonus action attack with a spear or quarterstaff, and gives you some additional options for opportunity attacks as well.
+As discussed above, this allows you to make a bonus action attack with a spear or quarterstaff and gives you some additional options for opportunity attacks as well.
 
 ### Sentinel
 
@@ -180,4 +180,4 @@ You gain a bonus to Strength or Constitution (making this less useful for Dexter
 
 ### Piercer
 
-You gain a bonus to Strength or Dexterity, making this useful for Strength or Dexterity builds, but the feat basically just gives you a small potential boost to damage with spears. It can be useful, but not as much as other options on this list.
+You gain a bonus to Strength or Dexterity, making this useful for Strength or Dexterity builds, but the feat gives you a small potential boost to damage with spears. It can be useful, but not as much as other options on this list.

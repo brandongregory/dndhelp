@@ -57,7 +57,7 @@ additionalStructuredData:
 
 ---
 
-In gaming, a Tank is an iconic role, drawing the enemies' ire so your more fragile teammates stay safe. Tanks in DnD work a bit differently. In video games, dedicated tanks will have methods of generating aggro, forcing nearby enemies to focus on them. There isn't really a mechanic for this in DnD. The Tank Phallacy in DnD is that you can build an extremely defensive character who can stand up to any attack, but there's nothing stopping an enemy from running right around you and attacking the wizard in back of you.
+In gaming, a Tank is an iconic role, drawing the enemies' ire so your more fragile teammates stay safe. Tanks in DnD work a bit differently. In video games, dedicated tanks will have methods of generating aggro, forcing nearby enemies to focus on them. There isn't really a mechanic for this in DnD. The Tank Phallacy in DnD is that you can build an extremely defensive character who can stand up to any attack, but nothing is stopping an enemy from running right around you and attacking the wizard behind you.
 
 Playing a tank is deceptively hard. You need defense to stay alive, offense to make yourself a decent threat, and a mix of abilities to protect your allies and keep them (and yourself) alive. While a tank isn’t necessarily essential in a party, it can really help protect your allies. Here are 10 of the most effective tank builds.
 
@@ -98,7 +98,7 @@ Playing a tank is deceptively hard. You need defense to stay alive, offense to m
 
 ### <a name="Class-Ancestral-Guardian"></a>Barbarian – Path of the Ancestral Guardian
 
-Probably a best-in-class tank, the Ancestral Guardian takes the Barbarian’s natural durability and adds in some useful features for getting enemies to focus on you and not your allies. Barbarians are already fantastically durable, but you'll probably want to go weapon-and-shield, as your main goal will be getting the enemies to focus on you. If your main goal is to keep your allies from harm, this may be the best option. Of all the Barbarian classes, this is one of the least offensive, so make sure your allies can deal good damage. Also bear in mind that Barbarians typically have all of their high stats locked up in the three physical stats, so mental stats are typically low. This can mean you'll struggle against magical attacks.
+Probably a best-in-class tank, the Ancestral Guardian takes the Barbarian’s natural durability and adds some useful features for getting enemies to focus on you and not your allies. Barbarians are already fantastically durable, but you'll probably want to go weapon-and-shield, as your main goal will be getting the enemies to focus on you. If your main goal is to keep your allies from harm, this may be the best option. Of all the Barbarian classes, this is one of the least offensive, so make sure your allies can deal good damage. Also bear in mind that Barbarians typically have all of their high stats locked up in the three physical stats, so mental stats are typically low. This can mean you'll struggle against magical attacks.
 
 Barbarians need a high Strength and Constitution, and a fairly high Dexterity, and you might want a mental stat with a decent score as well. With stats stretched so thin, the original Human may be a good choice, as they get a +1 to every stat. Mountain Dwarves, Half-Orcs, and Goliaths also make excellent Barbarians, with Goliaths in particular getting a useful ability to shrug off damage once a day.
 
@@ -137,9 +137,9 @@ For a Cavalier build, Strength and Constitution are a must. You probably don't w
 
 ### <a name="Class-Eldritch-Knight"></a>Fighter – Eldritch Knight
 
-If defensive magic sounds fun but you still want to be a badass warrior, the Eldritch Knight Fighter might be a great fit. The Eldritch Knight gets access to a limited selection of spells, and most of the spells they get are defensive in nature, most notably allowing you to increase your armor class as a reaction or soak up elemental damage from a magic attack. The magic also grants you some additional attack and utility options, but Eldritch Knights are absolute tanks with their magic. There are a few other quirks, like being able to magically summon your weapon or attack _and_ cast a spell in one turn, but for the most part, they're full Fighters with superior defensive options.
+If defensive magic sounds fun but you still want to be a badass warrior, the Eldritch Knight Fighter might be a great fit. The Eldritch Knight gets access to a limited selection of spells, and most of the spells they get are defensive, most notably allowing you to increase your armor class as a reaction or soak up elemental damage from a magic attack. The magic also grants you some additional attack and utility options, but Eldritch Knights are absolute tanks with their magic. There are a few other quirks, like being able to magically summon your weapon or attack _and_ cast a spell in one turn, but for the most part, they're full Fighters with superior defensive options.
 
-Eldritch Knights can be built with either Dexterity or Strength, and typically have a higher Intelligence, although that's not strictly necessary. If you don't want to focus on Intelligence, just avoid spells that force a saving throw—there are plenty of good options that don't require a high Intelligence. A good Constitution score is useful for any Tank. Very diverse builds are possible here, so just about any race can work for an Eldritch Knight. I actually love the idea of a small race that uses magic to be tougher than anyone else in the party; bear in mind that small races are absolutely viable here.
+Eldritch Knights can be built with either Dexterity or Strength and typically have a higher Intelligence, although that's not strictly necessary. If you don't want to focus on Intelligence, just avoid spells that force a saving throw—there are plenty of good options that don't require a high Intelligence. A good Constitution score is useful for any Tank. Very diverse builds are possible here, so just about any race can work for an Eldritch Knight. I actually love the idea of a small race that uses magic to be tougher than anyone else in the party; bear in mind that small races are absolutely viable here.
 
 **Party Roles**
 
@@ -179,9 +179,9 @@ Most of what made a good Oath of the Crown Paladin also applies to Oath of the A
 
 ### <a name="Class-Armorer"></a>Artificer – Armorer
 
-The D&D equivalent of Iron Man, Armorers enchant their armor to make them great tanks. Note that Armorers can choose one of two "models" for their armor: Guardian or Infiltration. Infiltration armor can be interesting, but if you want to be a Tank, Guardian is the way to go. Guardian Armorers gain a special melee attack that uses their intelligence and incentivizes enemies to focus on them. Additionally, armor that usually has a strength requirement has none for Armorers, so if you want a Gnome with 8 strength running around in full plate armor, that’s totally do-able, enabling a tank with Intelligence as their highest stat.
+The D&D equivalent of Iron Man, Armorers enchant their armor to make them great tanks. Note that Armorers can choose one of two "models" for their armor: Guardian or Infiltration. Infiltration armor can be interesting, but if you want to be a Tank, Guardian is the way to go. Guardian Armorers gain a special melee attack that uses their intelligence and incentivizes enemies to focus on them. Additionally, armor that usually has a strength requirement has none for Armorers, so if you want a Gnome with 8 strength running around in full plate armor, that’s totally doable, enabling a tank with Intelligence as their highest stat.
 
-Artificers are half-casters and get a good amount of spells, so their spellcasting ability, Intelligence, is very important for them. Due to their class features, this is one of the only options that would be able to get away with not having Strength or Dexterity as their highest stat (although you can certainly use those stats in a build). Gnomes are a great fit for any Artificer, with a big boost to Intelligence and a reputation for being curious and tinkering with things. Feral Tieflings get a bonus to Dexterity and Intelligence. Kobolds and Warforged are good fits thematically and can work well as Artificers.
+Artificers are half-casters and get a good amount of spells, so their spellcasting ability, Intelligence, is very important to them. Due to their class features, this is one of the only options that would be able to get away with not having Strength or Dexterity as their highest stat (although you can certainly use those stats in a build). Gnomes are a great fit for any Artificer, with a big boost to Intelligence and a reputation for being curious and tinkering with things. Feral Tieflings get a bonus to Dexterity and Intelligence. Kobolds and Warforged are good fits thematically and can work well as Artificers.
 
 **Party Roles**
 
@@ -195,7 +195,7 @@ Artificers are half-casters and get a good amount of spells, so their spellcasti
 
 Druids are full spellcasters who can turn into animals. They're usually known for being rather fragile; but Circle of the Moon Druids can use their wildshape feature to transform into tougher animals than other Druids, and their hit points reset to the creature they transform into, essentially giving them a new pool of hit points for every encounter. When you’re not wildshaped, you’re a full caster with an excellent list of Druid spells. While not as damage-oriented as the Barbarian, Fighter, and Paladin builds, it’s hard to beat the versatility of the Circle of the Moon Druid. You can be a Tank when you need to be, and a control and support spellcaster when needed as well.
 
-Since Druids use the animal stat blocks while wildshaped, Strength actually isn't important at all. Dexterity remains pretty important for Druids, as it affects their armor class while not wildshaped, but your highest stat as a Druid should be Wisdom, which is their spellcasting stat. Druids also use their animal stat blocks instead of weapons, so small races are perfectly viable. Races that get a bonus to Wisdom are great: Ghostwise Halflings, Hill Dwarves, Kalashtar, Firbolg, and Wood Elves are all great fits. Goblins can work pretty well too, and the idea of a Goblin tank will never not be funny to me.
+Since Druids use the animal stat blocks while wildshaped, Strength isn't important at all. Dexterity remains pretty important for Druids, as it affects their armor class while not wildshaped, but your highest stat as a Druid should be Wisdom, which is their spellcasting stat. Druids also use their animal stat blocks instead of weapons, so small races are perfectly viable. Races that get a bonus to Wisdom are great: Ghostwise Halflings, Hill Dwarves, Kalashtar, Firbolg, and Wood Elves are all great fits. Goblins can work pretty well too, and the idea of a Goblin tank will never not be funny to me.
 
 **Party Roles**
 
@@ -209,7 +209,7 @@ Since Druids use the animal stat blocks while wildshaped, Strength actually isn'
 
 Clerics are armored casters who do well on the front lines. Life Domain Clerics get access to heavy armor and have enough offensive magic and weapon power to make themselves a decent threat on the battlefield. Couple this with the best healing abilities in the game and you have a character who can not only hold their own on the front lines, but keep the party alive better than any other support character. While many classes and subclasses get access to healing, Life Clerics are better than any of them at single-target heals, and by a pretty wide margin.
 
-As spellcasters, Wisdom is the primary stat and should be high for Life Clerics. If you plan to use heavy armor, aim for at least 15 Strength so you can use plate mail. Dexterity builds are possible, but a little trickier due to the fact that Life Clerics do _not_ get access to martial weapons, and there's a real lack of finesse simple weapons. There are also few options for simple great weapons, so weapon and shield is what you'll want to go with. Humans, Hill Dwarves, Firbolg, and Genasi can make great Life Clerics, but any race that gets a bonus to Wisdom can work pretty well.
+As spellcasters, Wisdom is the primary stat and should be high for Life Clerics. If you plan to use heavy armor, aim for at least 15 Strength so you can use plate mail. Dexterity builds are possible, but a little trickier because Life Clerics do _not_ get access to martial weapons, and there's a real lack of finesse simple weapons. There are also few options for simple great weapons, so weapon and shield is what you'll want to go with. Humans, Hill Dwarves, Firbolg, and Genasi can make great Life Clerics, but any race that gets a bonus to Wisdom can work pretty well.
 
 **Party Roles**
 
@@ -241,7 +241,7 @@ Sentinel is a top feat pick for any Tank. This feat gives you three abilities, a
 
 ### <a name="Feat-Resilient"></a>Resilient
 
-Dexterity, Constitution, and Wisdom saves are all pretty common, and no base class has proficiency in more than one. Picking Resilient to gain proficiency in another of these big three saving throws can really help Tanks, who will be in the thick of things all the time. Wisdom saving throws are particularly important, because Wisdom isn't a vital stat for many of the subclass options on this list, and failing a Wisdom saving throw can take you out of combat, or, even worse, turn you against your party.
+Dexterity, Constitution, and Wisdom saves are all pretty common, and no base class has proficiency in more than one. Picking Resilient to gain proficiency in another of these big three saving throws can really help Tanks, who will be in the thick of things all the time. Wisdom saving throws are particularly important because Wisdom isn't a vital stat for many of the subclass options on this list, and failing a Wisdom saving throw can take you out of combat, or, even worse, turn you against your party.
 
 ### <a name="Feat-Alert"></a>Alert
 
@@ -249,11 +249,11 @@ Strength-based Tanks usually don't have a great bonus to initiative, but going e
 
 ### <a name="Feat-Shield-Master"></a>Shield Master
 
-If you're a shield user, Shield Master grants several benefits. It allows you to shove as a bonus action, which can be very powerful for Strength-based Tanks and gives you something to do with your bonus action. You can also add your shield's AC bonus to Dexterity saving throws, and you get the added benefit of taking no damage where passing a saving throw usually means that you take half damage. This can add up to a lot of protection, but can also help mitigate a mediocre Dexterity score.
+If you're a shield user, Shield Master grants several benefits. It allows you to shove as a bonus action, which can be very powerful for Strength-based Tanks and gives you something to do with your bonus action. You can also add your shield's AC bonus to Dexterity saving throws, and you get the added benefit of taking no damage while passing a saving throw usually means that you take half damage. This can add up to a lot of protection, but can also help mitigate a mediocre Dexterity score.
 
 ### <a name="Feat-Slasher"></a>Slasher
 
-Being able to reduce the speed of your foes makes it harder for them to get away from you—and closer to the people you're trying to protect. Giving enemies disadvantage on attacks can be really helpful, although it only happens when you make a critical hit, so it's not really reliable. The feat also comes with a +1 bonus to either Strength or Dexterity, which makes it easier to take to round out an odd stat. Note that you do have to attack with a slashing weapon in order to apply the effects of this feat.
+Being able to reduce the speed of your foes makes it harder for them to get away from you—and closer to the people you're trying to protect. Giving enemies disadvantage on attacks can be really helpful, although it only happens when you make a critical hit, so it's not reliable. The feat also comes with a +1 bonus to either Strength or Dexterity, which makes it easier to take to round out an odd stat. Note that you do have to attack with a slashing weapon to apply the effects of this feat.
 
 ### <a name="Feat-Heavy-Armor-Master"></a>Heavy Armor Master
 
@@ -267,7 +267,7 @@ Most martial classes get plenty of hit points, but if you're playing an Artifice
 
 Magic items can really complete a build, and Tanks are no exception. But before that, two quick words on magic items for Tanks.
 
-First is that defensive items are many in Dungeons &amp; Dragons, so those will be glossed over. Really, if any items boosts your defense, it can be a great magic item, and they're not worth mentioning individually. Enahnced armor and shields are top picks.
+First is that defensive items are many in Dungeons &amp; Dragons, so those will be glossed over. Really, if any item boosts your defense, it can be a great magic item, and they're not worth mentioning individually. Enhanced armor and shields are top picks.
 
 Second is that, while defense-boosting magic items are many, you actually don't want to become this impervious super-tank. Why? Because if the enemy can't hurt you, there's a good chance they're going to focus their efforts elsewhere. Also, if your DM knows they can't hurt you, they'll find ways around that. Defense is good, but too much defense can suck some of the fun out of the game.
 
@@ -283,7 +283,7 @@ This addresses one of the major weaknesses of most Tanks, and that is saving thr
 
 ### <a name="Magic-Item-Periapt-of-Wound-Closure"></a>Periapt of Wound Closure (Uncommon)
 
-Simple but effective, this allows you to get much more healing out of your hit dice when you take a short rest or use an ability that restores health from your hit dice, making you much more self-sufficient in the healing department. Automatically stabilizing when you go down is also a really nice perk for Tanks.
+Simple but effective, this allows you to get much more healing out of your hit dice when you take a short rest or use an ability that restores health from your hit dice, making you much more self-sufficient in the healing department. Automatically stabilizing when you go down is also a great perk for Tanks.
 
 ### <a name="Magic-Item-Ring-of-Evasion"></a>Ring of Evasion (Rare)
 

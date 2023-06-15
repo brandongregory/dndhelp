@@ -45,9 +45,9 @@ additionalStructuredData:
 
 ---
 
-Support casters can be absolutely vital in a party, sometimes making the difference between a total party kill and a victory. Small parties don’t necessarily need a dedicated support character, but every party will be stronger with some support features. But support is a very varied role. Some classes have amazing healing spells but can struggle to buff their teammates, while some classes have amazing buffs but virtually no healing spells. Balancing healing and buffing with the needs of your team can take some planning.
+Support casters can be vital in a party, sometimes making the difference between a total party kill and a victory. Small parties don’t necessarily need a dedicated support character, but every party will be stronger with some support features. But support is a very varied role. Some classes have amazing healing spells but can struggle to buff their teammates, while some classes have amazing buffs but virtually no healing spells. Balancing healing and buffing with the needs of your team can take some planning.
 
-Please note that, while I’ve included half-casters in the charts below, they get spells much later than full-casters. Half-casters can fill in as back-up support casters but usually won’t be as effective as full-casters. That said, each of the three half-caster classes has some good support features.
+Please note that, while I’ve included half-casters in the charts below, they get spells much later than full-casters. Half-casters can fill in as support casters but usually won’t be as effective as full-casters purely due to their slower spell progression. That said, each of the three half-caster classes has some good support features.
 
 Also note that, while a class may not have a lot of support features, they may have a subclass that does. Those will be noted in the sections below. Most of this will be a comparison of classes, though, not subclasses.
 
@@ -59,7 +59,7 @@ Healer-casters are a mainstay in just about every type of RPG, whether tabletop 
 
 Healing in Dungeons and Dragons has different goals than in most video games, though. Generally, healing to keep up with damage is extremely difficult and not recommended. A character with 1 HP is just as effective as a character with full health, so keeping party members topped off in health just means you’re going to run out of spell slots faster. Instead, healing should be used in quick bursts, either getting people up after they’ve fallen or given when a party member gets really low. In-between battles, characters can recover some health using short rests, so there’s not even really a need to heal fully between battles (unless you’re not taking short rests). So building a character that’s dedicated 100% to healing is usually a bad idea. That’s why the main healing classes (Bard, Cleric, and Druid) all have other things they’re good at.
 
-If you’re looking for a complete breakdown on how well each healing subclass performs, [RPGBOT has a great write-up in their Healbot Olympics](https://rpgbot.net/dnd5/characters/healbot-olympics/). The writers there go into a level of detail that’s beyond the scope of this article, so if you want hard numbers on what the best healers are, that’s where you find it.
+If you’re looking for a complete breakdown of how well each healing subclass performs, [RPGBOT has a great write-up in their Healbot Olympics](https://rpgbot.net/dnd5/characters/healbot-olympics/). The writers there go into a level of detail that’s beyond the scope of this article, so if you want hard numbers on what the best healers are, that’s where you find it.
 
 Buffers can be just as important to a party as healers and can make the whole party stronger. For buffer-casters, there’s a bit more variety in builds, as many classes with no significant healing get amazing buffs for the party. That means that the healer and the buffer don’t have to be the same character. For instance, a Wizard can take some great buffs, leaving the Cleric free to pick some good damage spells along with their healing spells.
 
@@ -161,7 +161,7 @@ Full-casters are going to be the best at what they do, and just about every full
 
 ### Bard
 
-This might be surprising looking at the lists of spells above, but Bards are probably the best overall support class. Their healing trails behind that of Clerics and Druids, and their number of buff spells comes in pretty low (number 6 out of 9). So why the high score? Bards have a lot of great core features geared toward support. Bardic Inspiration, available at level 1, is a great buff for just about any party member, and many of the subclasses have abilities that further play into that support role. Bards are the quintessential jacks of all trades and are good at a lot of things, but their support skills are top notch.
+This might be surprising looking at the lists of spells above, but Bards are probably the best overall support class. Their healing trails behind that of Clerics and Druids, and their number of buff spells comes in pretty low (number 6 out of 9). So why the high score? Bards have a lot of great core features geared toward support. Bardic Inspiration, available at level 1, is a great buff for just about any party member, and many of the subclasses have abilities that further play into that support role. Bards are the quintessential jacks of all trades and are good at a lot of things, but their support skills are top-notch.
 
 Healing ability: 4
 
@@ -182,7 +182,7 @@ Role fit: 5
 
 ### Druid
 
-Druids are a weird mix of control, support, and utility, but they can make excellent support characters when needed. Some of the subclasses grant even more healing features, with the Circle of Dreams subclass granting some free healing outside of spells and the Circle of the Shepherd being the best group-healer in the game. They have some good options for buffing allies too, including several spells that aren’t available to other full-casters. Where Druids can struggle is that they just have so many options available to them that it can be hard to prioritize just one thing. Druids can make good support casters, but they’re great at a lot of other things too, so you’ll have to balance the opportunity cost of spending your turn healing someone.
+Druids are a weird mix of control, support, and utility, but they can make excellent support characters when needed. Some of the subclasses grant even more healing features, with the Circle of Dreams subclass granting some free healing outside of spells and the Circle of the Shepherd being the best group healer in the game. They have some good options for buffing allies too, including several spells that aren’t available to other full-casters. Where Druids can struggle is that they just have so many options available to them that it can be hard to prioritize just one thing. Druids can make good support casters, but they’re great at a lot of other things too, so you’ll have to balance the opportunity cost of spending your turn healing someone.
 
 Healing ability: 4
 
@@ -192,7 +192,7 @@ Role fit: 4
 
 ### Wizard
 
-Wizards aren’t commonly thought of as a support class—mainly due to the fact that they have very few options for healing—but they do have some excellent buff spells, including some that aren’t available to higher-ranking classes on this list. Wizards are great with damage, control, and utility, giving them unmatched versatility, and picking some buffing spells fits naturally into their role as the magic powerhouse of the team. Their lack of any real support options can make it hard for them to cover that part of the support role, however.
+Wizards aren’t commonly thought of as a support class—mainly because they have very few options for healing—but they do have some excellent buff spells, including some that aren’t available to higher-ranking classes on this list. Wizards are great with damage, control, and utility, giving them unmatched versatility, and picking some buffing spells fits naturally into their role as the magic powerhouse of the team. Their lack of any real support options can make it hard for them to cover that part of the support role, however.
 
 Healing ability: 1
 
@@ -222,7 +222,7 @@ Role fit: 1 (2 for Celestial)
 
 ## Support Caster Class Breakdown: Half-Casters
 
-Half-casters get their spells later than full-casters, but they also have higher survivability and good martial abilities that can make them good at other things as well. For small parties, a half-caster support might be all you need. For larger parties, a half-caster with support options can be an important back-up for when your main support is overwhelmed. All three of the half-caster classes have some good support options and can fill in with this role. As with the full-casters above, I’m ranking them for healing ability, buffing ability, and role fit.
+Half-casters get their spells later than full-casters, but they also have higher survivability and good martial abilities that can make them good at other things as well. For small parties, a half-caster support might be all you need. For larger parties, a half-caster with support options can be an important backup for when your main support is overwhelmed. All three of the half-caster classes have some good support options and can fill in with this role. As with the full-casters above, I’m ranking them for healing ability, buffing ability, and role fit.
 
 ### Artificer
 

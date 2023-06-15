@@ -36,7 +36,7 @@ additionalStructuredData:
 
 ---
 
-Blasting enemies with magic is not only incredibly fun in DnD, it’s a great way to contribute to the party. Blasters excel at taking out crowds of weaker foes, but can absolutely take on more powerful foes as well. For the purposes of this article, “<dfn>Blaster</dfn>” means a caster who can cast area of effect (AOE) spells that damage the entire area. Spells that damage a single target are also useful, but those are categorized under the Striker role. The quintessential blasting spell is Fireball, but there are many options that fit the bill (listed below). Single-target spells like Magic Missile and Eldritch Blast are categorically not blasting spells.
+Blasting enemies with magic is not only incredibly fun in DnD, but it’s also a great way to contribute to the party. Blasters excel at taking out crowds of weaker foes, but can absolutely take on more powerful foes as well. For the purposes of this article, “<dfn>Blaster</dfn>” means a caster who can cast area of effect (AOE) spells that damage the entire area. Spells that damage a single target are also useful, but those are categorized under the Striker role. The quintessential blasting spell is Fireball, but many options fit the bill (listed below). Single-target spells like Magic Missile and Eldritch Blast are categorically not blasting spells.
 
 Please note that, while some half-casters get some of these spells, they get them much later than full-casters. That Fireball spell is a lot less exciting when the Artificer gets it at level 9 while the Sorcerer has had it since level 5. For that reason, this will be a comparison of just the full-casters.
 
@@ -92,7 +92,7 @@ Here are good blasting spells and classes that have them.
 
 </div>
 
-Here's the count on how many options each class has at each spell level:
+Here's the count of how many options each class has at each spell level:
 
 <div markdown="1" class="scroll-horizontal">
 
@@ -117,7 +117,7 @@ Every casting class has access to some blasting spells, but some will be better 
 
 ### Sorcerer
 
-While Sorcerers can lag behind Wizards when looking at the sheer number of spells they can learn, Sorcerers can absolutely keep up with Wizards in the number of blasting spells they learn. Of the 32 blasting spells I listed above, Sorcerers have access to 26 of them—the same number as Wizards. Beyond spell selection, Sorcerers also have metamagic, which is useful for a lot of things, but is amazing for Blasters. Sorcerers can use metamagic to deal less damage to friendly targets, boost the overall damage of their spells, change the damage type of a spell (like if you want to hit some fire-resistant enemies with a Fireball spell), and much more. For a dedicated Blaster caster, it’s hard to do better than a Sorcerer.
+While Sorcerers can lag behind Wizards when looking at the sheer number of spells they can learn, Sorcerers can absolutely keep up with Wizards in the number of blasting spells they learn. Of the 32 blasting spells I listed above, Sorcerers have access to 26 of them—the same number as Wizards. Beyond spell selection, Sorcerers also have metamagic, which is useful for many things, but is amazing for Blasters. Sorcerers can use metamagic to deal less damage to friendly targets, boost the overall damage of their spells, change the damage type of a spell (like if you want to hit some fire-resistant enemies with a Fireball spell), and much more. For a dedicated Blaster caster, it’s hard to do better than a Sorcerer.
 
 Spell Options: 5
 
@@ -133,7 +133,7 @@ Role Fit: 4
 
 ### Cleric
 
-At first glance, it would be easy to dismiss Clerics as Blasters, as they have few spell options (in fact, the least of any full-caster class: only 4 of the 32 options available) and usually fall into the Support role. But Clerics can actually be amazing Blasters for one reason: Spirit Guardians, a 3rd-level spell exclusive to Clerics. This spell has a 15-foot radius centered on the Cleric, and it amazingly completely prevents friendly fire in this area. Those who have played Clerics know that this spell is pretty central to the Cleric playstyle, in the same way that Rangers use Hunter’s Mark and Warlocks use Eldritch Blast. So, while they have few options available, they have one amazing option that’s core to the class design, making them surprisingly great Blasters. Note that this does place Clerics in the middle of the biggest groups of enemies, but Clerics are surprisingly hardy compared to other casters.
+At first glance, it would be easy to dismiss Clerics as Blasters, as they have few spell options (in fact, the least of any full-caster class: only 4 of the 32 options available) and usually fall into the Support role. But Clerics can be amazing Blasters for one reason: Spirit Guardians, a 3rd-level spell exclusive to Clerics. This spell has a 15-foot radius centered on the Cleric, and it amazingly completely prevents friendly fire in this area. Those who have played Clerics know that this spell is pretty central to the Cleric playstyle, in the same way that Rangers use Hunter’s Mark and Warlocks use Eldritch Blast. So, while they have few options available, they have one amazing option that’s core to the class design, making them surprisingly great Blasters. Note that this does place Clerics in the middle of the biggest groups of enemies, but Clerics are surprisingly hardy compared to other casters.
 
 Spell Options: 2
 
@@ -149,7 +149,7 @@ Role Fit: 3
 
 ### Warlock
 
-The Warlock’s effectiveness as a Blaster really hinges on the answer to one question: is Eldritch Blast a blasting spell? For the purposes of this article, blasting spells are AOE damage spells that can target multiple opponents, so my answer is not really. That makes Warlocks kind of hard to recommend as Blasters, because they’ll spend many turns just Eldritch Blasting enemies. They’re very good at this; however, they have very limited options for tackling groups, having just 6 of the 32 options available. Note that some of the Warlock subclasses (namely Fiend) include some additional blasting options that can improve this. All that said, the Warlock’s main responsibility is damage, so if you can fit blasting spells into your build, they’re actually well suited to it.
+The Warlock’s effectiveness as a Blaster really hinges on the answer to one question: is Eldritch Blast a blasting spell? For the purposes of this article, blasting spells are AOE damage spells that can target multiple opponents, so my answer is not really. That makes Warlocks kind of hard to recommend as Blasters, because they’ll spend many turns just Eldritch Blasting enemies. They’re very good at this; however, they have very limited options for tackling groups, having just 6 of the 32 options available. Note that some of the Warlock subclasses (namely Fiend) include some additional blasting options that can improve this. All that said, the Warlock’s main responsibility is damage, so if you can fit blasting spells into your build, they’re actually well-suited to it.
 
 Spell Options: 2
 
@@ -157,7 +157,7 @@ Role Fit: 4
 
 ### Bard
 
-Bards have great Support and Control options and also function as jacks of all trades, being able to fill in a lot of gaps in the party that might otherwise not be filled. That said, their blasting options are very limited compared to other classes, having just 5 out of the 32 options available. Unlike Clerics, none of these spells are really central to the class’s playstyle. Bards are usually support characters first, and building them for blasting means sacrificing some of the Bard’s primary strengths to try to be good at something they’re not really all that good at. For that reason, it’s hard to recommend Bards as Blasters, although they have a few options they can throw in for some versatility.
+Bards have great Support and Control options and also function as jacks of all trades, being able to fill in a lot of gaps in the party that might otherwise not be filled. That said, their blasting options are very limited compared to other classes, having just 5 out of the 32 options available. Unlike Clerics, none of these spells are central to the class’s playstyle. Bards are usually support characters first, and building them for blasting means sacrificing some of the Bard’s primary strengths to try to be good at something they’re not really good at. For that reason, it’s hard to recommend Bards as Blasters, although they have a few options they can throw in for some versatility.
 
 Spell Options: 2
 

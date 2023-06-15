@@ -80,9 +80,9 @@ The _Dungeon Master’s Guide_ has a lot of little rules for how to play out thi
 
 ### 10-Foot Pole
 
-The humble 10-foot pole, a poor man’s Mage Hand, can be useful for checking for traps—and this is probably the most common use—but there are other ways to use one. Pick something up through a cage door, hoist a bucket to a higher spot, lift a party member up from a lower spot. In a pinch, a 10-foot pole can be whittled into a pike or cut down to a quarterstaff.
+The humble 10-foot pole, a poor man’s Mage Hand, can be useful for checking for traps—and this is probably the most common use—but there are other ways to use one. Pick something up through a cage door, hoist a bucket to a higher spot, and lift a party member from a lower spot. In a pinch, a 10-foot pole can be whittled into a pike or cut down to a quarterstaff.
 
-The only real challenge with 10-foot poles is carrying them. They’re not easy to carry on their own, and their length makes sure they won’t fit neatly in a Bag of Holding. Thoughtful DMs might provide one in the entrance to a dungeon, but you can’t count on that. At a cost of just 5 copper, though, it’s easy to buy one for a dungeon, then dispose of it when you leave.
+The only real challenge with 10-foot poles is carrying them. They’re not easy to carry on their own, and their length makes sure they won’t fit neatly in a Bag of Holding. Thoughtful DMs might provide one at the entrance to a dungeon, but you can’t count on that. At a cost of just 5 copper, though, it’s easy to buy one for a dungeon, then dispose of it when you leave.
 
 
 ### Hammer and Pitons
@@ -122,7 +122,7 @@ There are a ton of uses for ball bearings and creative players will always find 
 
 The description paints this as a grenade-type weapon that you can splash on enemies to increase fire damage, and that can be useful, but it can also be useful to make any object, or any area, flammable. An object or area doused with oil will burn for 2 rounds, and this can be extended by throwing more oil into the flame.
 
-Smash a vial of oil on the floor, and have someone else ignite it with a tinderbox or lit torch to create a floor hazard to make enemies think twice about stepping through it. The oil can be poured down ahead of time to create a trap, and can be ignited in a number of ways—the Firebolt spell, placing a lit torch precariously on top of a door, or placing an unlit torch in the oil and igniting it from 30 feet away with the Druidcraft spell.
+Smash a vial of oil on the floor, and have someone else ignite it with a tinderbox or lit torch to create a floor hazard to make enemies think twice about stepping through it. The oil can be poured down ahead of time to create a trap, and can be ignited in several ways—the Firebolt spell, placing a lit torch precariously on top of a door, or placing an unlit torch in the oil and igniting it from 30 feet away with the Druidcraft spell.
 
 
 ### Acid
@@ -132,7 +132,7 @@ The item’s description makes it seem like these are grenades—and they can be
 
 ### Chalk
 
-At a cost of 1 copper and taking up no space in your inventory, everyone should have chalk. You can leave messages for others that they can erase once they read them, or mark things in a confusing dungeon so you’re not walking in circles. You can leave messages in a lesser-known language or system, like Thieves’ Cant or Druidic if you have a Rogue or Druid in both parts of the group. Pick a table in a tavern and write messages on the underside of it to pass information to a contact without even seeing them. You can even work out a code system to leave secret messages for each other that seem totally innocuous to onlookers.
+At a cost of 1 copper and taking up no space in your inventory, everyone should have chalk. You can leave messages for others that they can erase once they read them, or mark things in a confusing dungeon so you’re not walking in circles. You can leave messages in a lesser-known language or system, like Thieves’ Cant or Druidic if you have a Rogue or Druid in both parts of the group. Pick a table in a tavern and write messages on the underside of it to pass information to a contact without even seeing them. You can even work out a code system to leave secret messages for each other that seem innocuous to onlookers.
 
 Where chalk becomes really handy is if you’re using a virtual tabletop or actual map for your exploration. A scout-type character, like a Ranger or Monk, can make markings using chalk to show where the traps are, or how to get past puzzles. Using a VTT, a scout can draw on the map and let other party members know exactly what he or she finds.
 
@@ -153,7 +153,7 @@ No item inspires a party to think creatively quite like an Immovable Rod. Once a
 
 An immovable rod can be used in conjunction with simpler items like pitons and ropes to easily create a way up a sheer cliff. Athletic members of your party can use the rod to break a small chasm into two manageable jumps. 
 
-The rod can also be used offensively. If you’re traveling at any considerable speed, holding the rod at about neck-level and hitting the activation button can be deadly. If a foe has been knocked down on the ground, they can be held in place with a well-placed Immovable Rod.
+The rod can also be used offensively. If you’re traveling at any considerable speed, holding the rod at about neck level and hitting the activation button can be deadly. If a foe has been knocked down on the ground, they can be held in place with a well-placed Immovable Rod.
 
 
 ### Bag of Holding / Handy Haversack / Portable Hole
@@ -203,7 +203,7 @@ Note that a Medallion of Thoughts is replicable by a 10th-level Artificer.
 
 ### Breathing Bubble / Cap of Water Breathing / Cloak of the Manta Ray
 
-These three items all allow you to breathe underwater. There are spells and potions that will do the same, but unless you’re in an aquatic campaign that goes underwater frequently, you may not have those readily available to you. Having any of these magic items with you will enable you to jump into the water without worrying about drowning.
+These three items allow you to breathe underwater. Some spells and potions will do the same, but unless you’re in an aquatic campaign that goes underwater frequently, you may not have those readily available to you. Having any of these magic items with you will enable you to jump into the water without worrying about drowning.
 
 Note that a Cap of Water Breathing is replicable by a 2nd-level Artificer, and a Cloak of the Manta Ray is replicable by a 6th-level Artificer.
 
@@ -221,9 +221,9 @@ Portable light is essential for any adventurer.
 
 Darkvision allows you to see normally in dim light, but complete darkness is only upgraded to dim light—meaning you’ll still have trouble seeing colors or minute details, and you’ll have disadvantage on Perception checks. Your DM may have other penalties for trying to operate normally in complete darkness, like being unable to read, even if you have darkvision.
 
-The Everbright Lantern is your basic option. It’s a lantern that burns forever, and can be clipped to a belt.
+The Everbright Lantern is your basic option. It’s a lantern that burns forever and can be clipped to a belt.
 
-The Candle of the Deep provides less light and will eventually burn out, but has the benefit of staying lit underwater, in the event that you have to do some diving.
+The Candle of the Deep provides less light and will eventually burn out, but has the benefit of staying lit underwater, in case you have to do some diving.
 
 The Driftglobe is your deluxe option, having the capability to float along beside you, freeing up your hands, but also having the capability to light up larger areas when needed.
 
@@ -237,7 +237,7 @@ Perhaps the oddest choice on this list, Kyrzin’s Ooze (available in _Eberron: 
 
 ## <a name="Feats"></a>5 Feats for Utility
 
-Even with mundane and magic items, there are still some gaps in what players can do—or a player may just not want to carry around a dozen vials of oil and acid everywhere they go, which is totally understandable. Some feats increase utility by opening up some basic magic to any characters, and these basic spells can go a long way in increasing utility on a character. Here are 10 feats that can add utility to any character.
+Even with mundane and magic items, there are still some gaps in what players can do—or a player may just not want to carry around a dozen vials of oil and acid everywhere they go, which is totally understandable. Some feats increase utility by opening up some basic magic to any character, and these basic spells can go a long way in increasing the utility of a character. Here are 10 feats that can add utility to any character.
 
 
 ### Magic Initiate

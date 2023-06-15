@@ -11,9 +11,9 @@ parent:
   url: /5e-character-creation/
 ---
 
-If you're newer to DnD, or just haven't played some of the classes, you may be wondering what each of them is like. What's the difference between a Fighter and Barbarian, for instance, or a Sorcerer and a Wizard? Sometimes even reading the introductions in the handbooks don't give you a clear idea, and it can be hard to get that without getting way into the mechanics of each class.
+If you're newer to DnD or just haven't played some of the classes, you may be wondering what each of them is like. What's the difference between a Fighter and a Barbarian, for instance, or a Sorcerer and a Wizard? Sometimes even reading the introductions in the handbooks doesn't give you a clear idea, and it can be hard to get that without getting way into the mechanics of each class.
 
-This page is meant to give a basic overview on what each class does and how it plays. It's not a perfect guide, because some of the classes can be very diverse; however, this should give you a good general idea of how the classes are different and which might be best for you.
+This page is meant to give a basic overview of what each class does and how it plays. It's not a perfect guide, because some of the classes can be very diverse; however, this should give you a good general idea of how the classes are different and which might be best for you.
 
 <div class="contents" markdown="1">
 <strong>Contents</strong>
@@ -35,7 +35,7 @@ This page is meant to give a basic overview on what each class does and how it p
 
 ## <a name="Artificer"></a>Artificer
 
-Artificers are a diverse half-caster class, and the biggest thing they bring to the table is versatility. They get access to a lot of utility magic, many tool proficiencies, and their subclasses allow them to fill a variety of roles. Depending on subclass choice, they can play reasonably well as support characters, tanks, ranged blasters, or frontline strikers. As high-intelligence characters, Artificers are skilled investigators and also often serve as a source of knowledge in many areas: magic, history, religion, or nature. They also gain the ability to create magic items which can be used either by them or other party members, which can make them more powerful, but can also give them more versatility, such as pulling out a cap that allows them to breathe underwater when no one else in the party is prepared to go diving.
+Artificers are a diverse half-caster class, and the biggest thing they bring to the table is versatility. They get a lot of utility magic and tool proficiencies, and their subclasses allow them to fill a variety of roles. Depending on subclass choice, they can play reasonably well as support characters, tanks, ranged blasters, or frontline strikers. As high-intelligence characters, Artificers are skilled investigators and also often serve as a source of knowledge in many areas: magic, history, religion, or nature. They also gain the ability to create magic items which can be used either by them or other party members, which can make them more powerful, but can also give them more versatility, such as pulling out a cap that allows them to breathe underwater when no one else in the party is prepared to go diving.
 
 Example: [Rocket Raccoon from Guardians of the Galaxy](https://www.youtube.com/watch?v=i1iEIoxd-4A)
 
@@ -43,7 +43,7 @@ Difficulty: ★★★★★
 
 ## <a name="Barbarian"></a>Barbarian
 
-Barbarians are THE tank class. Their natural toughness and massive pool of hit points places them firmly on the front lines of combat where they can shrug off damage and hit back harder. They’re typically strong in every physical feat, from jumping across chasms to dodging fireballs to resisting the effects of poison. They also get some class features to enhance critical hits and get them more often, so if you’re looking for a critical hit build, barbarians are among the top picks. Compared to disciplined Fighters, Barbarians instead rely on their raw power and can jump right into battle rather than wait for the perfect moment.
+Barbarians are THE tank class. Their natural toughness and a massive pool of hit points place them firmly on the front lines of combat where they can shrug off damage and hit back harder. They’re typically strong in every physical feat, from jumping across chasms to dodging fireballs to resisting the effects of poison. They also get some class features to enhance critical hits and get them more often, so if you’re looking for a critical hit build, barbarians are among the top picks. Compared to disciplined Fighters, Barbarians instead rely on their raw power and can jump right into battle rather than wait for the perfect moment.
 
 Example: [Wolverine from X-men](https://www.youtube.com/watch?v=r3Slqc4wDYk)
 

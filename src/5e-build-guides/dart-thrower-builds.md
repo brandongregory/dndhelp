@@ -29,19 +29,19 @@ Have you ever watched someone tossing darts in a bar and thought, that should be
 
 ## <a name="What-Are-War-Darts"></a>What Are War Darts?
 
-<dfn>Darts in Dungeons and Dragons</dfn> are a far cry from the little darts thrown at targets in bars. They’re most likely based on the [Roman Plumbata](https://en.wikipedia.org/wiki/Plumbata), heavy weighted darts that were often tossed underhand up into the air to rain death and chaos down on enemy parties. These weapons had a barbed tip and metal shaft, along with a heavy lead weight, to make them fall down with a good amount of force. The heavier metal shafts and weights were attached to a longer wooden shaft with fletching to keep it moving straight once gravity took control. These were about 1 foot long and were typically 4.5-12.3 ounces (130-350 grams). These were not little novelty playthings that you tossed gingerly, they could do some serious damage.
+<dfn>Darts in Dungeons and Dragons</dfn> are a far cry from the little darts thrown at targets in bars. They’re most likely based on the [Roman Plumbata](https://en.wikipedia.org/wiki/Plumbata), heavy weighted darts that were often tossed underhand up into the air to rain death and chaos down on enemy parties. These weapons had a barbed tip and metal shaft, along with a heavy lead weight, to make them fall with a good amount of force. The heavier metal shafts and weights were attached to a long wooden shaft with fletching to keep it moving straight once gravity took control. These were about 1 foot long and were typically 4.5-12.3 ounces (130-350 grams). These were not little novelty playthings that you tossed gingerly, they could do some serious damage.
 
 In DnD, darts are mechanically very similar to throwing daggers, but they can easily be played as a more serious weapon, able to sink into a target with much more force than a light throwing dagger could manage. With some of the build tips in this article, darts can absolutely be more deadly than throwing daggers.
 
 ### What About Throwing Knives?
 
-If you don't like the concept of war darts and want to be a knife-throwing fiend, darts can be re-flavored as throwing daggers. The benefits are listed out in this article (darts would be better throwing daggers than actual daggers), but also factor in that darts are significantly cheaper and lighter than daggers, so a dagger throwing build would mechanically work best as a dart build.
+If you don't like the concept of war darts and want to be a knife-throwing fiend, darts can be re-flavored as throwing daggers. The benefits are listed out in this article (darts would be better throwing daggers than actual daggers), but also factor in that darts are significantly cheaper and lighter than daggers, so a dagger-throwing build would mechanically work best as a dart build.
 
 If you want throwing daggers to be your gimmick, you might also look into the Soul Knife Rogue subclass, which summons spectral daggers which can be thrown. For regular (non-spectral) daggers, though, this article will be your guide.
 
 ### Can This Work with a Boomerang?
 
-Yes and no. Rules as written, the boomerang is a ranged weapon; however, it lacks the Thrown property, so some of the synergies here won't work. This seems like a major oversight, as the boomerang is pretty obviously a thrown weapon in the same way that a dart is. If you really want a boomerang build, ask your DM if you can play with boomerangs having the Thrown property. Mechanically, boomerangs are very similar to darts, so there aren't really any balance problems with this. Keep in mind that if you're using an online character sheet like DND Beyond, bonuses that apply to thrown weapons may not automatically apply on your character sheet and may have to be added through manual adjustment.
+Yes and no. Rules as written, the boomerang is a ranged weapon; however, it lacks the Thrown property, so some of the synergies here won't work. This seems like a major oversight, as the boomerang is pretty obviously a thrown weapon in the same way that a dart is. If you really want a boomerang build, ask your DM if you can play with boomerangs having the Thrown property. Mechanically, boomerangs are very similar to darts, so there aren't any balance problems with this. Keep in mind that if you're using an online character sheet like DND Beyond, bonuses that apply to thrown weapons may not automatically apply on your character sheet and may have to be added through manual adjustment.
 
 Also bear in mind that boomerangs only come back to you if they miss. If you want a boomerang that comes back to you every time, take a look at the Returning Weapon infusion builds below—otherwise, you'll have to carry multiple boomerangs.
 
@@ -73,7 +73,7 @@ The main problem is that once you throw a dart, you don’t have it anymore. Yes
 
 _At the end of the battle, you can recover half your expended Ammunition by taking a minute to Search the battlefield._
 
-It’s a point of disagreement that, since darts are not technically ammunition, you might be able to recover _all_ of them after a battle, but that’s still not a really reliable way to deal with your primary weapon. If you’re only recovering half of your darts after each battle, you’ll quickly run out of darts. There are two solutions to this.
+It’s a point of disagreement that, since darts are not technically ammunition, you might be able to recover _all_ of them after a battle, but that’s still not a reliable way to deal with your primary weapon. If you’re only recovering half of your darts after each battle, you’ll quickly run out of darts. There are two solutions to this.
 
 The first, and simplest to work into a build, is the Artificer infusion Returning Weapon. Artificers can pick this at level 2. Basically, you can take a thrown weapon (like a dart) and turn it into a +1 dart that returns to your hand after being thrown. This very gracefully solves the problem of magic damage with only a two-level commitment.
 
@@ -83,7 +83,7 @@ The second, which requires a bit more commitment, is a 6th-level Kensei Monk fea
 
 Any spell that adds damage to each attack can be amazing for dart throwers. The big ones to look at are Hunter’s Mark and Hex, both of which add 1d6 to each weapon attack you make while the spell is active. Hex is a Warlock spell, so you can either multiclass into Warlock or take the Fey-Touched feat. Hunter’s Mark is a Ranger spell (although a few Paladin subclasses have it), and the only way to get it is to multiclass into a class or subclass that has it. This makes Hex a little easier to come by.
 
-Another spell that can be a big help is Heat Metal. Remember that Kensei Monks throw darts which then remain lodged in the enemy. Those darts can be targeted by the Heat Metal spell, allowing the caster to use their bonus action every turn to inflict more damage on the target. The easiest way to do this is to have an ally who can cast Heat Metal, but if you want to get it yourself, there are a few ways to do it. Bards and Druids get access to Heat Metal at level 3; Artificers get it at level 5. Note that if you’re going for Artificer, though, that you’ll probably be using Returning Weapon to get magic damage, so Heat Metal won’t work. Technically, if you have multiple darts in an enemy and have multiple party members with Heat Metal, you can fire off this spell multiple times per round.
+Another spell that can be a big help is Heat Metal. Remember that Kensei Monks throw darts which then remain lodged in the enemy. Those darts can be targeted by the Heat Metal spell, allowing the caster to use their bonus action every turn to inflict more damage on the target. The easiest way to do this is to have an ally who can cast Heat Metal, but if you want to get it yourself, there are a few ways to do it. Bards and Druids get access to Heat Metal at level 3; Artificers get it at level 5. Note that if you’re going for Artificer, though, you’ll probably be using Returning Weapon to get magic damage, so Heat Metal won’t work. Technically, if you have multiple darts in an enemy and have multiple party members with Heat Metal, you can fire off this spell multiple times per round.
 
 ## <a name="Feats-for-Dart-Throwers"></a>Feats for Dart Throwers
 
@@ -105,7 +105,7 @@ Multiclassing opens up some interesting combinations, though, which I get into i
 
 This is probably the most straightforward combo, using the Fighter’s skill with weapons for most of the damage, but taking a brief dip into Artificer for the returning weapon infusion. Fighters are the best class for weapon damage, getting a fighting style at level 1 and gaining multiple attacks with their class features.
 
-The Battle Master subclass brings a lot to this build with their maneuvers, which can boost damage, boost accuracy, and introduce some battlefield control measures like knocking opponents down. Though this is primarily a martial character, having the Battle Master’s maneuvers can make this feel like a caster.
+The Battle Master subclass brings a lot to this build with its maneuvers, which can boost damage, boost accuracy, and introduce some battlefield control measures like knocking opponents down. Though this is primarily a martial character, having the Battle Master’s maneuvers can make this feel like a caster.
 
 ### Fighter 2/Kensei Monk X
 

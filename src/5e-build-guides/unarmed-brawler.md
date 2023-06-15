@@ -48,7 +48,7 @@ Grappling in 5e grants some strategic advantages, if you know how to use it. To 
 
 Why would you use this? If an enemy keeps getting away from you (like an enemy who can fly or run up walls), this prevents them from fleeing out of reach. You may want to take advantage of effects in the field, or nullify enemy advantages from effects—for instance, dragging an enemy into the Cleric’s Spirit Guardians range and preventing them from fleeing, or grabbing an enemy that’s hiding in darkness and dragging them out into a brighter area so your allies can hit them more effectively.
 
-One other nasty combination is with shoving. Shoving works much like grappling—you make an Athletics check, and the opponent contests it with either Athletics or Acrobatics. You can either shove an opponent away from you, or down onto the ground. While an enemy is prone on the ground, all melee attacks against them are made with advantage. Here’s the trick: getting up from the ground takes half your movement. If your movement is 0 (like when you’re grappled), you can’t get up. So if you grapple and then shove an opponent, the only way they can get up is by beating you in an Athletics or Acrobatics check. If you have a few melee attackers in your party, this can turn the tables against a single opponent.
+One other nasty combination is with shoving. Shoving works much like grappling—you make an Athletics check, and the opponent contests it with either Athletics or Acrobatics. You can either shove an opponent away from you or down onto the ground. While an enemy is prone on the ground, all melee attacks against them are made with advantage. Here’s the trick: getting up from the ground takes half your movement. If your movement is 0 (like when you’re grappled), you can’t get up. So if you grapple and then shove an opponent, the only way they can get up is by beating you in an Athletics or Acrobatics check. If you have a few melee attackers in your party, this can turn the tables against a single opponent.
 
 ## <a name="unarmed-fighter-build-basics"></a>Unarmed Fighter Build Basics
 
@@ -80,7 +80,7 @@ Harnessing primal magic from giants, the Rune Knight grants a toolkit of abiliti
 
 ### Eldritch Knight
 
-The Eldritch Knight subclass grants a few simple spells to Fighters. Defensive spells like Absorb Elements and Shield will be your bread and butter, and can help any Fighter build be a defensive powerhouse. Eldritch Knights get an ability to summon their chosen weapon to them if they’re ever separated, which may be wasted on an unarmed character (pro-tip: bond to a net!), but most of the other abilities will be of some use. The Eldritch Knight is great for more defensive builds, but adding some magic to your Fighter might be great flavor as well.
+The Eldritch Knight subclass grants a few simple spells to Fighters. Defensive spells like Absorb Elements and Shield will be your bread and butter and can help any Fighter build be a defensive powerhouse. Eldritch Knights get an ability to summon their chosen weapon to them if they’re ever separated, which may be wasted on an unarmed character (pro-tip: bond to a net!), but most of the other abilities will be of some use. The Eldritch Knight is great for more defensive builds, but adding some magic to your Fighter might be great flavor as well.
 
 ## <a name="feats-for-unarmed-fighters"></a>Feats for Unarmed Fighters
 
