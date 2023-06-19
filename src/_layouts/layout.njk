@@ -11,7 +11,13 @@
     <meta name="generator" content="{{ eleventy.generator }}">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
     {% if article == true %}
-    <script type="application/ld+json">{% include "default-structured-data.njk" %}</script>
+    <script type="application/ld+json">
+        {% if additionalStructuredData %}
+        {% include "custom-structured-data.njk" %}
+        {% else %}
+        {% include "default-structured-data.njk" %}
+        {% endif %}
+    </script>
     {% endif %}
     {% set css %}
     {% include "styles.css" %}{% if article == true %}{% include "article.css" %}{% elif toc == true %}{% include "toc.css" %}{% endif %}
