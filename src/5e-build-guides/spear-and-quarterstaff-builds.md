@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Spear and Quarterstaff Builds in DnD 5e"
-meta_description: "Whether it's done for mechanics or flavor, quarterstaff and spear builds can be tricky in DnD. Here are some considerations and tips for building the best."
+meta_description: "Quarterstaves and spears are classic weapons that can be extremely effective with the right classes and feats. Whether you use Strength, Dexterity, or Wisdom, here are some builds and considerations."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -11,7 +11,7 @@ parent:
   url: /5e-build-guides/
 ---
 
-While swords and bows may be objectively better weapons, there’s just something fun about a classic warrior using a simple weapon like a spear or quarterstaff. Historically, these weapons were quite powerful, but in DnD, the weapons are a bit lackluster compared to other options. These characters are still very viable, though, with the right builds. If you’re interested in making a character that uses the quarterstaff or spear as their primary weapon, here’s how to make the most of that.
+Heroes with swords are overrated. There's something fun about a classic warrior using a spear or quarterstaff as their main weapon. Historically, these weapons were quite powerful, and with the right feats and class selection, you'll find that these simple weapons are anything but simple. There are ways to use Dexterity and even Wisdom as your main stat for these builds, and some feats make them significantly more powerful. Here's how to make the most of them.
 
 <div markdown="1" class="contents">
 <strong>Contents</strong>
@@ -33,7 +33,7 @@ First off, which to choose? Both spears and quarterstaves are simple versatile w
 
 If you want a spear that does 1d8 damage with one hand (so you can use a shield), check out the yklwa. It’s often overlooked for its odd name, but it’s basically a short spear that does 1d8 damage with one hand at the expense of the versatile option and some throwing distance.
 
-Another factor to consider is the availability of magic items. There are basic versions of spears (and yklwas), but there’s a far greater variety of magic staves available with a variety of effects. For instance, the Staff of Defense can really help increase your defenses, and the Spider Staff can give you some useful utility options as well as bonus damage. If you really want to use spears, you might talk to your DM about reflavoring a magic sword as a spear to give you some more options.
+Another factor to consider is the availability of magic items. There are basic versions of spears (and yklwas), but there’s a far greater variety of magic staves available with a variety of effects. For instance, the Staff of Defense can really help increase your defenses, and the Spider Staff can give you some useful utility options as well as bonus damage. If you want more magic spears, you might talk to your DM about reflavoring a magic sword as a spear to give you some more options.
 
 ### Can I Use a Baseball Bat?
 
