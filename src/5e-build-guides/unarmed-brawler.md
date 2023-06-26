@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Strength-Based Unarmed Brawler Builds in DnD 5e"
-meta_description: "Want to be a rough-and-tumble street brawler WITHOUT the mystical element of Monks? A strong brawler might be your best bet."
+meta_description: "A rough-and-tumble street brawler can hit like a truck and go all day without running out of ki points. Here's how to build one in DnD 5e."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -11,7 +11,7 @@ parent:
   url: /5e-build-guides/
 ---
 
-Monks are great at a lot of things on DnD 5e, but they don’t fit every unarmed character. Sometimes, you just want a tough-as-nails street brawler who can punch really, really hard—without messing with that mystical stuff the Monks do. If you want a fast and nimble martial artist, you still can’t beat the Monk, but strength-based unarmed characters do better in other classes—which is exactly what this guide covers.
+Monks are great at a lot of things, but sometimes we want to build Mike Tyson rather than Bruce Lee. An unarmed Fighter offers several benefits, such as their staying power over long adventuring days and their strong ability to grapple opponents. It also opens up builds that don't have Wisdom as a cornerstone stat, allowing a character to be a charistmatic pugilist, or a cunning battlefield tactician. If you want to punch things and use Strength as your primary stat, this guide shows you how to do that in DnD 5e.
 
 <div markdown="1" class="contents">
 <strong>Contents</strong>
@@ -26,9 +26,9 @@ Monks are great at a lot of things on DnD 5e, but they don’t fit every unarmed
 
 ## <a name="the-unarmed-fighting-style"></a>The Unarmed Fighting Style
 
-_Tasha’s Cauldron of Everything_ introduced a new fighting style that really made unarmed builds viable. The Unarmed fighting style, available exclusively to Fighters, lets you do 1d6 + Strength modifier damage with your unarmed attacks. If you’re not holding a weapon or shield, that goes up to 1d8. Also, at the start of each turn, you can deal 1d4 damage to each creature you’re grappling as a free action.
+_Tasha’s Cauldron of Everything_ introduced a new fighting style that made unarmed builds much more enticing. The Unarmed fighting style, available exclusively to Fighters, lets you do 1d6 + Strength modifier damage with your unarmed attacks. If you’re not holding a weapon or shield, that goes up to 1d8. Also, at the start of each turn, you can deal 1d4 damage to each creature you’re grappling as a free action.
 
-With this fighting style, your fists (or feet, or forehead) do damage comparable to most 1-handed martial weapons. The catch is that you can’t use a shield. There is the opportunity to do an extra 1d4 damage per turn for free, but this won’t compete with a strong great weapon or weapon and shield build. That’s OK. It’s fine to do things because you like the flavor, even if they’re not completely optimized. Fighters do a lot of damage to begin with, so it evens out.
+With this fighting style, your fists (or feet, or forehead) do damage comparable to most 1-handed martial weapons. The catch is that you can’t use a shield. There is the opportunity to do an extra 1d4 damage per turn for free, but this won’t compete with the raw damage output of a strong great weapon build. That’s OK. It’s fine to do things because you like the flavor, even if they’re not completely optimized. Fighters do a lot of damage to begin with, so it evens out.
 
 ### What About Paladins, Rangers, and Barbarians?
 
