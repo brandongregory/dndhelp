@@ -33,6 +33,7 @@ Final Fantasy VI dominated my imagination earlier in my life, and I still fondly
 
 Final Fantasy VII was an amazing game for its time, and the remake not only fleshed out more of the story, but fixed a lot of the things that didn't age well in the original game. Each of the characters (that we've seen so far) has a unique fighting style that translates well to a DnD setting.
 
+* [Barret Wallace](/dnd-in-pop-culture/final-fantasy/ff7r-barret/)
 * [Yuffie Kisaragi](/dnd-in-pop-culture/final-fantasy/ff7r-yuffie/)
 
 ## Final Fantasy X
