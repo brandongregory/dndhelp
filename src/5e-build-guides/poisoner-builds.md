@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Ultimate Poisoner Builds in DnD 5e"
+meta_title: "Deadly Poisoner Builds in DnD 5e"
 meta_description: "Killing an opponent with poison is undeniably cooler than killing them with a sword. Here's the state of poison damage in 5e, and some builds for a poisoner character."
 author: "Brandon Gregory"
 section_name: build
