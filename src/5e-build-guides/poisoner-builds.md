@@ -27,7 +27,8 @@ A poisoner character can be a lot of fun and can be effective in most situations
 3. [Being an Efficient Poisoner](#Being-an-Efficient-Poisoner)
 4. [Best Classes and Subclasses for Poisoner Characters](#Best-Classes-and-Subclasses-for-Poisoner-Characters)
 5. [Classes to Avoid for Poisoner Characters](#Classes-to-Avoid-for-Poisoner-Characters)
-6. [What About Other Poisons?](#What-About-Other-Poisons)
+6. [Poisoners Without the Poisoner Feat](#Other-Poisoners)
+7. [What About Other Poisons?](#What-About-Other-Poisons)
 </div>
 
 ## <a name="The-Poisoner-Feat"></a>The Poisoner Feat
@@ -138,6 +139,11 @@ The ability to attack recklessly makes Barbarians great melee poisoners, and the
 Much like the Ancestral Guardian, Totem Warriors have no real conflict with the Poisoner feat, and the base Barbarian features like Reckless Attack make them great melee poisoners.
 
 
+### Cleric - Trickery Domain
+
+Clerics aren't really known for their weapon attacks, but Trickery Domain Clerics have some useful features that make them decent archers as well as tricksters. What makes them a good fit for a poisoner, though, is that they already get poison damage—at level 8, they can add poison damage to their weapon attacks. Overcoming resistance to poison is a minor perk, but it's still a good perk for a class that deals poison damage anyway. If you're wanting to go all-in on poison, Trickery Clerics let you double up on it.
+
+
 ### Fighter - Arcane Archer
 
 Arcane Archers gain access to the Archery fighting style to boost their accuracy, and also get Curving Shot, which significantly reduces the chance of a poisoned arrow being wasted. Their bonus action is usually available to apply the poison as well.
@@ -150,7 +156,7 @@ Battle Masters also get access to the Archery fighting style, but can easily use
 
 ### Fighter - Champion
 
-Champions have no conflict with the Poisoner feat, but they don’t really get any synergy with it either. Still, if you’re looking for a basic Fighter class that uses poison, this will work.
+Champions have no conflict with the Poisoner feat. Since the poison requires a saving throw, it's not technically part of the attack you make, so it does not get critical hits along with your weapons. [This was confirmed by lead game designer Jeremy Crawford.](https://www.sageadvice.eu/critical-poison/) Still, if you’re looking for a basic Fighter class that uses poison, this will work.
 
 
 ### Fighter - Samurai
@@ -182,6 +188,23 @@ Barbarians can make great melee poisoners, but avoid the Battlerager, Berserker,
 Rangers use their bonus action to cast and move Hunter’s Mark. This doesn’t rule out the Poisoner feat, but it does mean you’ll have to make a choice sometimes whether to use Hunter’s Mark or apply the poison. The Beast Master, Drakewarden, Horizon Walker, Monster Slayer, and Swarmkeeper subclasses all have frequent uses for their bonus actions as well, so avoid these subclasses.
 
 Rogues often seek out advantage on their attacks to get sneak attack damage, but Cunning Action is a core feature of the class that uses your bonus action. Additionally, the Inquisitive, Mastermind, Phantom, and Thief subclasses all use their bonus action consistently, making it harder to apply the poison. The Soulknife subclass also uses psychic blades, which can’t be poisoned. While a Rogue using poisoned weapons is a great concept, it’s harder to work within the confines of the game because of these limitations.
+
+
+## <a name="Other-Poisoners"></a>Poisoners Without the Poisoner Feat
+
+If you want to deal poison damage but don't care to get the Poisoner feat, there are a few ways to do that.
+
+The <b>Grung</b> is a race released in a smaller supplemental book, so it doesn't get as much publicity as other races. It has a feature where you can poison a character you touch. This makes Monk a great way to apply poison, since they're perfectly viable without any weapons at all. The poison is on a relatively low DC saving throw, but when you're getting as many hits as the Monk does, you're bound to get some poison damage.
+
+Speaking of Monks, the Way of the Ascendent Dragon allows you to change the damage type of your unarmed strikes. One of the things you can change it to is poison. This doesn't do any additional damage, but it does technically make you a poisoner.
+
+Trickery Domain Clerics get a feature at level 8 to add poison damage to their weapon attacks. As noted above, this stacks with damage from the Poisoner feat.
+
+Poison Spray is a cantrip that deals some pretty hefty poison damage (1d12, which scales like a normal cantrip) when an enemy fails a Constitution save against your spell save DC. The cantrip is available to Artificers, Druids, Sorcerers, Warlocks, and Wizards, which means it's also available if you take the Magic Initiate feat for one of those classes.
+
+Other spells which deal poison damage include Infestation, Ray of Sickness, Dragon's Breath, Cloudkill, and Illusory Dragon.
+
+And, of course, Dragonborn characters can choose to be a green Dragonborn so their breath attack deals poison damage.
 
 
 ## <a name="What-About-Other-Poisons"></a>What About Other Poisons?
