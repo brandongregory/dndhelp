@@ -309,7 +309,7 @@ When you get advantage on an attack, roll three dice instead of two and take the
 
 ### <a name="Feat-Poisoner"></a>Poisoner
 
-Often overlooked, but it's basically free damage if you're not using your bonus action. Bear in mind that a good number of enemies are immune to poison damage, but there are still many that will be affected.
+Often overlooked, but it's basically free damage if you're not using your bonus action. Bear in mind that a good number of enemies are immune to poison damage, but there are still many that will be affected. ([Check out this guide on making a poisoner character.](/5e-build-guides/poisoner-builds/))
 
 ## <a name="Magic-Item"></a>Best Magic Items for Archers
 
@@ -329,7 +329,7 @@ A flat damage boost to every shot from a bow. Becomes more impactful for charact
 
 ### <a name="Magic-Item-Manual-of-Quickness-of-Action"></a>Manual of Quickness of Action (Very Rare)
 
-The goal for any archer (except the Battlemaster) will be 20 Dexterity—unless you can get one of these, in which case the goal becomes _22_ Dexterity. With few ways to boost Dexterity above 20, this is one of the best items you can give most archers.
+The goal for any archer (except the Battlesmith) will be 20 Dexterity—unless you can get one of these, in which case the goal becomes _22_ Dexterity. With few ways to boost Dexterity above 20, this is one of the best items you can give most archers.
 
 ### <a name="Magic-Item-123-Ammunition"></a>+1/+2/+3 Ammunition (Uncommon/Rare/Very Rare)
 
