@@ -237,12 +237,12 @@ Perhaps the oddest choice on this list, Kyrzin’s Ooze (available in _Eberron: 
 
 ## <a name="Feats"></a>5 Feats for Utility
 
-Even with mundane and magic items, there are still some gaps in what players can do—or a player may just not want to carry around a dozen vials of oil and acid everywhere they go, which is totally understandable. Some feats increase utility by opening up some basic magic to any character, and these basic spells can go a long way in increasing the utility of a character. Here are 10 feats that can add utility to any character.
+Even with mundane and magic items, there are still some gaps in what players can do—or a player may just not want to carry around a dozen vials of oil and acid everywhere they go, which is totally understandable. Some feats increase utility by opening up some basic magic to any character, and these basic spells can go a long way in increasing the utility of a character. Here are 5 feats that can add utility to any character.
 
 
 ### Magic Initiate
 
-Cantrips can offer a lot of flexibility to solve a lot of problems. Acid Splash can replace vials of avid, and Shape Water can be extremely useful for any character. Cantrips are often thought of as a basic attack option for spellcasters, and they are, but cantrips as a problem-solving tool are a boon to any character.
+Cantrips can offer a lot of flexibility to solve a lot of problems. Acid Splash can replace vials of acid, and Shape Water can be extremely useful for any character. Cantrips are often thought of as a basic attack option for spellcasters, and they are, but cantrips as a problem-solving tool are a boon to any character. [Read more on the best utility cantrips here.](/5e-build-guides/utility-cantrips-ranked/)
 
 Getting a free cast of a 1st-level spell can be useful as well, allowing you to cast things like Comprehend Languages or Detect Magic in rare circumstances. If you have any spell slots, that 1st-level spell becomes much more enticing, as you’ll be able to cast it using your other spell slots once you’ve used your one free casting for the day.
 
