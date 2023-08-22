@@ -131,6 +131,21 @@ Saying no can still happen when the answer in the past has been yes. If you allo
 Saying no like this needs to come from a place of mutual agreement on the type of game you’re playing, so it can be hard to have a conversation like this without first having the conversations from the sections above. But if the DM and players have agreed on the type of game you’re all playing, saying no when things deviate from that idea helps ensure that all players continue having fun.
 
 
+## When to Part Ways
+
+If a player (or the DM) has expectations about the game that don’t match up with the rest of the table, and they can’t adjust their expectations to align with everyone else’s, it may be time to part ways. This can be a hard conversation to have, but it’s better than lingering disappointment that comes out in every session. If someone just isn’t a fit for the table but there seems to be no movement—for example, they keep requesting that things change, but it’s clear that nothing is going to change—it’s usually better to remove that person from the group than to try to manage constant conflict.
+
+Ideally, this is done after all options above have been exhausted, but let’s be honest: sometimes it’s immediately clear that a person doesn’t fit with the group and conversations won’t fix it. There’s definitely value in trying to reset expectations through conversation, but sometimes a no is a hard no.
+
+Confrontation is hard, but when it’s clear to both parties that one person’s discontent is not going to get any better, the choice can actually be mutual. Try saying something like this:
+
+“It seems you’re unhappy with this. The table has aligned on this, though, and it won’t be changing. Do you want to stay with the group as it is, knowing this won’t change, or do you want to move on to something else?”
+
+There might be some argument, but be firm in those two choices: either they accept that things will not change and re-integrate into the table, or they move on. If the argument is about anything else, it’s fine to say, “It sounds like we’re at an impasse. If you’re not on board with the type of game we’re playing, you should look for something else.”
+
+Conversations like this can seem very personal, and they often are, so it’s important to focus on outcomes instead of intentions. It’s easy to talk about something that has happened, but it’s much harder to talk about _why_ it happened. People seldom do things for no reason, and the person you’re talking to will probably have several reasons why they think they’re right. We don’t know what other people are thinking, so don’t try to guess—focus on what happened and how it affected others. It’s not about right vs wrong, or fair vs unfair—it’s about how the table is playing, and whether that person wants to be a part of it.
+
+
 ## Fun for Everyone
 
 Dungeons & Dragons and other TTRPGs are vastly different from video games, books, and movies because they involve several different people working together to create the story. For this to work, players and the DM need to be spending as much time helping other players tell their stories as they do telling their own. The “story” of a TTRPG is everyone’s stories, not just a single plotline, and that takes some collaboration—and some compromise.

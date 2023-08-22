@@ -13,10 +13,11 @@ parent:
 additionalStructuredData:
   - '@type': ItemList
     'name': Best Classes and Subclasses for Tanks in DnD 5e
-    'numberOfItems': 10
+    'numberOfItems': 11
     'itemListOrder': Unordered
     'itemListElement': [
       'Barbarian – Path of the Ancestral Guardian',
+      'Barbarian - Path of the Juggernaut',
       'Barbarian – Path of the Totem Warrior',
       'Fighter – Cavalier',
       'Fighter – Eldritch Knight',
@@ -66,6 +67,7 @@ Playing a tank is deceptively hard. You need defense to stay alive, offense to m
 
 1. [Best Classes and Subclasses for Tanks](#Class)
     1. [Barbarian - Path of the Ancestral Guardian](#Class-Ancestral-Guardian)
+    1. [Barbarian - Path of the Juggernaut](#Class-Juggernaut)
     2. [Barbarian - Path of the Totem Warrior](#Class-Totem-Warrior)
     3. [Fighter - Cavalier](#Class-Cavalier)
     4. [Fighter - Eldritch Knight](#Class-Eldritch-Knight)
@@ -101,6 +103,21 @@ Playing a tank is deceptively hard. You need defense to stay alive, offense to m
 Probably a best-in-class tank, the Ancestral Guardian takes the Barbarian’s natural durability and adds some useful features for getting enemies to focus on you and not your allies. Barbarians are already fantastically durable, but you'll probably want to go weapon-and-shield, as your main goal will be getting the enemies to focus on you. If your main goal is to keep your allies from harm, this may be the best option. Of all the Barbarian classes, this is one of the least offensive, so make sure your allies can deal good damage. Also bear in mind that Barbarians typically have all of their high stats locked up in the three physical stats, so mental stats are typically low. This can mean you'll struggle against magical attacks.
 
 Barbarians need a high Strength and Constitution, and a fairly high Dexterity, and you might want a mental stat with a decent score as well. With stats stretched so thin, the original Human may be a good choice, as they get a +1 to every stat. Mountain Dwarves, Half-Orcs, and Goliaths also make excellent Barbarians, with Goliaths in particular getting a useful ability to shrug off damage once a day.
+
+**Party Roles**
+
+<ul class="space-apart">
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Striker">Striker</a>
+    <li><a href="/5e-character-creation/party-roles/#BattleRoles-Tank">Tank</a>
+</ul>
+
+### <a name="Class-Juggernaut"></a>Barbarian – Path of the Juggernaut
+
+Path of the Juggernaut comes from the Critical Role-based _Tal'Dorei Campaign Setting Reborn_. If your table is OK with third-party content, this is one of the most popular. It is also the first third-party content available on D&D Beyond. If this is a valid option for you, it allows you to take a strategic approach to tanking. While the Totem Warrior works by giving resistance to most damage, the Juggernaut gives you a lot more control over you enemies' attack rolls.
+
+Barbarians get the normal option of attacking (neither advantage nor disadvantage imposed), and you can attack recklessly, which gives you advantage on all attacks, but means enemies attack you with advantage too. The Juggernaut subclass gets a third option to take a defensive stance, which is kind of a reverse reckless attack—you attack with disadvantage, but all enemies attack you with disadvantage too. Having this kind of control over attack rolls makes it much easier to control how much damage you're taking, especially among a large group of melee attackers. A group of enemy mages will probably nullify this advantage, but Barbarians are pretty good at taking down mages without protection.
+
+Juggernauts get a few more perks, like a good knock-back effect on their attacks, and basic immunity to being knocked prone, shoved, or grappled, making it harder for more physical opponents to control you too.
 
 **Party Roles**
 

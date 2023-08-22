@@ -3,6 +3,10 @@ img {
     max-width: 100%;
 }
 
+p img {
+    display: inline-block;
+}
+
 img.hero {
     height: 320px;
     margin: 0 auto;
