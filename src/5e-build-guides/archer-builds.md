@@ -20,7 +20,7 @@ additionalStructuredData:
       'Cleric - Trickery Domain',
       'Cleric - War Domain',
       'Fighter - Arcane Archer',
-      'Fighter - Battlesmith',
+      'Fighter - Battle Master',
       'Fighter - Samurai',
       'Monk - Kensei',
       'Ranger - Gloom Stalker',
