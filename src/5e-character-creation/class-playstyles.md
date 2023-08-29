@@ -13,7 +13,7 @@ parent:
 
 If you're newer to DnD or just haven't played some of the classes, you may be wondering what each of them is like. What's the difference between a Fighter and a Barbarian, for instance, or a Sorcerer and a Wizard? Sometimes even reading the introductions in the handbooks doesn't give you a clear idea, and it can be hard to get that without getting way into the mechanics of each class.
 
-This page is meant to give a basic overview of what each class does and how it plays. It's not a perfect guide, because some of the classes can be very diverse; however, this should give you a good general idea of how the classes are different and which might be best for you.
+This page gives a basic overview of what each class does and how it plays. It's not a perfect guide, because some of the classes can be very diverse; however, this should give you a good general idea of how the classes are different and which might be best for you.
 
 <div class="contents" markdown="1">
 <strong>Contents</strong>
@@ -35,7 +35,7 @@ This page is meant to give a basic overview of what each class does and how it p
 
 ## <a name="Artificer"></a>Artificer
 
-Artificers are a diverse half-caster class, and the biggest thing they bring to the table is versatility. They get a lot of utility magic and tool proficiencies, and their subclasses allow them to fill a variety of roles. Depending on subclass choice, they can play reasonably well as support characters, tanks, ranged blasters, or frontline strikers. As high-intelligence characters, Artificers are skilled investigators and also often serve as a source of knowledge in many areas: magic, history, religion, or nature. They also gain the ability to create magic items which can be used either by them or other party members, which can make them more powerful, but can also give them more versatility, such as pulling out a cap that allows them to breathe underwater when no one else in the party is prepared to go diving.
+Artificers are a diverse half-caster class, and the biggest thing they bring to the table is versatility. They get a lot of [utility magic](/5e-build-guides/utility-cantrips-ranked/) and tool proficiencies, and their subclasses allow them to fill a variety of roles. Depending on subclass choice, they can play reasonably well as [support characters](/5e-build-guides/support-caster-builds/), [tanks](/5e-build-guides/tank-builds/), [ranged blasters](/5e-build-guides/blaster-caster-builds/), or frontline strikers. As high-intelligence characters, Artificers are skilled investigators and also often serve as a source of knowledge in many areas: magic, history, religion, or nature. They also gain the ability to create magic items which can be used either by them or other party members, which can make them more powerful, but can also give them more versatility, such as pulling out a cap that allows them to breathe underwater when no one else in the party is prepared to go diving.
 
 Difficulty: ★★★★★
 
@@ -43,11 +43,12 @@ Difficulty: ★★★★★
 
 - [Rocket Raccoon from _Guardians of the Galaxy_](https://www.youtube.com/watch?v=i1iEIoxd-4A) - A great example of a character that uses their intelligence and mechanical aptitude to fight.
 - [Iron Man from MCU](https://www.youtube.com/watch?v=-CKyYV5doCI) - If you want to be the Medieval fantasy version of Iron Man, an Armorer Artificer is your best bet.
+- [Rikku from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-rikku/) - Yes, the thief from _Final Fantasy X_ is actually an Artificer. Sure, she can steal, but the reason everyone uses her is her Mix ability, which can give you some powerful potion effects.
 
 
 ## <a name="Barbarian"></a>Barbarian
 
-Barbarians are THE tank class. Their natural toughness and a massive pool of hit points place them firmly on the front lines of combat where they can shrug off damage and hit back harder. They’re typically strong in every physical feat, from jumping across chasms to dodging fireballs to resisting the effects of poison. They also get some class features to enhance critical hits and get them more often, so if you’re looking for a critical hit build, barbarians are among the top picks. Compared to disciplined Fighters, Barbarians instead rely on their raw power and can jump right into battle rather than wait for the perfect moment.
+Barbarians are THE [tank](/5e-build-guides/tank-builds/) class. Their natural toughness and a massive pool of hit points place them firmly on the front lines of combat where they can shrug off damage and hit back harder. They’re typically strong in every physical feat, from jumping across chasms to dodging fireballs to resisting the effects of poison. They also get some class features to enhance critical hits and get them more often, so if you’re looking for a critical hit build, barbarians are among the top picks. Compared to disciplined Fighters, Barbarians instead rely on their raw power and can jump right into battle rather than wait for the perfect moment.
 
 Difficulty: ★☆☆☆☆
 
@@ -59,19 +60,19 @@ Difficulty: ★☆☆☆☆
 
 ## <a name="Bard"></a>Bard
 
-Bards are the quintessential jacks of all trades and are able to fill a wide variety of roles, reminiscent of the old red mages of Final Fantasy games. They’re full casters and get good support and control options, but they can wear light armor and fight with weapons when needed. They get a lot of skill proficiencies and can fill any gaps in the party’s array of skills. Bards also have a lot of options for making the entire party stronger, making any ally more effective at what they do. As high-charisma characters, bards are notoriously strong social characters and natural performers.
+Bards are the quintessential jacks of all trades and are able to fill a wide variety of roles, reminiscent of the old red mages of Final Fantasy games. They’re full casters and get good [support](/5e-build-guides/support-caster-builds/) and [control](/5e-build-guides/control-caster-builds/) options, but they can wear light armor and fight with weapons when needed. They get a lot of skill proficiencies and can fill any gaps in the party’s array of skills. Bards also have a lot of options for making the entire party stronger, making any ally more effective at what they do. As high-charisma characters, bards are notoriously strong social characters and natural performers.
 
 Difficulty: ★★★★☆
 
 ### Pop Culture Examples of Bards
 
-- [Soul King Brook from _One Piece_](https://www.youtube.com/watch?v=isAb1S_yA74) - He's the ship's musician as well as their secondary swordsman, Brook is probably a College of Swords Bard.
+- [Soul King Brook from _One Piece_](https://www.youtube.com/watch?v=isAb1S_yA74) - He's the ship's musician as well as their secondary swordsman. Brook is probably a College of Swords Bard.
 - [Star Lord from _Guardians of the Galaxy_](https://www.youtube.com/watch?v=jaaJyAjvajo) - If you've ever wanted to stop a battle with a dance-off (and, let's be honest, who hasn't?), the Bard class might be for you.
 
 
 ## <a name="Cleric"></a>Cleric
 
-Clerics are full casters who wear armor, making them much more durable than most other spellcasters, and they actually do quite well on the front lines of combat. They have the best support magic, but a wide variety of subclasses allows them to serve just about any role on the battlefield, from ranged blaster to frontline warrior to trickster illusionist and even mind reader. They can also absolutely destroy undead monsters, which is nice flavor which comes in handy from time to time. Clerics gain their powers from a god, and there are a wide variety of gods to choose from, making many different character concepts possible.
+Clerics are full casters who wear armor, making them much more durable than most other spellcasters, and they actually do quite well on the front lines of combat. They have the best [support magic](/5e-build-guides/support-caster-builds/), but a wide variety of subclasses allows them to serve just about any role on the battlefield, from [ranged blaster](/5e-build-guides/blaster-caster-builds/) to frontline warrior to trickster illusionist and even mind reader. They can also absolutely destroy undead monsters, which is nice flavor which comes in handy from time to time. Clerics gain their powers from a god, and there are a wide variety of gods to choose from, making many different character concepts possible.
 
 Difficulty: ★★★☆☆
 
@@ -79,11 +80,12 @@ Difficulty: ★★★☆☆
 
 - [Pike Trickfoot from _The Legend of Vox Machina_](https://youtu.be/oeRxeWIOjAI?t=120) - This one is almost cheating, since Pike is actually a Dungeons & Dragons Cleric, but she's a great example.
 - [Melisandre from _Game of Thrones_](https://www.youtube.com/watch?v=QTwc-jg5fMI) - Proof that Clerics are under no obligation to be nice, this Cleric of the Light Domain is as deadly as she is devout.
+- [Rosa Joanna Farrell from _Final Fantasy IV_](/dnd-in-pop-culture/final-fantasy/ff4-rosa/) - For those who have played pretty much any Final Fantasy game, white mages are almost always Clerics; but Rosa's skills as an archer are a good fit for the War Domain.
 
 
 ## <a name="Druid"></a>Druid
 
-Druids are nature-based spellcasters who get a lot of great support and control spell options, and some good attack spells. They can transform into various animals—typically weaker animals that are used more for utility, like turning into a hawk to scout ahead, but there is one subclass that can turn into more powerful animals for combat. Most druids will stay far away from the front lines, choosing instead to hinder enemies, support their allies, or use their magic and animal transformations for out of combat challenges.
+Druids are nature-based spellcasters who get a lot of great [support](/5e-build-guides/support-caster-builds/) and [control](/5e-build-guides/control-caster-builds/) spell options, and some good attack spells. They can transform into various animals—typically weaker animals that are used more for utility, like turning into a hawk to scout ahead, but there is one subclass that can turn into more powerful animals for combat. Most druids will stay far away from the front lines, choosing instead to hinder enemies, support their allies, or use their magic and animal transformations for out of combat challenges.
 
 Difficulty: ★★★★★
 
@@ -95,7 +97,7 @@ Difficulty: ★★★★★
 
 ## <a name="Fighter"></a>Fighter
 
-Fighters are trained killers, having mastered multiple weapons and relying on their expert training when enemies face them. They can be built equally well with either strength or dexterity, and make great front-line characters or powerful archers. Their class features are almost entirely combat-based, so you won’t get much out of the class for out-of-combat challenges. More than any other class, though, Fighters are a blank slate, and any type of character you want can be a Fighter—if you want to be a standard knight, that works, but a Japanese-inspired swordsman or a Native American-style warrior can work just as well.
+Fighters are trained killers, having mastered multiple weapons and relying on their expert training when enemies face them. They can be built equally well with either strength or dexterity, and make [great front-line characters](/5e-build-guides/tank-builds/) or [powerful archers](/5e-build-guides/archer-builds/). Their class features are almost entirely combat-based, so you won’t get much out of the class for out-of-combat challenges. More than any other class, though, Fighters are a blank slate, and any type of character you want can be a Fighter—if you want to be a standard knight, that works, but a Japanese-inspired swordsman or a Native American-style warrior can work just as well.
 
 Difficulty: ★☆☆☆☆
 
@@ -103,6 +105,7 @@ Difficulty: ★☆☆☆☆
 
 - [Hector vs Achilles from _Troy_](https://www.youtube.com/watch?v=NQ62frK74u0) - Two quintessential Fighters squaring off against each other.
 - [Legolas from _Lord of the Rings_](https://www.youtube.com/watch?v=Ousk2CSMvWI) - Yes, Legolas is a Fighter, not a Ranger. He's extremely skilled with just about any weapon you give him, and shoots arrows like a turret. That's what a Fighter archer looks like.
+- [Auron from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-auron/) - _Final Fantasy X's_ stoic badass is a great example of a Fighter.
 
 
 ## <a name="Monk"></a>Monk
@@ -115,11 +118,12 @@ Difficulty: ★★☆☆☆
 
 - [Tifa Lockheart from _Final Fantasy VII_](https://www.youtube.com/watch?v=lXOnj455QaE) - Tifa is my favorite Monk.
 - [Mickey from _Snatch_](https://www.youtube.com/watch?v=SY4oo1B2RNU) - Monks don't have to look like Tibetan Buddhists. A streetwise brawler character can absolutely work as a Monk.
+- [Yuffie from _Final Fantasy VII_](/dnd-in-pop-culture/final-fantasy/ff7r-yuffie/) - Yes, I'm going with two Monks from the same game. Yuffie is a great example of how a ranged Monk could work.
 
 
 ## <a name="Paladin"></a>Paladin
 
-Paladins are half-casters, but they function more as strong martial characters who can use magic to boost some of their attacks. They get limited spell slots, like other half-casters, but can use these when a melee attack connects to apply additional smite damage to an opponent. This makes them great at applying burst damage when they need it, but resource management of the spell slots is also important. They’re prototypically strong defenders, but can be build to use two-handed weapons as well for extra damage. Their place is strongly on the front line, as their smite ability does not work with ranged attacks. Paladins gain their abilities from an oath which dictates what they must do. There are a variety of oaths available, but all Paladins will have a code of some sort that they live by.
+Paladins are half-casters, but they function more as strong martial characters who can use magic to boost some of their attacks. They get limited spell slots, like other half-casters, but can use these when a melee attack connects to apply additional smite damage to an opponent. This makes them great at applying burst damage when they need it, but resource management of the spell slots is also important. They’re prototypically [strong defenders](/5e-build-guides/tank-builds/), but can be build to use two-handed weapons as well for extra damage. Their place is strongly on the front line, as their smite ability does not work with ranged attacks. Paladins gain their abilities from an oath which dictates what they must do. There are a variety of oaths available, but all Paladins will have a code of some sort that they live by.
 
 Difficulty: ★★☆☆☆
 
@@ -127,11 +131,12 @@ Difficulty: ★★☆☆☆
 
 - [Wonder Woman from _Justice League_](https://www.youtube.com/watch?v=cpDYnfbD8lc) - Wonder Woman has deadly martial prowess aided by some supernatural abilities, and she's driven by her devotion to protecting people, making her a natural fit for the Paladin.
 - [Samara from _Mass Effect_](https://www.youtube.com/watch?v=zpakB36N8wo) - Samara is a powerful warrior whose life is dictated by her oath.
+- [Tidus from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-tidus/) - Though it's not explicitly stated, it's Tidus's principles that end up leading the party to victory, and those principles are perfectly represented by the Oath of Glory.
 
 
 ## <a name="Ranger"></a>Ranger
 
-Rangers are nature-themed half-casters who use their magic mostly to enhance their own attacks. They make excellent archers, but melee builds are also possible. They typically have a high Wisdom score, making them excellent at scouting and tracking, and have some of the Druid flavor while still having a strong martial striking ability. The biggest reason to play a Ranger, though, is just because you want to play a Ranger—they’re very flavorful, and no other class really captures the idea of a hunter tracking their prey through the woods like this class. They also get along really well with animals.
+Rangers are nature-themed half-casters who use their magic mostly to enhance their own attacks. They make excellent [archers](/5e-build-guides/archer-builds/), but melee builds are also possible. They typically have a high Wisdom score, making them excellent at scouting and tracking, and have some of the Druid flavor while still having a strong martial striking ability. The biggest reason to play a Ranger, though, is just because you want to play a Ranger—they’re very flavorful, and no other class really captures the idea of a hunter tracking their prey through the woods like this class. They also get along really well with animals.
 
 Difficulty: ★★☆☆☆
 
@@ -139,6 +144,7 @@ Difficulty: ★★☆☆☆
 
 - [Jon Snow from _Game of Thrones_](https://www.youtube.com/watch?v=CpvnZDHIg1A) - Jon Snow can track foes through the wilderness, and has a dire wolf as a companion. This is a great example of a Ranger.
 - [Geralt from _The Witcher_](https://www.youtube.com/watch?v=DeAjiWbNHKg) - A monster hunter-type character works well as a Ranger, especially with the Monster Slayer subclass.
+- [Wakka from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-wakka/) - Though Wakka is much more likely to be swimming around a sports arena than traipsing through the woods, he's a great example of what a Ranger could be.
 
 
 ## <a name="Rogue"></a>Rogue
@@ -150,12 +156,12 @@ Difficulty: ★★☆☆☆
 ### Pop Culture Examples of Rogues
 
 - [Arya Stark from _Game of Thrones_](https://www.youtube.com/watch?v=8DJKZHxXnH8) - Arya is a great example of a Rogue.
-- [Ant Man from MCU](https://www.youtube.com/watch?v=ErWEaNhagwk) - Perhaps an odd example, but Ant Man's fighting style revolves around seemingly disappearing from sight and reappearing with a surprise attack for an opponent. He's not supernaturally strong, but the sneak attacks are powerful.
+- [Ant Man from MCU](https://www.youtube.com/watch?v=ErWEaNhagwk) - Perhaps an odd example, but Ant Man's fighting style revolves around disappearing from sight and reappearing with a surprise attack for an opponent. He's not supernaturally strong, but the sneak attacks are powerful.
 
 
 ## <a name="Sorcerer"></a>Sorcerer
 
-Sorcerers are arcane casters—straight-up magic users with a variety of spells for attack, defense, and utility (though not many support options). Where they shine is in using sorcery points to bend the rules of magic—for instance, to cast a spell without anyone noticing or make some of their spells stronger. Flavor-wise, sorcerers are born with magical ability and often struggle early in life learning to control it. They make excellent blasters, so if you’re looking for an offensive spellcaster, this may be it.
+Sorcerers are arcane casters—straight-up magic users with a variety of spells for attack, defense, and utility (though not many support options, except for the Divine Soul subclass). Where they shine is in using sorcery points to bend the rules of magic—for instance, to cast a spell without anyone noticing or make some of their spells stronger. Flavor-wise, sorcerers are born with magical ability and often struggle early in life learning to control it. They make excellent [blasters](/5e-build-guides/blaster-caster-builds/), so if you’re looking for an offensive spellcaster, this may be it.
 
 Difficulty: ★★★☆☆
 
@@ -163,6 +169,7 @@ Difficulty: ★★★☆☆
 
 - [Colonel Mustang from _Full Metal Alchemist: Brotherhood_](https://www.youtube.com/watch?v=2-81rNhEwIY) - Few characters on this show match the destructive potential of Colonel Mustang. He may be a bit of a one-trick pony, but it's a terribly effective trick.
 - [Elsa from _Frozen_](https://youtu.be/oCrMLqGaRow?t=5) - Another elemental mage (although Sorcerers aren't limited to one element), Elsa has one power that she uses to many effects.
+- [Lulu from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-lulu/) - Lulu is all about destroying enemies with powerful attack spells, and that's a great fit for the Sorcerer class.
 
 
 ## <a name="Warlock"></a>Warlock
@@ -179,11 +186,11 @@ Difficulty: ★★★☆☆
 
 ## <a name="Wizard"></a>Wizard
 
-Wizards are the ultimate magic users. Like sorcerers, they get powerful attack, defense, and utility spells, but they get to pick a lot more options, giving them unmatched versatility. They can make great blasters, but can also use magic to solve a lot of problems that might be difficult for other party members. Their control spell options are also fantastic, and a strategic Wizard can absolutely shut down an unprepared enemy party. Flavor-wise, Wizards are intelligence-based spellcasters who learned their magic through intense study, so Wizards usually roleplay as the character who has things figured out and has heard of the most powerful magic abilities and can gain knowledge when the party discovers the evil villain’s plot.
+Wizards are the ultimate magic users. Like sorcerers, they get powerful attack, defense, and [utility spells](/5e-build-guides/utility-cantrips-ranked/), but they get to pick a lot more options, giving them unmatched versatility. They can make great [blasters](/5e-build-guides/blaster-caster-builds/), but can also use magic to solve a lot of problems that might be difficult for other party members. Their [control spell](/5e-build-guides/control-caster-builds/) options are also fantastic, and a strategic Wizard can absolutely shut down an unprepared enemy party. Flavor-wise, Wizards are intelligence-based spellcasters who learned their magic through intense study, so Wizards usually roleplay as the character who has things figured out and has heard of the most powerful magic abilities and can gain knowledge when the party discovers the evil villain’s plot.
 
 Difficulty: ★★★★★
 
 ### Pop Culture Examples of Wizards
 
 - [Dr. Strange from MCU](https://www.youtube.com/watch?v=u3zpIO5aeiw) - Though he's called a sorcerer, Dr. Strange is absolutely a Wizard. He's studied hard to learn magic, and he has a spell for just about everything.
-- [Late-Season Willow Rosenberg from _Buffy the Vampire Slayer_](https://www.youtube.com/watch?v=ZhRFiHf8JUU) - Willow grew from a shy, unassuming teenagers to one of the most powerful characters in the show through studying magic—a great prototype for a younger Wizard.
+- [Late-Season Willow Rosenberg from _Buffy the Vampire Slayer_](https://www.youtube.com/watch?v=ZhRFiHf8JUU) - Willow grew from a shy, unassuming teenagers to one of the most powerful characters in the show by studying magic—a great prototype for a younger Wizard.
