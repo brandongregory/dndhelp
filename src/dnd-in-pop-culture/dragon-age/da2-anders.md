@@ -15,9 +15,9 @@ parent2:
 ---
 
 <img
-  src="/images/ff4-cecil-360.webp"
-  srcset="/images/ff4-cecil-360.webp 360w,
-          /images/ff4-cecil-768.webp 768w"
+  src="/images/da2-anders-360.webp"
+  srcset="/images/da2-anders-360.webp 360w,
+          /images/da2-anders-768.webp 768w"
   sizes="(min-width: 768px) 384px,180px"
   alt="Graphic of Anders from Dragon Age 2"
   class="tiny-hero"
