@@ -116,7 +116,7 @@ Difficulty: ★☆☆☆☆
 ### Pop Culture Examples of Fighters
 
 - [Hector vs Achilles from _Troy_](https://www.youtube.com/watch?v=NQ62frK74u0) - Two quintessential Fighters squaring off against each other.
-- [Legolas from _Lord of the Rings_](https://www.youtube.com/watch?v=Ousk2CSMvWI) - Yes, Legolas is a Fighter, not a Ranger. He's extremely skilled with just about any weapon you give him, and shoots arrows like a turret. That's what a Fighter archer looks like.
+- [King Bradley from _Full Metal Alchemist: Brotherhood_](https://www.youtube.com/watch?v=xPh6DzcKYbQ) - Bradley's martial prowess is hinted at early on in the series, but when we see him really fight, he proves that a guy with a sword can be just as terrifying as any magical or technological threat.
 - [Auron from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-auron/) - _Final Fantasy X's_ stoic badass is a great example of a Fighter.
 
 
