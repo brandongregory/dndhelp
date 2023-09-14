@@ -130,9 +130,9 @@ Difficulty: ★★☆☆☆
 
 ### Pop Culture Examples of Monks
 
-- [Tifa Lockheart from _Final Fantasy VII_](https://www.youtube.com/watch?v=lXOnj455QaE) - Tifa is my favorite Monk.
+- [Ty Lee from _Avatar: The Last Airbender_](https://www.youtube.com/watch?v=qvx6NiccDVA) - Ty Lee is a Monk who makes great use of Stunning Strike. She probably has expertist in Acrobatics as well. (If we're looking at Monks in _Avatar: The Last Airbender_, though, take a look at [Suki](https://youtu.be/IzkL7TsEeK4?feature=shared&t=93) too!)
 - [Mickey from _Snatch_](https://www.youtube.com/watch?v=SY4oo1B2RNU) - Monks don't have to look like Tibetan Buddhists. A streetwise brawler character can absolutely work as a Monk.
-- [Yuffie from _Final Fantasy VII_](/dnd-in-pop-culture/final-fantasy/ff7r-yuffie/) - Yes, I'm going with two Monks from the same game. Yuffie is a great example of how a ranged Monk could work.
+- [Yuffie from _Final Fantasy VII_](/dnd-in-pop-culture/final-fantasy/ff7r-yuffie/) - Though she can steal, Yuffie is a great example of how a ranged Monk could work.
 
 
 ## <a name="Paladin"></a>Paladin
@@ -175,7 +175,7 @@ Difficulty: ★★☆☆☆
 
 ### Pop Culture Examples of Rogues
 
-- [Arya Stark from _Game of Thrones_](https://www.youtube.com/watch?v=8DJKZHxXnH8) - Arya is a great example of a Rogue.
+- [Arya Stark from _Game of Thrones_](https://www.youtube.com/watch?v=8DJKZHxXnH8) - Arya is a nimble fighter who goes for the killing blow when her enemy is not expecting it. She's a great example of a Rogue.
 - [Ant Man from MCU](https://www.youtube.com/watch?v=ErWEaNhagwk) - Perhaps an odd example, but Ant Man's fighting style revolves around disappearing from sight and reappearing with a surprise attack for an opponent. He's not supernaturally strong, but the sneak attacks are powerful.
 
 
