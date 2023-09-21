@@ -1,9 +1,5 @@
 /* COMMON STYLES */
 
-* {
-    box-sizing: border-box;
-}
-
 body {
     background: $red;
     position: relative;
@@ -37,6 +33,7 @@ aside {
 }
 
 a {
-    text-decoration: underline;
     color: inherit;
+    text-decoration: underline;
+    text-decoration-skip-ink: auto;
 }
