@@ -103,6 +103,7 @@ Difficulty: ★★★★★
 
 - [Layla from _Sky High_](https://www.youtube.com/watch?v=MPmFZKrZ-mU) - An unassuming nature-lover who's secretly a badass when the need arises, Layla is a great concept for a Druid.
 - [Doric from _Dungeons & Dragons: Honor Among Thieves_](https://www.youtube.com/watch?v=_EVRaNF4XnY) - This is literally a Dungeons & Dragons character, but Doric is a Circle of the Moon Druid, and she makes this look _good_.
+- [Solas from _Dragon Age: Inquisition_](/dnd-in-pop-culture/dragon-age/dai-solas/) - This lone wolf mage has powerful support and control options and can traverse through dreams, making him a great fit for the Circle of Dreams Druid.
 
 
 ## <a name="Fighter"></a>Fighter
@@ -204,8 +205,9 @@ Difficulty: ★★★☆☆
 
 ### Pop Culture Examples of Warlocks
 
-- [Raven from _Teen Titans_](https://www.youtube.com/watch?v=9lJcrW20DlM) - Raven's powers come from her demon father, and she has a bit of a spooky vibe.
+- [Raven from _Teen Titans_](https://www.youtube.com/watch?v=9lJcrW20DlM) - Raven's powers come from her demon father, and she has a bit of a spooky vibe. Raven would be a Fiend Warlock.
 - [John Constantine from DC Animated Universe](https://www.youtube.com/watch?v=SiNMxbbSjEg) - Constantine is far from the most powerful magician in the DC universe, but he's able to use his powers cleverly to take on powerful foes.
+- [Anders from _Dragon Age II_](/dnd-in-pop-culture/dragon-age/da2-anders/) - Warlocks don't have to be dark and spooky. Anders has entered into a relationship with a spirit of justice, which is a great fit for the Celestial Warlock.
 
 
 ## <a name="Wizard"></a>Wizard
