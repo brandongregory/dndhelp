@@ -96,18 +96,18 @@ Here's the count of how many options each class has at each spell level:
 
 <div markdown="1" class="scroll-horizontal">
 
-|Lvl    |Bar                        |Cle|Dru|Sor|War|Wiz|
-|-------|---------------------------|---|---|---|---|---|
-|C      |1                          |1  |1  |2  |1  |2  |
-|1      |1                          |0  |2  |3  |1  |3  |
-|2      |1                          |0  |0  |5  |1  |5  |
-|3      |0                          |1  |2  |4  |0  |4  |
-|4      |0                          |0  |1  |2  |0  |2  |
-|5      |1                          |1  |0  |2  |1  |2  |
-|6      |0                          |0  |0  |2  |1  |3  |
-|7      |0                          |1  |1  |2  |0  |1  |
-|8      |0                          |0  |1  |2  |0  |2  |
-|9      |1                          |0  |0  |2  |1  |2  |
+|Lvl|Bar|Cle|Dru|Sor|War|Wiz|
+|---|---|---|---|---|---|---|
+|C  |1  |1  |1  |2  |1  |2  |
+|1  |1  |0  |2  |3  |1  |3  |
+|2  |1  |0  |0  |5  |1  |5  |
+|3  |0  |1  |2  |4  |0  |4  |
+|4  |0  |0  |1  |2  |0  |2  |
+|5  |1  |1  |0  |2  |1  |2  |
+|6  |0  |0  |0  |2  |1  |3  |
+|7  |0  |1  |1  |2  |0  |1  |
+|8  |0  |0  |1  |2  |0  |2  |
+|9  |1  |0  |0  |2  |1  |2  |
 
 </div>
 
@@ -125,7 +125,7 @@ Role Fit: 5
 
 ### Wizard
 
-Wizards lack the metamagic feature that Sorcerers have, but they have a few good things going for them as Blasters. They’re tied with Sorcerers for having the most blasting spell options (26 out of 32), and can still do a lot of solid damage with their blasting spells. Unlike Sorcerers, Wizards have a lot more spell options and can fit into roles besides Blaster. Wizards prepare their spells, meaning they can learn a very high number of spells and switch them out upon long rest, allowing them to be a Blaster, but slip into other roles as well based on what’s needed. As a Wizard, you won’t have the useful metamagic features that make Sorcerers great Blasters, but there’s a lot more room for versatility.
+Wizards lack the metamagic feature that Sorcerers have, but they have a few good things going for them as Blasters. They’re tied with Sorcerers for having the most blasting spell options (26 out of 32), and can still do a lot of solid damage with their blasting spells. Unlike Sorcerers, Wizards have a lot more spell options and can fit into roles besides Blaster. Wizards prepare their spells, meaning they can learn a very high number of spells and switch them out upon long rest, allowing them to be a Blaster, but slip into other roles as well based on what’s needed. As a Wizard, you won’t have the useful metamagic features that make Sorcerers great Blasters, but there’s a lot more room for versatility. Note that the School of Evocation subclass does offer some great features to a dedicated Blaster.
 
 Spell Options: 5
 
@@ -141,7 +141,7 @@ Role Fit: 5
 
 ### Druid
 
-Druids offer a lot of versatility with Wild Shape and have great spell options for support and control, but their blasting options are somewhat limited compared to top contenders. One thing they do have going for them is that Druids prepare their spells, so they can swap out spell options on long rest, offering them some versatility depending on what the situation requires. Still, with the many great things that Druids can do, it can be hard to focus on the Blaster role.
+Druids offer a lot of versatility with Wild Shape and have great spell options for [support](/5e-build-guides/support-caster-builds/) and [control](/5e-build-guides/control-caster-builds/), but their blasting options are somewhat limited compared to top contenders. One thing they do have going for them is that Druids prepare their spells, so they can swap out spell options on long rest, offering them some versatility depending on what the situation requires. Still, with the many great things that Druids can do, it can be hard to focus on the Blaster role.
 
 Spell options: 3
 
@@ -157,7 +157,7 @@ Role Fit: 4
 
 ### Bard
 
-Bards have great Support and Control options and also function as jacks of all trades, being able to fill in a lot of gaps in the party that might otherwise not be filled. That said, their blasting options are very limited compared to other classes, having just 5 out of the 32 options available. Unlike Clerics, none of these spells are central to the class’s playstyle. Bards are usually support characters first, and building them for blasting means sacrificing some of the Bard’s primary strengths to try to be good at something they’re not really good at. For that reason, it’s hard to recommend Bards as Blasters, although they have a few options they can throw in for some versatility.
+Bards have great [support](/5e-build-guides/support-caster-builds/) and [control](/5e-build-guides/control-caster-builds/) options and also function as jacks of all trades, being able to fill in a lot of gaps in the party that might otherwise not be filled. That said, their blasting options are very limited compared to other classes, having just 5 out of the 32 options available. Unlike Clerics, none of these spells are central to the class’s playstyle. Bards are usually support characters first, and building them for blasting means sacrificing some of the Bard’s primary strengths to try to be good at something they’re not really good at. For that reason, it’s hard to recommend Bards as Blasters, although they have a few options they can throw in for some versatility.
 
 Spell Options: 2
 
