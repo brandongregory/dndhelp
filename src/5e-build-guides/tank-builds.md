@@ -10,51 +10,8 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-additionalStructuredData:
-  - '@type': ItemList
-    'name': Best Classes and Subclasses for Tanks in DnD 5e
-    'numberOfItems': 11
-    'itemListOrder': Unordered
-    'itemListElement': [
-      'Barbarian – Path of the Ancestral Guardian',
-      'Barbarian - Path of the Juggernaut',
-      'Barbarian – Path of the Totem Warrior',
-      'Fighter – Cavalier',
-      'Fighter – Eldritch Knight',
-      'Paladin – Oath of the Crown',
-      'Paladin – Oath of the Ancients',
-      'Artificer – Armorer',
-      'Druid – Circle of the Moon',
-      'Cleric – Life Domain',
-      'Cleric – Forge Domain'
-    ]
-  - '@type': ItemList
-    'name': Best Feats for Tanks in DnD 5e
-    'numberOfItems': 7
-    'itemListOrder': Unordered
-    'itemListElement': [
-      'Sentinel',
-      'Resilient',
-      'Alert',
-      'Shield Master',
-      'Slasher',
-      'Heavy Armor Master',
-      'Tough'
-    ]
-  - '@type': ItemList
-    'name': Best Magic Items for Tanks in DnD 5e
-    'numberOfItems': 8
-    'itemListOrder': Unordered
-    'itemListElement': [
-      'Belt of Dwarvenkind (Rare)',
-      'Mantle of Spell Resistance (Rare)',
-      'Periapt of Wound Closure (Uncommon)',
-      'Ring of Evasion (Rare)',
-      'Ring of Spell Storing (Rare)',
-      'Cloak of Protection/Stone of Luck (Uncommon)',
-      'Manual of Bodily Health (Very Rare)',
-      'Belt of Giant Strength (varies)'
-    ]
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-tank-builds-1920x1080.webp"'
 
 ---
 

@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Character Creation
   url: /5e-character-creation/
+
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-heist-crew-1920x1080.webp"'
+
 ---
 
 Whether you’re putting together a crew for **_Keys from the Golden Vault_** or just working a heist into your regular campaign, a heist crew has a few different roles than your average adventuring party. Stealth and deception are often more important than damage output, and casting Fireball on a guard is sure to bring every guard in the area down on you.

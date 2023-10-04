@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Character Creation
   url: /5e-character-creation/
+
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-mental-stats-compared-1920x1080.webp"'
+
 ---
 
 Dungeons and Dragons 5e gives you 3 mental stats: Intelligence, Wisdom, and Charisma. Picking which one of these you want to invest in can have a lot of impact on your character, not only in the skills they’re good at, but also from a roleplaying perspective.

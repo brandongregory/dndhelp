@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-unarmed-brawler-1920x1080.webp"'
+
 ---
 
 Monks are great at a lot of things, but sometimes we want to build Mike Tyson rather than Bruce Lee. An unarmed Fighter offers several benefits, such as their staying power over long adventuring days and their strong ability to grapple opponents. It also opens up builds that don't have Wisdom as a cornerstone stat, allowing a character to be a charistmatic pugilist, or a cunning battlefield tactician. If you want to punch things and use Strength as your primary stat, this guide shows you how to do that in DnD 5e.

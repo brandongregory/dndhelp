@@ -10,18 +10,9 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-additionalStructuredData: 
-  '@type': ItemList
-  'name': Top 5 Mage Hunter Builds in DnD 5e
-  'numberOfItems': 5
-  'itemListOrder': Unordered
-  'itemListElement': [
-    'Monk - Way of Shadow',
-    'Fighter - Eldritch Knight',
-    'Paladin - Oath of the Watchers',
-    'Ranger - Monster Hunter',
-    'Warlock - Hexblade'
-  ]
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-mage-hunter-builds-1920x1080.webp"'
+
 ---
 
 Whether inspired by the templars in the Dragon Age series or Scar from _Fullmetal Alchemist_, there’s something enticing about a character who’s dedicated their life to stopping abuses of magic. In addition to the great built-in plot hooks, having one type of enemy (in this case mages) that you specialize in killing is gratifying in a way that the Ranger’s Favored Foe is not because it takes certain skills and abilities that have a mechanical impact on the game.

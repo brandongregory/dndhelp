@@ -14,6 +14,8 @@
     <script type="application/ld+json">
         {% if additionalStructuredData %}
         {% include "custom-structured-data.njk" %}
+        {% elseif imageArray %}
+        {% include "image-structured-data.njk" %}
         {% else %}
         {% include "default-structured-data.njk" %}
         {% endif %}

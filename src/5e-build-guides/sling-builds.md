@@ -10,31 +10,9 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-additionalStructuredData:
-  - '@type': ItemList
-    'name': Best Classes and Subclasses for Slingers in DnD 5e
-    'numberOfItems': 7
-    'itemListOrder': Unordered
-    'itemListElement': [
-      'Monk - Kensei',
-      'Ranger - Gloom Stalker',
-      'Ranger - Hunter',
-      'Ranger - Fey Wanderer (Magic Stone build)',
-      'Fighter - Battle Master',
-      'Fighter - Samurai'
-    ]
-  - '@type': ItemList
-    'name': Best Feats for Slingers in DnD 5e
-    'numberOfItems': 6
-    'itemListOrder': Unordered
-    'itemListElement': [
-      'Sharpshooter',
-      'Crusher',
-      'Skulker',
-      'Lucky',
-      'Fighting Initiate',
-      'Fey Touched'
-    ]
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-sling-builds-1920x1080.webp"'
+
 ---
 
 Whether you’re inspired by an ancient slinger like David or a modern one like Usopp from _One Piece_, sling builds can be a fun niche concept. Here are some effective builds for a slinger character.

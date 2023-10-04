@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-poisoner-builds-1920x1080.webp"'
+
 ---
 
 Poison is an iconic part of the Medieval combat fantasy that can be a fun part of a character, but poison in DnD 5e is a bit of a mixed bag. How do you make a character who can reliably use poison in their attacks? Is poison even worth using? What classes and subclasses will work best for a poisoner build?

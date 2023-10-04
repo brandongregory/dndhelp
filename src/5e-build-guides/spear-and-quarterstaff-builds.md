@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-spear-and-quarterstaff-builds-1920x1080.webp"'
+
 ---
 
 Heroes with swords are overrated. There's something fun about a classic warrior using a spear or quarterstaff as their main weapon. Historically, these weapons were quite powerful, and with the right feats and class selection, you'll find that these simple weapons are anything but simple. There are ways to use Dexterity and even Wisdom as your main stat for these builds, and some feats make them significantly more powerful. Here's how to make the most of them.
