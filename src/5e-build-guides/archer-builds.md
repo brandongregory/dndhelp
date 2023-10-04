@@ -221,7 +221,7 @@ As a Rogue, Dexterity should be your highest stat. Scouts don’t necessarily ne
 
 ### <a name="Subclass-Not-Quite-Archers"></a>Not-Quite-Archers
 
-If you want the ability to shoot things from afar and are open to some builds that don’t use a bow to do that, take a look at the Artificer – Artillerist, Monk – Way of the Sun Soul, or any Warlock subclass.
+If you want the ability to shoot things from afar and are open to some builds that don’t use a bow to do that, take a look at the Artificer – Artillerist, Monk – Way of the Sun Soul, or any Warlock subclass. Or you could always build [a sling character](/5e-build-guides/sling-builds/) or [a dart or knife thrower](/5e-build-guides/dart-thrower-builds/).
 
 ## <a name="Feat"></a>Best Feats for Archers
 

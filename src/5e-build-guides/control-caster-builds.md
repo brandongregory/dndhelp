@@ -15,7 +15,7 @@ imageArray:
 
 ---
 
-[Support casters](/5e-character-creation/party-roles/#BattleRoles-Support) and [Blasters](/5e-character-creation/party-roles/#BattleRoles-Blaster) are important, but a good [Controller](/5e-character-creation/party-roles/#BattleRoles-Controller) mage can absolutely wreck an enemy party, potentially turning some encounters into a cakewalk. They have spells to completely take some enemies out of the fight or chop the battlefield in half, turning one tough encounter into two easy ones. Most full casters can fill this role, but here’s a breakdown of which classes do it best.
+[Support casters](/5e-build-guides/support-caster-builds/) and [Blasters](/5e-build-guides/blaster-caster-builds/) are important, but a good [Controller](/5e-character-creation/party-roles/#BattleRoles-Controller) mage can absolutely wreck an enemy party, potentially turning some encounters into a cakewalk. They have spells to completely take some enemies out of the fight or chop the battlefield in half, turning one tough encounter into two easy ones. Most full casters can fill this role, but here’s a breakdown of which classes do it best.
 
 First, though, a bit of background on my class choices.
 
