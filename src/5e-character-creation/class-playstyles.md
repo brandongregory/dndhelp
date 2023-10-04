@@ -182,6 +182,7 @@ Difficulty: ★★☆☆☆
 
 - [Arya Stark from _Game of Thrones_](https://www.youtube.com/watch?v=8DJKZHxXnH8) - Arya is a nimble fighter who goes for the killing blow when her enemy is not expecting it. She's a great example of a Rogue.
 - [Ant Man from MCU](https://www.youtube.com/watch?v=ErWEaNhagwk) - Perhaps an odd example, but Ant Man's fighting style revolves around disappearing from sight and reappearing with a surprise attack for an opponent. He's not supernaturally strong, but the sneak attacks are powerful.
+- [Isabela from Dragon Age 2](/dnd-in-pop-culture/dragon-age/da2-isabela/) - Rogues don't have to be thieves or assassins; a swashbuckling pirate works well as a rogue too.
 
 
 ## <a name="Sorcerer"></a>Sorcerer
