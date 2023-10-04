@@ -45,7 +45,7 @@ One of the main benefits of a dexterity fighter is that dexterity is typically a
 
 Additionally, dexterity saves are much more common than strength saves. Dexterity saves include things like dodging out of the way of falling rocks or a fireball spell.
 
-## <a href="Class-Breakdown"></a>Class Breakdown
+## <a name="Class-Breakdown"></a>Class Breakdown
 
 _Note: some classes that don’t really have a need for either strength or dexterity have been omitted._
 
