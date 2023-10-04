@@ -10,38 +10,8 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-additionalStructuredData:
-  - '@type': ItemList
-    'name': Best Classes for Full-Caster Support Characters in DnD 5e
-    'numberOfItems': 6
-    'itemListOrder': Ascending
-    'itemListElement': [
-      'Bard',
-      'Cleric',
-      'Druid',
-      'Wizard',
-      'Sorcerer',
-      'Warlock'
-    ]
-  - '@type': ItemList
-    'name': Best Classes for Half-Caster Support Characters in DnD 5e
-    'numberOfItems': 3
-    'itemListOrder': Ascending
-    'itemListElement': [
-      'Artificer',
-      'Paladin',
-      'Ranger'
-    ]
-  - '@type': ItemList
-    'name': Best Feats for Support Characters in DnD 5e
-    'numberOfItems': 4
-    'itemListOrder': Ascending
-    'itemListElement': [
-      'Resilient',
-      'War Caster',
-      'Magic Initiate',
-      'Inspiring Leader'
-    ]
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-support-caster-builds-1920x1080.webp"'
 
 ---
 

@@ -10,29 +10,8 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-additionalStructuredData:
-  - '@type': ItemList
-    'name': Best Classes for Blaster Casters in DnD 5e
-    'numberOfItems': 6
-    'itemListOrder': Ascending
-    'itemListElement': [
-      'Sorcerer',
-      'Wizard',
-      'Cleric',
-      'Druid',
-      'Warlock',
-      'Bard'
-    ]
-  - '@type': ItemList
-    'name': Best Feats for Blaster Casters in DnD 5e
-    'numberOfItems': 4
-    'itemListOrder': Ascending
-    'itemListElement': [
-      'Metamagic Adept',
-      'Elemental Adept',
-      'Telekinetic',
-      'Tough'
-    ]
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-blaster-caster-builds-1920x1080.webp"'
 
 ---
 

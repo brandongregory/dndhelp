@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-dart-thrower-builds-1920x1080.webp"'
+
 ---
 
 Have you ever watched someone tossing darts in a bar and thought, that should be my DnD character? Well, probably not. But darts in DnD can be effective weapons, proving to be much more deadly than the little things we throw for sport. This is not an overly powerful build by any measure (unlike some older versions of DnD, where darts were wildly overpowered), but a dart thrower can make for a unique and fun character with the right build.

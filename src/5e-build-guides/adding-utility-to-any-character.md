@@ -10,50 +10,8 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-additionalStructuredData:
-  - '@type': ItemList
-    'name': Top 10 Mundane Items for Utility in DnD 5e
-    'numberOfItems': 10
-    'itemListOrder': Unordered
-    'itemListElement': [
-      '10-foot pole',
-      'Hammer and pitons',
-      'Ropes',
-      'Ram - Portable',
-      'Caltrops',
-      'Ball Bearings',
-      'Oil',
-      'Acid',
-      'Chalk',
-      'Flour'
-    ]
-  - '@type': ItemList
-    'name': Top 10 Magic Items for Utility in DnD 5e
-    'numberOfItems': 10
-    'itemListOrder': Unordered
-    'itemListElement': [
-      'Immovable Rod',
-      'Bag of Holding / Handy Haversack / Portable Hole',
-      'Broom of Flying / Winged Boots',
-      'Alchemy Jug',
-      'Helm of Comprehending Languages',
-      'Medallion of Thoughts',
-      'Breathing Bubble / Cap of Water Breathing / Cloak of the Manta Ray',
-      'Dust of Dryness / Decanter of Endless Water',
-      'Everbright Lantern / Candle of the Deep / Driftglobe',
-      'Kyrzin’s Ooze'
-    ]
-  - '@type': ItemList
-    'name': Top 5 Feats for Utility in DnD 5e
-    'numberOfItems': 5
-    'itemListOrder': Unordered
-    'itemListElement': [
-      'Magic Initiate',
-      'Ritual Caster',
-      'Eldritch Adept',
-      'Telekinetic',
-      'Telepathic'
-    ]
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-adding-utility-to-any-character-1920x1080.webp"'
 
 ---
 

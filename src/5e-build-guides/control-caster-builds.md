@@ -10,30 +10,8 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-additionalStructuredData:
-  - '@type': ItemList
-    'name': Best Classes for Control Casters in DnD 5e
-    'numberOfItems': 6
-    'itemListOrder': Ascending
-    'itemListElement': [
-      'Wizard',
-      'Sorcerer',
-      'Bard',
-      'Druid',
-      'Warlock',
-      'Cleric'
-    ]
-  - '@type': ItemList
-    'name': Best Feats for Control Casters in DnD 5e
-    'numberOfItems': 5
-    'itemListOrder': Ascending
-    'itemListElement': [
-      'Alert',
-      'Metamagic Adept',
-      'Resilient',
-      'Telekinetic',
-      'Tough'
-    ]
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-control-caster-builds-1920x1080.webp"'
 
 ---
 

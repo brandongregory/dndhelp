@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Character Creation
   url: /5e-character-creation/
+
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-class-playstyles-1920x1080.webp"'
+
 ---
 
 If you're newer to DnD or just haven't played some of the classes, you may be wondering what each of them is like. What's the difference between a Fighter and a Barbarian, for instance, or a Sorcerer and a Wizard? Sometimes even reading the introductions in the handbooks doesn't give you a clear idea, and it can be hard to get that without getting way into the mechanics of each class.

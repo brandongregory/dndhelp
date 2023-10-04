@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Character Creation
   url: /5e-character-creation/
+
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-what-armor-should-i-wear-1920x1080.webp"'
+
 ---
 
 Knowing what kind of armor to choose (ie – light, medium, heavy) can be confusing for newcomers and veterans alike. For instance, you might expect medium armor to protect better than light, but that's not always the case. Here’s a breakdown.

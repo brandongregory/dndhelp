@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Character Creation
   url: /5e-character-creation/
+
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-dexterity-vs-strength-builds-1920x1080.webp"'
+
 ---
 
 Martial classes live and die on their ability to do weapon damage, but most martial characters can be built to rely on either strength or dexterity. We tend to think of a Medieval sword fighter as a strong brute, but a fast, dextrous fighter can be just as effective. This is a breakdown of both styles, and a breakdown of what classes can use which styles.

@@ -10,28 +10,9 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-additionalStructuredData:
-  - '@type': ItemList
-    'name': Best Utility Cantrips in DnD 5e
-    'numberOfItems': 11
-    'itemListOrder': Ascending
-    'itemListElement': [
-      'Guidance',
-      'Mage Hand',
-      'Druidcraft/Prestidigitation/Thaumaturgy',
-      'Light',
-      'Shape Water',
-      'Produce Flame',
-      'Message',
-      'Minor Illusion',
-      'Dancing Lights',
-      'Acid Splash',
-      'Mold Earth',
-      'Gust',
-      'Create Bonfire',
-      'Mending',
-      'Control Flames'
-    ]
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-utility-cantrips-ranked-1920x1080.webp"'
+
 ---
 
 While [any character can gain some extra utility with items or feats](/5e-build-guides/adding-utility-to-any-character/), cantrips are a great way to solve a lot of problems without costing any spell points. All full caster classes (Bard, Cleric, Druid, Sorcerer, Warlock, and Wizard) get cantrips at level 1 and can gain more as they level up. Multiclassing into one of these classes is a great way to gain some additional cantrips. Some class features, like the Warlock’s Pact of the Tome, grant additional cantrips as well.
