@@ -35,14 +35,14 @@ Heroes with swords are overrated. There's something fun about a classic warrior 
 
 First off, which to choose? Here are the stats for each:
 
-### <dfn>Quarterstaff in DnD 5e</dfn>
+### Quarterstaff in DnD 5e
 
 * Cost: 2 sp
 * Weight: 4 lb.
 * 1-handed damage: 1d6 bludgeoning
 * 2-handed damage: 1d8 bludgeoning
 
-### <dfn>Spear in DnD 5e</dfn>
+### Spear in DnD 5e
 
 * Cost: 1 gp
 * Weight: 3 lb.
