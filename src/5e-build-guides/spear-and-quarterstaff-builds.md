@@ -33,7 +33,24 @@ Heroes with swords are overrated. There's something fun about a classic warrior 
 
 ## <a name="Spears-vs-Quarterstaffs"></a>Spears vs Quarterstaves
 
-First off, which to choose? Both spears and quarterstaves are simple versatile weapons that do 1d6 when used with one hand or 1d8 when used with both. Spears can be thrown, which might be useful in a pinch, but can leave you without your primary weapon. Aside from that, the only real difference is that spears do piercing damage and quarterstaves do bludgeoning, which doesn’t make a ton of difference in game, but can be important if you take either the Crusher or Piercer feats.
+First off, which to choose? Here are the stats for each:
+
+### <dfn>Quarterstaff in DnD 5e</dfn>
+
+* Cost: 2 sp
+* Weight: 4 lb.
+* 1-handed damage: 1d6 bludgeoning
+* 2-handed damage: 1d8 bludgeoning
+
+### <dfn>Spear in DnD 5e</dfn>
+
+* Cost: 1 gp
+* Weight: 3 lb.
+* 1-handed damage: 1d6 piercing
+* 2-handed damage: 1d8 piercing
+* Thrown (range 20/60)
+
+Both spears and quarterstaves are simple versatile weapons that do 1d6 when used with one hand or 1d8 when used with both. Spears can be thrown, which might be useful in a pinch, but can leave you without your primary weapon. Aside from that, the only real difference is that spears do piercing damage and quarterstaves do bludgeoning, which doesn’t make a ton of difference in game, but can be important if you take either the Crusher or Piercer feats.
 
 If you want a spear that does 1d8 damage with one hand (so you can use a shield), check out the yklwa. It’s often overlooked for its odd name, but it’s basically a short spear that does 1d8 damage with one hand at the expense of the versatile option and some throwing distance.
 
