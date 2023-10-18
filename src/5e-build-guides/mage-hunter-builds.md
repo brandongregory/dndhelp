@@ -20,10 +20,7 @@ Whether inspired by the templars in the Dragon Age series or Scar from _Fullmeta
 If you want to make a mage hunter, witch hunter, or any other variation on that theme, here are 5 builds you should look at.
 
 
-## Classes and Subclasses for a Mage Hunter
-
-
-### Monk - Way of Shadow
+## Monk - Way of Shadow
 
 Mage hunting is a dangerous job, and an unprepared combatant can be dead in an instant. So imagine the audacity of a mage hunter who enters into fights not only with no magic, but also with no weapons or armor—just one person, trained to physical perfection, taking on opponents who can bend reality to their will. Now, imagine this unarmed opponent striking with such speed and precision that these super-powered opponents are stunned and staggered, unable to cast a single spell as they're beaten to death by a hunter's bare hands.
 
@@ -40,11 +37,11 @@ As with any Monk, your stats are really important, so you’ll want your Dexteri
 As a mage hunter, a Shadow Monk might take great care to differentiate themselves from their enemies, noting that the spells they cast are powered by ki, not magic. If you’re wanting to play a character that really distrusts or even loathes magic of all kinds, this is probably the best option. Ki power could be played as more pure and incorruptible than magic, which can be used for all kinds of nefarious purposes.
 
 
-### Fighter - Eldritch Knight
+## Fighter - Eldritch Knight
 
 True mage hunters are going to know how to defend themselves against magic. **Eldritch Knights** don’t shun magic, but embrace it, using it to protect themselves from magic and boost their offensive capabilities as well. Any build on this list can effectively fight mages, but the Eldritch Knight, more than any of the other options, can simply shrug off a Fireball and defiantly ask, “Is that the best you’ve got?”
 
-This clip of [Maki from _Fire Force_ facing off against a group of enemy mages](https://www.youtube.com/watch?v=fNzTjelRsqg) shows how an Eldritch Knight would handle a battle like that. Maki is far from unpowered, but her offensive capabilities come mostly from her physical attacks—she uses her pyrokinetic abilities to counter pyrokinetic abilities in her foes. That's a good basis for an Eldritch Knight.
+This clip of [Maki from _Fire Force_ facing off against a group of enemy mages](https://www.youtube.com/watch?v=51mRdCym0_8) shows how an Eldritch Knight would handle a battle like that. Maki is far from unpowered, but her offensive capabilities come mostly from her physical attacks—she uses her pyrokinetic abilities to counter pyrokinetic abilities in her foes. That's a good basis for an Eldritch Knight.
 
 Fighters on their own have a pretty good kit for fighting mages. Like Monks, they get a lot of attacks, meaning more opportunities to break a spellcaster’s concentration. They have a good amount of hit points. Their armor protects against much of the damage they face, and they get more ASIs than any other class, so it will be easier to take feats that protect you against other harmful spell effects.
 
@@ -57,7 +54,7 @@ Eldritch Knights can be built equally well with either Strength or Dexterity, an
 As a mage hunter, an Eldritch Knight may lack the mobility of a Monk or the sneakiness of some other classes, but can function like a tank, pressing on toward an enemy mage even as he or she casts spells against them. This character might even delight in making the enemy mages feel powerless as they had made their countless victims feel, asking what it feels like to have magic used against them. An Eldritch Knight can be a truly terrifying opponent for enemy mages.
 
 
-### Paladin - Oath of the Watchers
+## Paladin - Oath of the Watchers
 
 A mage hunter isn’t always motivated by revenge. Some are methodical in their approach, acting more as inquisitors than killers, holding magic users to a standard and seeking out those that violate this code of ethics. These inquisitors consider themselves part of a greater hierarchy—perhaps even one that’s higher than the laws of cities and nations. When a magic user steps over that line and becomes a true threat, these characters will hunt and kill these threats with religious zeal.
 
@@ -76,7 +73,7 @@ Also like Monks, Paladins are reliant on 3 attributes (Charisma, Constitution, a
 As mage hunters, Oath of the Watchers Paladins are more than hunters—they’re investigators and arbiters of magical ethics. They seek out serious threats and are relentless in stopping them. Due to their oath and high Charisma, they’re also very hard to dissuade from pursuing their targets once they’re marked as threats. Remember, Lawful Good doesn’t mean Lawful Nice, and this character’s enemies will learn that lesson well.
 
 
-### Ranger - Monster Slayer
+## Ranger - Monster Slayer
 
 Some mage hunters emphasize the hunter bit, taking time to methodically track evasive targets, sometimes setting ambushes for them and catching them when they’re most vulnerable. These hunters target true monsters, like vampires and evil fey, but could easily hunt less exotic monsters like power-hungry mages. Tracking relentlessly and striking from the darkness, these mage hunters don’t just see enemy mages as threats—they see them as prey.
 
@@ -93,7 +90,7 @@ Rangers work well with Dexterity builds, and a high Constitution is always usefu
 Compared to many of the other options on this list, Monster Slayers are less concerned with theatrics and more concerned with results. Forget an epic confrontation with monologues—a Monster Slayer would be just as happy killing their prey asleep in their bed. Enemy mages may not even know the Monster Slayer is stalking them until they’re locked in a battle to the death. If hunting and stalking are interesting to you, the Monster Slayer could make an excellent mage hunter.
 
 
-### Warlock - Hexblade
+## Warlock - Hexblade
 
 While hunting mages is, for some, a higher calling, for others it may be basic survival. Some characters may be backed into a corner and forced to get strong enough to fight their way out. In doing so, bargains may be made with other entities to give the mage hunter the strength and abilities to defeat their foes. Whether for revenge or survival, these characters are willing to do anything, even give up parts of their life and freedom, to gain the strength to defeat their foes.
 

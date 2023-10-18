@@ -1,5 +1,5 @@
 ---
-layout: article-no-related.njk
+layout: article.njk
 meta_title: "Giving Epithets to Player Characters"
 meta_description: "Epithets are nicknames or titles that are descriptive and earned, giving players a sense of celebrity and achievement. Here are some guidelines on incorporating them."
 author: "Brandon Gregory"
