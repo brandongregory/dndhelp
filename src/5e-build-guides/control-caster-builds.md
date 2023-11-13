@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Control Caster Builds in DnD 5e"
+meta_title: "Strategic Control Caster Builds in DnD 5e"
 meta_description: "Control casters can absolutely wreck an enemy party. Here's a look at classes, spells, and feats for control casters to make your build the most effective."
 author: "Brandon Gregory"
 section_name: build

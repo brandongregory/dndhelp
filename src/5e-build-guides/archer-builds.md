@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Archer Builds in DnD 5e"
+meta_title: "Death from Above! Archer Builds in DnD 5e"
 meta_description: "Anyone can hold a bow, but few really shine. Picking the right class, subclass, feats, and magic items can make your archer powerful and fun to play."
 author: "Brandon Gregory"
 section_name: build
