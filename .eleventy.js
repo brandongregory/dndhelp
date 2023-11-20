@@ -1,6 +1,7 @@
 const { minify } = require("terser");
 const htmlmin = require("html-minifier");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
   // Global Data
@@ -22,6 +23,7 @@ module.exports = function(eleventyConfig) {
   });
   // Plugins
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  eleventyConfig.addPlugin(pluginRss);
   // Sort collection by name
   eleventyConfig.addFilter('sortCollection', function(collection) {
     return collection.sort(function(a, b) {
