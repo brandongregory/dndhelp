@@ -62,8 +62,8 @@ Difficulty: ★☆☆☆☆
 
 ### Pop Culture Examples of Barbarians
 
-- [Wolverine from MCU](https://www.youtube.com/watch?v=r3Slqc4wDYk) - Nobody can take more abuse and keep going than Wolverine.
-- [Punisher](https://www.youtube.com/watch?v=d2M5ObsKw4Y) - Another notoriously tough Marvel character that puts up a solid fight with any amount of damage.
+- [Wolverine from MCU](https://www.youtube.com/watch?v=r3Slqc4wDYk) - Nobody can take more abuse and keep going than Wolverine. He's a fierce fighter, but his greatest strength is just ignoring damage that would incapacitate other combatants.
+- [Lagertha "The Shieldmaiden" from _Vikings_](https://www.youtube.com/watch?v=liF0AyTz6Os) - Far from being some random brute, Lagertha is a noble woman - both as a queen and someone with values and a strong purpose. Her defiant personality and commitment to something bigger than herself are a great inspiration for a Barbarian.
 
 
 ## <a name="Bard"></a>Bard

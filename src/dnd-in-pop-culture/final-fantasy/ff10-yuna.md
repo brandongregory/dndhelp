@@ -30,7 +30,7 @@ Along with [Tidus](/dnd-in-pop-culture/final-fantasy/ff10-tidus/), Summoner Yuna
 
 Yuna has a lot of abilities, but she is, first and foremost, a [healer](/5e-build-guides/support-caster-builds/). Yes, [Rikku](/dnd-in-pop-culture/final-fantasy/ff10-rikku/) can do some great healing with her alchemical abilities, but Yuna is focused on healing. That’s not to say that she’s without offensive capabilities. As a summoner, she has great damage potential, and summoning is also a great defensive tactic, taking the fire off of the party for a few rounds. And once Yuna gets access to the Holy spell, she’s also a pretty powerful [offensive mage](/5e-build-guides/blaster-caster-builds/) in her own right. So Yuna is a healer with good offensive and defensive capabilities. That’s a pretty tall order.
 
-Thankfully, **Clerics** fit that description extremely well while also holding to the holy theme. Of the full casters, Clerics are the most tanky; their healing capabilities are best in class; and they also do excellent damage at all levels.
+Thankfully, **Clerics** fit that description extremely well while also holding to the holy theme. Of the full casters, Clerics are the most tanky, their healing capabilities are best in class, and they also do excellent damage at all levels.
 
 Yuna’s exceptional healing ability and role as a caretaker for wayward spirits puts her naturally in the **Grave Domain** subclass. I often see Grave Clerics portrayed as creepy and obsessed with death, but the description and role in the party actually seems much more like a funeral director: someone who gives closure to death and consoles those left behind. That’s exactly what Yuna does in the game. The Grave Domain grants Potent Spellcasting, allowing Clerics to add their Wisdom modifier to cantrip damage, making this a very magic-focused character.
 
@@ -38,7 +38,7 @@ If the Grave Domain doesn’t seem right to you, the **Life Domain** could be a 
 
 The Grave Domain is a better fit thematically, and can almost match the Life Domain’s healing ability. That said, if you want a character with better weapon damage and armor proficiencies, the Life Domain can be a good fit as well.
 
-Yuna is a graceful character, performing rituals using dance, so a clunky suit of armor might not be what you want for this character. If you want to go armor-less, you can multiclass into Monk for a single level to get Unarmored Defense, but this locks you into having a high Dexterity along with Wisdom. It is an option, though, if you want to go that way.
+Yuna is a graceful character, performing rituals using dance, so a clunky suit of armor might not be what you want for this character. If you want to go armor-less, you can multiclass into Monk for a single level to get Unarmored Defense, but this locks you into having a high Dexterity along with Wisdom. Another option is presented in the DMs Guide to simply give Clerics the Unarmored Defense feature. There's no real unbalance with this, as Unarmored Defense tends to have lower actual defense than armor, so you might ask your DM about this if you want an unarmored character.
 
 
 ## Picking a Race
@@ -52,7 +52,7 @@ Yuna’s personality seems most like that of a **Halfling**, but even that can b
 
 Yuna was essentially raised to be a part of her religion, so the **Acolyte** background seems to be a perfect fit. This grants proficiency with Insight and Religion, and comes with a feature that allows this character to seek shelter in churches. Those are all spot-on with Yuna’s character, and nothing else comes close thematically.
 
-Yuna’s alignment changes with her character progression. She starts out as a Lawful Good, good because that’s where her heart leads her, but lawful because it’s all she’s ever known. As she grows and changes throughout the story, she moves to a Neutral Good, realizing that lawfulness is not necessarily good. She never becomes chaotic, but she does reject lawfulness, slowly at first, and then suddenly after her encounter with Lady Yunalesca.
+Yuna’s alignment changes with her character progression. She starts out as a Lawful Good: good because that’s where her heart leads her, but lawful because it’s all she’s ever known. As she grows and changes throughout the story, she moves to a Neutral Good, realizing that lawfulness is not necessarily good. She never becomes chaotic, but she does reject lawfulness, slowly at first, and then suddenly after her encounter with Lady Yunalesca.
 
 Throughout the story, Yuna knows what is good and what is bad, but she struggles to find her place in it. Initially, good is something she tries to follow, almost chasing it because she just wants to be where good things are happening. The biggest piece of character growth for Yuna is realizing that she doesn’t have to wait for good to happen somewhere and then run to it; she can enact good on her own, and once she realizes that, she works hard to make it happen.
 

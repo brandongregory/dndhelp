@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Character Creation
   url: /5e-character-creation/
+
+imageArray: 
+    - '"https://koboldthinktank.site/images/img-party-roles-1920x1080.webp"'
+
 ---
 
 This is not official by any means, but here are common roles party members can fill. When thinking of the character you want to build, try to make sure you can adequately fill one battle role and one exploration role. For instance, a Rogue is a good striker and infiltrator, easily falling into those two categories. Fighter abilities lean much more toward combat, but Fighters have some flexibility with their builds, allowing you to allocate stats and pick feats to fill an exploration role.
