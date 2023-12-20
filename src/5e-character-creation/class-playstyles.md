@@ -47,8 +47,9 @@ Difficulty: ★★★★★
 
 ### Pop Culture Examples of Artificers
 
-- [Rocket Raccoon from _Guardians of the Galaxy_](https://www.youtube.com/watch?v=i1iEIoxd-4A) - A great example of a character that uses their intelligence and mechanical aptitude to fight.
 - [Iron Man from MCU](https://www.youtube.com/watch?v=-CKyYV5doCI) - If you want to be the Medieval fantasy version of Iron Man, an Armorer Artificer is your best bet.
+- [Rocket Raccoon from _Guardians of the Galaxy_](https://www.youtube.com/watch?v=i1iEIoxd-4A) - A great example of a character that uses their intelligence and mechanical aptitude to fight.
+- [Tali'Zorah vas Normandy from Mass Effect](https://www.youtube.com/watch?v=0qh1t1VFeMQ) - The Normandy's tech genius is a great example of an Artificer Battle Master, using her drone to help her fight.
 - [Rikku from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-rikku/) - Yes, the thief from _Final Fantasy X_ is actually an Artificer. Sure, she can steal, but the reason everyone uses her is her Mix ability, which can give you some powerful potion effects.
 
 
@@ -62,8 +63,9 @@ Difficulty: ★☆☆☆☆
 
 ### Pop Culture Examples of Barbarians
 
-- [Wolverine from MCU](https://www.youtube.com/watch?v=r3Slqc4wDYk) - Nobody can take more abuse and keep going than Wolverine. He's a fierce fighter, but his greatest strength is just ignoring damage that would incapacitate other combatants.
+- [Berserker from Fate series](https://www.youtube.com/watch?v=EbH0Jm2stUc) - If you've ever wondered what a level 20 martial character would look like in battle, look no further.
 - [Lagertha "The Shieldmaiden" from _Vikings_](https://www.youtube.com/watch?v=liF0AyTz6Os) - Far from being some random brute, Lagertha is a noble woman - both as a queen and someone with values and a strong purpose. Her defiant personality and commitment to something bigger than herself are a great inspiration for a Barbarian.
+- [Wolverine from MCU](https://www.youtube.com/watch?v=r3Slqc4wDYk) - Nobody can take more abuse and keep going than Wolverine. He's a fierce fighter, but his greatest strength is just ignoring damage that would incapacitate other combatants.
 
 
 ## <a name="Bard"></a>Bard
@@ -76,6 +78,7 @@ Difficulty: ★★★★☆
 
 ### Pop Culture Examples of Bards
 
+- [Scott Pilgrim and Todd the Vegan from _Scott Pilgrim vs the World_](https://www.youtube.com/watch?v=1gkETBPx49I) - Powerful psychic attacks channeled through a bass guitar, what's not to like? Just don't drink the half and half.
 - [Soul King Brook from _One Piece_](https://www.youtube.com/watch?v=isAb1S_yA74) - He's the ship's musician as well as their secondary swordsman. Brook is probably a College of Swords Bard.
 - [Star-Lord from _Guardians of the Galaxy_](https://www.youtube.com/watch?v=jaaJyAjvajo) - If you've ever wanted to stop a battle with a dance-off (and, let's be honest, who hasn't?), the Bard class might be for you.
 
@@ -90,8 +93,9 @@ Difficulty: ★★★☆☆
 
 ### Pop Culture Examples of Clerics
 
-- [Pike Trickfoot from _The Legend of Vox Machina_](https://youtu.be/oeRxeWIOjAI?t=120) - This one is almost cheating, since Pike is actually a Dungeons & Dragons Cleric, but she's a great example.
 - [Melisandre from _Game of Thrones_](https://www.youtube.com/watch?v=QTwc-jg5fMI) - Proof that Clerics are under no obligation to be nice, this Cleric of the Light Domain is as deadly as she is devout.
+- [Pike Trickfoot from _The Legend of Vox Machina_](https://youtu.be/oeRxeWIOjAI?t=120) - This one is almost cheating, since Pike is actually a Dungeons & Dragons Cleric, but she's a great example.
+- [Yuna from _Final Fantasy X_](https://www.youtube.com/watch?v=WgVnds4gW3s) - Though she's also a [summoner](/5e-build-guides/summoner-builds/), Yuna is the party's white mage and works tirelessly to send the dead into the afterlife, making her a great example of a Grave Cleric.
 - [Rosa Joanna Farrell from _Final Fantasy IV_](/dnd-in-pop-culture/final-fantasy/ff4-rosa/) - For those who have played pretty much any Final Fantasy game, white mages are almost always Clerics, but Rosa's skills as an archer are a good fit for the War Domain.
 
 
@@ -105,8 +109,9 @@ Difficulty: ★★★★★
 
 ### Pop Culture Examples of Druids
 
-- [Layla from _Sky High_](https://www.youtube.com/watch?v=MPmFZKrZ-mU) - An unassuming nature-lover who's secretly a badass when the need arises, Layla is a great concept for a Druid.
 - [Doric from _Dungeons & Dragons: Honor Among Thieves_](https://www.youtube.com/watch?v=_EVRaNF4XnY) - This is literally a Dungeons & Dragons character, but Doric is a Circle of the Moon Druid, and she makes this look _good_.
+- [Layla from _Sky High_](https://www.youtube.com/watch?v=MPmFZKrZ-mU) - An unassuming nature-lover who's secretly a badass when the need arises, Layla is a great concept for a Druid.
+- [Poison Ivy from DC](https://www.youtube.com/watch?v=A98aG1MLJ0c) - Self-proclaimed eco-terrorist Poison Ivy uses nature powers to fight others, making her a textbook Druid.
 - [Solas from _Dragon Age: Inquisition_](/dnd-in-pop-culture/dragon-age/dai-solas/) - This lone wolf mage has powerful support and control options and can traverse through dreams, making him a great fit for the Circle of Dreams Druid.
 
 
@@ -122,6 +127,7 @@ Difficulty: ★☆☆☆☆
 
 - [Hector vs Achilles from _Troy_](https://www.youtube.com/watch?v=NQ62frK74u0) - Two quintessential Fighters squaring off against each other.
 - [King Bradley from _Full Metal Alchemist: Brotherhood_](https://www.youtube.com/watch?v=xPh6DzcKYbQ) - Bradley's martial prowess is hinted at early on in the series, but when we see him really fight, he proves that a guy with a sword can be just as terrifying as any magical or technological threat.
+- [Mikasa Ackerman from _Attack on Titan_](https://www.youtube.com/watch?v=5SQ-wzUCj6U) - Mikasa is one of _Attack on Titan's_ biggest badasses and she trains tirelessly to keep her fighting edge.
 - [Auron from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-auron/) - _Final Fantasy X's_ stoic badass is a great example of a Fighter.
 
 
@@ -135,8 +141,9 @@ Difficulty: ★★☆☆☆
 
 ### Pop Culture Examples of Monks
 
-- [Ty Lee from _Avatar: The Last Airbender_](https://www.youtube.com/watch?v=qvx6NiccDVA) - Ty Lee is a Monk who makes great use of Stunning Strike. She probably has expertist in Acrobatics as well. (If we're looking at Monks in _Avatar: The Last Airbender_, though, take a look at [Suki](https://youtu.be/IzkL7TsEeK4?feature=shared&t=93) too!)
 - [Mickey from _Snatch_](https://www.youtube.com/watch?v=SY4oo1B2RNU) - Monks don't have to look like Tibetan Buddhists. A streetwise brawler character can absolutely work as a Monk.
+- [Sanji from _One Piece_](https://www.youtube.com/watch?v=aGgw6HezmVk) - Another Monk outside the mold of an Eastern martial artist, Sanji's kicks are deadly and he's one of the best fighters in the series. His flaming kicks can be accomplished with the Ascendent Dragon subclass.
+- [Ty Lee from _Avatar: The Last Airbender_](https://www.youtube.com/watch?v=qvx6NiccDVA) - Ty Lee is a Monk who makes great use of Stunning Strike. She probably has expertist in Acrobatics as well. (If we're looking at Monks in _Avatar: The Last Airbender_, though, take a look at [Suki](https://youtu.be/IzkL7TsEeK4?feature=shared&t=93) too!)
 - [Yuffie from _Final Fantasy VII_](/dnd-in-pop-culture/final-fantasy/ff7r-yuffie/) - Though she can steal, Yuffie is a great example of how a ranged Monk could work.
 
 
@@ -150,8 +157,9 @@ Difficulty: ★★☆☆☆
 
 ### Pop Culture Examples of Paladins
 
-- [Wonder Woman from _Justice League_](https://www.youtube.com/watch?v=cpDYnfbD8lc) - Wonder Woman has deadly martial prowess aided by some supernatural abilities, and she's driven by her devotion to protecting people, making her a natural fit for the Paladin.
+- [Darth Vader](https://www.youtube.com/watch?v=1z4xrs0ypaQ) - When Paladins turn away from their oaths for dark purposes, they become Oathbreakers and gain new powers from that. Vader previously gained power from his oath, but found new power in breaking it.
 - [Samara from _Mass Effect_](https://www.youtube.com/watch?v=zpakB36N8wo) - Samara is a powerful warrior whose life is dictated by her oath.
+- [Wonder Woman from _Justice League_](https://www.youtube.com/watch?v=cpDYnfbD8lc) - Wonder Woman has deadly martial prowess aided by some supernatural abilities, and she's driven by her devotion to protecting people, making her a natural fit for the Paladin.
 - [Tidus from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-tidus/) - Though it's not explicitly stated, it's Tidus's principles that end up leading the party to victory, and those principles are perfectly represented by the Oath of Glory.
 
 
@@ -165,8 +173,9 @@ Difficulty: ★★☆☆☆
 
 ### Pop Culture Examples of Rangers
 
-- [Jon Snow from _Game of Thrones_](https://www.youtube.com/watch?v=CpvnZDHIg1A) - Jon Snow can track foes through the wilderness and has a dire wolf as a companion. This is a great example of a Ranger.
 - [Geralt from _The Witcher_](https://www.youtube.com/watch?v=DeAjiWbNHKg) - A monster hunter-type character works well as a Ranger, especially with the Monster Slayer subclass.
+- [Jon Snow from _Game of Thrones_](https://www.youtube.com/watch?v=CpvnZDHIg1A) - Jon Snow can track foes through the wilderness and has a dire wolf as a companion. This is a great example of a Ranger. (His wildling girlfriend Ygritte is a great example of a Ranger too.)
+- [San from _Princess Mononoke_](https://www.youtube.com/watch?v=4OiMOHRDs14) - The wolf princess hero from _Princess Mononoke_ is a great example of a Ranger.
 - [Wakka from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-wakka/) - Though Wakka is much more likely to be swimming around a sports arena than traipsing through the woods, he's a great example of what a Ranger could be.
 
 
@@ -180,8 +189,9 @@ Difficulty: ★★☆☆☆
 
 ### Pop Culture Examples of Rogues
 
-- [Arya Stark from _Game of Thrones_](https://www.youtube.com/watch?v=8DJKZHxXnH8) - Arya is a nimble fighter who goes for the killing blow when her enemy is not expecting it. She's a great example of a Rogue.
 - [Ant Man from MCU](https://www.youtube.com/watch?v=ErWEaNhagwk) - Perhaps an odd example, but Ant Man's fighting style revolves around disappearing from sight and reappearing with a surprise attack for an opponent. He's not supernaturally strong, but the sneak attacks are powerful.
+- [Arya Stark from _Game of Thrones_](https://www.youtube.com/watch?v=8DJKZHxXnH8) - Arya is a nimble fighter who goes for the killing blow when her enemy is not expecting it. She's a great example of a Rogue.
+- [Catwoman/Selina Kyle from DC](https://www.youtube.com/watch?v=8_omgx_Z0OQ) - Far from being a thug on the streets, Catwoman is a sophisticated thief who can handle herself in a fight.
 - [Isabela from Dragon Age 2](/dnd-in-pop-culture/dragon-age/da2-isabela/) - Rogues don't have to be thieves or assassins; a swashbuckling pirate works well as a rogue too.
 
 
@@ -197,6 +207,7 @@ Difficulty: ★★★☆☆
 
 - [Colonel Mustang from _Full Metal Alchemist: Brotherhood_](https://www.youtube.com/watch?v=2-81rNhEwIY) - Few characters on this show match the destructive potential of Colonel Mustang. He may be a bit of a one-trick pony, but it's a terribly effective trick.
 - [Elsa from _Frozen_](https://youtu.be/oCrMLqGaRow?t=5) - Another elemental mage (although Sorcerers aren't limited to one element), Elsa has one power that she uses to many effects.
+- [Natsu from _Fairy Tail_](https://www.youtube.com/watch?v=eQo-jGm2L6Q) - Probably the most perfect example of a Draconic Soul Sorcerer. Pretty much every "Wizard" in Fairy Tail is a Charisma caster of some sort.
 - [Lulu from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-lulu/) - Lulu is all about destroying enemies with powerful attack spells, and that's a great fit for the Sorcerer class.
 
 
@@ -210,8 +221,9 @@ Difficulty: ★★★☆☆
 
 ### Pop Culture Examples of Warlocks
 
-- [Raven from _Teen Titans_](https://www.youtube.com/watch?v=9lJcrW20DlM) - Raven's powers come from her demon father, and she has a bit of a spooky vibe. Raven would be a Fiend Warlock.
+- [Edward and Alphonse Elric from _Full Metal Alchemist_](https://www.youtube.com/watch?v=MzdRXA1uiNc) - Drawing power from an unfathomable and immensely powerful being is a great example of a Great Old One patron, although the powers the Elric brothers get are more remniscient of the Hexblade subclass.
 - [John Constantine from DC Animated Universe](https://www.youtube.com/watch?v=SiNMxbbSjEg) - Constantine is far from the most powerful magician in the DC universe, but he's able to use his powers cleverly to take on powerful foes.
+- [Raven from _Teen Titans_](https://www.youtube.com/watch?v=9lJcrW20DlM) - Raven's powers come from her demon father, and she has a bit of a spooky vibe. Raven would be a Fiend Warlock.
 - [Anders from _Dragon Age II_](/dnd-in-pop-culture/dragon-age/da2-anders/) - Warlocks don't have to be dark and spooky. Anders has entered into a relationship with a spirit of justice, which is a great fit for the Celestial Warlock.
 
 
@@ -226,4 +238,5 @@ Difficulty: ★★★★★
 ### Pop Culture Examples of Wizards
 
 - [Dr. Strange from MCU](https://www.youtube.com/watch?v=u3zpIO5aeiw) - Though he's called a sorcerer, Dr. Strange is absolutely a Wizard. He's studied hard to learn magic, and he has a spell for just about everything.
+- [Gandalf from _Lord of the Rings_](https://www.youtube.com/watch?v=DgNrvnY1mo0) - Gandalf is pretty much the prototype for every Wizard in DnD.
 - [Late-Season Willow Rosenberg from _Buffy the Vampire Slayer_](https://www.youtube.com/watch?v=ZhRFiHf8JUU) - Willow grew from a shy, unassuming teenagers to one of the most powerful characters in the show by studying magic—a great prototype for a younger Wizard.
