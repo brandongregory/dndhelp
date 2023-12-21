@@ -47,14 +47,30 @@
     </div>
     <nav class="navigation closed">
         <p class="navigation-title"><span class="navigation-icon"></span>Navigation</p>
-        <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/5e-character-creation/">5e Character Creation</a></li>
-            <li><a href="/5e-build-guides/">5e Build Guides</a></li>
-            <li><a href="/roleplaying/">Roleplaying</a></li>
-            <li><a href="/5e-homebrew/">5e Homebrew</a></li>
-            <li><a href="/dnd-in-pop-culture/">DnD in Pop Culture</a></li>
-            <li><a href="/about/">About</a></li>
+        <ul role="menu">
+            <li role="presentation">
+                <a role="menuitem" href="/">Home</a>
+            </li>
+            <li role="presentation">
+                <a role="menuitem" class="subnav-trigger" href="#">DnD 5e</a>
+                <ul role="menu">
+                    <li role="presentation">
+                        <a role="menuitem" href="/5e-character-creation/">5e Character Creation</a>
+                    </li>
+                    <li role="presentation">
+                        <a role="menuitem" href="/5e-build-guides/">5e Build Guides</a>
+                    </li>
+                    <li role="presentation">
+                        <a role="menuitem" href="/5e-homebrew/">5e Homebrew</a>
+                    </li>
+                </ul>
+            </li>
+            <li role="presentation">
+                <a role="menuitem" href="/dnd-in-pop-culture/">DnD in Pop Culture</a>
+            </li>
+            <li role="presentation">
+                <a role="menuitem" href="/roleplaying/">Roleplaying</a>
+            </li>
         </ul>
     </nav>
     <!-- HEADER COMPONENT -->

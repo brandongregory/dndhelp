@@ -37,6 +37,7 @@ body {
         border: none;
         border-radius: 10px;
         color: $red;
+        cursor: pointer;
         height: 50px;
         padding: 10px;
         position: relative;
@@ -175,6 +176,25 @@ body {
                     content: "";
                     display: inline-block;
                 }
+            }
+
+            ul {
+                display: none;
+                font-size: 1.75rem;
+                margin-left: 16px;
+
+                li {
+                    a::before {
+                        border-top: .6rem solid transparent;
+                        border-right: .6rem solid transparent;
+                        border-bottom: .6rem solid transparent;
+                        border-left: .6rem solid $gold;    
+                    }
+                }
+            }
+
+            &.open ul {
+                display: block;
             }
         }
 
