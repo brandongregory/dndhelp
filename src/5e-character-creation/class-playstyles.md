@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Class Playstyles in DnD 5e"
+meta_title: "Class Guide and Playstyles in DnD 5e"
 meta_description: "A basic overview of each DnD class, what makes it shine, and how it contributes to the party, with pop culture examples."
 author: "Brandon Gregory"
 section_name: character-creation
@@ -49,7 +49,7 @@ Difficulty: ★★★★★
 
 - [Iron Man from MCU](https://www.youtube.com/watch?v=-CKyYV5doCI) - If you want to be the Medieval fantasy version of Iron Man, an Armorer Artificer is your best bet.
 - [Rocket Raccoon from _Guardians of the Galaxy_](https://www.youtube.com/watch?v=i1iEIoxd-4A) - A great example of a character that uses their intelligence and mechanical aptitude to fight.
-- [Tali'Zorah vas Normandy from Mass Effect](https://www.youtube.com/watch?v=0qh1t1VFeMQ) - The Normandy's tech genius is a great example of an Artificer Battle Master, using her drone to help her fight.
+- [Tali'Zorah vas Normandy from Mass Effect](https://www.youtube.com/watch?v=0qh1t1VFeMQ) - The Normandy's tech genius is a great example of an Artificer Battle Smith, using her drone to help her fight.
 - [Rikku from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-rikku/) - Yes, the thief from _Final Fantasy X_ is actually an Artificer. Sure, she can steal, but the reason everyone uses her is her Mix ability, which can give you some powerful potion effects.
 
 
@@ -207,7 +207,7 @@ Difficulty: ★★★☆☆
 
 - [Colonel Mustang from _Full Metal Alchemist: Brotherhood_](https://www.youtube.com/watch?v=2-81rNhEwIY) - Few characters on this show match the destructive potential of Colonel Mustang. He may be a bit of a one-trick pony, but it's a terribly effective trick.
 - [Elsa from _Frozen_](https://youtu.be/oCrMLqGaRow?t=5) - Another elemental mage (although Sorcerers aren't limited to one element), Elsa has one power that she uses to many effects.
-- [Natsu from _Fairy Tail_](https://www.youtube.com/watch?v=eQo-jGm2L6Q) - Probably the most perfect example of a Draconic Soul Sorcerer. Pretty much every "Wizard" in Fairy Tail is a Charisma caster of some sort.
+- [Natsu from _Fairy Tail_](https://www.youtube.com/watch?v=eQo-jGm2L6Q) - Probably the most perfect example of a Draconic Bloodline Sorcerer. Pretty much every "Wizard" in Fairy Tail is a Charisma caster of some sort.
 - [Lulu from _Final Fantasy X_](/dnd-in-pop-culture/final-fantasy/ff10-lulu/) - Lulu is all about destroying enemies with powerful attack spells, and that's a great fit for the Sorcerer class.
 
 

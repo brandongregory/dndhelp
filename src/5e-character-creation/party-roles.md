@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Party Roles in DnD 5e"
+meta_title: "Party Roles and Composition in DnD 5e"
 meta_description: "Thinking about what type of DnD character to play can seem intimidating. Here are some basic combat and exploration roles your character can be built for."
 author: "Brandon Gregory"
 section_name: character-creation
@@ -15,7 +15,7 @@ imageArray:
 
 ---
 
-This is not official by any means, but here are common roles party members can fill. When thinking of the character you want to build, try to make sure you can adequately fill one battle role and one exploration role. For instance, a Rogue is a good striker and infiltrator, easily falling into those two categories. Fighter abilities lean much more toward combat, but Fighters have some flexibility with their builds, allowing you to allocate stats and pick feats to fill an exploration role.
+When thinking about party composition in DnD 5e, there are common roles party members can fill. There are roles you can fill in combat and out of combat, and both are worth thinking about for your character. For instance, a Rogue is a good striker and infiltrator, easily falling into those two categories. Fighter abilities lean much more toward combat, but Fighters have some flexibility with their builds, allowing you to allocate stats and pick feats to fill an exploration role.
 
 <div markdown="1" class="contents">
 <strong>Contents</strong>
@@ -37,6 +37,7 @@ This is not official by any means, but here are common roles party members can f
 ## <a name="BattleRoles"></a>Battle Roles
 
 Sooner or later, even the most roleplay-heavy DnD parties get into combat. While playing a jack-of-all-trades has its merits, it's generally more effective to focus on one or two roles and build your character for those. For instance, the Wizard spell list can be overwhelming, but knowing that you're focusing on control spells really helps give you a direction. Thinking about what roles you want to play in battle can give you focus not only in your character build, but also your tactics. There are 5 basic roles most characters can play in battle.
+
 
 ### <a name="BattleRoles-Blaster"></a>Blaster
 
@@ -69,15 +70,20 @@ Other good blasting spells include:
 * **Thunder Step** (_3rd level_) &ndash; A thunder-blasting spell with a built-in teleport to escape a group of enemies. Available to Sorcerers, Warlocks, and Wizards.
 * **Thunderwave** (_1st level_) &ndash; An early-level blasting spell available to most spellcasters.
 
-**Good Blaster Classes**
+#### Is a Blaster Fun?
+
+Blasters are great at doing damage and can have a huge impact in a party. Any class can take down a single opponent, but if you're facing 5 smaller opponents, even dedicated damage-dealers like Fighters can struggle. That's where you shine. Opening combat with a well-placed Fireball is both fun and impactful. This is one where playing with miniatures or a virtual tabletop can make things much more fun, as enemy placement makes a big difference for blasters.
+
+#### Good Blaster Classes
 
 Cleric, Sorcerer, Wizard top the list, all of which can make excellent Blasters. Druids and Warlocks can be built to be Blasters, but don't have as many options as the top-tier Blasters. Past that, a few odd subclasses, like the Artillerist Artificer, get some blasting spells, but bear in mind that half-casters get spells much later in the game than full casters. That coveted Fireball spell may be a bit underwhelming if you're getting it at level 9 rather than level 5.
 
 For some more detailed build information, check out my article on [Blaster Casters in DnD 5e](/5e-build-guides/blaster-caster-builds/).
 
-**Workarounds**
+#### Workarounds for Not Having a Blaster
 
 There are a variety of magic items that give access to one blasting spell, which can give just about any character some blasting potential. Your Ranger may excel at taking down single targets, but give them a Wand of Fireballs and their versatility just went up quite a bit.
+
 
 ### <a name="BattleRoles-Controller"></a>Controller
 
@@ -104,15 +110,20 @@ Good control spells include:
 * **Wall spells** (_Fire, Force, Ice, Light, Stone, Thorns, Water, Wind_) &ndash; Too many to list individually, but these can be great for separating one tough encounter into two smaller ones, or blocking off enemies to give your party time to do something or escape. Many spellcasters will get at least one wall spell.
 * **Web** (_2nd level_) &ndash; Great for setting traps for opponents. Available to Artificers, Sorcerers, Wizards, and some Druids.
 
-**Good Controller Classes**
+#### Is a Controller Fun?
+
+More than any other role, controllers are strategic and allow you to play the battlefield like a game of chess. Controllers can absolutely shut down a single enemy or a whole party, which can be even more important than dealing damage quickly. No matter who you have in your party, there are going to be times when controlling the enemy party will be more important than hitting them really hard, whether you're playing offensively or defensively. 
+
+#### Good Controller Classes
 
 Bard, Druids, Warlocks, and Wizards top the list, gaining many control spells. Monks and Paladins (especially the Oath of Redemption subclass) gain some good control options as well, but are generally unable to handle as many targets as spellcasters.
 
 For some more detailed build information, check out my article on [Control Casters in DnD 5e](/5e-build-guides/control-caster-builds/).
 
-**Workarounds**
+#### Workarounds
 
 Some magic items, like Wand of Web, give access to some control spells. Also, any character with a good Athletics score and grapple opponents and provide some control options in a pinch.
+
 
 ### <a name="BattleRoles-Striker"></a>Striker
 
@@ -122,13 +133,18 @@ Sustained damage characters will continue to do good damage with any number of f
 
 Nova damage characters have much higher damage potential when it's needed, but limited resources, so they need to ration it out. This allows them to make tactical choices about which enemies to take down quickly. Paladins, Sorcerers, and Wizards are the most clear-cut examples of nova damage characters, but any character that can use a limited resource to significantly boost their damage falls into this category. For example, Berserker Barbarians have to manage levels of exhaustion to gain a large bonus to their attack output and have some nova damage potential based on calculated risk.
 
-**Good Striker Classes**
+#### Is a Striker Fun?
+
+Dealing damage is fun and every party needs someone who is good at it. Building a striker is straightforward, so you'll probably want to think about what you can do outside of doing damage. That said, a character who hits really hard will always have a time to shine.
+
+#### Good Striker Classes
 
 Many classes are good at this. On the martial side, Barbarians, Fighters, Paladins, Rangers, and Rogues are all good at this, but Monks do a decent job as well. For spellcasters, Sorcerers, Warlocks, and Wizards are great Strikers, with Warlocks in particular excelling at the role due to their Eldritch Blast cantrip, which allows them to save their spell slots for other purposes.
 
-**Workarounds**
+#### Workarounds for Not Having a Striker
 
 There aren't many good workarounds for the Striker role. You need at least one in your party.
+
 
 ### <a name="BattleRoles-Support"></a>Support
 
@@ -138,13 +154,18 @@ Healing is important, but not as important as it is in many video games. It's ge
 
 Buffs include spells and abilities that increase skills or saving throws, allow allies to take extra actions, or grant advantage on attack rolls. Many spellcasters have buff options, but martial characters can do things like shove an opponent prone to grant advantage to allies. Paladins also have auras, which grant benefits to any ally within range.
 
-**Good Support Classes**
+#### Is a Support Character Fun?
+
+Support can sound like a boring role, but DnD 5e anticipated that by making every support character good at something besides support. Clerics have excellent healing, but are also tanky and do great damage. Druids have good healing, but are also amazing with control spells. Bards are great buffers and healers, but also serve as jacks of all trades who can fill in for any role in a party. Playing a character dedicated to support and nothing else might be boring, but it's easy to make a support character who can also do other stuff well.
+
+#### Good Support Classes
 
 Clerics, Bards, and Druids are the most archetypal Support characters, but other classes can fill this role in odd ways. Paladins have auras that can buff nearby teammates, and the Mastermind Rogue and Wolf Totem Barbarian have mechanics to grant allies advantage on attack rolls. Warlocks and Sorcerers have subclasses that grant support abilities.
 
-**Workarounds**
+#### Workarounds for Not Having a Support
 
 Some races, such as Aasimar and Bugbear, have support features. The Healer feat allows a character to heal an ally using a Healer's Kit, which has broad uses, but is really useful to the Thief Rogue (who can use an item as a bonus action), allowing them to be combat medics. Additionally, characters with high Athletics scores can grapple and shove opponents to grant advantage to their allies on melee attacks (but not ranged attacks). Feats like Shield Master allow you to shove as a bonus action, making it easier to fit into play. The Crusher feat also gives allies advantage on attacks whenever you make a critical hit on an opponent, which isn't exactly reliable, but can be a nice bonus if you have a character that focuses on critical hits like a Barbarian or Champion Fighter.
+
 
 ### <a name="BattleRoles-Tank"></a>Tank
 
@@ -154,25 +175,36 @@ Beware the Tank Fallacy. You can build a highly defensive character that can wit
 
 To be an effective tank, you need some way of getting enemies to focus on you. This can be accomplished, perhaps counterintuitively, by focusing on doing lots of damage to make yourself a greater threat to the enemy force. Some subclasses, such as the Ancestral Guardian Barbarian, Cavalier Fighter, and Armorer Artificer, have mechanics for incentivizing opponents to target them instead of their teammates.
 
-**Good Tank Classes**
+#### Is a Tank Fun?
+
+Being a good tank is kind of like playing bass: you can do some amazing work, but one of your biggest jobs is to make the whole band play better together. Being able to take or avoid huge amounts of damage can be really fun, but tanking is also kind of a support role because it allows your back line party members to do their thing without getting killed.
+
+#### Good Tank Classes
 
 Barbarians are excellent tanks, with Paladins and Fighters following closely behind, although many other classes can be built to take hits. Circle of the Moon Druids can wildshape into tanky animals, and Rangers and Monks can be built defensively. The Armorer Artificer can also be a great tank.
 
 If you're looking for a little more detail, read my article on [Tank Builds in DnD 5e](/5e-build-guides/tank-builds/).
 
-**Workarounds**
+#### Workarounds for Not Having a Tank
 
 Giving a frontline character magic items like the Staff of Defense or Ring of Spell Storing that enable them to cast defensive magic can help make a non-Tank frontline character, like a Monk, into a passable tank.
+
 
 ## <a name="ExplorationRoles"></a>Exploration Roles
 
 These roles cover things your party usually has to do out of combat.
+
 
 ### <a name="ExplorationRoles-Face"></a>Face
 
 <dfn>Faces</dfn> are good in social encounters, particularly with convincing someone to do or believe something. Usually requires a high Charisma stat and/or good scores in Persuasion, Deception, and Intimidation.
 
 Bards are known for being great Faces, but any character with a high Charisma score can achieve this. Paladins, Sorcerers, and Warlocks all need Charisma for class features, but Rogues, Fighters, and even Barbarians can all have high Charisma scores too, if built that way. Some subclasses, such as the Rune Knight Fighter, grant advantage on skill checks for social encounters, and they can be effective faces too. Other subclasses, like the Fey Wanderer or Samurai, grant bonuses to social skills based on other stats.
+
+#### Is a Face Fun?
+
+If you have any interest in being a social character and influencing NPCs, being a face makes that a lot more gratifying and rewarding. There will be times when you think of something brilliant for your character to say, but if you botch your Persuasion roll, an NPC might still distrust you. There will be some games without a real social aspect, but most games will involve conversations with NPCs, and being a face makes that much easier.
+
 
 ### <a name="ExplorationRoles-Infiltration"></a>Infiltration
 
@@ -184,6 +216,11 @@ Armorer Artificers can also choose the Infiltrator model armor, which greatly in
 
 There are some spells that can grant these abilities too, such as Knock to open locks and Pass Without Trace to make the party good at sneaking, so some spellcasters can fill this role, assuming they can spare the spell slots.
 
+#### Is an Infiltration Character Fun?
+
+This is a role that's really party-reliant. Stealth, lockpicking, and pickpocketing can all be fun, but they may not work in every party. Coordinate with your party to see how you will all handle stealth. If no one else wants to take the subtle approach, you might find your special skills wasted. You might also have a party that's really sneaky and can use that a lot. Even in games without a lot of stealth, having one character who's good at it can be useful.
+
+
 ### <a name="ExplorationRoles-Knowledge"></a>Knowledge
 
 <dfn>Knowledge characters</dfn> know facts about the things your party encounters. In D&D, having a successful roll in a knowledge skill allows you to ask the DM for hints. Usually requires a good Intelligence stat, but can also be achieved with proficiency or expertise in knowledge skills.
@@ -192,6 +229,11 @@ Classes that rely on intelligence are natural fits here. Wizards and Artificers 
 
 It's also very possible to be good in just one knowledge skill, even if you're not broadly good at all of them. Rangers, for instance, often pick Nature as a skill proficiency, even though they may not know much about royal lineages or magic effects.
 
+#### Is a Knowledge Character Fun?
+
+Knowledge is an interesting niche because most characters aren't good at intelligence skills. Being good at knowledge skills often puts you in a unique position to get more lore and story for your party. Investigation is another useful skill that not many characters will be great at. Searching for traps is always useful, but if your DM makes you roll Investigation to find things while searching, you can help move things along when other characters are failing.
+
+
 ### <a name="ExplorationRoles-Scout"></a>Scout
 
 <dfn>Scout characters</dfn> cover stealth, perception, and tracking skills. Usually involves a high Wisdom stat and/or Perception skill. Survival and Stealth skills help too.
@@ -199,6 +241,11 @@ It's also very possible to be good in just one knowledge skill, even if you're n
 One class is the undisputed king of this, and that is Ranger. Other classes can be built to fill this role, provided they have good scores in Stealth and Perception. (Monks and Rogues can make very decent Scouts.) Some magical spells, like Arcane Eye or Beast Sense, can also be used to scout.
 
 Scouting is something that doesn't necessarily happen in every D&D game, but it's as useful as you and your DM make it. If you have scouting skills or want to be a scout, make sure your DM knows this and allows you opportunities to shine.
+
+#### Is a Scout Fun?
+
+Like infiltration, scout is a role that depends a lot on your party and DM. You may find yourself scouting ahead a lot to see what you're up against, or you may find yourself not scouting at all. That said, Perception is probably the most rolled skill in the game, so being good at it is always helpful.
+
 
 ### <a name="ExplorationRoles-Utility"></a>Utility
 
@@ -230,6 +277,11 @@ There are many useful utility spells—too many to list and talk about—but her
 * **7th Level** &ndash; Magnificent Mansion, Plane Shift, Teleport
 * **8th Level** &ndash; Telepathy
 * **9th Level** &ndash; Astral Projection, Time Stop, Wish
+
+#### Is a Utility Character Fun?
+
+Having a tool for every job gives you a lot of versatility to solve problems in ways that other characters can't. There may be someone in your party who uses Fireball as a utility spell, and your Barbarian may have an actual hammer, but there are a lot of problems in DnD that are not nails. Utility is a role that's often overlooked in a party, but if you're good at it, you'll always have something to do.
+
 
 ## Does my party need all of these roles?
 
