@@ -67,9 +67,7 @@ function calculateDeflectMissiles() {
 
 function initPageScripts() {
     const body = document.querySelector("body");
-    if (body.classList.contains("monk-deflect-missiles")) {
-        initDeflectMissiles();
-    }
+    if (body.classList.contains("monk-deflect-missiles")) initDeflectMissiles();
 }
 
 initPageScripts();
