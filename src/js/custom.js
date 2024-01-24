@@ -50,7 +50,7 @@ function calculateDeflectMissiles() {
     let monkLevel = document.querySelector("#deflect-missiles--monk-level").value;
     let dexterityModifier = document.querySelector("#deflect-missiles--dexterity-modifier").value;
     const averageDamageField = document.querySelector("#deflect-missiles--average-damage");
-    const minimumDamageField = document.querySelector("#deflect-missiles--average-damage");
+    const minimumDamageField = document.querySelector("#deflect-missiles--minimum-damage");
     const averageRoll = 5.5;
     const minimumRoll = 1;
 

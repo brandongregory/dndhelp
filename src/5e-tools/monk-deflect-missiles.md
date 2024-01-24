@@ -1,5 +1,5 @@
 ---
-layout: article.njk
+layout: article-no-related.njk
 meta_title: "DnD 5e Monk Deflect Missiles Calculator"
 meta_description: "Some brief numbers on the Monk's deflect missiles"
 author: "Brandon Gregory"
