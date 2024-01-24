@@ -42,12 +42,8 @@ function initDeflectMissiles() {
     const monkLevelField = document.querySelector("#deflect-missiles--monk-level");
     const dexterityModifierField = document.querySelector("#deflect-missiles--dexterity-modifier");
 
-    monkLevelField.addEventListener("input", function() {
-        calculateDeflectMissiles();
-    });
-    dexterityModifierField.addEventListener("input", function() {
-        calculateDeflectMissiles();
-    });
+    monkLevelField.addEventListener("input", calculateDeflectMissiles);
+    dexterityModifierField.addEventListener("input", calculateDeflectMissiles);
 }
 
 function calculateDeflectMissiles() {
