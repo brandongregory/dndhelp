@@ -13,4 +13,10 @@ table {
         border-bottom: 1px solid rgba(255,255,255,1);
 
     }
+
+    &.table--split {
+        td {
+            width: 50%;
+        }
+    }
 }
