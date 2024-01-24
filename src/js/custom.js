@@ -58,23 +58,11 @@ function calculateDeflectMissiles() {
     const averageRoll = 5.5;
     const minimumRoll = 1;
 
-    if (isNaN(monkLevel)) {
-        monkLevel = 0;
-    } else {
-        monkLevel = Number(monkLevel);
-    }
+    monkLevel = (isNaN(monkLevel)) ? 0 : Number(monkLevel);
+    dexterityModifier = (isNaN(dexterityModifier)) ? 0 : Number(dexterityModifier);
 
-    if (isNaN(dexterityModifier)) {
-        dexterityModifier = 0;
-    } else {
-        dexterityModifier = Number(dexterityModifier);
-    }
-
-    const averageDamage = averageRoll + monkLevel + dexterityModifier;
-    const minimumDamage = minimumRoll + monkLevel + dexterityModifier;
-
-    averageDamageField.innerHTML = averageDamage;
-    minimumDamageField.innerHTML = minimumDamage;
+    averageDamageField.innerHTML = averageRoll + monkLevel + dexterityModifier;
+    minimumDamageField.innerHTML = minimumRoll + monkLevel + dexterityModifier;
 }
 
 function initPageScripts() {
