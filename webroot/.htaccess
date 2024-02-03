@@ -18,7 +18,7 @@ ErrorDocument 404 /404/
   ExpiresByType image/png "access plus 1 month"
   ExpiresByType image/webp "access plus 1 month"
   ExpiresByType text/css "access plus 1 month"
-  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType text/javascript "access"
   ExpiresByType application/javascript "access plus 1 month"
   ExpiresByType application/x-shockwave-flash "access plus 1 month"
   ExpiresByType image/ico "access plus 1 month"
