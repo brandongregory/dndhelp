@@ -142,7 +142,7 @@ Role fit: 5
 
 ### Cleric
 
-Clerics are the prototypical healing class, but they offer much more—they’re probably in the top 3 classes for damage as well, coming in 3rd on my list of Blaster Casters. It might seem weird for an order of holy priests to be so good at killing things, but Clerics are geared for combat. Their buffing abilities might not be as great as some other classes, but they have a surprising number of buff spells on their core spell list. If you like the idea of a support character that can do a lot of damage as well, Cleric may be your best bet. If you just want to be the best healer possible, subclasses like the Life Domain or Grave Domain are strong competitors.
+Clerics are the quintessential healing class, but they offer much more—they’re probably in the top 3 classes for damage as well, coming in 3rd on my list of Blaster Casters. It might seem weird for an order of holy priests to be so good at killing things, but Clerics are geared for combat. Their buffing abilities might not be as great as some other classes, but they have a surprising number of buff spells on their core spell list. If you like the idea of a support character that can do a lot of damage as well, Cleric may be your best bet. If you just want to be the best healer possible, subclasses like the Life Domain or Grave Domain are strong competitors.
 
 Healing ability: 5
 

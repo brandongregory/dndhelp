@@ -32,6 +32,7 @@ When thinking about party composition in DnD 5e, there are common roles party me
     3. [Knowledge](#ExplorationRoles-Knowledge)
     4. [Scout](#ExplorationRoles-Scout)
     5. [Utility](#ExplorationRoles-Utility)
+3. [Party Composition Tips](#Party-Composition-Tips)
 </div>
 
 ## <a name="BattleRoles"></a>Battle Roles
@@ -283,8 +284,61 @@ There are many useful utility spells—too many to list and talk about—but her
 Having a tool for every job gives you a lot of versatility to solve problems in ways that other characters can't. There may be someone in your party who uses Fireball as a utility spell, and your Barbarian may have an actual hammer, but there are a lot of problems in DnD that are not nails. Utility is a role that's often overlooked in a party, but if you're good at it, you'll always have something to do.
 
 
-## Does my party need all of these roles?
+## <a name="Party-Composition-Tips"></a>Party Composition Tips
 
-Short answer: no. Most parties have gaps, and it's natural that each party will have strengths and weaknesses. Small parties in particular (fewer than 4) really struggle to get more than a few roles filled. This article isn't a checklist so much as a way to think about character creation.
+Most parties, especially small ones, are going to have gaps, and that’s OK. Not every party needs a tank, a support caster, and a control caster, and many parties can survive without some of the exploration roles.
 
-_That said,_ while not every party needs every role filled, every party will eventually face all of these challenges. If your party has gaps, think about what you will do when these challenges arise. No Tank? What will happen if the entire party gets swarmed? No Face? Think about how you can convince others of your position.
+_That said_, every party will eventually face all of these challenges. If there are gaps in your party, think about what you will do in those situations. If you do want to plan your party to have the best coverage, here are some tips to do that.
+
+Please note: these are tips, not rules. There are going to be situations and parties where you ignore these, and that’s OK. DnD 5e is a forgiving enough system that you don’t need 100% coverage on all roles to play the game, and you can make just about any party work. That said, here are some tips and considerations for a balanced party composition at your table.
+
+
+### Diversify
+
+A common complaint I hear from parties where two or more character are doing the same thing (like a Fighter and Barbarian) is that one feels outclassed by the other. This can make one or both characters feel redundant, and also lead to some gaps in what your party is capable of. However, this doesn’t mean that you can’t play similar types of characters.
+
+If your party wants to play with two Fighters, think about how you can make them different. Maybe one is an [agile fencer](/5e-build-guides/fencer-builds/) and the other is a [strong defender](/5e-build-guides/tank-builds/). Maybe one is an [archer](/5e-build-guides/archer-builds/) and the other melee. You can make one of them a decent support character by choosing Purple Dragon Knight as a subclass. You can also focus on [different mental stats](/5e-character-creation/mental-stats-compared/), having one be perceptive and insightful while the other is good at talking to people.
+
+The same is true with any class. Bards can focus on [healing](/5e-build-guides/support-caster-builds/) or [control](/5e-build-guides/control-caster-builds/) spells. Warlocks and Sorcerers have a variety of subclasses and can make decent healers with some builds. Rangers can be built to use Wisdom as their main stat with the Druidic Warrior fighting style, making them controllers and healers. Clerics and Wizards can cover a lot of different roles.
+
+Don’t fret if two people in your party want to play the same class—just figure out how to add differences to allow each of them to shine in different situations.
+
+
+### Think About the Front Line
+
+Parties can absolutely survive without a real tank or defender, but there will be times you’re going toe to toe with an enemy party. That means someone in your group will be on the front line. If there’s no front line, everyone’s on the front line, so, tank or not, make sure someone can survive that.
+
+In my first DnD campaign, I played a Monk while my companions were a Bard and a Ranger. This put me on the front line. Monks are not great tanks, but I did well at keeping the enemy’s front line off of my companions. The challenge wasn’t surviving; it was feeling like I was good at my role. Sitting on the front line doesn’t play to a Monk’s strengths. I spent a lot of sessions wishing I was a Barbarian.
+
+Think about who’s going to be the front line when enemies close in. Your Bard may want to play a support character, but if they get stuck on the front line, it may change how they build their character. You’ll probably be able to make anything work, just make sure that whoever it is in your party knows that they’ll be doing that and feels comfortable with their character choice.
+
+
+### Don’t Neglect Support and Control Roles
+
+Parties don’t necessarily need a dedicated [supporter](/5e-build-guides/support-caster-builds/) or [controller](/5e-build-guides/control-caster-builds/), but having one can make your lives easier. You can absolutely play the game without these roles, but think about what you’ll do in situations where they’d be useful.
+
+Of course having a Cleric, Bard, or Druid will help with healing, but there are other ways to do that. Everyone can carry potions and drink them when needed. (There’s a popular house rule that allows you to drink a potion as a bonus action, which really helps.) Taking short rests between combat encounters is probably preferable to in-combat healing. But many other types of characters can help with this too.
+
+Thief Rogues with the Healer feat can easily take on support roles, and Artificers, Paladins, and Rangers can heal with some of their spells. Many other classes have subclasses that can help provide support, such as the Celestial Warlock, the Purple Dragon Knight Fighter, or the Way of Mercy Monk. For buffs, Wolf Totem Barbarians can grant advantage to other melee characters in the party, and Paladins have auras that grant a variety of effects.
+
+Control isn’t always a role people think of, particularly if they’re new to tabletop gaming, but it’s one that can make fights much easier. If you get swarmed by a bunch of weaker foes, it doesn’t matter how hard your Paladin or Barbarian hit—you’re going to get hit a lot. Being able to take out a whole area of foes until you’re ready to deal with them can be a lifesaver.
+
+
+### Make Sure You Can Kill Your Enemies
+
+No matter what kind of campaign you’re running, you will eventually be thrust into combat. You’ll need a way to defeat your enemies, which means you will have to be able to do some damage. Every class has some way of dealing damage, so make sure someone in your party (preferably several) are able to get some serious hits in when it counts.
+
+You’ll want to prioritize damage over healing, as killing your enemies faster means you take less damage, and you can take a short rest rather than use spell slots for healing. Spend your limited healing resources when someone else is going to stop dealing damage—like if they go down in a fight. Support characters can all do more urgent things, like dealing damage, helping others do more damage, or preventing the enemy from dealing damage.
+
+Think about what resources your party needs to keep going throughout an adventuring day. If all your damage dealers are Wizards and Paladins, running out of spell slots will make things much more difficult. Think about how to ration your resources in case an adventuring day goes longer than expected. This is where classes like Warlock and Fighter are really strong. Being able to keep up with damage throughout a long day can be a lifesaver.
+
+If you’re playing a class that needs frequent short rests (Warlock, Monk, Fighter), make sure to communicate that to your team. If you see another player playing one of these classes, you might think about playing one too to encourage the party to take short rests to be at their best.
+
+
+### Play to Your Strengths
+
+Look at what your party is good at and adapt your strategies. If you have a bunch of martial characters but no utility characters, look for ways to solve your problems with Strength (carry pitons, ropes, a grappling hook, a portable ram, etc.). If no one in your party has high Strength, look at spells (like Floating Disk) or mundane items (like a donkey and cart) that can help if you need it. Carrying a crowbar can also help with this.
+
+Stealth is a big consideration for parties. If your whole party is sneaky, use that to your advantage. If there’s just one character who’s bad at stealth, like a Paladin in plate mail, other characters like a Ranger, Druid, or Trickery Cleric can make it easier for them to pass their checks. Coordinate with your party. If half the party builds for stealth and half the party doesn’t, it can make for a frustrating experience.
+
+Look at what other members in your party are good at. If you have to pass a hard persuasion or deception check, it’s better to let a Bard or Warlock handle that unless you have a high Charisma score. Of course anyone can jump in on things, but if a task is important, look at who in your party would be best at it. 
