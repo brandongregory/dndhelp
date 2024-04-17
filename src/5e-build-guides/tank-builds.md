@@ -15,7 +15,7 @@ imageArray:
 
 ---
 
-In gaming, a Tank is an iconic role, drawing the enemies' ire so your more fragile teammates stay safe. Tanks in DnD work a bit differently. In video games, dedicated tanks will have methods of generating aggro, forcing nearby enemies to focus on them. There isn't really a mechanic for this in DnD. The Tank Phallacy in DnD is that you can build an extremely defensive character who can stand up to any attack, but nothing is stopping an enemy from running right around you and attacking the wizard behind you.
+In gaming, a Tank is an iconic role, drawing the enemies' ire so your more fragile teammates stay safe. Tanks in DnD work a bit differently. In video games, dedicated tanks will have methods of generating aggro, forcing nearby enemies to focus on them. There isn't really a mechanic for this in DnD. The Tank Fallacy in DnD is that you can build an extremely defensive character who can stand up to any attack, but nothing is stopping an enemy from running right around you and attacking the wizard behind you.
 
 Playing a tank is deceptively hard. You need defense to stay alive, offense to make yourself a decent threat, and a mix of abilities to protect your allies and keep them (and yourself) alive. While a tank isn’t necessarily essential in a party, it can really help protect your allies. Here are 10 of the most effective tank builds.
 
