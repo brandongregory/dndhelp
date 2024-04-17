@@ -11,18 +11,18 @@ parent:
   url: /roleplaying/
 ---
 
-Dungeons & Dragons has exploded in popularity over the last few years, with many turning to it during the high-stress pandemic as a way to relieve stress and bring friends together. We often lean into it during rough periods like major transitions, loss, or even just high school when you don’t fit in. Many of us know that table-top gaming can help mental health. It turns out there’s some science to back that up.
+Dungeons & Dragons has exploded in popularity over the last few years, with many turning to it during the high-stress pandemic as a way to relieve stress and bring friends together. We often lean into it during rough periods like major transitions, loss, or even just high school when we don’t fit in. Many of us know that tabletop gaming can help mental health. It turns out there’s some science to back that up.
 
-D&D and other TTRPGs have been used for years in mental health settings to help people with social skills, self-confidence, and coping mechanisms for mental health issues. Some core aspects of D&D, like improvisational play and exploration of diverse ideas and scenarios, have been in use in the mental health field for decades. There are many games that can help both children and adults with social and psychological issues, but D&D is uniquely suited to this task, and there’s some evidence to back that up.
+D&D and other TTRPGs have been used for years in mental health settings to help people with social skills, self-confidence, and coping mechanisms for mental health issues. Some core aspects of D&D, like improvisational play and exploration of diverse ideas and scenarios, have been in use in the mental health field for decades. Many games can help both children and adults with social and psychological issues, but D&D is uniquely suited to this task, and there’s some evidence to back that up.
 
-For those who have read things on this site and don’t know, I myself have a serious mental illness, and many of my friends and family struggle with that too. Mental health is a serious issue for me, and I have a [whole podcast about movies and mental health](https://peculiarpicture.show/). This is my first time talking about mental health here, though, and tying it to D&D. Whether you have a diagnosed mental health issue or just feel the pressure of everyday life closing in on you, I’m hoping this article will help you.
+For those who have read things on this site and don’t know, I have a serious mental illness, and many of my friends and family struggle with that too. Mental health is a serious issue for me, and I have a [whole podcast about movies and mental health](https://peculiarpicture.show/). This is my first time talking about mental health here, though, and tying it to D&D. Whether you have a diagnosed mental health issue or just feel the pressure of everyday life closing in on you, I’m hoping this article will help you.
 
 
 ## Role-playing games like Dungeons & Dragons may aid with mental health recovery
 
-Meaning and purpose are basic necessities for mental health. Everyone wants to feel like the hero of something. We often create or discover meaning in our lives through the stories we tell about our lives, but it can also help to explore stories of heroism through others. Modern hit movies like _The Hunger Games_ or _Star Wars_ help us feel this heroism, and ancient stories like _Beowulf_ and _The Odyssey_ show that it’s much more than a modern trend.
+Meaning and purpose are necessities for mental health. Everyone wants to feel like the hero of something. We often create or discover meaning in our lives through the stories we tell about our lives, but it can also help to explore stories of heroism through others. Modern hit movies like _The Hunger Games_ or _Star Wars_ help us feel this heroism, and ancient stories like _Beowulf_ and _The Odyssey_ show that it’s much more than a modern trend.
 
-Dungeons & Dragons helps bridge this gap by letting us play the heroes that we want. It allows us to make heroes out of the characters we want to see as heroes. The heroes we play in D&D and other TTRPGs often have traits similar to us, but often have struggles similar to ours too—struggles which may not be well represented in popular media. Sometimes, exploration of what it means for a character like that to become a hero can help teach us how we ourselves can be the heroes of our own life stories.
+Dungeons & Dragons helps bridge this gap by letting us play the heroes that we want. It allows us to make heroes out of the characters we want to see as heroes. The heroes we play in D&D and other TTRPGs often have traits similar to us, but often have struggles similar to ours too—struggles that may not be well represented in popular media. Sometimes, exploration of what it means for a character like that to become a hero can help teach us how we can be the heroes of our own life stories.
 
 Dungeons & Dragons focuses on overcoming adversity and exploring alternative identities. In that way, it mirrors many aspects of the mental health recovery process. It has several unique characteristics that make it a great tool for children and adults in therapy:
 
@@ -54,36 +54,36 @@ While role-playing games like D&D have only been around since the 70s, mental he
 
 ## Dungeons & Dragons has been used in therapy for decades
 
-Roleplay has been used in mental healthcare for a long time, but what about Dungeons & Dragons specifically? Dungeons & Dragons has not only been shown to help people deal with mental health issues; it’s also been used in actual therapy sessions. In fact, using Dungeons & Dragons as a part of therapy is not a new concept. It was used in mental health practice as early as the 80s.
+Roleplay has been used in mental healthcare for a long time, but what about Dungeons & Dragons specifically? Dungeons & Dragons has not only been shown to help people deal with mental health issues; it’s also been used in actual therapy sessions. Using Dungeons & Dragons as a part of therapy is not a new concept. It was used in mental health practice as early as the 80s.
 
 Here are some notable examples:
 
-* In 1994, a psychologist was treating a 19-year-old with an obsessional, schizoid personality. He encouraged the patient to describe his experiences in D&D as a form of self-therapy, and that allowed the patient to work through his emotions in a safe way.
+* In 1994, a psychologist was treating a 19-year-old with an obsessional, schizoid personality. He encouraged the patient to describe his experiences in D&D as a form of self-therapy, and that allowed the patient to work through his emotions safely.
 * Psychologist M.L. Kallam studied a group of “mildly handicapped” adolescents who played D&D twice a week for 9 weeks. The group gradually developed higher self-efficacy and problem-solving skills compared to a control group.
 
-I myself have a serious mental illness, and my son is on the autism spectrum. Dungeons & Dragons has been specifically recommended to both of us for therapeutic purposes.
+I have a serious mental illness, and my son is on the autism spectrum. Dungeons & Dragons has been specifically recommended to both of us for therapeutic purposes.
 
 
 ## D&D has been shown to have psychological benefits
 
-Dungeons & Dragons isn’t just about winning. Those of us who have played a while know that successfully playing the game means learning things like creative problem-solving, empathy for your fellow players (and often NPCs), confidence and assertiveness in dealing with the problems in front of you, and analytical skills. These are all things that mental health conditions can make difficult, and learning to be better at them can really help us.
+Dungeons & Dragons isn’t just about winning. Those of us who have played for a while know that successfully playing the game means learning things like creative problem-solving, empathy for your fellow players (and often NPCs), confidence and assertiveness in dealing with the problems in front of you, and analytical skills. These are all things that mental health conditions can make difficult, and learning to be better at them can help us.
 
 Several studies have found tentative links between Dungeons & Dragons and psychological benefits such as increased creativity and empathy. D&D in a smaller therapeutic setting can help increase confidence, as well as the ability to confront situations and cope with unexpected events.
 
 What’s important, though, is that these studies showed that the skills learned in D&D transferred into the real world and better prepared people to deal with similar issues in their lives. The lessons we learn at our tables become lessons we learn in real life as well.
 
-Other psychologists have suggested that it’s not just the role-playing part of D&D that helps with mental health issues, but also the rules and environments. In other words, it’s not just the stories we tell that can help us, but the act of playing the game itself that can provide more mental health benefits. The rules and mechanics of the game can actually reduce anxiety around the decisions we have to make in-game, and this builds familiarity with working with rules and social customs in the real world.
+Other psychologists have suggested that it’s not just the role-playing part of D&D that helps with mental health issues, but also the rules and environments. In other words, it’s not just the stories we tell that can help us, but the act of playing the game itself that can provide more mental health benefits. The rules and mechanics of the game can reduce anxiety around the decisions we have to make in-game, and this builds familiarity with working with rules and social customs in the real world.
 
 
 ## D&D outside of clinical settings has been shown to help general mental health and social skills
 
-D&D in clinical settings is really interesting, but most of us are not playing during our therapy appointments. Thankfully, the benefits of D&D outside of clinical settings have been studied too, and it was similarly shown to help players.
+D&D in clinical settings is interesting, but most of us are not playing during our therapy appointments. Thankfully, the benefits of D&D outside of clinical settings have been studied too, and it was similarly shown to help players.
 
 D&D is not just a game we play and leave at the table. A psychologist analyzed an online chat log of a 9-person D&D group over 3 years and found that the group members’ real-world emotional needs were being met through in-game interactions. As the group played, they learned how to work together toward a consensus, build and maintain friendships outside of the game, experience great things together, and explore what concepts of good and evil meant for the players.
 
-A similar study interviewed six players and found that playing the game helped them with social anxiety and allowed them to explore their own emotional issues in ways that weren’t really possible outside of the game. Five of the players were able to navigate through childhood trauma while playing D&D. The players experimented through their characters, which led to improved real-world social skills and better relationships, which helped them deal with stress.
+A similar study interviewed six players and found that playing the game helped them with social anxiety and allowed them to explore their own emotional issues in ways that weren’t possible outside of the game. Five of the players were able to navigate through childhood trauma while playing D&D. The players experimented with their characters, which led to improved real-world social skills and better relationships, which helped them deal with stress.
 
-Our characters are not just stats on a piece of paper. Another psychologist suggested that D&D characters aren’t random—they’re often well thought out pieces of ourselves. They exist independently, but our characters can be expressions of ourselves, helping us see ourselves succeed in ways that we might not be able to in the real world.
+Our characters are not just stats on a piece of paper. Another psychologist suggested that D&D characters aren’t random—they’re often well-thought-out pieces of ourselves. They exist independently, but our characters can be expressions of ourselves, helping us see ourselves succeed in ways that we might not be able to in the real world.
 
 
 ## D&D has been shown to assist in recovery from mental health issues

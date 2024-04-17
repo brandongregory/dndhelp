@@ -15,7 +15,7 @@ Watching forums and subreddits for Dungeons & Dragons and other table-top RPGs, 
 
 “One player’s random antics are derailing the adventure. How do I get them to stop?”
 
-“A power-gamer is dominating encounters. How do I get them to stop?”
+“A power gamer is dominating encounters. How do I get them to stop?”
 
 “A group of male players is disrespecting me, a female player. How do I get them to stop?”
 
@@ -25,11 +25,11 @@ Railroading players will not stop a player who is intentionally creating chaos.
 
 Nerfing the power gamer will not stop them from trying to dominate encounters, or it will destroy their fun.
 
-Punishing male player characters in game for sexual harassment will not stop the players from disrespecting a female player.
+Punishing male player characters in-game for sexual harassment will not stop the players from disrespecting a female player.
 
 [A video on clowning and DMing by Corkboards and Curiosities explains this succinctly.](https://www.youtube.com/shorts/EPTx8KjcW48) If a clown is not entertaining kids, they will find ways to entertain themselves using the clown; similarly, if a TTRPG game is not entertaining players, they will find ways to entertain themselves using the characters and setting—no matter how inappropriate that is for the table. If player characters are behaving in a way that the table does not like, there’s a mismatch in what the players and DM are looking for out of the game.
 
-Ideally, topics like this are all discussed in a [session zero](https://www.level1geek.com/dnd-session-0/), but that’s not foolproof. Some tables don’t really know how to conduct a session zero and are surprised to later find there are disagreements at the table. Even seasoned players will leave things out of a session zero. Whatever level of pre-campaign alignment you had, there may still be gaps and misunderstandings.
+Ideally, topics like this are all discussed in a [session zero](https://www.level1geek.com/dnd-session-0/), but that’s not foolproof. Some tables don’t know how to conduct a session zero and are surprised to later find there are disagreements at the table. Even seasoned players will leave things out of a session zero. Whatever level of pre-campaign alignment you had, there may still be gaps and misunderstandings.
 
 
 
@@ -48,13 +48,11 @@ If you’re a DM and you notice these problems, schedule some time to talk, but 
 
 Common mismatches of expectations include:
 
-
-
 * Theme of the game (i.e. intrigue, exploration, combat grind)
 * Level of seriousness (serious adventure vs wacky hijinks)
 * Morality (heroism vs villainy)
 * Intra-party conflict (PVP, stealing, charming, etc.)
-* Level of character optimization/powergaming
+* Level of character optimization/power gaming
 * Strictness when adhering to the rules
 * Openness to inviting new players into the group
 * Level of work expected outside of sessions
@@ -63,35 +61,31 @@ It can be hard to broach this topic sometimes because it feels like a confrontat
 
 So how do you initiate a conversation like this? Try something like these statements.
 
-
-
 * “Hey, there seem to be some different ideas about what kind of game we’re running. Can we talk about that?”
 * “We seem to have different goals in mind as we’re playing this game. Can we take a bit to get on the same page?”
 * “There are some differences in comfort level between some of us here. Let’s take a bit to make sure we’re all having fun.”
 
-Conflict can be hard to tackle head-on, but in a lot of cases, the instigating player or DM doesn’t know they’re causing problems. I say this as someone who has caused stress at my table—I was relieved when my group asked me to talk about it, and having that conversation improved the game for myself as much as anyone else.
+Conflict can be hard to tackle head-on, but in a lot of cases, the instigating player or DM doesn’t know they’re causing problems. I say this as someone who has caused stress at my table—I was relieved when my group asked me to talk about it, and having that conversation improved the game for me as much as anyone else.
 
-That said, there may be times when the mismatch is based in disrespect or causing one player to feel alienated and unsafe. In those cases, the conversation can be much different.
+That said, there may be times when the mismatch is based on disrespect or causing one player to feel alienated and unsafe. In those cases, the conversation can be much different.
 
 
 ## Safety and Mutual Respect Are Not Optional
 
 It’s one thing to disagree on the type of game you’re playing, but it’s another thing entirely to disagree with a player or even the entire table on how much respect a person deserves. If one player’s idea of fun involves harming other players or the DM, that is not OK. Issues of respect or safety should always be addressed, and they should be addressed directly, outside of the game.
 
-[Safety tools](https://slyflourish.com/safety_tools.html) are important to any table, regardless of how well they think they know each other. Even tables that stay away from controversial topics benefit from them. Safety tools don’t limit what you can do; they allow you to approach controversial content in a way that the table is comfortable with. You also may not know that one player’s abusive father had a tendency to abuse animals too, making animal abuse a much more dangerous topic than you thought.
+[Safety tools](https://slyflourish.com/safety_tools.html) are important to any table, regardless of how well they think they know each other. Even tables that stay away from controversial topics benefit from them. Safety tools don’t limit what you can do; they allow you to approach controversial content in a way that the table is comfortable with. You also may not know that one player’s abusive father tended to abuse animals too, making animal abuse a much more dangerous topic than you thought.
 
 Some players and DMs are shocked during gameplay to learn that others at their table are fine with graphic violence or sexual assault against NPCs, or even that some player characters are open to violent non-heroic solutions while others are trying to be the heroes. If your whole table is OK with those things, then this is fine, but the only way to know ahead of time is with safety tools. If the whole table is not OK with those things, then those topics should be off-limits.
 
 If the primary issue is disrespect, safety tools may not be enough. There are times when a player just doesn’t respect another player or the DM, and that can be detrimental to the game. Disrespectful players will often avoid and deflect accusations with common excuses.
-
-
 
 * “It’s what my character would do.” _This is a group activity, and if the group isn’t OK with what your character is doing, it’s time to roll a new character._
 * “I’m just trying to be realistic.” _This is a game. If you want realism, try doing those same things at work and see how it goes._
 * “It’s just fun for me.” _If it’s not fun for everyone, no one will get to play. If you want to play a game where you’re the only one having fun, go play Skyrim._
 * “You’re just being too sensitive.” _If you’re not willing to respect others at the table, you shouldn’t be playing here._
 
-While players absolutely can voice their concerns, having more confrontational conversations like this usually require the DM’s support. If the DM is the problem, it may take several players to bring the problem to them. Hopefully a quick conversation will be all you need to set things right and make sure everyone has fun, but unfortunately some people have a real problem owning up to their actions.
+While players absolutely can voice their concerns, having more confrontational conversations like this usually requires the DM’s support. If the DM is the problem, it may take several players to bring the problem to them. Hopefully, a quick conversation will be all you need to set things right and make sure everyone has fun, but unfortunately, some people have a real problem owning up to their actions.
 
 If it becomes clear, either before or after a conversation, that the table is not going to change and will keep disrespecting or endangering you, your best option is probably to leave the table. If your regular DnD or RPG sessions come with a sense of dread and anxiety, you are under no obligation to continue going. This may ruffle some feathers with friends and family, but the way people treat you at the table is often an early indicator of how they’ll treat you everywhere else, so setting boundaries early can prevent a lot of harm and drama down the road.
 
@@ -102,18 +96,16 @@ If the entire table seems to have a different idea than you of what kind of game
 
 This often becomes clear after having a conversation about expectations in-game. You may think that no one at your table wants to have an old-fashioned dungeon crawl like the DM is running, but be surprised to find out that everyone’s having fun except you. In situations like that, you have two options:
 
-
-
 1. Continue to play the type of game your table wants to play
 2. Move on to something else
 
-Neither of these options include convincing everyone at your table that you’re right and they need to change their minds. It could be that you play the dungeon crawl and request that the next campaign be something more roleplay-oriented—that’s fine. But launching a campaign of passive aggression and complaining will not fix anything.
+Neither of these options includes convincing everyone at your table that you’re right and they need to change their minds. It could be that you play the dungeon crawl and request that the next campaign be something more roleplay-oriented—that’s fine. But launching a campaign of passive aggression and complaining will not fix anything.
 
 This can be particularly difficult if you’re the DM. If you’re running a game and the players all want to play a different game, they’re going to play the game they want regardless of what you put in front of them. Adjusting the campaign to what the players want is going to make everyone, including the DM, happier and more engaged with the game.
 
 If you’ve begun with a wildly different idea of what kind of game you’re playing, that might mean taking a step back and picking a different adventure. If you’re trying to run an intrigue campaign and your players are ready to fight everyone you put in front of them, you’re setting yourself up for disappointment. It could be that the players need some guidance on what to do, but it could just be that the players want to play a different game than you had planned. In situations like that, you face the same two options above: you either play the type of game your table wants to play, or you move on to something else.
 
-The important thing to remember is that TTRPGs are a group activity, and that sometimes means compromise. Everyone is probably going to have things they like and dislike about the current campaign, and that’s fine. Trying to change the table’s mind on what you’re doing, though, should be approached with caution—if you really don’t like the kind of game that’s being played, don’t fight a losing battle trying to change it after everyone else has bought in.
+The important thing to remember is that TTRPGs are a group activity, and that sometimes means compromise. Everyone is probably going to have things they like and dislike about the current campaign, and that’s fine. Trying to change the table’s mind on what you’re doing, though, should be approached with caution—if you don’t like the kind of game that’s being played, don’t fight a losing battle trying to change it after everyone else has bought in.
 
 
 ## The Power of No
@@ -122,7 +114,7 @@ When the type of game and the expectations around it have been agreed upon by th
 
 If you’ve agreed to play a game full of scoundrels with chaotic or evil alignments but set the ground rule that players cannot take harmful actions against each other, what do you do if a player casually asks to steal another player’s possessions during a rest? If it’s already been determined that the table does not want that, it’s alright to say something like, “No, that’s not the kind of game we’re running. Do something else.”
 
-If you’ve gone through proper safety tools but stumble across something unexpected that triggers some traumatic memories for you, it’s alright to tell the party that what’s happening in-game is really affecting you out of game and you need to skip over this content. People are complicated and trauma even more so, so don’t feel guilty about saying no if something like this pops up. Even if it derails the whole campaign, safety is something that needs to be addressed.
+If you’ve gone through proper safety tools but stumble across something unexpected that triggers some traumatic memories for you, it’s alright to tell the party that what’s happening in-game is affecting you out of game and you need to skip over this content. People are complicated and trauma even more so, so don’t feel guilty about saying no if something like this pops up. Even if it derails the whole campaign, safety is something that needs to be addressed.
 
 If a player does something as a joke that you as the DM know is going to have massive campaign-ending (or player-killing) consequences, it’s alright to simply say, “No, that’s going to have serious consequences. Do something else.” The player may not have fully thought through their actions, or they may have done something they thought the other players would like but accidentally overstepped. In those cases, saying no is the best thing to keep the campaign going.
 
@@ -133,11 +125,11 @@ Saying no like this needs to come from a place of mutual agreement on the type o
 
 ## When to Part Ways
 
-If a player (or the DM) has expectations about the game that don’t match up with the rest of the table, and they can’t adjust their expectations to align with everyone else’s, it may be time to part ways. This can be a hard conversation to have, but it’s better than lingering disappointment that comes out in every session. If someone just isn’t a fit for the table but there seems to be no movement—for example, they keep requesting that things change, but it’s clear that nothing is going to change—it’s usually better to remove that person from the group than to try to manage constant conflict.
+If a player (or the DM) has expectations about the game that don’t match up with the rest of the table, and they can’t adjust their expectations to align with everyone else’s, it may be time to part ways. This can be a hard conversation to have, but it’s better than the lingering disappointment that comes out in every session. If someone just isn’t a fit for the table but there seems to be no movement—for example, they keep requesting that things change, but it’s clear that nothing is going to change—it’s usually better to remove that person from the group than to try to manage constant conflict.
 
-Ideally, this is done after all options above have been exhausted, but let’s be honest: sometimes it’s immediately clear that a person doesn’t fit with the group and conversations won’t fix it. There’s definitely value in trying to reset expectations through conversation, but sometimes a no is a hard no.
+Ideally, this is done after all options above have been exhausted, but let’s be honest: sometimes it’s immediately clear that a person doesn’t fit with the group and conversations won’t fix it. There’s value in trying to reset expectations through conversation, but sometimes a no is a hard no.
 
-Confrontation is hard, but when it’s clear to both parties that one person’s discontent is not going to get any better, the choice can actually be mutual. Try saying something like this:
+Confrontation is hard, but when it’s clear to both parties that one person’s discontent is not going to get any better, the choice can be mutual. Try saying something like this:
 
 “It seems you’re unhappy with this. The table has aligned on this, though, and it won’t be changing. Do you want to stay with the group as it is, knowing this won’t change, or do you want to move on to something else?”
 
