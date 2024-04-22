@@ -38,7 +38,7 @@ Mending is flavorful, and if it sounds fun to you, you’ll probably find some u
 
 ## 13. Create Bonfire
 
-Create Bonfire is pretty widely available to the Artificer, Druid, Sorcerer, Warlock, and Wizard classes. It can be useful for starting bonfires (of course), but also functions as a decent low-level area control spell. If you block an exit with a bonfire, characters will have to think twice about jumping through the flames to escape. Higher-level foes probably won’t mind it, so this can actually be more useful when controlling crowds of non-combatants.
+Create Bonfire is pretty widely available to the Artificer, Druid, Sorcerer, Warlock, and Wizard classes. It can be useful for starting bonfires (of course), but also functions as a decent low-level area control spell. If you block an exit with a bonfire, characters will have to think twice about jumping through the flames to escape. Higher-level foes probably won’t mind it, so this can be more useful when controlling crowds of non-combatants.
 
 While limited in use, Create Bonfire is notably one of the only cantrips available for keeping people out of a certain area, and it gains some points for that.
 
@@ -57,18 +57,18 @@ Need a quick camping spot where you won’t be spotted by enemies? How about som
 
 ## 10. Acid Splash
 
-Acid Splash is available to Artificers, Sorcerers, and Wizards. This can be used as a damage cantrip that can hit 2 foes who are next to each other, but it’s also very useful for utility purposes. Lots of things can be burned through—small locks, ropes, planks of wood, and much more. If you start thinking about things that acid can burn through, there are a ton of uses for this.
+Acid Splash is available to Artificers, Sorcerers, and Wizards. This can be used as a damage cantrip that can hit 2 foes who are next to each other, but it’s also useful for utility purposes. Lots of things can be burned through—small locks, ropes, planks of wood, and much more. If you start thinking about things that acid can burn through, there are a ton of uses for this.
 
 
 ## 9. Dancing Lights
 
-Dancing Lights is available to the Artificer, Bard, Sorcerer, and Wizard classes. It’s often regarded as a poor choice, but it does have some very useful applications.
+Dancing Lights is available to the Artificer, Bard, Sorcerer, and Wizard classes. It’s often regarded as a poor choice, but it does have some useful applications.
 
 The most immediate problem this solves is that of darkness. Even for characters with darkvision, total darkness means your Perception checks are made with disadvantage. But other cantrips solve this problem better and don’t require your concentration—a vital consideration for spellcasters.
 
-Where this cantrip really shines is lighting up areas of the battlefield while leaving you and your allies shrouded in darkness. If you’re in darkness and your foes don’t have darkvision, this means that they can’t see you, so they have disadvantage to hit you and you have advantage to hit them.
+Where this cantrip shines is lighting up areas of the battlefield while leaving you and your allies shrouded in darkness. If you’re in darkness and your foes don’t have darkvision, this means that they can’t see you, so they have disadvantage to hit you and you have advantage to hit them.
 
-As mentioned, concentration is a hot commodity for spellcasters and there are honestly many better options than this for most casters. So the best characters to take this are actually non-casters who don’t have a lot of other uses for their concentration. A Fighter archer who takes the Magic Initiate feat to get this cantrip can find it extremely useful, even while a Bard or Wizard might not.
+As mentioned, concentration is a hot commodity for spellcasters and there are honestly many better options than this for most casters. So the best characters to take this are non-casters who don’t have a lot of other uses for their concentration. A Fighter archer who takes the Magic Initiate feat to get this cantrip can find it extremely useful, even while a Bard or Wizard might not.
 
 
 ## 8. Minor Illusion
@@ -84,7 +84,7 @@ This spell is pretty much mandatory for trickster characters, but less tricky ca
 
 ## 7. Message
 
-The Message cantrip is available to the Artificer, Bard, Sorcerer, and Wizard classes. A key difference between this and similar leveled spells is that you have to whisper for your Message to be heard. The target can reply once, also by whispering. If you’re being watched, you may be discovered using this spell. But for most applications, Message is a great option for solving a very common problem.
+The Message cantrip is available to the Artificer, Bard, Sorcerer, and Wizard classes. A key difference between this and similar leveled spells is that you have to whisper for your Message to be heard. The target can reply once, also by whispering. If you’re being watched, you may be discovered using this spell. But for most applications, Message is a great option for solving a common problem.
 
 
 ## 6. Produce Flame
@@ -96,7 +96,7 @@ Produce Flame is a Druid exclusive. Even for characters with darkvision, having 
 
 Shape Water is available to Druids, Sorcerers, and Wizards. Water is abundant, and being able to manipulate it is useful.
 
-People often talk about using Shape Water to open locks by pouring water into a lock and then freezing it. Water expands when it freezes, so it will break the inside of a lock. (I saw this on an episode of Macgyver.) Beware that it’s up to the DM whether this will work or not—and if it doesn’t work, you might be stuck with a broken lock that now can’t be picked. A great way to use this with locks is actually freezing water over and inside the lock so that other people can’t open it with a key or lockpicks, slowing them down considerably.
+People often talk about using Shape Water to open locks by pouring water into a lock and then freezing it. Water expands when it freezes, so it will break the inside of a lock. (I saw this on an episode of Macgyver.) Beware that it’s up to the DM whether this will work or not—and if it doesn’t work, you might be stuck with a broken lock that now can’t be picked. A great way to use this with locks is freezing water over and inside the lock so that other people can’t open it with a key or lockpicks, slowing them down considerably.
 
 This cantrip allows you to freeze water in a 5-foot cube, which can be extremely potent. Freeze a 5-foot cube of water, then drop it on someone. Fill a small area with water, then when someone runs through it, freeze the water, trapping their feet. You might even be able to freeze water into a sharp point, allowing for a single-use dagger.
 
@@ -114,7 +114,7 @@ You might be asking why this cantrip has a saving throw. It’s because you can 
 
 There’s a hot debate as to which of these is the most useful. These are similar enough to talk about together, but each of them is slightly different and can be useful in different situations. It might not matter, though, because no class has access to all 3—the choice of which to use is often made by your choice of class.
 
-Prestidigitation is probably the most straightforward of the 3 and is available to the Artificer, Bard, Sorcerer, Warlock, and Wizard classes. If you can think of a small magical effect, chances are it can be accomplished with Prestidigitation. It can notably light or extinguish flames within range, which has a myriad of uses. It has a few niche uses, like flavoring food or drink, cleaning clothing, or even soiling someone else’s pants. Prestidigitation has the widest application of the 3 and can be used on things up to 10 feet away, making it really useful for trickster characters, but also broadly useful by just about anyone.
+Prestidigitation is probably the most straightforward of the 3 and is available to the Artificer, Bard, Sorcerer, Warlock, and Wizard classes. If you can think of a small magical effect, chances are it can be accomplished with Prestidigitation. It can notably light or extinguish flames within range, which has a myriad of uses. It has a few niche uses, like flavoring food or drink, cleaning clothing, or even soiling someone else’s pants. Prestidigitation has the widest application of the 3 and can be used on things up to 10 feet away, making it useful for trickster characters, but also broadly useful by just about anyone.
 
 Druidcraft is a Druid exclusive that’s more limited in use but has a few perks. It can also be used to light or extinguish flames, but unlike Prestidigitation, it has a 30-foot range, which means that Druidcraft can be used more effectively in battle. Throw some oil down on the ground and place a torch in the middle—you can ignite it from 30 feet away. If you’re trying to ambush an enemy party, you can extinguish their campfire or torches, making it harder for them to spot you. Druidcraft also has a unique ability to predict the weather, which may or may not be useful in your game depending on how much you’re using weather effects.
 
@@ -127,7 +127,7 @@ The only time you need to think about which one of these to choose is when you�
 
 Mage Hand is pretty widely available to Artificers, Bards, Sorcerers, Warlocks, and Wizards. There are a lot of situations where you either can’t reach something or don’t want to stick your hand in something. Mage Hand can be useful for picking up the keys to your jail cell, holding a bucket above a door, checking for traps, or doing something like pulling two levers at the same time.
 
-Some feats or classes allow you to make your Mage Hand invisible: the Telekinetic feat, and the Arcane Trickster subclass for Rogue. Having an invisible Mage Hand is extremely useful and allows for some very creative applications.
+Some feats or classes allow you to make your Mage Hand invisible: the Telekinetic feat, and the Arcane Trickster subclass for Rogue. Having an invisible Mage Hand is extremely useful and allows for some creative applications.
 
 
 ## 1. Guidance

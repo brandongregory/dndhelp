@@ -46,7 +46,7 @@ Beyond all that, the main reason to use slings is simply for flavor. Halflings i
 
 The easiest way to make a sling work is to give it to a Monk. Any Monk can use a sling, as it is a simple weapon, and Monks can make it scale with their martial arts die by choosing it as a dedicated weapon, increasing the damage to keep it competitive with other ranged weapons. Choosing to use a sling as your primary weapon, though, can be difficult, as a good portion of the Monk’s damage comes from bonus action attacks, which you’d be missing out on if you only attacked with a sling.
 
-The Kensei Monk alleviates a lot of those problems. [Kensei Monks make great archers](/5e-build-guides/archer-builds/), and using a sling instead of a bow isn’t much different. It actually has more synergy with the Monk overall if you take the Crusher feat, as this will also apply to your unarmed attacks if you get stuck in melee. The additional movement speed from the Monk class is useful to any ranged character.
+The Kensei Monk alleviates a lot of those problems. [Kensei Monks make great archers](/5e-build-guides/archer-builds/), and using a sling instead of a bow isn’t much different. It has more synergy with the Monk overall if you take the Crusher feat, as this will also apply to your unarmed attacks if you get stuck in melee. The additional movement speed from the Monk class is useful to any ranged character.
 
 To make a slinger Kensei Monk, choose the sling as one of your Kensei weapons at level 3. Another level 3 feature you get is Kensei’s Shot, which allows you to use your bonus action to boost damage for ranged attacks you make on that turn. This is notably a free bonus action that does not cost ki points.
 
@@ -54,7 +54,7 @@ When you get to 5th level, some optional Monk features from _Tasha’s Cauldron 
 
 At level 6, you get some additional Kensei features that will make you more deadly. If you don’t already have a magic weapon, Magic Kensei Weapons makes any Kensei weapon you have into a magic weapon, which helps to get around non-magical damage immunity that many creatures at this level have. You also gain Deft Strike, which enables you to use a ki point to boost the damage on one of your attacks that turn. With this ability, you can forgo the Kensei’s Shot feature and instead use the optional feature Ki-Fueled Attack, which enables you to make an additional attack using a Monk weapon on your bonus action. You can burn through ki pretty quickly doing this, but it’s a great way to significantly boost your damage in crucial moments, such as boss battles.
 
-The Kensei features you get at levels 11 and 17 apply to this build and can be impactful, but it might also be useful to switch over to Fighter or Ranger for a level or two to pick up the Archery fighting style, which gives a flat bonus to attack rolls with ranged weapons. This, combined with the Sharpshooter feat and your ability to boost attack rolls using ki points, makes you a very dangerous slinger.
+The Kensei features you get at levels 11 and 17 apply to this build and can be impactful, but it might also be useful to switch over to Fighter or Ranger for a level or two to pick up the Archery fighting style, which gives a flat bonus to attack rolls with ranged weapons. This, combined with the Sharpshooter feat and your ability to boost attack rolls using ki points, makes you a deadly slinger.
 
 
 ## <a name="Slinger-Ranger"></a>Slinger Ranger

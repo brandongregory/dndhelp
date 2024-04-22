@@ -66,7 +66,7 @@ High-Intelligence characters in pop culture include:
 
 A character with high Intelligence and low Wisdom is going to be very smart, but lacking in awareness. They may be so absorbed in the problems they’re solving that they don’t notice what’s going on around them, or so locked into a plan that they don’t realize when they have to improvise because things have gone wrong. They may also show naivete when dealing with real-life situations instead of academics or books.
 
-These characters are sometimes portrayed as lacking in common sense, but they can just as easily be very intelligent characters that just get lost in thought. A great example of the latter is **Mordin Solus from the _Mass Effect_ series**. When he starts theorizing, he completely ignores everything around him and often needs to be pulled out of his thoughts back into the present. When confronted with a complex moral quandary, he takes a purely logical route and acts surprised when his colleague takes a more practical approach. Part of his growth is realizing that logic isn’t everything and some of the hard logical conclusions he arrived at may need to be re-examined.
+These characters are sometimes portrayed as lacking in common sense, but they can just as easily be intelligent characters that just get lost in thought. A great example of the latter is **Mordin Solus from the _Mass Effect_ series**. When he starts theorizing, he completely ignores everything around him and often needs to be pulled out of his thoughts back into the present. When confronted with a complex moral quandary, he takes a purely logical route and acts surprised when his colleague takes a more practical approach. Part of his growth is realizing that logic isn’t everything and some of the hard logical conclusions he arrived at may need to be re-examined.
 
 Another angle would be a smart character that lacks self-awareness—someone who believes that their intelligence will win out in all circumstances, and believes that a high-Wisdom character will fail to thwart their superior intellect. Characters like this have an ego problem, which gives an easy hook to character development and flaws.
 
@@ -123,7 +123,7 @@ A great example of this is **Daryl Dixon from _The Walking Dead_**. He’s less 
 
 A more extreme example would be a character who genuinely has trouble following established plans or complicated lines of thought but is a genius when it comes to battlefield tactics. Characters like this run hot and cold, at times being frustrating due to their tendency to act outside the plan, while at other times saving the day because they’re able to adapt to unexpected scenarios with surprising mental agility.
 
-An example of this more extreme version would be **Monkey D. Luffy from the anime _One Piece_**. He is not only unlikely to follow a plan, but many times is simply unable to, being confused by complex plans and ignoring anything that requires critical thinking. But on the battlefield, his skill against opponents is unmatched. While he has trouble recognizing his intellectual weaknesses, he very quickly picks up on his weaknesses in combat, and that becomes the driving force behind much of his character development.
+An example of this more extreme version would be **Monkey D. Luffy from the anime _One Piece_**. He is not only unlikely to follow a plan, but many times is simply unable to, being confused by complex plans and ignoring anything that requires critical thinking. But on the battlefield, his skill against opponents is unmatched. While he has trouble recognizing his intellectual weaknesses, he quickly picks up on his weaknesses in combat, and that becomes the driving force behind much of his character development.
 
 ### High Wisdom, Low Charisma
 
@@ -135,7 +135,7 @@ A great example of this type of character is Sandor Clegane, better known as **T
 
 Sometimes low Charisma isn’t a problem for a character so much as it’s just not something they rely on. These characters aren’t great in social situations, but rather than let that be a handicap, they just play to their strengths and focus on what they’re good at.
 
-An example of this more nuanced type of character would be **Rei from _Star Wars_**. Rei is not winning any awards for her personality or social skills, but it hardly matters—people realize very quickly that she’s great at doing things her way and they follow her because she gets results, not because she wins people over with charisma. In many ways, this is exactly how a high-Wisdom character would behave with this skill set.
+An example of this more nuanced type of character would be **Rei from _Star Wars_**. Rei is not winning any awards for her personality or social skills, but it hardly matters—people realize quickly that she’s great at doing things her way and they follow her because she gets results, not because she wins people over with charisma. In many ways, this is exactly how a high-Wisdom character would behave with this skill set.
 
 ## <a name="Charisma"></a>Charisma
 
@@ -145,7 +145,7 @@ Charisma stats are entirely social and include Deception, Intimidation, Performa
 
 A high-Charisma character is going to jump in quickly to handle disagreements and calm things down when people are riled up. They know how to make introductions and win favor, and are typically generous with the people around them (or, at least, the people they want to garner favor with). They’ll rarely get flustered in a social situation and will often try to talk their way out of tense situations. It’s up in the air whether it’s better to be loved or feared, but high-Charisma characters will definitely try for one of those.
 
-Low-Charisma characters are generally bad at getting other people to listen to what they have to say. This can sometimes mean they’re simply unlikeable, but it’s more likely to mean that they’re simply pushovers whom others don’t really listen to, or even invisible in most social situations.
+Low-Charisma characters are generally bad at getting other people to listen to what they have to say. This can sometimes mean they’re simply unlikeable, but it’s more likely that they’re simply pushovers whom others don’t listen to, or even invisible in most social situations.
 
 Classes likely to have a high Charisma include:
 
@@ -169,11 +169,11 @@ High-Charisma characters from pop culture include:
 
 ### High Charisma, Low Intelligence
 
-A character with high Charisma and low Intelligence is your stereotypical jock. They’re very confident, and that confidence shines through in everything they do, but thinking just isn’t their strong suit.
+A character with high Charisma and low Intelligence is your stereotypical jock. They’re confident, and that confidence shines through in everything they do, but thinking just isn’t their strong suit.
 
 Sometimes you can go for a straightforward approach to this combination. An example of this would be **Steve Harris, from _Stranger Things_**. Steve is charming and popular, and he knows what he’s good at, but he’s also aware that he’s not as smart as his friends and defers to them in matters of intellectual thought. His friends occasionally poke fun at him for his less-than-intellectual approach to things, but he always comes through for his friends when they’re in danger.
 
-Sometimes this type of character can be very far from your stereotypical jock, however, being more of a loveable doofus that people like to be around and follow, even if they’re not the brightest. Characters like this are often the heart of their parties and get along very well with other party members, and even enemies.
+Sometimes this type of character can be far from your stereotypical jock, however, being more of a loveable doofus that people like to be around and follow, even if they’re not the brightest. Characters like this are often the heart of their parties and get along very well with other party members, and even enemies.
 
 An example of this type of character is **Hurley Reyes from _Lost_**. Hurley was initially a smaller character in the show, but his popularity with fans and his ability to connect with any other character on the show made him one of the longest-lasting characters. In that time, he showed a fierce determination to accomplish his goals even despite physical limitations, and he showed his ability to win people over, being one of the first outsiders to gain the trust of Benjamin Linus.
 
@@ -191,7 +191,7 @@ A good example of this type of character would be **Princess Jasmine from Disney
 
 Not necessarily. If you have a good plan as a player, a low-Intelligence character shouldn’t be banned from talking about it (unless you want to). The random nature of rolls also means that a low-Charisma character might roll higher than the bard on a persuasion check.
 
-Low stats can be fun to roleplay, though. When creating my monk Sha’Ivae, I intentionally gave him a really low Charisma score (6), and it’s been fun roleplaying his hilariously incompetent attempts at persuasion. I highly suggest anyone, when creating a character, give thought not only to what they’re good at, but also to what they’re really bad at. Those moments can be very memorable.
+Low stats can be fun to roleplay, though. When creating my monk Sha’Ivae, I intentionally gave him a really low Charisma score (6), and it’s been fun roleplaying his hilariously incompetent attempts at persuasion. I highly suggest anyone, when creating a character, give thought not only to what they’re good at, but also to what they’re bad at. Those moments can be memorable.
 
 ## <a name="Are-Any-Better"></a>Are Any of These Better Than Others?
 

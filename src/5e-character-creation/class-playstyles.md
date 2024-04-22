@@ -39,7 +39,7 @@ This page gives a basic overview of what each class does and how it plays. It's 
 
 ## <a name="Artificer"></a>Artificer
 
-Artificers are a diverse half-caster class, and the biggest thing they bring to the table is versatility. They get a lot of [utility magic](/5e-build-guides/utility-cantrips-ranked/) and tool proficiencies, and their subclasses allow them to fill a variety of roles. Depending on subclass choice, they can play reasonably well as [support characters](/5e-build-guides/support-caster-builds/), [tanks](/5e-build-guides/tank-builds/), [ranged blasters](/5e-build-guides/blaster-caster-builds/), or frontline strikers. As high-intelligence characters, Artificers are skilled investigators and also often serve as a source of knowledge in many areas: magic, history, religion, or nature. They also gain the ability to create magic items which can be used either by them or other party members, which can make them more powerful, but can also give them more versatility, such as pulling out a cap that allows them to breathe underwater when no one else in the party is prepared to go diving.
+Artificers are a diverse half-caster class, and the biggest thing they bring to the table is versatility. They get a lot of [utility magic](/5e-build-guides/utility-cantrips-ranked/) and tool proficiencies, and their subclasses allow them to fill a variety of roles. Depending on subclass choice, they can play reasonably well as [support characters](/5e-build-guides/support-caster-builds/), [tanks](/5e-build-guides/tank-builds/), [ranged blasters](/5e-build-guides/blaster-caster-builds/), or frontline strikers. As high-intelligence characters, Artificers are skilled investigators and also often serve as a source of knowledge in many areas: magic, history, religion, or nature. They also gain the ability to create magic items that can be used either by them or other party members, which can make them more powerful, but can also give them more versatility, such as pulling out a cap that allows them to breathe underwater when no one else in the party is prepared to go diving.
 
 Primary Stat: [Intelligence](/5e-character-creation/mental-stats-compared/#Intelligence)
 
@@ -70,7 +70,7 @@ Difficulty: ★☆☆☆☆
 
 ## <a name="Bard"></a>Bard
 
-Bards are the quintessential jacks of all trades and are able to fill a wide variety of roles, reminiscent of the old red mages of Final Fantasy games. They’re full casters and get good [support](/5e-build-guides/support-caster-builds/) and [control](/5e-build-guides/control-caster-builds/) options, but they can wear light armor and fight with weapons when needed. They get a lot of skill proficiencies and can fill any gaps in the party’s array of skills. Bards also have a lot of options for making the entire party stronger, making any ally more effective at what they do. As high-charisma characters, bards are notoriously strong social characters and natural performers.
+Bards are the quintessential jacks of all trades and can fill a wide variety of roles, reminiscent of the old red mages of Final Fantasy games. They’re full casters and get good [support](/5e-build-guides/support-caster-builds/) and [control](/5e-build-guides/control-caster-builds/) options, but they can wear light armor and fight with weapons when needed. They get a lot of skill proficiencies and can fill any gaps in the party’s array of skills. Bards also have a lot of options for making the entire party stronger, making any ally more effective at what they do. As high-charisma characters, bards are notoriously strong social characters and natural performers.
 
 Primary Stat: [Charisma](/5e-character-creation/mental-stats-compared/#Charisma)
 
@@ -85,7 +85,7 @@ Difficulty: ★★★★☆
 
 ## <a name="Cleric"></a>Cleric
 
-Clerics are full casters who wear armor, making them much more durable than most other spellcasters, and they actually do quite well on the front lines of combat. They have the best [support magic](/5e-build-guides/support-caster-builds/), but a wide variety of subclasses allows them to serve just about any role on the battlefield, from [ranged blaster](/5e-build-guides/blaster-caster-builds/) to frontline warrior to trickster illusionist and even mind reader. They can also absolutely destroy undead monsters, which is nice flavor which comes in handy from time to time. Clerics gain their powers from a god, and there are a wide variety of gods to choose from, making many different character concepts possible.
+Clerics are full casters who wear armor, making them much more durable than most other spellcasters, and they do well on the front lines of combat. They have the best [support magic](/5e-build-guides/support-caster-builds/), but a wide variety of subclasses allows them to serve just about any role on the battlefield, from [ranged blaster](/5e-build-guides/blaster-caster-builds/) to frontline warrior to trickster illusionist and even mind reader. They can also absolutely destroy undead monsters, which is nice flavor which comes in handy from time to time. Clerics gain their powers from a god, and there are a wide variety of gods to choose from, making many different character concepts possible.
 
 Primary Stat: [Wisdom](/5e-character-creation/mental-stats-compared/#Wisdom)
 
@@ -94,7 +94,7 @@ Difficulty: ★★★☆☆
 ### Pop Culture Examples of Clerics
 
 - [Melisandre from _Game of Thrones_](https://www.youtube.com/watch?v=QTwc-jg5fMI) - Proof that Clerics are under no obligation to be nice, this Cleric of the Light Domain is as deadly as she is devout.
-- [Pike Trickfoot from _The Legend of Vox Machina_](https://youtu.be/oeRxeWIOjAI?t=120) - This one is almost cheating, since Pike is actually a Dungeons & Dragons Cleric, but she's a great example.
+- [Pike Trickfoot from _The Legend of Vox Machina_](https://youtu.be/oeRxeWIOjAI?t=120) - This one is almost cheating, since Pike is a Dungeons & Dragons Cleric, but she's a great example.
 - [Yuna from _Final Fantasy X_](https://www.youtube.com/watch?v=WgVnds4gW3s) - Though she's also a [summoner](/5e-build-guides/summoner-builds/), Yuna is the party's white mage and works tirelessly to send the dead into the afterlife, making her a great example of a Grave Cleric.
 - [Rosa Joanna Farrell from _Final Fantasy IV_](/dnd-in-pop-culture/final-fantasy/ff4-rosa/) - For those who have played pretty much any Final Fantasy game, white mages are almost always Clerics, but Rosa's skills as an archer are a good fit for the War Domain.
 
@@ -165,7 +165,7 @@ Difficulty: ★★☆☆☆
 
 ## <a name="Ranger"></a>Ranger
 
-Rangers are nature-themed half-casters who use their magic mostly to enhance their own attacks. They make excellent [archers](/5e-build-guides/archer-builds/), but melee builds are also possible. They typically have a high Wisdom score, making them excellent at scouting and tracking, and have some of the Druid flavor while still having a strong martial striking ability. The biggest reason to play a Ranger, though, is just because you want to play a Ranger—they’re very flavorful, and no other class really captures the idea of a hunter tracking their prey through the woods like this class. They also get along really well with animals.
+Rangers are nature-themed half-casters who use their magic mostly to enhance their own attacks. They make excellent [archers](/5e-build-guides/archer-builds/), but melee builds are also possible. They typically have a high Wisdom score, making them excellent at scouting and tracking, and have some of the Druid flavor while still having a strong martial striking ability. The biggest reason to play a Ranger, though, is just because you want to play a Ranger—they’re very flavorful, and no other class really captures the idea of a hunter tracking their prey through the woods like this class. They also get along well with animals.
 
 Primary Stat: [Strength or Dexterity](/5e-character-creation/dexterity-vs-strength-builds/), and [Wisdom](/5e-character-creation/mental-stats-compared/#Wisdom)
 

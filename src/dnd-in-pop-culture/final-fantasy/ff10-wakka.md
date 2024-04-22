@@ -28,7 +28,7 @@ In Final Fantasy X, Wakka is as essential as characters come—he’s a powerful
 
 ## Picking a Class and Subclass
 
-Mechanically, Wakka has a few things he does really well. He’s a [ranged attacker](/5e-build-guides/archer-builds/) who hits like a truck and rarely misses. He’s also a debuffer, being able to easily inflict blindness and silence on enemies or take them out of the fight for a brief time. Thematically, Wakka doesn’t have a high Intelligence, and he’s always being bossed around by others, showing a lower Charisma, but he’s amazing at knowing what to do in the moment, pointing toward a higher Wisdom. 
+Mechanically, Wakka has a few things he excels at. He’s a [ranged attacker](/5e-build-guides/archer-builds/) who hits like a truck and rarely misses. He’s also a debuffer, being able to easily inflict blindness and silence on enemies or take them out of the fight for a brief time. Thematically, Wakka doesn’t have a high Intelligence, and he’s always being bossed around by others, showing a lower Charisma, but he’s amazing at knowing what to do in the moment, pointing toward a higher Wisdom. 
 
 All of this points to Wakka being a **Ranger**. While Rangers can be competent melee characters, their skills with a bow are what they’re known for, and they do great damage. Wakka’s skills as a debuffer can be accomplished with some of the Ranger spells like Fog Cloud and Silence (great analogies for the Darkness and Silence conditions in FFX), along with some other spells like Ensnaring Strike, Plant Growth, and Wind Wall (some of which require a higher Wisdom, so be aware of that when building the character). Wakka’s high accuracy can be accomplished by giving him the Archery fighting style.
 
@@ -41,7 +41,7 @@ If you want to complete Wakka’s trifecta of debuffs with the Sleep spell, it�
 
 ## Picking a Race
 
-Wakka doesn’t really have a lot of abilities that his class and subclass don’t already cover, so there’s little need to get more features from a race. This gives us some flexibility in what race to choose without any clear winners. Story-wise, Wakka would probably be a **Human**, but there aren’t a lot of races in Final Fantasy X, so an argument could be made for many other options.
+Wakka doesn’t have a lot of abilities that his class and subclass don’t already cover, so there’s little need to get more features from a race. This gives us some flexibility in what race to choose without any clear winners. Story-wise, Wakka would probably be a **Human**, but there aren’t a lot of races in Final Fantasy X, so an argument could be made for many other options.
 
 **Hill Dwarf** could be useful because of its extra hit point on each level, playing into Wakka’s high survivability. Go with the custom origin and move the stat point in Wisdom to Dexterity, as it’s more beneficial and thematic for this build.
 
@@ -56,7 +56,7 @@ If you don’t want to be a professional athlete, Wakka is also a small-town boy
 
 Wakka is definitely a good-aligned character and remains that way throughout the story, but his position on the lawfulness scale changes as he grows. He begins as a very lawful character, even to a fault. He knows what’s good, but will go with what’s lawful most of the time, especially if the command is coming from the church. A big part of his character growth is learning to think for himself and make decisions for good even when they contradict with lawfulness, so by the end of the story, he’s moved to a Neutral Good alignment.
 
-Wakka is a simple man. He looks for the simplest and most efficient solution to a problem and rushes in to do it. This actually makes him great at solving problems as long as they’re not complex puzzles. His religious inclination makes an interesting base for a Ranger—he’s embedded in the system and trusts it implicitly, even when he doesn’t fully understand it. This can make him an interesting foil for a Cleric, or for a character that has little regard for the laws of society. Mechanically, though, a character based on Wakka works very well and would be a fantastic asset to any party—particularly one that explores outdoors and ventures out of the city areas.
+Wakka is a simple man. He looks for the simplest and most efficient solution to a problem and rushes in to do it. This makes him great at solving problems as long as they’re not complex puzzles. His religious inclination makes an interesting base for a Ranger—he’s embedded in the system and trusts it implicitly, even when he doesn’t fully understand it. This can make him an interesting foil for a Cleric, or for a character that has little regard for the laws of society. Mechanically, though, a character based on Wakka works well and would be a fantastic asset to any party—particularly one that explores outdoors and ventures out of the city areas.
 
 
 ## Wakka Character Sheet

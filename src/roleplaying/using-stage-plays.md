@@ -90,7 +90,7 @@ _Note: These plays contain references to locations from the Forgotten Realms set
 
 ### The Dirtiest Dwarf of Citadel Adbar
 
-A dwarven play by playwright Marma Munhenn, this comedy of manners (term used loosely) examines dwarven gender norms and culture. Bylnas Strongodor is the dirtiest woman in Citadel Adbar, with a stench so foul she’s kept suitors away for decades. Her mother delivers an ultimatum: find a husband or be cast out of the mining caste. Will Bylnas be able to make herself desirable to suitors? Or will she find a suitor willing to overlook her hygiene? This play holds the record for the most fart jokes in a single play by a very wide margin.
+A dwarven play by playwright Marma Munhenn, this comedy of manners (term used loosely) examines dwarven gender norms and culture. Bylnas Strongodor is the dirtiest woman in Citadel Adbar, with a stench so foul she’s kept suitors away for decades. Her mother delivers an ultimatum: find a husband or be cast out of the mining caste. Will Bylnas be able to make herself desirable to suitors? Or will she find a suitor willing to overlook her hygiene? This play holds the record for the most fart jokes in a single play by a wide margin.
 
 **Using this play** – This requires a certain sense of humor, but if your table is into that, this can be a perfect play for participation. Constitution checks might be required to stand close to Bylnas. The play could also be used as a cover for an activity that might generate a certain smell.
 

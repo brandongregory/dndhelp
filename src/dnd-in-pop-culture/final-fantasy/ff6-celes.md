@@ -23,7 +23,7 @@ parent2:
   class="tiny-hero"
   height="360" width="360" />
 
-Much more than some opera floozy, Celes was a general in the Gestahlian Empire who defected and joined the resistance. Much like other leading lady Terra Branford, Celes has pretty solid fighting abilities, is able to equip most weapons and wear most armor, but is also one of the few characters in the game to learn magic naturally. Her Runic Blade ability allows her to nullify harmful spells cast against the party, making her invaluable when facing enemy mages. This concept actually has a pretty similar build in DnD, so read on!
+Much more than some opera floozy, Celes was a general in the Gestahlian Empire who defected and joined the resistance. Much like other leading lady Terra Branford, Celes has pretty solid fighting abilities, is able to equip most weapons and wear most armor, but is also one of the few characters in the game to learn magic naturally. Her Runic Blade ability allows her to nullify harmful spells cast against the party, making her invaluable when facing enemy mages. This concept has a pretty similar build in DnD, so read on!
 
 
 ## Picking a Class and Subclass
@@ -48,7 +48,7 @@ If you want something to tie in more closely with the Oath of the Ancients, an e
 
 If you’re trying to re-create Celes, the Soldier background is the best fit. Just like with the race, this can vary quite a bit if you want to play a character that was plucked out of her home and trained as a weapon of war, but the Soldier background is the most faithful adaptation of her story.
 
-Her alignment is actually the main source of her inner conflict. She’s a hard Lawful Good and really sees herself as both right up until shortly before we meet her in the game. The conflict comes when Lawful and Good are no longer compatible in her life—she can choose to be loyal to a tyrannical empire, or good in spite of her orders. As she was arrested for treason, she was still trying to reconcile these two parts of herself, and she struggles with this throughout the first half of the game.
+Her alignment is the main source of her inner conflict. She’s a hard Lawful Good and sees herself as both right up until shortly before we meet her in the game. The conflict comes when Lawful and Good are no longer compatible in her life—she can choose to be loyal to a tyrannical empire, or good in spite of her orders. As she was arrested for treason, she was still trying to reconcile these two parts of herself, and she struggles with this throughout the first half of the game.
 
 This conflict turns into crisis in the beginning of the second half of the game, when this inner turmoil is so intense and irreconcilable that Celes tries to take her own life. She feels guilty for being disloyal, and also for her loyalty being evil and causing so much destruction. It’s only when both law and goodness are seemingly taken from her that she’s able to reconcile the two and dedicate herself a higher sense of lawfulness that serves the common good—she seeks to establish new laws and systems that benefit all of society.
 

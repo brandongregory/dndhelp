@@ -24,6 +24,6 @@ For all its faults, _Dragon Age 2_ had a great cast of characters with real chem
 
 ## Dragon Age: Inquisition
 
-The Dragon Age series has always been great, but Inquisition brought things to a new level with intricate quests, huge maps, and fascinating and deep characters. Companion characters felt more alive and real than they ever had, and many of them work really well as DnD characters.
+The Dragon Age series has always been great, but Inquisition brought things to a new level with intricate quests, huge maps, and fascinating and deep characters. Companion characters felt more alive and real than they ever had, and many of them work well as DnD characters.
 
 * [Solas](/dnd-in-pop-culture/dragon-age/dai-solas/)

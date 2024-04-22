@@ -85,7 +85,7 @@ Smash a vial of oil on the floor, and have someone else ignite it with a tinderb
 
 ### Acid
 
-The item’s description makes it seem like these are grenades—and they can be very useful for that purpose—but acid has a lot of other uses. The _Dungeon Master’s Guide_ has rules on how many hit points a lock or rope has, so acid can be used to open small locks or burn through restraints. If you’re up to some shenanigans, acid can destroy evidence of your bad deeds.
+The item’s description makes it seem like these are grenades—and they can be useful for that purpose—but acid has a lot of other uses. The _Dungeon Master’s Guide_ has rules on how many hit points a lock or rope has, so acid can be used to open small locks or burn through restraints. If you’re up to some shenanigans, acid can destroy evidence of your bad deeds.
 
 
 ### Chalk
@@ -107,7 +107,7 @@ Magic items can open up a lot of opportunities that mundane items can’t, and f
 
 ### Immovable Rod
 
-No item inspires a party to think creatively quite like an Immovable Rod. Once activated, the rod itself is nearly impossible to move, being able to hold 8000 pounds of weight. If a DM gives an Immovable Rod to their party, there will always be uses for it.
+No item inspires a party to think creatively like an Immovable Rod. Once activated, the rod itself is nearly impossible to move, being able to hold 8000 pounds of weight. If a DM gives an Immovable Rod to their party, there will always be uses for it.
 
 An immovable rod can be used in conjunction with simpler items like pitons and ropes to easily create a way up a sheer cliff. Athletic members of your party can use the rod to break a small chasm into two manageable jumps. 
 
@@ -120,7 +120,7 @@ These do roughly the same thing, but there are some differences. All of them can
 
 The Bag of Holding is an uncommon magic item and will be the best option for most parties. Unlike a backpack, removing items from the Bag of Holding requires an action, so don’t put anything in there that you’d need in combat. Aside from that, though, this is a great item to give any party.
 
-The Handy Haversack is a little more rare, but equally useful. Based on the description, you’d think it would actually be easier to retrieve items from the haversack, but no, it still requires an action. It also can’t hold as much stuff as a Bag of Holding. The only reason to really choose a Handy Haversack over a Bag of Holding is if weight constraints are a big deal for your character—the haversack weighs 10 pounds less. This may not sound like much, but if a character has a really low Strength, this may make a difference.
+The Handy Haversack is a little more rare, but equally useful. Based on the description, you’d think it would be easier to retrieve items from the haversack, but no, it still requires an action. It also can’t hold as much stuff as a Bag of Holding. The only reason to choose a Handy Haversack over a Bag of Holding is if weight constraints are a big deal for your character—the haversack weighs 10 pounds less. This may not sound like much, but if a character has a really low Strength, this may make a difference.
 
 A Portable Hole is a much larger container that can notably hold 10-foot objects like ladders and a 10-foot pole. I’ve even heard of some parties using these as camping spots. Just make sure you have someone standing guard, to prevent an opponent from sneaking up, folding up the Portable Hole, and carrying you all away. This has some extra utility as well—you can slide one under a door, then go down on one side of the door and come up on the other. The tradeoff is that you have to unfold it and place it to retrieve anything from it.
 
@@ -209,7 +209,7 @@ Getting a free cast of a 1st-level spell can be useful as well, allowing you to 
 
 Being able to cast spells as rituals allows you to cast spells like Comprehend Languages, Detect Magic, and Find Familiar without using a spell slot at all, provided you know the spell and have an extra 10 minutes to cast it. This is fantastic for non-casters and casters alike, as many of these spells aren’t worth preparing every day, but can be useful in your downtime.
 
-After you pick the feat, you can also add spells after the fact by finding spell scrolls and Wizards’ spell books that contain ritual spells. You’ll only be able to learn ritual spells up to the level you’d be able to cast anyway (so a Fighter with no spell slots wouldn’t be able to learn a level 3 ritual spell), but you can still have a lot of spell options basically for free this way.
+After you pick the feat, you can more add spells by finding spell scrolls and Wizards’ spell books that contain ritual spells. You’ll only be able to learn ritual spells up to the level you’d be able to cast anyway (so a Fighter with no spell slots wouldn’t be able to learn a level 3 ritual spell), but you can still have a lot of spell options basically for free this way.
 
 
 ### Eldritch Adept

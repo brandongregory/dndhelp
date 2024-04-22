@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "D&D and Mental Health"
-meta_description: "D&D can help us deal with depression, trauma, or stress, and there's actually some science to back that up. Here's some information on that."
+meta_description: "D&D can help us deal with depression, trauma, or stress, and there's some science to back that up. Here's some information on that."
 author: "Brandon Gregory"
 section_name: roleplaying
 tags: ['roleplaying']

@@ -34,7 +34,7 @@ I’ve seen some people argue that Auron should be a monk (especially since the 
 
 The Samurai subclass allows a character to gain advantage on all attacks for their turn. This becomes much more significant as the Samurai gains more attacks, but it also plays into Auron’s ability to hit things really hard. If you take the Great Weapon Master feat, having advantage on all attacks allows you to get some significant damage for a turn. Even without advantage, Great Weapon Master allows for some strategic risk for a great reward.
 
-With that concept in mind, the rest of Auron’s build falls into place. He would use a greatsword as his primary weapon, and Strength would be his highest stat. Constitution and Wisdom would both be high as well (Samurai get some synergy with Wisdom). Dexterity wouldn’t really be a priority, nor would Intelligence. At level 7, the Samurai gets to add their Wisdom modifier to Persuasion checks, so a decent Charisma score would not be wasted.
+With that concept in mind, the rest of Auron’s build falls into place. He would use a greatsword as his primary weapon, and Strength would be his highest stat. Constitution and Wisdom would both be high as well (Samurai get some synergy with Wisdom). Dexterity wouldn’t be a priority, nor would Intelligence. At level 7, the Samurai gets to add their Wisdom modifier to Persuasion checks, so a decent Charisma score would not be wasted.
 
 
 ## Picking a Race
@@ -50,7 +50,7 @@ If you’re just looking at personality, **Hobgoblin** would be a great fit for 
 
 ## Background, Alignment, and Personality
 
-Auron grew up as a warrior monk in a monastery, and he’s also a survivor of a traumatic experience where his old party died. Two backgrounds really fit that.
+Auron grew up as a warrior monk in a monastery, and he’s also a survivor of a traumatic experience where his old party died. Two backgrounds fit that.
 
 To play into Auron’s background in a monastery, the **Acolyte** background would be a great fit. This grants proficiency in Insight and Religion—both great fits for Auron’s character, and Insight in particular is a good fit with Auron’s higher Wisdom. This background could easily be played as a warrior for a particular church, such as a personal guardian for an important religious figure.
 
@@ -58,7 +58,7 @@ Playing more into Auron’s tragic past, the **Haunted One** background from _Cu
 
 Earlier in life, Auron was a Lawful Good character, but his blind trust in the lawfulness of his organization led to disaster. This has left him jaded and bitter, and when the main story of Final Fantasy X takes place, he doesn’t care as much about good and evil as he does about preventing a tragedy at any cost. His stance on lawfulness is interesting. He’s lost his faith in his previous organization as a source of lawfulness and openly opposes it, but at the same time, he’s bound to his word and will never go back on a promise. This can be a fit for either a **Lawful Neutral** character who works for order and justice but sees the injustice in the system, or a **True Neutral** character who stays out of politics and moral arguments so they can accomplish their goal without interference.
 
-Auron is a great example of a simple character done exceedingly well. The concept of a stoic warrior who’s really strong could be a really boring character, but Auron’s background, motivations, and actions make him a truly interesting character. If you’re looking for a way to take a character devoted primarily to dealing damage and make them complex and integral to the overall story, Auron is a great character to look at.
+Auron is a great example of a simple character done exceedingly well. The concept of a strong stoic warrior could be a boring character, but Auron’s background, motivations, and actions make him a truly interesting character. If you’re looking for a way to take a character devoted primarily to dealing damage and make them complex and integral to the overall story, Auron is a great character to look at.
 
 
 ## Auron Character Sheet

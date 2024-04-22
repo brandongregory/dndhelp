@@ -28,7 +28,7 @@ From his humble beginnings as a cocky, whiny pro athlete with daddy issues, Tidu
 
 ## Picking a Class and Subclass
 
-Two things are paramount when building a character based on Tidus: his Dexterity and Charisma are high, and he has support abilities available to him. His personality and background as a professional athlete give him a very competitive nature and drive to accomplish his goals and push his party to do the same. Stat-wise, in Final Fantasy X, Tidus is a well-balanced character with good speed and strength, although specialists like [Auron](/dnd-in-pop-culture/final-fantasy/ff10-auron/) and [Rikku](/dnd-in-pop-culture/final-fantasy/ff10-rikku/) beat him in their best areas.
+Two things are paramount when building a character based on Tidus: his Dexterity and Charisma are high, and he has support abilities available to him. His personality and background as a professional athlete give him a competitive nature and drive to accomplish his goals and push his party to do the same. Stat-wise, in Final Fantasy X, Tidus is a well-balanced character with good speed and strength, although specialists like [Auron](/dnd-in-pop-culture/final-fantasy/ff10-auron/) and [Rikku](/dnd-in-pop-culture/final-fantasy/ff10-rikku/) beat him in their best areas.
 
 With his personality, drive, and stats, a natural fit for Tidus is an **Oath of Glory Paladin**. Tucked away in _Mythic Odysseys of Theros_, this is a Paladin subclass all about winning and achieving glory—a commitment Tidus already exhibits. The subclass learns valuable support spells like Enhance Ability, Haste, and Freedom of Movement; the Channel Divinity feature makes physical checks (Acrobatics and Athletics) much easier; and the aura ability, while being somewhat niche, allows the party to race across the battlefield as long as they stay in formation. The oath itself neatly sums up many of the aspects of Tidus’s personality as well.
 
@@ -48,7 +48,7 @@ The base Human race grants a +1 to every attribute, which can be useful for clas
 
 With Tidus’s background as a professional athlete, the **Athlete** background (conveniently also in _Mythic Odysseys of Theros_) is a natural fit. It grants proficiency in both Athletics and Acrobatics and fits well with Tidus’s personality.
 
-If you want to play into Tidus’s story of living in the shadow of a very famous father (or mother), the **Celebrity Adventurer’s Scion**, from _Acquisitions Incorporated_, is a great fit. This background actually contains a mechanic for dropping your parent’s name and garnering support through their fame.
+If you want to play into Tidus’s story of living in the shadow of a famous father (or mother), the **Celebrity Adventurer’s Scion**, from _Acquisitions Incorporated_, is a great fit. This background contains a mechanic for dropping your parent’s name and garnering support through their fame.
 
 For alignment, Tidus is clearly a Good alignment, and he has little regard for customs or rules he deems unnecessary (which, let’s face it, is most rules and customs), pointing toward a Chaotic alignment. Tidus always tries to do the right thing and help people, but he’s never constrained by what others want him to do. That’s a pretty strong **Chaotic Good** alignment.
 

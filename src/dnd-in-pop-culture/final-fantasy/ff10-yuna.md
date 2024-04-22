@@ -23,7 +23,7 @@ parent2:
   class="tiny-hero"
   height="360" width="360" />
 
-Along with [Tidus](/dnd-in-pop-culture/final-fantasy/ff10-tidus/), Summoner Yuna is one of the main characters from Final Fantasy X. She gets a lot of flack for being unsure of herself in the game, but her character development in overcoming that insecurity is one of the high points for the game. Summoners don’t really have an equivalent in Dungeons and Dragons, but Yuna’s other abilities as a white mage actually tie nicely into her story as someone who guides the spirits of the dead into a peaceful afterlife. Read on to find out how to recreate her in DnD!
+Along with [Tidus](/dnd-in-pop-culture/final-fantasy/ff10-tidus/), Summoner Yuna is one of the main characters from Final Fantasy X. She gets a lot of flack for being unsure of herself in the game, but her character development in overcoming that insecurity is one of the high points for the game. Summoners don’t really have an equivalent in Dungeons and Dragons, but Yuna’s other abilities as a white mage tie nicely into her story as someone who guides the spirits of the dead into a peaceful afterlife. Read on to find out how to recreate her in DnD!
 
 
 ## Picking a Class and Subclass
@@ -32,7 +32,7 @@ Yuna has a lot of abilities, but she is, first and foremost, a [healer](/5e-buil
 
 Thankfully, **Clerics** fit that description extremely well while also holding to the holy theme. Of the full casters, Clerics are the most tanky, their healing capabilities are best in class, and they also do excellent damage at all levels.
 
-Yuna’s exceptional healing ability and role as a caretaker for wayward spirits puts her naturally in the **Grave Domain** subclass. I often see Grave Clerics portrayed as creepy and obsessed with death, but the description and role in the party actually seems much more like a funeral director: someone who gives closure to death and consoles those left behind. That’s exactly what Yuna does in the game. The Grave Domain grants Potent Spellcasting, allowing Clerics to add their Wisdom modifier to cantrip damage, making this a very magic-focused character.
+Yuna’s exceptional healing ability and role as a caretaker for wayward spirits puts her naturally in the **Grave Domain** subclass. I often see Grave Clerics portrayed as creepy and obsessed with death, but the description and role in the party seems much more like a funeral director: someone who gives closure to death and consoles those left behind. That’s exactly what Yuna does in the game. The Grave Domain grants Potent Spellcasting, allowing Clerics to add their Wisdom modifier to cantrip damage, making this a very magic-focused character.
 
 If the Grave Domain doesn’t seem right to you, the **Life Domain** could be a good fit as well. This domain is more tanky than the Grave Domain (due to getting heavy armor proficiency) and probably has the best healing capability of all subclasses, but still gets decent damage from Divine Strike, which adds damage to weapon strikes. This can make this character a pretty good striker when needed, if you’re looking for a subclass with some martial capabilities.
 

@@ -27,11 +27,11 @@ Cecil Harvey is the beloved protagonist in Final Fantasy IV and begins the game 
 
 ## Picking a Class and Subclass
 
-The games tells us that Cecil is a Paladin, and that's honestly a fantastic fit for him. But what subclass do we choose? There are actually a few good options.
+The games tells us that Cecil is a Paladin, and that's honestly a fantastic fit for him. But what subclass do we choose? There are a few good options.
 
 Based on Cecil's abilities in the game, he has some minor healing abilities, like _all_ Paladins, but one unique mechanic he has is the Cover ability to protect weaker party members. If you want to lean into Cecil's abilities as a [defender](/5e-build-guides/tank-builds/), Oath of the Crown is a great fit, and this also ties into his past serving a kingdom even when he knows it's not right. Oath of the Crown offers some fantastic defender abilities, including the ability to just take a hit for an ally—sound familiar?
 
-If you instead want to base your choice on Cecil's character and personality, Oath of Devotion might be a better fit. Oath of Devotion is known for being the generic Paladin choice, but it actually suits him perfectly. A big part of Cecil's growth as a character is moving from a Lawful Neutral alignment to a Neutral Good alignment—and a big part of that is embracing goodness and virtue while letting go of his duty to the lawfulness of his country. That's what the Oath of Devotion is all about. You don't get the best-in-class defender abilities of the Oath of the Crown, but the Oath of Devotion is incorruptible—a great fit for Cecil's character.
+If you instead want to base your choice on Cecil's character and personality, Oath of Devotion might be a better fit. Oath of Devotion is known for being the generic Paladin choice, but it suits him perfectly. A big part of Cecil's growth as a character is moving from a Lawful Neutral alignment to a Neutral Good alignment—and a big part of that is embracing goodness and virtue while letting go of his duty to the lawfulness of his country. That's what the Oath of Devotion is all about. You don't get the best-in-class defender abilities of the Oath of the Crown, but the Oath of Devotion is incorruptible—a great fit for Cecil's character.
 
 Honestly, either of those choices can fit a Cecil-type character, so go with whichever seems most enticing to you.
 
@@ -41,7 +41,7 @@ As with the class, there are two solid options here depending on which of Cecil'
 
 With Cecil's background as a servant of his kingdom, ties to nobility might be an important part of this character's story. If so, Humans can be a great fit, as a lot of what we think of as nobility and kingdoms is the domain of Humans in DnD. The Standard Human gets a +1 to every stat, which can help a lot for a class that's notoriously dependent on multiple attributes (Strength, Constitution, and Charisma). If you instead go with a Variant Human, you can pick a feat at level 1 like Shield Master or Resilient: Constitution to play into the defender aspects of Cecil.
 
-If you want to get into Cecil's Lunarian background, though, Aasimar might be a better choice. Resistance to Necrotic and Radiant damage, some additional healing abilities, and the Light spell are all thematic for Paladins, and some of the other racial options can make this character really feel a little bit more than Human.
+If you want to get into Cecil's Lunarian background, though, Aasimar might be a better choice. Resistance to Necrotic and Radiant damage, some additional healing abilities, and the Light spell are all thematic for Paladins, and some of the other racial options can make this character feel a little bit more than Human.
 
 ## Background, Alignment, and Personality
 
@@ -53,4 +53,4 @@ If you're trying to create a character with a supernatural heritage, akin to Cec
 
 As mentioned above, Cecil's alignment is going to depend on where in Cecil's story you want to base your character on. Toward the beginning of the story, when Cecil is serving his kingdom out of loyalty but is conflicted about it, Lawful Neutral is the way to go. This can present some interesting conflicts and conversations with your party as you start discovering that maybe blind loyalty is not the way to go. When Cecil is confronted by his past sins in Mysidia and seeks redemption, he moves toward a Neutral Good alignment as he seeks to right the wrongs from his blind obedience to the lawfulness of his kingdom.
 
-As a character, Cecil breaks the Paladin mold by being really unsure of himself. The common trope among Paladins is that they will pursue lawfulness and goodness even to a degree that inconveniences the party. They're so sure they're right that they often have to be dissuaded from derailing encounters. Cecil lacks that confidence, not because he's not sure it's right, but because he's not sure if he's good enough to be the one demanding it. He has to be convinced of his own goodness and worthiness again and again by his friends, and that's a very interesting angle for a Paladin.
+As a character, Cecil breaks the Paladin mold by being unsure of himself. The common trope among Paladins is that they will pursue lawfulness and goodness even to a degree that inconveniences the party. They're so sure they're right that they often have to be dissuaded from derailing encounters. Cecil lacks that confidence, not because he's not sure it's right, but because he's not sure if he's good enough to be the one demanding it. He has to be convinced of his own goodness and worthiness again and again by his friends, and that's a fascinating angle for a Paladin.

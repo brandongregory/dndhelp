@@ -113,7 +113,7 @@ For a Cavalier build, Strength and Constitution are a must. You probably don't w
 
 If defensive magic sounds fun but you still want to be a badass warrior, the Eldritch Knight Fighter might be a great fit. The Eldritch Knight gets access to a limited selection of spells, and most of the spells they get are defensive, most notably allowing you to increase your armor class as a reaction or soak up elemental damage from a magic attack. The magic also grants you some additional attack and utility options, but Eldritch Knights are absolute tanks with their magic. There are a few other quirks, like being able to magically summon your weapon or attack _and_ cast a spell in one turn, but for the most part, they're full Fighters with superior defensive options.
 
-Eldritch Knights can be built with either Dexterity or Strength and typically have a higher Intelligence, although that's not strictly necessary. If you don't want to focus on Intelligence, just avoid spells that force a saving throw—there are plenty of good options that don't require a high Intelligence. A good Constitution score is useful for any Tank. Very diverse builds are possible here, so just about any race can work for an Eldritch Knight. I actually love the idea of a small race that uses magic to be tougher than anyone else in the party; bear in mind that small races are absolutely viable here.
+Eldritch Knights can be built with either Dexterity or Strength and typically have a higher Intelligence, although that's not strictly necessary. If you don't want to focus on Intelligence, just avoid spells that force a saving throw—there are plenty of good options that don't require a high Intelligence. A good Constitution score is useful for any Tank. Very diverse builds are possible here, so just about any race can work for an Eldritch Knight. I love the idea of a small race that uses magic to be tougher than anyone else in the party; bear in mind that small races are absolutely viable here.
 
 **Party Roles**
 
@@ -139,7 +139,7 @@ Paladins are usually Strength-based, but there's no reason a Dexterity-based Oat
 
 ### <a name="Class-Ancients"></a>Paladin – Oath of the Ancients
 
-Oath of the Ancients Paladins have some abilities for pulling individual opponents, though not as many as the Oath of the Crown. What really makes the Oath of the Ancients a defensive powerhouse is their aura ability at level 7 gives them and nearby allies resistance to all magic damage, which is really powerful. This later expands to a larger radius. They also get an ability at level 15 to just shrug off death once a day. Remember that Paladin oaths are a huge part of their characters, and that the Oath of the Ancients is one of the more unique oaths, being all about appreciating beauty and seeing the good in others and less about personal morality.
+Oath of the Ancients Paladins have some abilities for pulling individual opponents, though not as many as the Oath of the Crown. What makes the Oath of the Ancients a defensive powerhouse is their aura ability at level 7 gives them and nearby allies resistance to all magic damage, which is really powerful. This later expands to a larger radius. They also get an ability at level 15 to just shrug off death once a day. Remember that Paladin oaths are a huge part of their characters, and that the Oath of the Ancients is one of the more unique oaths, being all about appreciating beauty and seeing the good in others and less about personal morality.
 
 Most of what made a good Oath of the Crown Paladin also applies to Oath of the Ancients. Either Strength or Dexterity builds work, with Constitution and Charisma being important as well. Thematically, Oath of the Ancients is a great fit with elves, halflings, satyrs, and a few other off-the-beaten-track races—many of whom get bonuses to Dexterity. Many races can work here, though.
 
@@ -155,7 +155,7 @@ Most of what made a good Oath of the Crown Paladin also applies to Oath of the A
 
 The D&D equivalent of Iron Man, Armorers enchant their armor to make them great tanks. Note that Armorers can choose one of two "models" for their armor: Guardian or Infiltration. Infiltration armor can be interesting, but if you want to be a Tank, Guardian is the way to go. Guardian Armorers gain a special melee attack that uses their intelligence and incentivizes enemies to focus on them. Additionally, armor that usually has a strength requirement has none for Armorers, so if you want a Gnome with 8 strength running around in full plate armor, that’s totally doable, enabling a tank with Intelligence as their highest stat.
 
-Artificers are half-casters and get a good amount of spells, so their spellcasting ability, Intelligence, is very important to them. Due to their class features, this is one of the only options that would be able to get away with not having Strength or Dexterity as their highest stat (although you can certainly use those stats in a build). Gnomes are a great fit for any Artificer, with a big boost to Intelligence and a reputation for being curious and tinkering with things. Feral Tieflings get a bonus to Dexterity and Intelligence. Kobolds and Warforged are good fits thematically and can work well as Artificers.
+Artificers are half-casters and get a good amount of spells, so their spellcasting ability, Intelligence, is vital. Due to their class features, this is one of the only options that would be able to get away with not having Strength or Dexterity as their highest stat (although you can certainly use those stats in a build). Gnomes are a great fit for any Artificer, with a big boost to Intelligence and a reputation for being curious and tinkering with things. Feral Tieflings get a bonus to Dexterity and Intelligence. Kobolds and Warforged are good fits thematically and can work well as Artificers.
 
 **Party Roles**
 
@@ -196,7 +196,7 @@ As spellcasters, Wisdom is the primary stat and should be high for Life Clerics.
 
 Clerics are armored casters, but Forge Clercs take this to a new level by worshiping the gods of the forge and focusing on enhancing their weapons and armor. Forge Domain Clerics get access to both heavy armor and martial weapons, allowing them to sit comfortably on the front lines and dish out a decent amount of damage to make themselves a threat. Spells like Spirit Guardians can also do a lot of damage to enemies in melee range. Forge Clerics are durable and dangerous, and have access to the excellent Cleric spell list with great support options.
 
-Everything that makes a good Life Cleric applies here too. Thematically, Dwarves are a very good fit, as smithing and forge work are huge parts of their racial culture. Hill Dwarves will get a bonus to Wisdom as well as Constitution, and an additional hit point per level. Mountain Dwarves get bonuses to Strength and Constitution and can work as more martial-based Forge Clerics.
+Everything that makes a good Life Cleric applies here too. Thematically, Dwarves are a great fit, as smithing and forge work are huge parts of their racial culture. Hill Dwarves will get a bonus to Wisdom as well as Constitution, and an additional hit point per level. Mountain Dwarves get bonuses to Strength and Constitution and can work as more martial-based Forge Clerics.
 
 **Party Roles**
 
@@ -207,11 +207,11 @@ Everything that makes a good Life Cleric applies here too. Thematically, Dwarves
 
 ## <a name="Feat"></a>Best Feats for Tanks
 
-The right feats can bring a Tank build from good to great, and there are some really impactful options available.
+The right feats can bring a Tank build from good to great, and there are some impactful options available.
 
 ### <a name="Feat-Sentinel"></a>Sentinel
 
-Sentinel is a top feat pick for any Tank. This feat gives you three abilities, and all of them are amazing for Tanks. Being able to stop enemies dead in their tracks, in the middle of their turn, makes a Tank way more effective at protecting the people behind them, and being able to make opportunity attacks even when enemies disengage makes it hard for them to get away from you. Being able to attack a creature that's attacking one of your friends is also a really useful ability for Tanks. If you're planning on playing a Tank, this should be your #1 feat pick.
+Sentinel is a top feat pick for any Tank. This feat gives you three abilities, and all of them are amazing for Tanks. Being able to stop enemies dead in their tracks, in the middle of their turn, makes a Tank way more effective at protecting the people behind them, and being able to make opportunity attacks even when enemies disengage makes it hard for them to get away from you. Being able to attack a creature that's attacking one of your friends is also a useful ability for Tanks. If you're planning on playing a Tank, this should be your #1 feat pick.
 
 ### <a name="Feat-Resilient"></a>Resilient
 
@@ -219,15 +219,15 @@ Dexterity, Constitution, and Wisdom saves are all pretty common, and no base cla
 
 ### <a name="Feat-Alert"></a>Alert
 
-Strength-based Tanks usually don't have a great bonus to initiative, but going earlier in battle can give a significant strategic advantage to a Tank. Getting a +5 bonus to initiative makes this much easier. Additionally, you can't be surprised, making it harder for enemy rogues to land sneak attacks on you, and invisible or unseen enemies no longer get advantage while attacking you—both very useful abilities for Tanks.
+Strength-based Tanks usually don't have a great bonus to initiative, but going earlier in battle can give a significant strategic advantage to a Tank. Getting a +5 bonus to initiative makes this much easier. Additionally, you can't be surprised, making it harder for enemy rogues to land sneak attacks on you, and invisible or unseen enemies no longer get advantage while attacking you—both useful abilities for Tanks.
 
 ### <a name="Feat-Shield-Master"></a>Shield Master
 
-If you're a shield user, Shield Master grants several benefits. It allows you to shove as a bonus action, which can be very powerful for Strength-based Tanks and gives you something to do with your bonus action. You can also add your shield's AC bonus to Dexterity saving throws, and you get the added benefit of taking no damage while passing a saving throw usually means that you take half damage. This can add up to a lot of protection, but can also help mitigate a mediocre Dexterity score.
+If you're a shield user, Shield Master grants several benefits. It allows you to shove as a bonus action, which can be powerful for Strength-based Tanks and gives you something to do with your bonus action. You can also add your shield's AC bonus to Dexterity saving throws, and you get the added benefit of taking no damage while passing a saving throw usually means that you take half damage. This can add up to a lot of protection, but can also help mitigate a mediocre Dexterity score.
 
 ### <a name="Feat-Slasher"></a>Slasher
 
-Being able to reduce the speed of your foes makes it harder for them to get away from you—and closer to the people you're trying to protect. Giving enemies disadvantage on attacks can be really helpful, although it only happens when you make a critical hit, so it's not reliable. The feat also comes with a +1 bonus to either Strength or Dexterity, which makes it easier to take to round out an odd stat. Note that you do have to attack with a slashing weapon to apply the effects of this feat.
+Being able to reduce the speed of your foes makes it harder for them to get away from you—and closer to the people you're trying to protect. Giving enemies disadvantage on attacks can be helpful, although it only happens when you make a critical hit, so it's not reliable. The feat also comes with a +1 bonus to either Strength or Dexterity, which makes it easier to take to round out an odd stat. Note that you do have to attack with a slashing weapon to apply the effects of this feat.
 
 ### <a name="Feat-Heavy-Armor-Master"></a>Heavy Armor Master
 
@@ -239,21 +239,21 @@ Most martial classes get plenty of hit points, but if you're playing an Artifice
 
 ## <a name="Magic-Item"></a>Best Magic Items for Tanks
 
-Magic items can really complete a build, and Tanks are no exception. But before that, two quick words on magic items for Tanks.
+Magic items can complete a build, and Tanks are no exception. But before that, two quick words on magic items for Tanks.
 
 First is that defensive items are many in Dungeons &amp; Dragons, so those will be glossed over. Really, if any item boosts your defense, it can be a great magic item, and they're not worth mentioning individually. Enhanced armor and shields are top picks.
 
-Second is that, while defense-boosting magic items are many, you actually don't want to become this impervious super-tank. Why? Because if the enemy can't hurt you, there's a good chance they're going to focus their efforts elsewhere. Also, if your DM knows they can't hurt you, they'll find ways around that. Defense is good, but too much defense can suck some of the fun out of the game.
+Second is that, while defense-boosting magic items are many, you don't want to become this impervious super-tank. Why? Because if the enemy can't hurt you, there's a good chance they're going to focus their efforts elsewhere. Also, if your DM knows they can't hurt you, they'll find ways around that. Defense is good, but too much defense can suck some of the fun out of the game.
 
 That said, here are some top picks for magic items for Tanks.
 
 ### <a name="Magic-Item-Belt-of-Dwarvenkind"></a>Belt of Dwarvenkind (Rare)
 
-Less necessary if your character is actually a dwarf, but this gives several bonuses that benefit Tanks. More Constitution is always good, and unless you've hit 20, this will give you a boost. Poison resistance and advantage on saves against the poisoned condition are useful as poison is one of the more common types all through the game. Lastly, if your character doesn't have darkvision, this can give you that very handy skill.
+Less necessary if your character is a dwarf, but this gives several bonuses that benefit Tanks. More Constitution is always good, and unless you've hit 20, this will give you a boost. Poison resistance and advantage on saves against the poisoned condition are useful as poison is one of the more common types all through the game. Lastly, if your character doesn't have darkvision, this can give you that useful trait.
 
 ### <a name="Magic-Item-Mantle-of-Spell-Resistance"></a>Mantle of Spell Resistance (Rare)
 
-This addresses one of the major weaknesses of most Tanks, and that is saving throws against spells, which bypass that really high AC you probably have. Your Constitution safes will probably be well, but Dexterity and Wisdom are pretty common saves, and there's the odd Charisma or Intelligence save that might devastate you. Gaining advantage on all saving throws against spells can improve your defense against spells by a hell of a lot.
+This addresses one of the major weaknesses of most Tanks, and that is saving throws against spells, which bypass that high AC you probably have. Your Constitution safes will probably be well, but Dexterity and Wisdom are pretty common saves, and there's the odd Charisma or Intelligence save that might devastate you. Gaining advantage on all saving throws against spells can improve your defense against spells by a hell of a lot.
 
 ### <a name="Magic-Item-Periapt-of-Wound-Closure"></a>Periapt of Wound Closure (Uncommon)
 

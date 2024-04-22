@@ -40,7 +40,7 @@ Flying characters are so good at this that it’s almost cheating. Flying races 
 
 For your skills, a high Acrobatics skill can really help, since you’ll likely be running along narrow beams or tightropes, and even if you have a climbing speed, proficiency in Athletics can help with climbing difficult surfaces. Stealth is a given. Even if you have someone on your team who specializes in picking locks (more on that later), having proficiency in Thieves’ Tools can be useful if you come across a locked window or door.
 
-To fill the Cat Burglar role, there’s some essential gear you’ll need. Ropes, of course, are great, and you should have a few with you. (A Rope of Climbing can be really useful if you can get your hands on one.) Similarly, a hammer and pitons make it easier to use the ropes. If you want to be able to lift something heavy with your rope, a block and tackle can make that much easier. If you have a long way to climb, a Climber’s Kit can mean the difference between life and death. If that sounds like a lot of gear for your character, you might need a Bag of Holding or Handy Haversack to carry it all around in.
+To fill the Cat Burglar role, there’s some essential gear you’ll need. Ropes, of course, are great, and you should have a few with you. (A Rope of Climbing can be useful if you can get your hands on one.) Similarly, a hammer and pitons make it easier to use the ropes. If you want to be able to lift something heavy with your rope, a block and tackle can make that much easier. If you have a long way to climb, a Climber’s Kit can mean the difference between life and death. If that sounds like a lot of gear for your character, you might need a Bag of Holding or Handy Haversack to carry it all around in.
 
 
 ## The Charmer
@@ -51,7 +51,7 @@ Bards are the gold standard for charmers, and they do very well in the role, but
 
 Warlocks can be amazing Charmers. Their reliance on Charisma makes them great at social skills, and certain Warlock invocations, like Mask of Many Faces, make it easy for a Warlock to play any role needed. A Warlock with the Mask of Many Faces invocation and the Actor feat can essentially become anyone at a moment’s notice.
 
-Sorcerers are also Charisma casters, but will have to use their limited spell selection on things like Disguise Self to really work in this role. They can work, though.
+Sorcerers are also Charisma casters, but will have to use their limited spell selection on things like Disguise Self to work in this role. They can work, though.
 
 Rogues can perform admirably in this role. Some subclasses, such as the Swashbuckler, need a high Charisma score, while others, like the Mastermind or Assassin, have abilities that make it easier for them to mimic others. Arcane Tricksters can also choose Disguise Self as a spell. In a pinch, a disguise kit can get you through a lot of scenarios.
 
@@ -70,7 +70,7 @@ Sometimes, a humble cantrip, like Mending or Prestidigitation, will be all that�
 
 Illusion spells like Silent Image, Invisibility, Major Image, or Hallucinatory Terrain can cover up a lot of mischief and mean the difference between the guards calling for a full lock-down and you continuing your business undetected.
 
-Being able to do things from a moderate distance can also be helpful. The Mage Hand cantrip can be really useful, but it’s more useful if it’s invisible—being an Arcane Trickster Rogue or taking the Telekinetic feat will allow you to stealthily pick that vase up from the shadows. The 5th-level spell Telekinesis takes this ability to the next level; it’s available to Sorcerers and Wizards, but a Ring of Telekinesis can give this ability to any character.
+Being able to do things from a moderate distance can also be helpful. The Mage Hand cantrip can be useful, but it’s more useful if it’s invisible—being an Arcane Trickster Rogue or taking the Telekinetic feat will allow you to stealthily pick that vase up from the shadows. The 5th-level spell Telekinesis takes this ability to the next level; it’s available to Sorcerers and Wizards, but a Ring of Telekinesis can give this ability to any character.
 
 Bards and Wizards have access to a lot of the useful spells for this role and are amazing, but Warlocks and some Druids and Sorcerers can also fill this role, if built for it. Some Clerics and Artificers can also fill this role in a pinch. 
 
@@ -105,7 +105,7 @@ The thing to remember is that Muscle characters in a heist are a backup plan, so
 
 Perhaps the most vital role in a heist, the Thief is someone who can pick locks, get past traps, and pick the occasional pocket when needed. Rogues excel in this role, of course, but there are many other ways to get proficiency with Thieves’ Tools and Sleight of Hand.
 
-Artificers are actually amazing at this, having natural proficiency with Thieve’s Tools and having the option to build around Dexterity. Choosing the Urchin or Criminal background can make any character into a makeshift thief. In a pinch, multiclassing into Rogue for even a single level can get you there.
+Artificers are amazing at this, having natural proficiency with Thieve’s Tools and having the option to build around Dexterity. Choosing the Urchin or Criminal background can make any character into a makeshift thief. In a pinch, multiclassing into Rogue for even a single level can get you there.
 
 Investigation is another useful skill for Thieves, as checking for traps is a vital role. This once again makes Artificers a solid choice, as their high Intelligence will give them a solid boost to Investigation. Even characters without a high Intelligence can gain proficiency or even expertise in Investigation, though, giving you some options for character builds.
 

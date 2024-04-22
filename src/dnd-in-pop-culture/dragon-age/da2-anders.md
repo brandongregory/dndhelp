@@ -28,7 +28,7 @@ In _Dragon Age 2_, Anders was an interesting character. Because of his possessio
 
 ## Picking a Class and Subclass
 
-The most important part of Anders’ character is actually the source of his powers: his union with the spirit of Justice. Those who played _Dragon Age: Awakening_ remember Anders as a snarky mage who wanted to avoid responsibility—a far cry from the zealot we see in _Dragon Age 2_ who is willing to blow up a cathedral for his cause. That relationship with the spirit of justice is the cornerstone of this build.
+The most important part of Anders’ character is the source of his powers: his union with the spirit of Justice. Those who played _Dragon Age: Awakening_ remember Anders as a snarky mage who wanted to avoid responsibility—a far cry from the zealot we see in _Dragon Age 2_ who is willing to blow up a cathedral for his cause. That relationship with the spirit of justice is the cornerstone of this build.
 
 Anders would most likely be a Warlock with the Celestial patron. This gives him some good offensive abilities, like all Dragon Age mages have, as well as some solid healing abilities. It’s also a great tie-in for his relationship with the spirit of justice that’s so vital to his character.
 
@@ -54,6 +54,6 @@ Background is similar to race in that there’s a lot of flexibility here. You c
 
 Alignment is firmly in the Good camp, but arguments can be made for different stances on lawfulness. Lawful Good is a good fit, but you might have to play it as answering to a higher power, so acts of violence or destruction against human institutions that don’t live up to the laws of your Celestial patron are targets for your wrath. Chaotic Good might be a good fit if you know you’re going to be fighting systemic injustice and working to topple powerful individuals or entities who are enacting that injustice. And of course Neutral Good is a middle ground between the two.
 
-There’s nothing stopping you from changing your alignment later in the campaign, and there’s not really anything to punish you for acting outside of your alignment (unlike in past versions of DnD), so don’t fret too much about this. Alignment is there to describe your character, not limit them.
+There’s nothing stopping you from changing your alignment later in the campaign, and there’s not anything to punish you for acting outside of your alignment (unlike in past versions of DnD), so don’t fret too much about this. Alignment is there to describe your character, not limit them.
 
 For personality, the reason any character would enter into a patron relationship with a Celestial would be for what they see as the greater good. Being good and doing good are important for this character. One important part of Anders’ personality that really illustrates this is how exhausted he is. There’s so much injustice and it’s tied to such big systemic things in his world that fighting it can feel all-consuming and it can be hard to find time to relax when your greatest efforts hardly make a dent in all the injustice in the world. Being a force of good in the world is not easy, and that can and should be a big part of this character’s personality.

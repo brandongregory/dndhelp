@@ -44,7 +44,7 @@ With that out of the way, here are some useful custom skills to add.
 
 ## Threatening - Strength (Intimidation)
 
-I’m adding this first because it’s the most well known. Barbarians in particular are intimidating figures, but if they make an Intimidation check with Charisma, they’re likely to be much less threatening than a Bard or Warlock. Calculating this with Strength gives Barbarians and other strong characters a way to use their intimidating stature to actually intimidate NPCs.
+I’m adding this first because it’s the most well known. Barbarians in particular are intimidating figures, but if they make an Intimidation check with Charisma, they’re likely to be much less threatening than a Bard or Warlock. Calculating this with Strength gives Barbarians and other strong characters a way to use their intimidating stature to intimidate NPCs.
 
 
 ## Disguise - Intelligence (Disguise Kit)
@@ -86,7 +86,7 @@ If you’re digging for clues in a friendly or nonchalant way, Charisma (Investi
 
 ## Gaming - Wisdom (Gaming Set)
 
-Gaming sets are a fun bit of flavor, but most people don’t actually use them in games. A Wisdom (Gaming Set) check allows two characters to quickly determine who wins a game with the respective gaming set. If a character wants to challenge an NPC to a game of dragon chess, they’d both make a Wisdom (Dragon Chess) check. If one character scores higher than the other, that player wins; in the event of a tie, it’s a stalemate.
+Gaming sets are a fun bit of flavor, but most people don’t use them in games. A Wisdom (Gaming Set) check allows two characters to quickly determine who wins a game with the respective gaming set. If a character wants to challenge an NPC to a game of dragon chess, they’d both make a Wisdom (Dragon Chess) check. If one character scores higher than the other, that player wins; in the event of a tie, it’s a stalemate.
 
 Depending on the game and the characters involved, this could easily be ruled as an Intelligence check instead of Wisdom. 
 

@@ -53,7 +53,7 @@ The best mundane light armor is Studded Leather. This offers an armor class of 1
 ## Which armor should I wear?
 The first question to ask is which armor your character can wear. (Breakdown below.) Some classes, like Fighter, have proficiency in all three; some classes, like Cleric, only go up to Medium armor; some will even have no armor proficiencies and rely on other means of protection.
 
-With those options in mind, the second question is whether you want to focus on Strength or Dexterity (or neither). Generally, if a class has access to all 3 types, it will be better to either focus on Strength and wear heavy armor, or focus on Dexterity and wear light armor. If you’re going to be maxing out your Dexterity, light armor has the same protection as medium armor and is only 1 point behind heavy armor. Most martial classes have options for both Strength- and Dexterity-based characters. If you don’t really need Strength or Dexterity (like a Cleric), you can go medium armor and aim for 14 Dexterity overall.
+With those options in mind, the second question is whether you want to focus on Strength or Dexterity (or neither). Generally, if a class has access to all 3 types, it will be better to either focus on Strength and wear heavy armor, or focus on Dexterity and wear light armor. If you’re going to be maxing out your Dexterity, light armor has the same protection as medium armor and is only 1 point behind heavy armor. Most martial classes have options for both Strength- and Dexterity-based characters. If you don’t need maxed Strength or Dexterity (like a Cleric), you can go medium armor and aim for 14 Dexterity overall.
 
 ## Class Breakdown
 

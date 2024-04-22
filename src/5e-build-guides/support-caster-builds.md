@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Healer/Buffer Support Caster Builds in DnD 5e"
-meta_description: "Support casters, including healers and buffers, can be absolutely vital in a DnD party. Here are some of the best classes and feats for support casters."
+meta_description: "Support casters, including healers and buffers, can be vital in a DnD party. Here are some of the best classes and feats for support casters."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -15,7 +15,7 @@ imageArray:
 
 ---
 
-Support casters can be vital in a party, sometimes making the difference between a total party kill and a victory. Small parties don’t necessarily need a dedicated support character, but every party will be stronger with some support features. But support is a very varied role. Some classes have amazing healing spells but can struggle to buff their teammates, while some classes have amazing buffs but virtually no healing spells. Balancing healing and buffing with the needs of your team can take some planning.
+Support casters can be vital in a party, sometimes making the difference between a total party kill and a victory. Small parties don’t necessarily need a dedicated support character, but every party will be stronger with some support features. But support is a varied role. Some classes have amazing healing spells but can struggle to buff their teammates, while some classes have amazing buffs but virtually no healing spells. Balancing healing and buffing with the needs of your team can take some planning.
 
 Please note that, while I’ve included half-casters in the charts below, they get spells much later than full-casters. Half-casters can fill in as support casters but usually won’t be as effective as full-casters purely due to their slower spell progression. That said, each of the three half-caster classes has some good support features.
 
@@ -23,7 +23,7 @@ Also note that, while a class may not have a lot of support features, they may h
 
 ## Healing vs Buffing
 
-The support role includes two very different responsibilities: healing and buffing. Both are important, but a support character doesn’t necessarily have to be great at both of these things; in fact, many of these builds skew heavily toward one or the other.
+The support role includes two different responsibilities: healing and buffing. Both are important, but a support character doesn’t necessarily have to be great at both of these things; in fact, many of these builds skew heavily toward one or the other.
 
 Healer-casters are a mainstay in just about every type of RPG, whether tabletop or video game, and it’s a pretty easy concept to wrap your mind around. Anyone who grew up playing Final Fantasy games or other JRPGs knows you should always have a white mage in the party.
 
@@ -162,7 +162,7 @@ Role fit: 4
 
 ### Wizard
 
-Wizards aren’t commonly thought of as a support class—mainly because they have very few options for healing—but they do have some excellent buff spells, including some that aren’t available to higher-ranking classes on this list. Wizards are great with damage, control, and utility, giving them unmatched versatility, and picking some buffing spells fits naturally into their role as the magic powerhouse of the team. Their lack of any real support options can make it hard for them to cover that part of the support role, however.
+Wizards aren’t commonly thought of as a support class—mainly because they have few options for healing—but they do have some excellent buff spells, including some that aren’t available to higher-ranking classes on this list. Wizards are great with damage, control, and utility, giving them unmatched versatility, and picking some buffing spells fits naturally into their role as the magic powerhouse of the team. Their lack of any real support options can make it hard for them to cover that part of the support role, however.
 
 Healing ability: 1
 
@@ -182,7 +182,7 @@ Role fit: 1 (3 for Divine Soul)
 
 ### Warlock
 
-Poor Warlocks come in dead last on the support caster list, with few support options and few spell slots to use them. It’s not that Warlock is a bad class, it’s just that support is not a role they can fill well. One notable exception is the Celestial patron, which grants some good healing abilities, but buffing your allies is still very difficult to do as a Warlock. For small parties that can’t have a dedicated support caster, though, a Celestial Warlock may be able to get the job done while still doing good ranged damage.
+Poor Warlocks come in dead last on the support caster list, with few support options and few spell slots to use them. It’s not that Warlock is a bad class, it’s just that support is not a role they can fill well. One notable exception is the Celestial patron, which grants some good healing abilities, but buffing your allies is still difficult to do as a Warlock. For small parties that can’t have a dedicated support caster, though, a Celestial Warlock may be able to get the job done while still doing good ranged damage.
 
 Healing ability: 1 (3 for Celestial)
 
@@ -196,7 +196,7 @@ Half-casters get their spells later than full-casters, but they also have higher
 
 ### Artificer
 
-Artificers are half-casters that try to capture the versatility of Wizards, and they do a pretty great job of it—they can cover a lot of roles, and their subclasses have very different abilities, allowing them even more versatility. The Alchemist subclass in particular can probably be a full support character if they have a little help with healing from another party member. What was surprising to me when putting together the charts above was that the Artificers actually have the highest number of buffing spells, outpacing Wizards and Clerics (tied for the second-highest). Though they get their spells later than full-casters, they still have a lot of options to help the party out.
+Artificers are half-casters that try to capture the versatility of Wizards, and they do a pretty great job of it—they can cover a lot of roles, and their subclasses have very different abilities, allowing them even more versatility. The Alchemist subclass in particular can probably be a full support character if they have a little help with healing from another party member. What was surprising to me when putting together the charts above was that the Artificers have the highest number of buffing spells, outpacing Wizards and Clerics (tied for the second-highest). Though they get their spells later than full-casters, they still have a lot of options to help the party out.
 
 Healing ability: 2 (3 for Alchemist)
 
@@ -232,7 +232,7 @@ If your support spells require concentration, being proficient in Constitution s
 
 ### War Caster
 
-Similar to Resilient, the main draw here is getting better at passing concentration checks, but the two feats work differently. War Caster grants advantage on concentration checks while Resilient allows you to add your proficiency bonus. This makes War Caster a little more useful at lower levels before your proficiency bonus is high. Another benefit of War Caster is the ability to cast spells that have a somatic component (meaning you have to use your hands) while you’re holding a weapon or shield. Classes like Cleric or some Bard subclasses will find this very useful, but some half-casters might find this helpful as well. 
+Similar to Resilient, the main draw here is getting better at passing concentration checks, but the two feats work differently. War Caster grants advantage on concentration checks while Resilient allows you to add your proficiency bonus. This makes War Caster a little more useful at lower levels before your proficiency bonus is high. Another benefit of War Caster is the ability to cast spells that have a somatic component (meaning you have to use your hands) while you’re holding a weapon or shield. Classes like Cleric or some Bard subclasses will find this useful, but some half-casters might find this helpful as well. 
 
 ### Magic Initiate
 

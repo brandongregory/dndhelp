@@ -20,11 +20,11 @@ Summoners are an iconic role in a lot of fiction. Characters like Lucy Heartfili
 
 ## Are Summoners Powerful and Effective in DnD 5e?
 
-Where summoner characters really shine is improving the action economy of your party. Action economy is basically how many actions you can take versus the enemy. This is a big reason why Sorcerers, who can use metamagic to cast an additional spell per turn as a bonus action, are considered powerful. Finding ways to get more actions per round is a big way to get an advantage over an enemy party.
+Where summoner characters shine is improving the action economy of your party. Action economy is how many actions you can take versus the enemy. This is a big reason why Sorcerers, who can use metamagic to cast an additional spell per turn as a bonus action, are considered powerful. Finding ways to get more actions per round is a big way to get an advantage over an enemy party.
 
 This is why encounters against a single powerful foe are often easier than encounters against multiple weaker foes, even if the combined power of those weaker foes is less than that of the big foe. If your party gets way more actions per round than a powerful foe or opposing party, the enemy can find themselves outclassed by even a modestly powerful party.
 
-Summoning spells essentially give you another party member, basically giving you another free action to use against opponents. That’s another chance to kill a weaker foe or break an enemy mage’s concentration, or a lot of other things. This is especially powerful in smaller parties, where another ally on the field is a greater percentage gain in actions, but it can be very effective in large parties too.
+Summoning spells essentially give you another party member, giving you another free action to use against opponents. That’s another chance to kill a weaker foe or break an enemy mage’s concentration, or a lot of other things. This is especially powerful in smaller parties, where another ally on the field is a greater percentage gain in actions, but it can be effective in large parties too.
 
 A word of caution on summoner-type characters: adding more party members makes combat take longer. This won’t be too noticeable if you’re adding one party member through a summoning spell, but some spells can add multiple allies, and that can make combat drag out for everyone. Summon your creatures responsibly to make sure everyone at the table is having fun.
 
@@ -101,9 +101,9 @@ As DnD’s occult enthusiasts, Warlocks don’t have many spell slots to cast sp
 
 Warlocks have good defensive features as well. They’re able to wear light armor, which basically eliminates the need for the Mage Armor spell (although they have a feature to cast it for free). They have a d8 hit die rather than the Wizard’s d6, so they’ll usually have more hit points. If you take the Hexblade subclass, you get many more defensive options like medium armor and shields. They don’t get access to the Shield spell (and probably shouldn’t cast it anyway, with so few spell slots), but their defensive options are considerable.
 
-Where Warlocks really shine as summoners, though, is in their class features. Warlocks get to pick a Pact Boon at level 2 that gives them an additional feature, and Pact of the Chain gives them a little summoned sidekick that can add some significant damage early on. Warlocks can also gain features as they level up that make these summoned creatures stronger, keeping them relevant as you get stronger. So if you want a dedicated summoned creature, Warlocks are amazing for that.
+Where Warlocks shine as summoners, though, is in their class features. Warlocks get to pick a Pact Boon at level 2 that gives them an additional feature, and Pact of the Chain gives them a little summoned sidekick that can add some significant damage early on. Warlocks can also gain features as they level up that make these summoned creatures stronger, keeping them relevant as you get stronger. So if you want a dedicated summoned creature, Warlocks are amazing for that.
 
-The Fathomless subclass also allows you to summon a giant tentacle that basically acts like a pet and helps you in combat. While this ties in with the creepy nautical theme of the Fathomless Warlock, it can easily be reflavored into another kind of summon. The Fathomless subclass is often underrated and can make a great summoner.
+The Fathomless subclass also allows you to summon a giant tentacle that acts like a pet and helps you in combat. While this ties in with the creepy nautical theme of the Fathomless Warlock, it can easily be reflavored into another kind of summon. The Fathomless subclass is often underrated and can make a great summoner.
 
 Spell options: 4
 
@@ -118,7 +118,7 @@ Druids are the ultimate friends of nature and appropriately have spells for summ
 
 That said, Druids have famously low survivability, so they’ll have a harder time maintaining their concentration than a class with better defenses (like the Wizard and Warlock, also ranking highly on this list). They can wear armor, but with the restriction of not being able to wear metal armor, their armor class is lower than you might think. 
 
-Druids also have a lot of amazing spells that require concentration, which means you’d be giving those up to maintain the summon. While Druids don’t get any core class features that make them better summoners, though, some subclasses do really help.
+Druids also have a lot of amazing spells that require concentration, which means you’d be giving those up to maintain the summon. While Druids don’t get any core class features that make them better summoners, though, some subclasses do help.
 
 The Circle of the Shepherd subclass is all about summoning and boosting the power of all of the creatures that you summon, meaning you can have a small zoo of animals fighting for you with the Conjure Animals spell. This subclass is probably a top pick for a summoner subclass, so that alone gets a lot of points. Bear in mind, though, that this subclass is notorious for making combat last longer.
 
@@ -148,7 +148,7 @@ Role fit: 1
 
 ### Sorcerer
 
-Sorcerers make great [blasters](/5e-build-guides/blaster-caster-builds/) and have some other useful tricks up their sleeves, but they make terrible summoners. They learn fewer spells than most other full-casters and have fewer spell slots, so summoning is a harder thing to fit into a build. Additionally, they have only 2 summoning spell options, giving them very few options.
+Sorcerers make great [blasters](/5e-build-guides/blaster-caster-builds/) and have some other useful tricks up their sleeves, but they make terrible summoners. They learn fewer spells than most other full-casters and have fewer spell slots, so summoning is a harder thing to fit into a build. Additionally, they have only 2 summoning spell options, giving them few options.
 
 Sorcerers do have most of the same defensive options as the Wizard (the Shield and Mage Armor spells), and the Draconic Bloodline Sorcerer basically gets Mage Armor for free.
 
@@ -163,7 +163,7 @@ Role fit: 1
 
 ### Bard
 
-Bards get only 1 option for a summoning spell (Unseen Servant), and it’s really more of a utility spell than an actual summoning spell, making them only slightly better than Barbarians. Bards are absolutely not summoners. They’re great [support](/5e-build-guides/support-caster-builds/) characters, though, so you can technically keep another party member’s summon alive longer.
+Bards get only 1 option for a summoning spell (Unseen Servant), and it’s more of a utility spell than an actual summoning spell, making them only slightly better than Barbarians. Bards are not summoners. They’re great [support](/5e-build-guides/support-caster-builds/) characters, though, so you can technically keep another party member’s summon alive longer.
 
 _That said_, Bards can use their Magical Secrets feature (levels 10, 14, and 18) to get a summon spell from another class’s spell list, so they can have one or two staple options from another class once they hit those levels. This does mean giving up some powerful other options, so weigh this option carefully.
 
@@ -185,9 +185,9 @@ Half-casters gain spells more slowly than full-casters, so it’s hard to compar
 
 As half-casters, Rangers have great survivability, having access to both light and medium armor and shields, so they’ll be better at maintaining their concentration than most full-casters.
 
-Where Rangers really shine, though, is with what is probably the most iconic pet subclass in the game: the Beast Master. The entire Beast Master subclass is built around a pet, which could easily be reflavored as a summoned creature. The Beast Master’s companion also gets stronger based off of a Ranger’s Wisdom, making Beast Masters one of the best magic users among martials.
+Where Rangers shine, though, is with what is probably the most iconic pet subclass in the game: the Beast Master. The entire Beast Master subclass is built around a pet, which could easily be reflavored as a summoned creature. The Beast Master’s companion also gets stronger based off of a Ranger’s Wisdom, making Beast Masters one of the best magic users among martials.
 
-The Fey Wanderer subclass also works really well with Wisdom builds and gets access to the Summon Fey spell at level 11, so they can make good summoners too.
+The Fey Wanderer subclass also works well with Wisdom builds and gets access to the Summon Fey spell at level 11, so they can make good summoners too.
 
 Spell options: 3
 
@@ -200,7 +200,7 @@ Role fit: 2 (4 for Beast Master or Fey Wanderer)
 
 Artificers have only a single option for summoning spells: Summon Construct. It’s a fairly powerful one, as a level 4 spell, but bear in mind that Artificers don’t get level 4 spells until level 13, making this a hard sell as a summoning class.
 
-Like the other half-casters, Artificers are very durable and will have an easier time maintaining their concentration than most full-casters. Some subclasses also get access to the Shield spell, making them very tanky when needed.
+Like the other half-casters, Artificers are durable and will have an easier time maintaining their concentration than most full-casters. Some subclasses also get access to the Shield spell, making them very tanky when needed.
 
 Artificers do get a class feature that gives them a small summoned creature: the Homunculus Servant infusion, available at level 2. This gives a small but useful ally that can help you in combat. This doesn’t really feel like a summon, as it’s not very powerful, but it allows you to cast your spells from a distance and can help in other ways besides raw damage.
 
@@ -215,7 +215,7 @@ Role fit: 2 (3 for Battle Smith)
 
 ### Paladin
 
-While Paladins do get one notable summoning spell—Summon Celestial, a 5th-level spell—they’re not able to cast it until level 17. They do technically get 2 other summoning spells, but they’re not really useful as actual summoned creatures. Unlike the other two half-caster classes, Paladins get no real class features to make them better summoners, making them a bad fit for the summoner role. Bottom line: unless you really like horses, don’t choose this as a summoner class.
+While Paladins do get one notable summoning spell—Summon Celestial, a 5th-level spell—they’re not able to cast it until level 17. They do technically get 2 other summoning spells, but they’re not useful as actual summoned creatures. Unlike the other two half-caster classes, Paladins get no real class features to make them better summoners, making them a bad fit for the summoner role. Bottom line: unless you really like horses, don’t choose this as a summoner class.
 
 Spell options: 1
 

@@ -31,11 +31,9 @@ Punishing male player characters in-game for sexual harassment will not stop the
 
 Ideally, topics like this are all discussed in a [session zero](https://www.level1geek.com/dnd-session-0/), but that’s not foolproof. Some tables don’t know how to conduct a session zero and are surprised to later find there are disagreements at the table. Even seasoned players will leave things out of a session zero. Whatever level of pre-campaign alignment you had, there may still be gaps and misunderstandings.
 
-
-
 * One player may be unfamiliar with TTRPGs and won’t know what to ask for in a session zero.
 * One or several players may lack empathy for the lived experiences of another player at the table and see nothing wrong with attacking them on a personal level through their characters.
-* Even established safety tools may fail to predict a very specific trauma trigger for a player that pops up later in the campaign.
+* Even established safety tools may fail to predict a specific trauma trigger for a player that pops up later in the campaign.
 
 Yes, session zero should catch all of these things, but the fact is that even the most thorough pre-campaign discussions can miss things. When expectations aren’t matching, gameplay mechanics cannot fix that—it will take a conversation.
 
@@ -85,7 +83,7 @@ If the primary issue is disrespect, safety tools may not be enough. There are ti
 * “It’s just fun for me.” _If it’s not fun for everyone, no one will get to play. If you want to play a game where you’re the only one having fun, go play Skyrim._
 * “You’re just being too sensitive.” _If you’re not willing to respect others at the table, you shouldn’t be playing here._
 
-While players absolutely can voice their concerns, having more confrontational conversations like this usually requires the DM’s support. If the DM is the problem, it may take several players to bring the problem to them. Hopefully, a quick conversation will be all you need to set things right and make sure everyone has fun, but unfortunately, some people have a real problem owning up to their actions.
+While players can voice their concerns, having more confrontational conversations like this usually requires the DM’s support. If the DM is the problem, it may take several players to bring the problem to them. Hopefully, a quick conversation will be all you need to set things right and make sure everyone has fun, but unfortunately, some people have a real problem owning up to their actions.
 
 If it becomes clear, either before or after a conversation, that the table is not going to change and will keep disrespecting or endangering you, your best option is probably to leave the table. If your regular DnD or RPG sessions come with a sense of dread and anxiety, you are under no obligation to continue going. This may ruffle some feathers with friends and family, but the way people treat you at the table is often an early indicator of how they’ll treat you everywhere else, so setting boundaries early can prevent a lot of harm and drama down the road.
 

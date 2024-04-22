@@ -37,7 +37,7 @@ When thinking about party composition in DnD 5e, there are common roles party me
 
 ## <a name="BattleRoles"></a>Battle Roles
 
-Sooner or later, even the most roleplay-heavy DnD parties get into combat. While playing a jack-of-all-trades has its merits, it's generally more effective to focus on one or two roles and build your character for those. For instance, the Wizard spell list can be overwhelming, but knowing that you're focusing on control spells really helps give you a direction. Thinking about what roles you want to play in battle can give you focus not only in your character build, but also your tactics. There are 5 basic roles most characters can play in battle.
+Sooner or later, even the most roleplay-heavy DnD parties get into combat. While playing a jack-of-all-trades has its merits, it's generally more effective to focus on one or two roles and build your character for those. For instance, the Wizard spell list can be overwhelming, but knowing that you're focusing on control spells helps give you a direction. Thinking about what roles you want to play in battle can give you focus not only in your character build, but also your tactics. There are 5 basic roles most characters can play in battle.
 
 
 ### <a name="BattleRoles-Blaster"></a>Blaster
@@ -101,7 +101,7 @@ Good control spells include:
 * **Enemies Abound** (_3rd level_) &ndash; Turn the biggest enemy against its own party.
 * **Entangle** (_1st level_) &ndash; A great low-level option available to Druids and Rangers (with optional spells enabled).
 * **Forcecage** (_7th level_) &ndash; A resilient and reliable control spell for a single target, even against powerful foes. Available to Bards, Sorcerers, and Wizards.
-* **Hold Monster** (_5th level_) &ndash; Basically, Hold Person, but it works on non-humanoid creatures. Pretty much the same thing the Monk gets with a stunning strike. Available to many spellcasters.
+* **Hold Monster** (_5th level_) &ndash; Hold Person, but it works on non-humanoid creatures. Pretty much the same thing the Monk gets with a stunning strike. Available to many spellcasters.
 * **Hold Person** (_2nd level_) &ndash; Paralyzes a single humanoid target (but can be upcast for additional targets). This does pretty much the same thing as a Monk's stunning strike. Available to most spellcasters.
 * **Hypnotic Pattern** (_3rd level_) &ndash; Can completely decimate an enemy party. Notably does not allow a subsequent saving throw when the enemy's next turn comes up, so if an enemy fails the first saving throw, they're finished. Available to Bards, Sorcerers, Warlocks, Wizards, and a few subclasses.
 * **Mass Suggestion** (_6th level_) &ndash; Suggestion for up to 12 targets.
@@ -113,7 +113,7 @@ Good control spells include:
 
 #### Is a Controller Fun?
 
-More than any other role, controllers are strategic and allow you to play the battlefield like a game of chess. Controllers can absolutely shut down a single enemy or a whole party, which can be even more important than dealing damage quickly. No matter who you have in your party, there are going to be times when controlling the enemy party will be more important than hitting them really hard, whether you're playing offensively or defensively. 
+More than any other role, controllers are strategic and allow you to play the battlefield like a game of chess. Controllers can shut down a single enemy or a whole party, which can be even more important than dealing damage quickly. No matter who you have in your party, there are going to be times when controlling the enemy party will be more important than hitting them really hard, whether you're playing offensively or defensively. 
 
 #### Good Controller Classes
 
@@ -151,7 +151,7 @@ There aren't many good workarounds for the Striker role. You need at least one i
 
 <dfn>Support characters</dfn> help teammates in battle in various ways. Can involve healing spells, buffs, or other ways of making teammates more effective.
 
-Healing is important, but not as important as it is in many video games. It's generally very difficult (and inadvisable) to keep up with healing allies in the middle of a fight. Healing is for quick saves when a character is near death (or has just been knocked out). It's usually a better idea to get the party to do more damage and end fights quickly than to keep everyone healed through the fight. In that sense, buffs can be just as important as healing for a support character.
+Healing is important, but not as important as it is in many video games. It's generally difficult (and inadvisable) to keep up with healing allies in the middle of a fight. Healing is for quick saves when a character is near death (or has just been knocked out). It's usually a better idea to get the party to do more damage and end fights quickly than to keep everyone healed through the fight. In that sense, buffs can be just as important as healing for a support character.
 
 Buffs include spells and abilities that increase skills or saving throws, allow allies to take extra actions, or grant advantage on attack rolls. Many spellcasters have buff options, but martial characters can do things like shove an opponent prone to grant advantage to allies. Paladins also have auras, which grant benefits to any ally within range.
 
@@ -178,7 +178,7 @@ To be an effective tank, you need some way of getting enemies to focus on you. T
 
 #### Is a Tank Fun?
 
-Being a good tank is kind of like playing bass: you can do some amazing work, but one of your biggest jobs is to make the whole band play better together. Being able to take or avoid huge amounts of damage can be really fun, but tanking is also kind of a support role because it allows your back line party members to do their thing without getting killed.
+Being a good tank is kind of like playing bass: you can do some amazing work, but one of your biggest jobs is to make the whole band play better together. Being able to take or avoid huge amounts of damage can be fun, but tanking is also kind of a support role because it allows your back line party members to do their thing without getting killed.
 
 #### Good Tank Classes
 
@@ -209,7 +209,7 @@ If you have any interest in being a social character and influencing NPCs, being
 
 ### <a name="ExplorationRoles-Infiltration"></a>Infiltration
 
-<dfn>Infiltration characters</dfn> excel in stealth, breaking & entering, and general trickery. (Disarming traps falls here too.) Usually requires a high Dexterity stat and proficiency with Thieves' Tools. A decent Investigation skill can be really helpful too.
+<dfn>Infiltration characters</dfn> excel in stealth, breaking & entering, and general trickery. (Disarming traps falls here too.) Usually requires a high Dexterity stat and proficiency with Thieves' Tools. A decent Investigation skill can be helpful too.
 
 There's one class that's all about this: Rogues. Every Rogue is good at this. Many other classes have subclasses with some Rogue-ish qualities, like the Trickery Cleric and Shadow Monk, but you can also build most characters to have these proficiencies, if desired. Some character backgrounds, such as Criminal, will grant proficiency in Thieves' Tools.
 
@@ -315,7 +315,7 @@ Think about who’s going to be the front line when enemies close in. Your Bard 
 
 ### Don’t Neglect Support and Control Roles
 
-Parties don’t necessarily need a dedicated [supporter](/5e-build-guides/support-caster-builds/) or [controller](/5e-build-guides/control-caster-builds/), but having one can make your lives easier. You can absolutely play the game without these roles, but think about what you’ll do in situations where they’d be useful.
+Parties don’t necessarily need a dedicated [supporter](/5e-build-guides/support-caster-builds/) or [controller](/5e-build-guides/control-caster-builds/), but having one can make your lives easier. You can play the game without these roles, but think about what you’ll do in situations where they’d be useful.
 
 Of course having a Cleric, Bard, or Druid will help with healing, but there are other ways to do that. Everyone can carry potions and drink them when needed. (There’s a popular house rule that allows you to drink a potion as a bonus action, which really helps.) Taking short rests between combat encounters is probably preferable to in-combat healing. But many other types of characters can help with this too.
 

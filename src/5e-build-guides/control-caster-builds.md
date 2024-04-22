@@ -117,7 +117,7 @@ Role Fit: ★★★★★
 
 ### Sorcerer
 
-Sorcerers make excellent blasters, but they have some very good options for control as well. For spell selection, they’re basically Wizard-light and have a lot of the same options that Wizards have. One limitation they have in comparison to Wizards is the lower number of spells they can learn, and they don’t prepare spells, giving them less versatility in their options than Wizards. While a Wizard can potentially learn almost every spell and swap them out on a long rest, Sorcerers have to choose the spells that are important to them and can only change them on a level up. Even with that limitation, Sorcerers can make great Controllers if you commit to the build.
+Sorcerers make excellent blasters, but they have some great options for control as well. For spell selection, they’re basically Wizard-light and have a lot of the same options that Wizards have. One limitation they have in comparison to Wizards is the lower number of spells they can learn, and they don’t prepare spells, giving them less versatility in their options than Wizards. While a Wizard can potentially learn almost every spell and swap them out on a long rest, Sorcerers have to choose the spells that are important to them and can only change them on a level up. Even with that limitation, Sorcerers can make great Controllers if you commit to the build.
 
 Spell Options: ★★★★☆
 
@@ -126,7 +126,7 @@ Role Fit: ★★★★☆
 
 ### Bard
 
-While known primarily as Support casters, Bards actually make very good Controllers with at least a few options at every spell level and the spell slots to use them. They have the same limitation as Sorcerers in that they don’t prepare spells, so they have to commit to their spell selection for an entire level, making it harder for them to slip into the Controller role for a short time. Adding to this challenge is the fact that Bards are typically expected to be Support characters, making it hard to split their spell choices between the two roles. Bards can make fantastic Controller characters, just make sure your party has the support it needs before committing fully to the role.
+While known primarily as Support casters, Bards can make great Controllers with at least a few options at every spell level and the spell slots to use them. They have the same limitation as Sorcerers in that they don’t prepare spells, so they have to commit to their spell selection for an entire level, making it harder for them to slip into the Controller role for a short time. Adding to this challenge is the fact that Bards are typically expected to be Support characters, making it hard to split their spell choices between the two roles. Bards can make fantastic Controller characters, just make sure your party has the support it needs before committing fully to the role.
 
 Spell Options: ★★★★☆
 
@@ -135,7 +135,7 @@ Role Fit: ★★★☆☆
 
 ### Druid
 
-Druids are an odd mix of support, damage, and control spells, with some added utility from wildshape, making them very versatile characters. While their number of control spells is relatively low, they still have some excellent control options. At level 1, for example, Entangle is one of the best control spells and remains useful throughout the game—and it’s exclusive to Druids. Like Bards, Druids are often expected to be Support characters, but Druids can prepare spells each long rest, giving them far more versatility in their spell selection than a Bard or Sorcerer. The only real challenge for the role fit is that Druids have so many things they can do that it can be hard to decide when to use a control spell and when to do something else. Still, Druids are excellent Controllers that have plenty of options for absolutely wrecking an enemy party.
+Druids are an odd mix of support, damage, and control spells, with some added utility from wildshape, making them very versatile characters. While their number of control spells is relatively low, they still have some excellent control options. At level 1, for example, Entangle is one of the best control spells and remains useful throughout the game—and it’s exclusive to Druids. Like Bards, Druids are often expected to be Support characters, but Druids can prepare spells each long rest, giving them far more versatility in their spell selection than a Bard or Sorcerer. The only real challenge for the role fit is that Druids have so many things they can do that it can be hard to decide when to use a control spell and when to do something else. Still, Druids are excellent Controllers that have plenty of options for wrecking an enemy party.
 
 Spell Options: ★★★☆☆
 
@@ -153,7 +153,7 @@ Role Fit: ★★★☆☆
 
 ### Cleric
 
-Clerics are the only full casters that I would say are absolutely not a fit for the Controller role. They only have 3 spell options at relatively low levels (1, 2, and 4), and are really designed to be support and damage casters. That said, Hold Person and Banishment are two of the more useful control spells, and both are on the Cleric spell list. While Clerics are already fulfilling two roles, they do prepare spells, making it easier to fit a control spell or two into their daily spell lists as needed. Still, I hesitate to call a Cleric a Controller. They’re more like a support and damage caster with one or two control options.
+Clerics are the only full casters that I would say are not a fit for the Controller role. They only have 3 spell options at relatively low levels (1, 2, and 4), and are designed to be support and damage casters. That said, Hold Person and Banishment are two of the more useful control spells, and both are on the Cleric spell list. While Clerics are already fulfilling two roles, they do prepare spells, making it easier to fit a control spell or two into their daily spell lists as needed. Still, I hesitate to call a Cleric a Controller. They’re more like a support and damage caster with one or two control options.
 
 Spell Options: ★☆☆☆☆
 

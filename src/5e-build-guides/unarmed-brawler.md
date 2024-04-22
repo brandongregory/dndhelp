@@ -42,13 +42,13 @@ A tweet from lead game designer Jeremy Crawford in 2019 stated that unarmed atta
 
 It’s similarly unclear whether unarmed attacks would work with Ranger features like Hunter’s Mark. There’s no clear statement that it wouldn’t, but it hasn’t been stated to work either.
 
-In both cases, the best thing to do is ask your DM before building a character for play. There’s really no balance reason why it wouldn’t be good, so it’s purely a personal preference. Your DM may even allow Paladins and Rangers, who get a fighting style at level 2, to take the Unarmed fighting style even though it’s not technically available to them.
+In both cases, the best thing to do is ask your DM before building a character for play. There’s no balance reason why it wouldn’t be good, so it’s purely a personal preference. Your DM may even allow Paladins and Rangers, who get a fighting style at level 2, to take the Unarmed fighting style even though it’s not technically available to them.
 
-As for Barbarians, they’d have to multiclass or take a feat to get the fighting style (as Barbarians don’t get any fighting style through their class), but most Barbarian features would absolutely work with it.
+As for Barbarians, they’d have to multiclass or take a feat to get the fighting style (as Barbarians don’t get any fighting style through their class), but most Barbarian features would work with it.
 
 ## <a name="should-i-grapple"></a>Should I Grapple?
 
-Grappling in 5e grants some strategic advantages, if you know how to use it. To grapple, you roll an Athletics check; whoever you’re trying to grapple rolls either Athletics or Acrobatics to contest it. If your opponent rolls lower than you, they are now grappled by you. On its own, grappling reduces an enemy’s movement speed to 0. That’s basically it. You can move the opponent, moving at half speed on your turn, but grappling does not give advantage on attacks (unless you took the Grappler feat).
+Grappling in 5e grants some strategic advantages, if you know how to use it. To grapple, you roll an Athletics check; whoever you’re trying to grapple rolls either Athletics or Acrobatics to contest it. If your opponent rolls lower than you, they are now grappled by you. On its own, grappling reduces an enemy’s movement speed to 0. That’s it. You can move the opponent, moving at half speed on your turn, but grappling does not give advantage on attacks (unless you took the Grappler feat).
 
 Why would you use this? If an enemy keeps getting away from you (like an enemy who can fly or run up walls), this prevents them from fleeing out of reach. You may want to take advantage of effects in the field, or nullify enemy advantages from effects—for instance, dragging an enemy into the Cleric’s Spirit Guardians range and preventing them from fleeing, or grabbing an enemy that’s hiding in darkness and dragging them out into a brighter area so your allies can hit them more effectively.
 
@@ -76,7 +76,7 @@ _Almost_ any Fighter subclass can work (sorry, Arcane Archer), but a few work be
 
 ### Battle Master
 
-The Battle Master’s fighting maneuvers will make an unarmed character feel like more of an expert combatant, but can also solve a few other problems for an unarmed character. Grappling Strike combines an attack with a grapple attempt, which can really help grapplers keep up the damage. Many maneuvers will boost the damage on an attack, overcoming the slightly lower damage-per-attack that unarmed Fighters have compared to some other builds. The Battle Master is considered not only one of the best Fighter subclasses, but one of the better subclasses of any class, and it works very well with unarmed builds.
+The Battle Master’s fighting maneuvers will make an unarmed character feel like more of an expert combatant, but can also solve a few other problems for an unarmed character. Grappling Strike combines an attack with a grapple attempt, which can help grapplers keep up the damage. Many maneuvers will boost the damage on an attack, overcoming the slightly lower damage-per-attack that unarmed Fighters have compared to some other builds. The Battle Master is considered not only one of the best Fighter subclasses, but one of the better subclasses of any class, and it works well with unarmed builds.
 
 ### Rune Knight
 

@@ -51,7 +51,7 @@ Additionally, dexterity saves are much more common than strength saves. Dexterit
 
 ## <a name="Class-Breakdown"></a>Class Breakdown
 
-_Note: some classes that don’t really have a need for either strength or dexterity have been omitted._
+_Note: some classes that don’t have a need for either strength or dexterity have been omitted._
 
 **Barbarian**: Bonus rage damage only works with strength attacks, so strength typically works better for barbarians (although they also require a good dexterity score for defense).
 
@@ -59,12 +59,12 @@ _Note: some classes that don’t really have a need for either strength or dexte
 
 **Cleric**: Any cleric that gets Divine Strike at level 8 can get good weapon damage and can be built using either strength or dexterity for their weapon strikes. (Clerics that get Potent Spellcasting instead of Divine Strikes at level 8 typically use cantrips for their main damage, but can also get some good use out of weapons.) A larger determining factor might be what armor and weapon proficiencies the subclass has access to—subclasses with heavy armor proficiency typically veer toward strength, and a lack of finesse simple weapons often makes strength builds a little easier to figure out for subclasses without martial weapon proficiency.
 
-**Fighter**: Both strength and dexterity builds work great. Very diverse builds possible here. Bear in mind that Fighters get more attacks than almost anyone, so the damage bonus from great weapon fighting goes further here than on other builds, but dexterity fighters are very capable as well.
+**Fighter**: Both strength and dexterity builds work great. Very diverse builds possible here. Bear in mind that Fighters get more attacks than almost anyone, so the damage bonus from great weapon fighting goes further here than on other builds, but dexterity fighters are perfectly capable as well.
 
-**Monk**: Monks can technically use strength for their damage, but so many of their abilities work with dexterity that it’s very difficult to make a strength build work.
+**Monk**: Monks can technically use strength for their damage, but so many of their abilities work with dexterity that it’s difficult to make a strength build work.
 
 **Paladin**: Though primarily thought of as heavily armored strength fighters, dexterity paladins are viable and can be very effective. Bear in mind, though, that the paladin smite feature requires a melee weapon strike and will not work with ranged weapons.
 
-**Ranger**: Without natural proficiency in heavy armor, it’s hard to make a strength build work, as medium armor requires a fairly high dexterity score (14). Strength builds are possible, but there are some risks. Stats are usually spread very thin unless the ranger finds some other way to boost their defense. Races with a natural defense, like tortles and loxodon, can safely ignore dexterity. Some other builds involve multiclassing into fighter or cleric to gain heavy armor proficiency. Unless you have a very specific plan for this, though, it’s generally much better to stick with a dexterity build.
+**Ranger**: Without natural proficiency in heavy armor, it’s hard to make a strength build work, as medium armor requires a fairly high dexterity score (14). Strength builds are possible, but there are some risks. Stats are usually spread very thin unless the ranger finds some other way to boost their defense. Races with a natural defense, like tortles and loxodon, can safely ignore dexterity. Some other builds involve multiclassing into fighter or cleric to gain heavy armor proficiency. Unless you have a specific plan for this, though, it’s generally much better to stick with a dexterity build.
 
 **Rogue**: Dexterity all the way. Strength rogues are theoretically possible, but not really viable.

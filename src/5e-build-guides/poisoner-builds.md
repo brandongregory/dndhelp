@@ -46,7 +46,7 @@ Bear in mind that both the additional poison damage and the poisoned condition a
 
 ## <a name="The-State-of-Poison-Damage-in-5e"></a>The State of Poison Damage in 5e
 
-Poison is an iconic way to kill someone with a long history in DnD, but the mechanics of 5e present us with a very mixed bag. The various damage types are all balanced, which means that the easier it is to get a damage type, the more creatures have resistance or immunity; poison is the most common damage type, which means it has the most creatures with resistance or immunity. The Poisoner feat allows you to ignore resistance to poison damage, which is a nice perk, but it doesn’t solve the problem of poison immunity.
+Poison is an iconic way to kill someone with a long history in DnD, but the mechanics of 5e present us with a mixed bag. The various damage types are all balanced, which means that the easier it is to get a damage type, the more creatures have resistance or immunity; poison is the most common damage type, which means it has the most creatures with resistance or immunity. The Poisoner feat allows you to ignore resistance to poison damage, which is a nice perk, but it doesn’t solve the problem of poison immunity.
 
 As of _Keys from the Golden Vault_, here are the stats on creatures with resistance or immunity to poison damage.
 
@@ -65,7 +65,7 @@ A whopping 25% of monsters are completely immune to poison damage, and the Poiso
 * 257 resistant to fire (9.7%)
 * 181 immune to fire (6.8%)
 
-So for poison, compared to other damage types, resistance is less of a problem, but immunity is more of a problem. Ignoring poison resistance is still a nice perk, but it’s not quite as meaningful as it would be for another damage type.
+So for poison, compared to other damage types, resistance is less of a problem, but immunity is more of a problem. Ignoring poison resistance is still a nice perk, but it’s not as meaningful as it would be for another damage type.
 
 
 ### Poison Resistance and Immunity by Creature Type
@@ -92,7 +92,7 @@ Creature type also plays a big role in poison considerations. Most of the poison
 
 ### Poison Resistance and Immunity - Low-Level Monsters
 
-All of the above is considering the entire spectrum of monsters, which goes up to CR 30. The majority of adventures and campaigns take place at lower levels. So if we limit our stats to creatures that are CR 8 or under, the stats for poison immunity improve a bit:
+All of the above is considering the entire spectrum of monsters, which goes up to CR 30. Most adventures and campaigns take place at lower levels. So if we limit our stats to creatures that are CR 8 or under, the stats for poison immunity improve a bit:
 
 * 1967 monsters
 * 1 vulnerable to poison damage
@@ -145,7 +145,7 @@ Much like the Ancestral Guardian, Totem Warriors have no real conflict with the 
 
 ### Cleric - Trickery Domain
 
-Clerics aren't really known for their weapon attacks, but Trickery Domain Clerics have some useful features that make them decent archers as well as tricksters. What makes them a good fit for a poisoner, though, is that they already get poison damage—at level 8, they can add poison damage to their weapon attacks. Overcoming resistance to poison is a minor perk, but it's still a good perk for a class that deals poison damage anyway. If you're wanting to go all-in on poison, Trickery Clerics let you double up on it.
+Clerics aren't known for their weapon attacks, but Trickery Domain Clerics have some useful features that make them decent archers as well as tricksters. What makes them a good fit for a poisoner, though, is that they already get poison damage—at level 8, they can add poison damage to their weapon attacks. Overcoming resistance to poison is a minor perk, but it's still a good perk for a class that deals poison damage anyway. If you're wanting to go all-in on poison, Trickery Clerics let you double up on it.
 
 
 ### Fighter - Arcane Archer

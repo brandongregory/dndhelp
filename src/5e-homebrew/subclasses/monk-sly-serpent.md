@@ -20,7 +20,7 @@ parent:
   class="hero"
   height="720" width="720" />
 
-The Way of the Sly Serpent is a martial art that evolved in cities as practitioners adapted traditional monastic traditions to the more practical requirements of city life. Rather than cloistered warriors with little understanding of the outside world, monks of this tradition were intimately aware of how things worked in cities, which often ran quite contrary to the quiet life most other monks were accustomed to.
+The Way of the Sly Serpent is a martial art that evolved in cities as practitioners adapted traditional monastic traditions to the more practical requirements of city life. Rather than cloistered warriors with little understanding of the outside world, monks of this tradition were intimately aware of how things worked in cities, which often ran contrary to the quiet life most other monks were accustomed to.
 
 
 ## Street Smarts

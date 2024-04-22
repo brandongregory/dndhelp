@@ -14,13 +14,13 @@ parent:
 
 Feats are a useful thing for any character, but sometimes a feat can completely define a build. Barbarians can benefit a lot from feats, particularly if they’re wanting to do more damage. Here are some of the best feats for Barbarians that you can base your build around.
 
-First, a word on the math. Though most of my guides give more general advice, this one uses some hard math to show the results. Finding exact calculations for every possibility is very difficult, so there’s definitely some fuzzy math going on here. Though the calculations are precise, the formulae are generalizations.
+First, a word on the math. Though most of my guides give more general advice, this one uses some hard math to show the results. Finding exact calculations for every possibility is difficult, so there’s definitely some fuzzy math going on here. Though the calculations are precise, the formulae are generalizations.
 
 Assumptions:
 
 1. You take a feat at level 1. This means playing as a variant human, or using a popular house rule to allow characters to take a free feat at level 1.
 2. You start with 16 Strength and increase it at levels 4 and 8 to max it out.
-3. This does not factor in critical hits. I tried working on that, but honestly, the difference between the builds was very minor. For all builds, critical hits become more effective at levels 9 and 13, when you get Brutal Critical.
+3. This does not factor in critical hits. I tried working on that, but honestly, the difference between the builds was minor. For all builds, critical hits become more effective at levels 9 and 13, when you get Brutal Critical.
 4. Your chance to hit goes up with each tier. This is based on general calculations for all classes, because as you go up in level, you usually get magic items that increase your accuracy.
 5. You use Reckless Attack on every turn to give yourself advantage.
 
@@ -173,7 +173,7 @@ Path of the Ancestral Guardian can also work if you want to draw more of your op
 
 Great Weapon Master is considered the best feat for Barbarians, and for good reason. It allows you to reduce your chance to hit for a significant boost in damage. With the Barbarian’s reckless attack, this basically negates the attack penalty and greatly increases your damage. As an added bonus, if you strike the killing blow on a creature, you can make a bonus action attack with that weapon, giving you even more damage potential.
 
-The calculations here assume you’ll use the Great Weapon Master attack for every attack, but you actually have a choice as to whether you want to use it each turn, so your actual damage may vary a bit from this.
+The calculations here assume you’ll use the Great Weapon Master attack for every attack, but you have a choice as to whether you want to use it each turn, so your actual damage may vary a bit from this.
 
 |Level|Hit|Str|Rage|Atk 1|Atk 2|BA Atk|DPR|
 |-----|---|---|----|-----|-----|------|---|
