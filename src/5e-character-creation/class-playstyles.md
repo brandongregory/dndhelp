@@ -143,7 +143,7 @@ Difficulty: ★★☆☆☆
 
 - [Mickey from _Snatch_](https://www.youtube.com/watch?v=SY4oo1B2RNU) - Monks don't have to look like Tibetan Buddhists. A streetwise brawler character can absolutely work as a Monk.
 - [Sanji from _One Piece_](https://www.youtube.com/watch?v=aGgw6HezmVk) - Another Monk outside the mold of an Eastern martial artist, Sanji's kicks are deadly and he's one of the best fighters in the series. His flaming kicks can be accomplished with the Ascendent Dragon subclass.
-- [Ty Lee from _Avatar: The Last Airbender_](https://www.youtube.com/watch?v=qvx6NiccDVA) - Ty Lee is a Monk who makes great use of Stunning Strike. She probably has expertist in Acrobatics as well. (If we're looking at Monks in _Avatar: The Last Airbender_, though, take a look at [Suki](https://youtu.be/IzkL7TsEeK4?feature=shared&t=93) too!)
+- [Ty Lee from _Avatar: The Last Airbender_](https://www.youtube.com/watch?v=qvx6NiccDVA) - Ty Lee is a Monk who makes great use of Stunning Strike. She probably has expertise in Acrobatics as well. (If we're looking at Monks in _Avatar: The Last Airbender_, though, take a look at [Suki](https://youtu.be/IzkL7TsEeK4?feature=shared&t=93) too!)
 - [Yuffie from _Final Fantasy VII_](/dnd-in-pop-culture/final-fantasy/ff7r-yuffie/) - Though she can steal, Yuffie is a great example of how a ranged Monk could work.
 
 

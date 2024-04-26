@@ -21,4 +21,16 @@ article: true
     <p class="author">by <a href="/authors/{{ author | slugify }}/">{{ author }}</a></p>
     
     {{ content | safe }}
+
+    <div class="author-box">
+        {%- for a in authors -%}
+            {%- if a.name == author -%}
+                <h2>About the Author</h2>
+                <h3>{{ a.name }}</h3>
+                <img src="{{ a.photo }}" class="author-bio" alt="Photo of {{ a.name }}">
+                <p>{{ a.bio }}</p>
+            {%- endif -%}
+        {%- endfor -%}
+    </div>
+
 </main>

@@ -21,6 +21,20 @@ article: true
     <p class="author">by <a href="/authors/{{ author | slugify }}/">{{ author }}</a></p>
     
     {{ content | safe }}
+
+    <div class="author-box">
+        {%- for a in authors -%}
+            {%- if a.name == author -%}
+                <h2>About the Author</h2>
+                <h3>{{ a.name }}</h3>
+                <div class="bio-box">
+                    <img src="{{ a.photo }}" class="author-bio" alt="Photo of {{ a.name }}">
+                    <p>{{ a.bio }}</p>    
+                </div>
+            {%- endif -%}
+        {%- endfor -%}
+    </div>
+
 </main>
 
 {% set siblings = collections[section_name] | randomSiblings(page.fileSlug) %}
