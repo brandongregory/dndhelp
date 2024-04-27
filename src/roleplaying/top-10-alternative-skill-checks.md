@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Top 10 Alternative Skill Checks in DnD 5e"
-meta_description: "Whether checking endurance for a long-distance run or intimidation by physicality, some alternative skill checks allow players to shine. Here are some common ones."
+meta_description: "Whether checking endurance for a long-distance run or strength for intimidation, alternative skill checks can allow players to shine. Here are some common ones."
 author: "Brandon Gregory"
 section_name: roleplaying
 tags: ['roleplaying']

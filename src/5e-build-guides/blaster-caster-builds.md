@@ -10,6 +10,9 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
+posterImage: 'poster-blaster-caster-builds.webp'
+posterDescription: 'Illustration of a tiefling sorceress preparing to throw a fireball'
+
 imageArray: 
     - '"https://koboldthinktank.site/images/img-blaster-caster-builds-1920x1080.webp"'
 

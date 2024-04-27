@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Adding Utility to Any Character"
-meta_description: "Artificers may be the ultimate utility class, but any character can add more utility into their problem-solving toolkit. Here are some ways to add utility options to any character."
+meta_description: "Artificers are the ultimate utility class, but any character can add more utility to their toolkit with these items and feats."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -9,6 +9,9 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+posterImage: 'poster-adding-utility-to-any-character.webp'
+posterDescription: 'Illustration of a halfling carrying a plethora of tools'
 
 imageArray: 
     - '"https://koboldthinktank.site/images/img-adding-utility-to-any-character-1920x1080.webp"'
@@ -71,7 +74,7 @@ If you’re being chased, throwing some caltrops down behind you is a no-brainer
 
 Ball Bearings can be used as a control item, covering a wider area than caltrops, but being a bit less potent. (If you’re wanting to disrupt people on stairs, however, ball bearings are unmatched.) But they have other uses.
 
-Throw a single ball bearing to divert someone’s attention. Drop it in someone’s mouth and cast Heat Metal. Drop it in some complicated machinery and see what your DM will do. Cast Light on one and roll it into a room ahead of you to see what’s there. Use it as sling ammunition, since slings are easily concealed and can make a great backup weapon for most characters.
+Throw a single ball bearing to divert someone’s attention. Drop it in someone’s mouth and cast Heat Metal. Drop it in some complicated machinery and see what your DM will do. Cast Light on one and roll it into a room ahead of you to see what’s there. Use it as sling ammunition, since [slings are easily concealed and can make a great backup weapon for most characters](/5e-build-guides/sling-builds/).
 
 There are a ton of uses for ball bearings and creative players will always find uses for them.
 

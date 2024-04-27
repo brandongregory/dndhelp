@@ -33,6 +33,17 @@ img.hero-half {
     }
 }
 
+img.poster {
+    height: 180px;
+    margin: 0 auto;
+    width: 320px;
+
+    @include desktop {
+        height: 432px;
+        width: 768px;
+    }
+}
+
 img.tiny-hero {
     height: 160px;
     margin: 0 auto;

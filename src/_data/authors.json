@@ -1,7 +1,7 @@
 [
     {
         "name": "Brandon Gregory",
-        "bio": "Brandon Gregory is a web developer and musician in the Kansas City area. He's been playing TTRPGs since 2020 and is involved in the disability-related TTRPG podcast Tales from the Crips. He's into classic movies, mental health, and, of course, DnD. Also, he's in a band. One time, they rocked so hard it killed a man.",
-        "photo": "/images/brandon-pic.jpg"
+        "bio": "Brandon Gregory is a web developer and writer in the Kansas City area. He's been playing TTRPGs since 2020 and is involved in <a href='https://www.youtube.com/@larimetaylor8811/videos'>the disability-related TTRPG podcast <cite>Tales from the Crips</cite></a>. He's into <a href='https://brandontalksmovies.com'>classic movies</a>, <a href='https://peculiarpicture.show'>mental health</a>, and, of course, DnD. Also, he's in a band. One time, they rocked so hard it killed a man.",
+        "photo": "/images/brandon-pic.webp"
     }
 ]

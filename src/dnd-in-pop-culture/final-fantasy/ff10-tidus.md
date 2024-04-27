@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Tidus from Final Fantasy X in DnD"
-meta_description: "Tidus grew into a leader and tremendous asset in his party with his support and attack abilities, his drive to succeed and overcome, and his leadership abilities. Here's how to build him."
+meta_description: "Tidus grew into a strong leader with his support and attack abilities, his drive to succeed and overcome, and his leadership abilities. Here's how to build him."
 author: "Brandon Gregory"
 section_name: final-fantasy
 tags: ['final-fantasy','pop-culture']

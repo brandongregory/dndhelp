@@ -14,7 +14,7 @@ toc: true
     
     <h1>Author: {{ author.name }}</h1>
 
-    <p>{{ author.bio }}</p>
+    <p>{{ author.bio | safe }}</p>
 
     {{ content | safe }}
 

@@ -10,6 +10,9 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
+posterImage: 'poster-control-caster-builds.webp'
+posterDescription: 'Illustration of a tiefling bard casting a spell by playing a lute and singing'
+
 imageArray: 
     - '"https://koboldthinktank.site/images/img-control-caster-builds-1920x1080.webp"'
 

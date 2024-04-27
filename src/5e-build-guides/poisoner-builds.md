@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Deadly Poisoner Builds in DnD 5e"
-meta_description: "Killing an opponent with poison is undeniably cooler than killing them with a sword. Here's the state of poison damage in 5e, and some builds for a poisoner character."
+meta_description: "Poisoning an enemy is undeniably cooler than killing them with a sword. Here's the state of poison damage in 5e, and some builds for a poisoner character."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -9,6 +9,9 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+posterImage: 'poster-poisoner-builds.webp'
+posterDescription: 'Illustration of a goblin rogue holding a dagger and some vials of poison'
 
 imageArray: 
     - '"https://koboldthinktank.site/images/img-poisoner-builds-1920x1080.webp"'

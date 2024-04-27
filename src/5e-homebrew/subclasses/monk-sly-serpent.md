@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Monk - Way of the Sly Serpent"
-meta_description: "A 5e homebrew Monk subclass that fights dirty and excels at grappling"
+meta_description: "A DnD 5e homebrew Monk subclass that fights dirty and excels at grappling"
 author: "Brandon Gregory"
 section_name: homebrew-subclass
 tags: ['homebrew','homebrew-subclass']

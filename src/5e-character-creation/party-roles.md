@@ -10,6 +10,9 @@ parent:
   name: Character Creation
   url: /5e-character-creation/
 
+posterImage: 'poster-party-roles.webp'
+posterDescription: "Illustration of an arctic halfling ranger wielding a club"
+
 imageArray: 
     - '"https://koboldthinktank.site/images/img-party-roles-1920x1080.webp"'
 

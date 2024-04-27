@@ -10,6 +10,9 @@ parent:
   name: Character Creation
   url: /5e-character-creation/
 
+posterImage: 'poster-mental-stats-compared.webp'
+posterDescription: "Illustration of a woman in monk's robes intently studying a book"
+
 imageArray: 
     - '"https://koboldthinktank.site/images/img-mental-stats-compared-1920x1080.webp"'
 

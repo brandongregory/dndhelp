@@ -10,6 +10,9 @@ parent:
   name: Character Creation
   url: /5e-character-creation/
 
+posterImage: 'poster-dexterity-vs-strength-builds.webp'
+posterDescription: 'Illustration of a Hispanic human noble woman with a rapier and a stoic white human man with a greatsword'
+
 imageArray: 
     - '"https://koboldthinktank.site/images/img-dexterity-vs-strength-builds-1920x1080.webp"'
 

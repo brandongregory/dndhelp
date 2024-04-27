@@ -10,6 +10,9 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
+posterImage: 'poster-barbarian-feats-for-damage.webp'
+posterDescription: 'Illustration of a half-orc barbarian wielding a spear and shield'
+
 ---
 
 Feats are a useful thing for any character, but sometimes a feat can completely define a build. Barbarians can benefit a lot from feats, particularly if they’re wanting to do more damage. Here are some of the best feats for Barbarians that you can base your build around.

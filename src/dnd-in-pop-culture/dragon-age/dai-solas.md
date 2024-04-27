@@ -1,7 +1,7 @@
 ---
 layout: article-no-related.njk
 meta_title: "Solas from Dragon Age Inquisition in DnD"
-meta_description: "Solas may be a bit of a lone wolf, but he's a dreadfully good addition to the party, with a mix of support, control, and damage spells. Here's how to build him in DnD."
+meta_description: "Solas is a bit of a lone wolf, but he's a dreadfully strong party member, with a mix of support, control, and damage spells. Here's how to build him in DnD."
 author: "Brandon Gregory"
 section_name: dragon-age
 tags: ['dragon-age','pop-culture']

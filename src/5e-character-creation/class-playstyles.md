@@ -10,6 +10,9 @@ parent:
   name: Character Creation
   url: /5e-character-creation/
 
+posterImage: 'poster-class-guide-and-playstyles.webp'
+posterDescription: 'Illustration of a half-elf pirate holding two scimitars'
+
 imageArray: 
     - '"https://koboldthinktank.site/images/img-class-playstyles-1920x1080.webp"'
 

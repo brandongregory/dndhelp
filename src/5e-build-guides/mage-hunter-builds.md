@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Mage Hunter Builds in DnD 5e"
-meta_description: "When it comes time to track down evil mages and stop abuses of magic, some characters excel at this. Here are 5 builds for mage hunter characters that specialize in fighting magic users."
+meta_description: "Tracking down evil mages and stopping abuses of magic is a great character concept. Here are 5 builds for mage hunters that specialize in fighting magic users."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -9,6 +9,9 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+posterImage: 'poster-mage-hunter-builds.webp'
+posterDescription: 'Illustration of a fierce armored dwarf with a longsword beckoning with his hand'
 
 imageArray: 
     - '"https://koboldthinktank.site/images/img-mage-hunter-builds-1920x1080.webp"'

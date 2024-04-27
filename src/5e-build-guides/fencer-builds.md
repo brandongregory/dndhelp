@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "En Garde! Fencer Builds in DnD 5e"
-meta_description: "Throw down the gauntlet with these fencer builds for DnD 5e."
+meta_description: "From Zorro to Puss in Boots, fencers are a big part of pop culture. Throw down the gauntlet with these fencer builds for DnD 5e."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -9,6 +9,9 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+posterImage: 'poster-fencer-builds.webp'
+posterDescription: 'Illustration of a Hispanic human noble woman brandishing a rapier'
 
 ---
 

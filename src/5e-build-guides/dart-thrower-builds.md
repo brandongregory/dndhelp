@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Ultimate Dart Thrower Builds in DnD 5e"
-meta_description: "Whether you're going for Roman war darts or throwing daggers, darts in DnD are surprisingly effective. Here's a bit of background info and build suggestions for dart throwers in DnD."
+meta_description: "From Roman war darts to throwing daggers, darts in DnD are surprisingly effective. Here's some background info and build suggestions for dart throwers in DnD."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -9,6 +9,9 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+posterImage: 'poster-dart-thrower-builds.webp'
+posterDescription: 'Illustration of a halfling rogue wielding two throwing daggers'
 
 imageArray: 
     - '"https://koboldthinktank.site/images/img-dart-thrower-builds-1920x1080.webp"'

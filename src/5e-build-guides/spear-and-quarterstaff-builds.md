@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Spear and Quarterstaff Builds in DnD 5e"
-meta_description: "Quarterstaves and spears are classic weapons that can be extremely effective with the right classes and feats. Whether you use Strength, Dexterity, or Wisdom, here are some builds and considerations."
+meta_description: "Quarterstaves and spears can be powerful weapons with the right classes and feats. Whether you use Strength, Dexterity, or Wisdom, here are some builds."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -9,6 +9,9 @@ date: Last Modified
 parent:
   name: Build Guides
   url: /5e-build-guides/
+
+posterImage: 'poster-spear-and-quarterstaff-builds.webp'
+posterDescription: 'Illustration of a half-elf pirate monk holding a quarterstaff over her shoulder in a relaxed pose'
 
 imageArray: 
     - '"https://koboldthinktank.site/images/img-spear-and-quarterstaff-builds-1920x1080.webp"'

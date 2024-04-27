@@ -10,6 +10,9 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
+posterImage: 'poster-strength-based-unarmed-brawler-builds.webp'
+posterDescription: 'Illustration of a dapper half-orc pugilist with a mustache, raising his fists in challenge'
+
 imageArray: 
     - '"https://koboldthinktank.site/images/img-unarmed-brawler-1920x1080.webp"'
 

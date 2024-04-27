@@ -10,6 +10,9 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
+posterImage: 'poster-tank-builds.webp'
+posterDescription: 'Illustration of a black human man wearing heavy plate armor and challenging an opponent to attack him'
+
 imageArray: 
     - '"https://koboldthinktank.site/images/img-tank-builds-1920x1080.webp"'
 

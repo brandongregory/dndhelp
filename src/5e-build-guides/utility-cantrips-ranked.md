@@ -10,6 +10,9 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
+posterImage: 'poster-best-utility-cantrips.webp'
+posterDescription: 'Illustration of a well-dressed tiefling man in a dark cave, holding a flame in his hand to light the area'
+
 imageArray: 
     - '"https://koboldthinktank.site/images/img-utility-cantrips-ranked-1920x1080.webp"'
 

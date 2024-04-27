@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Armor types in DnD 5e"
+meta_title: "Armor Types in DnD 5e"
 meta_description: "Light armor, medium armor, or heavy armor? This can be confusing, but the mechanics provide some clear advantages for each. Here's a primer."
 author: "Brandon Gregory"
 section_name: character-creation
@@ -9,6 +9,9 @@ date: Last Modified
 parent:
   name: Character Creation
   url: /5e-character-creation/
+
+posterImage: 'poster-armor-types.webp'
+posterDescription: 'Illustration of a black human man wearing heavy plate armor and challenging an opponent to attack him'
 
 imageArray: 
     - '"https://koboldthinktank.site/images/img-what-armor-should-i-wear-1920x1080.webp"'

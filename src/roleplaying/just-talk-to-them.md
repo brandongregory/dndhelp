@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Just Talk to Them - How to Resolve Most TTRPG Disagreements"
+meta_title: "How to Resolve Most TTRPG Disagreements"
 meta_description: "Where there are people, there are eventually disagreements. Here's how to settle disagreements at your table."
 author: "Brandon Gregory"
 section_name: roleplaying

@@ -19,6 +19,14 @@ article: true
     
     <h1>{{ meta_title }}</h1>
     <p class="author">by <a href="/authors/{{ author | slugify }}/">{{ author }}</a></p>
+
+    {%- if posterImage -%}
+    <img
+        src="/images/{{ posterImage }}"
+        alt="{{ posterDescription }}"
+        class="poster"
+        height="384" width="768" />
+    {%- endif -%}
     
     {{ content | safe }}
 
@@ -27,8 +35,8 @@ article: true
             {%- if a.name == author -%}
                 <h2>About the Author</h2>
                 <h3>{{ a.name }}</h3>
-                <img src="{{ a.photo }}" class="author-bio" alt="Photo of {{ a.name }}">
-                <p>{{ a.bio }}</p>
+                <img loading="lazy" src="{{ a.photo }}" class="author-bio" alt="Photo of {{ a.name }}">
+                <p>{{ a.bio |safe }}</p>
             {%- endif -%}
         {%- endfor -%}
     </div>

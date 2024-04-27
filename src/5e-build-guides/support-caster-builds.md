@@ -10,6 +10,9 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
+posterImage: 'poster-support-caster-builds.webp'
+posterDescription: 'Illustration of a halfling cleric smiling warmly and holding out his hand'
+
 imageArray: 
     - '"https://koboldthinktank.site/images/img-support-caster-builds-1920x1080.webp"'
 

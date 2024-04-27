@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Using Stage Plays In Your Campaign"
-meta_description: "Plays provide great opportunities for game masters in storytelling, player participation, and worldbuilding. Here are some ways to effectively use plays in your campaign."
+meta_description: "Plays provide great opportunities for GMs in storytelling, participation, and worldbuilding. Here are some ways to effectively use plays in your campaign."
 author: "Brandon Gregory"
 section_name: roleplaying
 tags: ['roleplaying']
