@@ -1,6 +1,6 @@
 ---
 layout: article-no-related.njk
-meta_title: "Anders from Dragon Age 2 in DnD"
+meta_title: "How to Build Anders from Dragon Age 2 in DnD"
 meta_description: "Anders is a healer and ranged spell splinger with an unusual relationship with a spirit of justice. That's a perfect fit for a certain type of DnD character."
 author: "Brandon Gregory"
 section_name: dragon-age
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Dragon Age in DnD
   url: /dnd-in-pop-culture/dragon-age/
----
 
-<img
-  src="/images/da2-anders-360.webp"
-  srcset="/images/da2-anders-360.webp 360w,
-          /images/da2-anders-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Anders from Dragon Age 2"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-da2-anders.webp'
+posterDescription: "Illustration of a Anders, a mage from Dragon Age 2, possessed by a spirit of justice"
+
+---
 
 In _Dragon Age 2_, Anders was an interesting character. Because of his possession by a spirit of justice, he was a completely different character than he was in _Dragon Age: Awakening_, and he ended up being one of the most interesting (and plot-relevant) companion characters in the game. He was also the designated healer, unless Hawke specialized in it, making him an important part of many party configurations. His unique background, as well as his dual roles as healer and spell-slinger, make him an interesting basis for a DnD character. Here’s how to build him.
 

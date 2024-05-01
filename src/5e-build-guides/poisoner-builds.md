@@ -223,3 +223,5 @@ Having the Poisoner feat and thereby ignoring resistance to poison damage can ma
 If you want to make your own poisons (beyond the basic poison), the _Dungeon Master’s Guide_ has rules on crafting them. This usually involves harvesting raw materials from dangerous creatures. If you’re interested in either crafting or buying poison, talk to your DM about how it works in your game.
 
 Basic Poison is also pretty widely available and many DMs will allow you to craft it if you have proficiency with a Poisoner’s Kit, although it’s not terribly effective. If you want a go-to option to use in combat, the Poisoner Feat is still the way to go. If you want to do things besides coat your weapon in poison, though, you’ll need to look beyond Basic Poison and the more potent poison created with the Poisoner feat.
+
+If you want some specifics on what poisons are available in DnD 5e and how to best use them, [RPGBot has a write-up on using poisons](https://rpgbot.net/dnd5/characters/feats/poisoner-poison-and-poisoning/).

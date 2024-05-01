@@ -105,6 +105,8 @@ This cantrip allows you to freeze water in a 5-foot cube, which can be extremely
 
 A generous DM might also let you control substances with a lot of water in them, like vinegar or beer. With this allowance in place, there are some additional uses. Force vinegar up someone’s nose as an interrogation technique. Manipulate some beer to help your Barbarian win a drinking contest. DMs are likely to deny anything like this that makes a real difference in battle (like forcing poison into someone’s mouth), but this does allow for some creativity.
 
+If you're interested in more detail on this spell, [RPGBot has a write-up on practical uses of Shape Water](https://rpgbot.net/dnd5/characters/spells/shape-water/).
+
 
 ## 4. Light
 
@@ -124,6 +126,8 @@ Druidcraft is a Druid exclusive that’s more limited in use but has a few perks
 Thaumaturgy is a Cleric exclusive and probably has the most limited usage of the 3 spells, but has some great applications for social encounters. You notably cannot light or extinguish flames with this. If you’re trying to make a dramatic first impression or get a message out to a crowd, Thaumaturgy is great for that.
 
 The only time you need to think about which one of these to choose is when you’re picking the Magic Initiate feat and getting some cantrips that way. There are some differences, but I can’t imagine the differences would be great enough to base your entire build around. If you have a spare slot, though, having one of these cantrips is almost always useful.
+
+If you're curious about how these spells can be used in practical ways, [RPGBot has a write-up on how to use them](https://rpgbot.net/dnd5/characters/spells/prestidigitation/).
 
 
 ## 2. Mage Hand

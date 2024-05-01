@@ -20,7 +20,7 @@ imageArray:
 
 In gaming, a Tank is an iconic role, drawing the enemies' ire so your more fragile teammates stay safe. Tanks in DnD work a bit differently. In video games, dedicated tanks will have methods of generating aggro, forcing nearby enemies to focus on them. There isn't really a mechanic for this in DnD. The Tank Fallacy in DnD is that you can build an extremely defensive character who can stand up to any attack, but nothing is stopping an enemy from running right around you and attacking the wizard behind you.
 
-Playing a tank is deceptively hard. You need defense to stay alive, offense to make yourself a decent threat, and a mix of abilities to protect your allies and keep them (and yourself) alive. While a tank isn’t necessarily essential in a party, it can really help protect your allies. Here are 10 of the most effective tank builds.
+Playing a tank is deceptively hard. You need defense to stay alive, offense to make yourself a decent threat, and a mix of abilities to protect your allies and keep them (and yourself) alive. While a tank isn’t necessarily essential in a party, keeping the fire off of your allies allows them to focus on what they do best. Here are 10 of the most effective tank builds.
 
 <div class="contents" markdown="1">
 <strong>Contents</strong>
@@ -60,7 +60,7 @@ Playing a tank is deceptively hard. You need defense to stay alive, offense to m
 
 ### <a name="Class-Ancestral-Guardian"></a>Barbarian – Path of the Ancestral Guardian
 
-Probably a best-in-class tank, the Ancestral Guardian takes the Barbarian’s natural durability and adds some useful features for getting enemies to focus on you and not your allies. Barbarians are already fantastically durable, but you'll probably want to go weapon-and-shield, as your main goal will be getting the enemies to focus on you. If your main goal is to keep your allies from harm, this may be the best option. Of all the Barbarian classes, this is one of the least offensive, so make sure your allies can deal good damage. Also bear in mind that Barbarians typically have all of their high stats locked up in the three physical stats, so mental stats are typically low. This can mean you'll struggle against magical attacks.
+Probably a best-in-class tank, the Ancestral Guardian takes the Barbarian’s natural durability and adds some useful features for getting enemies to focus on you and not your allies. Barbarians are already fantastically durable, but you'll probably want to go weapon-and-shield, as your main goal will be getting the enemies to focus on you. Your main goal is to keep your allies from harm, so this is the best option. Of all the Barbarian classes, this is one of the least offensive, so make sure your allies can deal good damage. Also bear in mind that Barbarians typically have all of their high stats locked up in the three physical stats, so mental stats are typically low. This can mean you'll struggle against magical attacks.
 
 Barbarians need a high Strength and Constitution, and a fairly high Dexterity, and you might want a mental stat with a decent score as well. With stats stretched so thin, the original Human may be a good choice, as they get a +1 to every stat. Mountain Dwarves, Half-Orcs, and Goliaths also make excellent Barbarians, with Goliaths in particular getting a useful ability to shrug off damage once a day.
 
@@ -73,7 +73,7 @@ Barbarians need a high Strength and Constitution, and a fairly high Dexterity, a
 
 ### <a name="Class-Juggernaut"></a>Barbarian – Path of the Juggernaut
 
-Path of the Juggernaut comes from the Critical Role-based _Tal'Dorei Campaign Setting Reborn_. If your table is OK with third-party content, this is one of the most popular. It is also the first third-party content available on D&D Beyond. If this is a valid option for you, it allows you to take a strategic approach to tanking. While the Totem Warrior works by giving resistance to most damage, the Juggernaut gives you a lot more control over you enemies' attack rolls.
+Path of the Juggernaut comes from the Critical Role-based _Tal'Dorei Campaign Setting Reborn_. If your table is OK with third-party content, this is one of the most popular. It is also the first third-party content available on D&D Beyond. If this is a valid option for you, it allows you to take a strategic approach to tanking. While the Totem Warrior works by giving resistance to most damage, the Juggernaut gives you a lot more control over your enemies' attack rolls.
 
 Barbarians get the normal option of attacking (neither advantage nor disadvantage imposed), and you can attack recklessly, which gives you advantage on all attacks, but means enemies attack you with advantage too. The Juggernaut subclass gets a third option to take a defensive stance, which is kind of a reverse reckless attack—you attack with disadvantage, but all enemies attack you with disadvantage too. Having this kind of control over attack rolls makes it much easier to control how much damage you're taking, especially among a large group of melee attackers. A group of enemy mages will probably nullify this advantage, but Barbarians are pretty good at taking down mages without protection.
 
@@ -142,7 +142,7 @@ Paladins are usually Strength-based, but there's no reason a Dexterity-based Oat
 
 ### <a name="Class-Ancients"></a>Paladin – Oath of the Ancients
 
-Oath of the Ancients Paladins have some abilities for pulling individual opponents, though not as many as the Oath of the Crown. What makes the Oath of the Ancients a defensive powerhouse is their aura ability at level 7 gives them and nearby allies resistance to all magic damage, which is really powerful. This later expands to a larger radius. They also get an ability at level 15 to just shrug off death once a day. Remember that Paladin oaths are a huge part of their characters, and that the Oath of the Ancients is one of the more unique oaths, being all about appreciating beauty and seeing the good in others and less about personal morality.
+Oath of the Ancients Paladins have some abilities for pulling individual opponents, though not as many as the Oath of the Crown. What makes the Oath of the Ancients a defensive powerhouse is their aura ability at level 7 gives them and nearby allies resistance to all magic damage, which is really powerful. This later expands to a larger radius. They also get an ability at level 15 to just shrug off death once a day. Remember that Paladin oaths are a huge part of their characters and that the Oath of the Ancients is one of the more unique oaths, being all about appreciating beauty and seeing the good in others and less about personal morality.
 
 Most of what made a good Oath of the Crown Paladin also applies to Oath of the Ancients. Either Strength or Dexterity builds work, with Constitution and Charisma being important as well. Thematically, Oath of the Ancients is a great fit with elves, halflings, satyrs, and a few other off-the-beaten-track races—many of whom get bonuses to Dexterity. Many races can work here, though.
 
@@ -184,7 +184,7 @@ Since Druids use the animal stat blocks while wildshaped, Strength isn't importa
 
 ### <a name="Class-Life"></a>Cleric – Life Domain
 
-Clerics are armored casters who do well on the front lines. Life Domain Clerics get access to heavy armor and have enough offensive magic and weapon power to make themselves a decent threat on the battlefield. Couple this with the best healing abilities in the game and you have a character who can not only hold their own on the front lines, but keep the party alive better than any other support character. While many classes and subclasses get access to healing, Life Clerics are better than any of them at single-target heals, and by a pretty wide margin.
+Clerics are armored casters who do well on the front lines. Life Domain Clerics get access to heavy armor and have enough offensive magic and weapon power to make themselves a decent threat on the battlefield. Couple this with the best healing abilities in the game and you have a character who can not only hold their own on the front lines but keep the party alive better than any other support character. While many classes and subclasses get access to healing, Life Clerics are better than any of them at single-target heals, and by a pretty wide margin.
 
 As spellcasters, Wisdom is the primary stat and should be high for Life Clerics. If you plan to use heavy armor, aim for at least 15 Strength so you can use plate mail. Dexterity builds are possible, but a little trickier because Life Clerics do _not_ get access to martial weapons, and there's a real lack of finesse simple weapons. There are also few options for simple great weapons, so weapon and shield is what you'll want to go with. Humans, Hill Dwarves, Firbolg, and Genasi can make great Life Clerics, but any race that gets a bonus to Wisdom can work pretty well.
 
@@ -197,7 +197,7 @@ As spellcasters, Wisdom is the primary stat and should be high for Life Clerics.
 
 ### <a name="Class-Forge"></a>Cleric – Forge Domain
 
-Clerics are armored casters, but Forge Clercs take this to a new level by worshiping the gods of the forge and focusing on enhancing their weapons and armor. Forge Domain Clerics get access to both heavy armor and martial weapons, allowing them to sit comfortably on the front lines and dish out a decent amount of damage to make themselves a threat. Spells like Spirit Guardians can also do a lot of damage to enemies in melee range. Forge Clerics are durable and dangerous, and have access to the excellent Cleric spell list with great support options.
+Clerics are armored casters, but Forge Clercs take this to a new level by worshiping the gods of the forge and focusing on enhancing their weapons and armor. Forge Domain Clerics get access to both heavy armor and martial weapons, allowing them to sit comfortably on the front lines and dish out a decent amount of damage to make themselves a threat. Spells like Spirit Guardians can also do a lot of damage to enemies in melee range. Forge Clerics are durable and dangerous and have access to the excellent Cleric spell list with great support options.
 
 Everything that makes a good Life Cleric applies here too. Thematically, Dwarves are a great fit, as smithing and forge work are huge parts of their racial culture. Hill Dwarves will get a bonus to Wisdom as well as Constitution, and an additional hit point per level. Mountain Dwarves get bonuses to Strength and Constitution and can work as more martial-based Forge Clerics.
 
@@ -234,7 +234,7 @@ Being able to reduce the speed of your foes makes it harder for them to get away
 
 ### <a name="Feat-Heavy-Armor-Master"></a>Heavy Armor Master
 
-While not as useful as many of the other feats on this list, Heavy Armor Master gives you a flat reduction to any non-magical physical damage that you take. This is amazing at the beginning of the game, although a bit underwhelming at higher levels. Even at those higher tiers of play, though, small reductions to damage can add up. Also bear in mind that most campaigns don't get past mid-tier levels. This is an underrated feat choice for Tanks.
+While not as useful as many of the other feats on this list, Heavy Armor Master gives you a flat reduction to any non-magical physical damage that you take. This is amazing at the beginning of the game, although a bit underwhelming at higher levels. Even at those higher tiers of play, though, small reductions to damage can add up. Also, bear in mind that most campaigns don't get past mid-tier levels. This is an underrated feat choice for Tanks.
 
 ### <a name="Feat-Tough"></a>Tough
 

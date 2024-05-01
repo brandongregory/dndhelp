@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Wakka from Final Fantasy X in DnD"
+meta_title: "How to Build Wakka from Final Fantasy X in DnD"
 meta_description: "A lot of DnD builds, ya? Wakka's powerful ranged attacks and debilitating status effects translate well to DnD. Praise be to Yevon. Here's how to build him."
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff10-wakka-360.webp"
-  srcset="/images/ff10-wakka-360.webp 360w,
-          /images/ff10-wakka-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Wakka from Final Fantasy X"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ffx-wakka.webp'
+posterDescription: 'Graphic of Wakka from Final Fantasy X'
+
+---
 
 In Final Fantasy X, Wakka is as essential as characters come—he’s a powerful attacker, and his ability to hinder his foes can turn the outcome of a battle. While Wakka’s blind religious devotion and racism toward the Al Bhed may initially turn some gamers off, he has a fantastic character arc where he grows past these flaws and learns to think for himself. Wakka’s a powerful character that translates well to DnD, so read on if you want to build a character like him!
 

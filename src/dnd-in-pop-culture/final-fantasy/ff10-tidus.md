@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Tidus from Final Fantasy X in DnD"
+meta_title: "How to Build Tidus from Final Fantasy X in DnD"
 meta_description: "Tidus grew into a strong leader with his support and attack abilities, his drive to succeed and overcome, and his leadership abilities. Here's how to build him."
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff10-tidus-360.webp"
-  srcset="/images/ff10-tidus-360.webp 360w,
-          /images/ff10-tidus-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Tidus from Final Fantasy X"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ffx-tidus.webp'
+posterDescription: 'Graphic of Tidus from Final Fantasy X'
+
+---
 
 From his humble beginnings as a cocky, whiny pro athlete with daddy issues, Tidus grows into not only a mature leader and hero, but also an indispensable member of the team with his quick attacks and party support abilities. Tidus is a character that challenges his party to do the right thing and win even when the odds are against them, and his abilities allow him to make the whole party stronger while hindering his enemies. There are a few ways we can build him, so read this article to see what options are available.
 

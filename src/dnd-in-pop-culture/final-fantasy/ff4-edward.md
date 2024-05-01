@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Edward from Final Fantasy IV in DnD"
+meta_title: "How to Build Edward from Final Fantasy IV in DnD"
 meta_description: "No party needs another horny bard. Edward is a tragic bard with strong controller abilities that can be a benefit to any party."
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,22 +12,17 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff4-edward-360.webp"
-  srcset="/images/ff4-edward-360.webp 360w,
-          /images/ff4-edward-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Edward Chris von Muir from Final Fantasy IV"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ff4-edward.webp'
+posterDescription: 'Graphic of Edward Chris von Muir from Final Fantasy IV'
+
+---
 
 Edward Chris von Muir is a Bard through and through. In Final Fantasy IV, I don't think any argument can be made for Edward being one of the stronger characters, but his focus on control abilities can make for a pretty fantastic DnD character. Bards came in third in my [Control Caster Build guide](/5e-build-guides/control-caster-builds/), but a dedicated Bard Controller can be a force to reckon with on the battlefield while still having some support and utility abilities available to fill the Bard's role as a jack-of-all-trades.
 
 ## Picking a Class and Subclass
 
-Edward is a Bard, and I don't think there's any argument that he's not—that's kind of the whole point of his character. In the short time Edward is with your party, he shows himself to have knowledge on a lot of topics (like when he leads you to the Antlion den), and his main comobat skill is in controlling or debuffing enemies. For those reasons, College of Lore is probably the best fit for Edward. Gaining proficiency in 3 additional skills goes a long way in making this character a source of knowledge for the party, but the real strength is in the Lore Bard's other abilities.
+Edward is a Bard, and I don't think there's any argument that he's not—that's kind of the whole point of his character. In the short time Edward is with your party, he shows himself to have knowledge on a lot of topics (like when he leads you to the Antlion den), and his main combat skill is in controlling or debuffing enemies. For those reasons, College of Lore is probably the best fit for Edward. Gaining proficiency in 3 additional skills goes a long way in making this character a source of knowledge for the party, but the real strength is in the Lore Bard's other abilities.
 
 At level 3, Cutting Words allows you to use your Bardic Inspiration dice to hinder your foes' efforts to harm your party or others. That alone is pretty great for a Controller Bard, but Additional Magical Secrets at level 6 gets you earlier and expanded access to other classes' spell lists, including the Wizard's great selection of control spells. Even some of the spells already on the Bard's spell list are great control spells, such as Hypnotic Pattern and Enemies Abound. For some general advice on building a dedicated Controller, make sure to read my [Control Caster Build guide](/5e-build-guides/control-caster-builds/).
 

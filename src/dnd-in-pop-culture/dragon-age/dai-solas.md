@@ -1,6 +1,6 @@
 ---
 layout: article-no-related.njk
-meta_title: "Solas from Dragon Age Inquisition in DnD"
+meta_title: "How to Build Solas from Dragon Age Inquisition in DnD"
 meta_description: "Solas is a bit of a lone wolf, but he's a dreadfully strong party member, with a mix of support, control, and damage spells. Here's how to build him in DnD."
 author: "Brandon Gregory"
 section_name: dragon-age
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Dragon Age in DnD
   url: /dnd-in-pop-culture/dragon-age/
----
 
-<img
-  src="/images/dai-solas-360.webp"
-  srcset="/images/dai-solas-360.webp 360w,
-          /images/dai-solas-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Solas from Dragon Age Inquisition"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-dai-solas.webp'
+posterDescription: "Illustration of Solas, a mage from Dragon Age Inquisition who definitely won't betray your party"
+
+---
 
 Love him or hate him, Solas was certainly one of the most interesting and compelling characters in _Dragon Age Inquisition_. His burning desire to see elves return to their former glory was admirable, and his skills as a mage made him an asset to just about any party. His most distinguishing feature as a character, though, was his connection to the dream world of the Fade. If you’re wondering how to build a DnD character like this dreadfully good Dragon Age mage, read on!
 

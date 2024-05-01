@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Yang from Final Fantasy IV in DnD"
+meta_title: "How to Build Yang from Final Fantasy IV in DnD"
 meta_description: "Can FF4's unusually buff monk be built in Dungeons and Dragons? Well, you can get pretty close! Here's an odd monk build with high survivability."
 author: "Brandon Gregory"
 section_name: final-fantasy

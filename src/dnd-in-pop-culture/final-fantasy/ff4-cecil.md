@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Cecil from Final Fantasy IV in DnD"
+meta_title: "How to Build Cecil from Final Fantasy IV in DnD"
 meta_description: "Cecil is a quintessential paladin, but his dark past can give him a unique angle for a DnD character."
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff4-cecil-360.webp"
-  srcset="/images/ff4-cecil-360.webp 360w,
-          /images/ff4-cecil-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Cecil Harvey from Final Fantasy IV"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ff4-cecil.webp'
+posterDescription: 'Graphic of Cecil Harvey from Final Fantasy IV'
+
+---
 
 Cecil Harvey is the beloved protagonist in Final Fantasy IV and begins the game as a Dark Knight (for which there's no real DnD equivalent), but grows into something more recognizable: a Paladin. Cecil is definitely not the bland, generic do-gooder stereotype that many Paladins seem to fall into; he has an interesting mix of a dark (but not _too_ dark) past, a misaligned sense of duty, feelings of guilt and inadequacy, and a superhuman lineage that all give some amazing plot hooks for a Dungeons and Dragons character. Let's dig in!
 

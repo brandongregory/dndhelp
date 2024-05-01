@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Rikku from Final Fantasy X in DnD"
+meta_title: "How to Build Rikku from Final Fantasy X in DnD"
 meta_description: "Rikku is an enthusiastic and oddly adorable thief in Final Fantasy X, but she's also a fantastic support and utility character. Here's how to build her in DnD."
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff10-rikku-360.webp"
-  srcset="/images/ff10-rikku-360.webp 360w,
-          /images/ff10-rikku-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Rikku from Final Fantasy X"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ffx-rikku.webp'
+posterDescription: 'Graphic of Rikku from Final Fantasy X'
+
+---
 
 Every Final Fantasy game needs a character who’s both excitable and adorable, and in Final Fantasy X, that’s Rikku. Her thieving skills are useful, but her ability to use complex machinery and mix potions together makes her a valuable team member in any party. Is there an equivalent in DnD? Yes, there’s actually a perfect fit! This guide goes through options and considerations for building a DnD character based on Rikku.
 

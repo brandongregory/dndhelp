@@ -35,8 +35,10 @@ article: true
             {%- if a.name == author -%}
                 <h2>About the Author</h2>
                 <h3>{{ a.name }}</h3>
-                <img loading="lazy" src="{{ a.photo }}" class="author-bio" alt="Photo of {{ a.name }}">
-                <p>{{ a.bio |safe }}</p>
+                <div class="bio-box">
+                    <img loading="lazy" src="{{ a.photo }}" class="author-bio" alt="Photo of {{ a.name }}" width="100" height="100">
+                    <p>{{ a.bio | safe }}</p>    
+                </div>
             {%- endif -%}
         {%- endfor -%}
     </div>

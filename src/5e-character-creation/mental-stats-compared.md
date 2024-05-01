@@ -18,7 +18,7 @@ imageArray:
 
 ---
 
-Dungeons and Dragons 5e gives you 3 mental stats: Intelligence, Wisdom, and Charisma. Picking which one of these you want to invest in can have a lot of impact on your character, not only in the skills they’re good at, but also from a roleplaying perspective.
+Dungeons and Dragons 5e gives you 3 mental stats: Intelligence, Wisdom, and Charisma. Picking which one of these you want to invest in can have a lot of impact on your character, not only in the skills they’re good at but also from a roleplaying perspective.
 
 <div class="contents" markdown="1">
 <strong>Contents</strong>
@@ -44,7 +44,7 @@ Intelligence skills include Arcana, History, Investigation, Nature, and Religion
 
 A high-Intelligence character is accustomed to focusing on studies and investigations without getting distracted. They’re the kind of people you might have to pull away from books when a high-stakes question needs an answer. They like to plan and usually have a backup plan in case things fail. They’re also typically well-read and can easily relate one subject to another they’ve read about. Intelligent characters also hate being understimulated and will seek out interesting or challenging things to learn—although they may get frustrated with research tasks if they consider the subject matter dull or banal.
 
-Low-Intelligence characters may be easily bored or distracted from mental tasks (even ones they’re interested in) and may be slow to put together clues, even if the player is good at those things. They’re not necessarily poorly educated, but may have trouble recalling things they remember from school. They will often prefer physical or improvisational solutions to problems rather than extensive planning.
+Low-Intelligence characters may be easily bored or distracted from mental tasks (even ones they’re interested in) and may be slow to put together clues, even if the player is good at those things. They’re not necessarily poorly educated but may have trouble recalling things they remember from school. They will often prefer physical or improvisational solutions to problems rather than extensive planning.
 
 Classes likely to have a high Intelligence include:
 
@@ -79,7 +79,7 @@ A great example of this archetype would be **Peridot from _Steven Universe_**. S
 
 A character with high Intelligence and low Charisma is going to be a classic brainy character who’s not good in social situations. Depending on their level of self-awareness surrounding this, it can manifest in a few ways.
 
-If a character is only vaguely aware of their low Charisma (or is blissfully unaware), this can look like a socially awkward character who says things they shouldn’t. They’re smart enough to realize that they frequently say the wrong thing, but usually don’t know until they see other people react to it.
+If a character is only vaguely aware of their low Charisma (or is blissfully unaware), this can look like a socially awkward character who says things they shouldn’t. They’re smart enough to realize that they frequently say the wrong thing but usually don’t know until they see other people react to it.
 
 A great example of this type of character is **Willow from _Buffy the Vampire Slayer_**. She excitedly talks about what interests her, but if it’s not well received, there’s an embarrassed resignation, as if to say, “Oh no, not again.” She’s also fallen prey to more charismatic predators who have used her social ineptitude to lure her into danger.
 
@@ -93,7 +93,7 @@ An example of this character type would be **Dr. House from the TV series _House
 
 Wisdom stats include Animal Handling, Insight, Medicine, Perception, and Survival. Insight is a skill for reading others and gauging their intentions, and Animal Handling is like people skills for animals. Perception and Survival are commonly thought of as scouting skills. Medicine is a bit of an odd fit, but it’s still technically a Wisdom skill.
 
-A high-Wisdom character is going to be aware of their surroundings, quick to recognize danger or subtle changes in a crowd. They’re often quick-thinking, preferring to use their well-developed intuition to improvise their way through things rather than rely on extensive planning. They’re very self-aware—if you ask them what their weaknesses are, they’re going to know exactly what those weaknesses are, and they’ll be working to fix them. They’re also typically fond of parables and stories that tell life lessons, sometimes choosing to tell a story rather than answer a question.
+A high-Wisdom character is going to be aware of their surroundings and quick to recognize danger or subtle changes in a crowd. They’re often quick-thinking, preferring to use their well-developed intuition to improvise their way through things rather than rely on extensive planning. They’re very self-aware—if you ask them what their weaknesses are, they’re going to know exactly what those weaknesses are, and they’ll be working to fix them. They’re also typically fond of parables and stories that tell life lessons, sometimes choosing to tell a story rather than answer a question.
 
 Low-Wisdom characters can manifest in a few ways. They can lack awareness, frequently getting lost in their thoughts or distracted by small things in focus while ignoring things happening around them. It can also manifest as a lack of self-awareness, or immaturity. Imagine a man so convinced that he has no weaknesses that he finds ways to justify his mistakes or blame them on others.
 
@@ -134,7 +134,7 @@ Just because you’re quick-thinking doesn’t mean you’re well-liked. Charact
 
 Charisma is much more than charm, but sometimes a lack of charm is the best example. A gruff warrior who’s been through countless battles and knows how to protect themself may be dismissed initially because of a poor first impression or sometimes overshadowed by stronger personalities.
 
-A great example of this type of character is Sandor Clegane, better known as **The Hound in _Game of Thrones_**. He’s strong, but far from the strongest on the show, and he regularly punches above his weight when dealing with a difficult foe. But severe facial scarring led to ostracization throughout his life, so he never developed great social skills. He tends to shy away from social encounters but knows exactly what to do in a fight.
+A great example of this type of character is Sandor Clegane, better known as **The Hound in _Game of Thrones_**. He’s strong, but far from the strongest on the show, and he regularly punches above his weight when dealing with a difficult foe. However severe facial scarring led to ostracization throughout his life, so he never developed great social skills. He tends to shy away from social encounters but knows exactly what to do in a fight.
 
 Sometimes low Charisma isn’t a problem for a character so much as it’s just not something they rely on. These characters aren’t great in social situations, but rather than let that be a handicap, they just play to their strengths and focus on what they’re good at.
 
@@ -146,7 +146,7 @@ An example of this more nuanced type of character would be **Rei from _Star Wars
 
 Charisma stats are entirely social and include Deception, Intimidation, Performance, and Persuasion. Most of these are used in conversation, but performance is a bit more. It involves showmanship and musical performances, but also convincing acting and even things like riling up a crowd to stand against a noble’s tyranny.
 
-A high-Charisma character is going to jump in quickly to handle disagreements and calm things down when people are riled up. They know how to make introductions and win favor, and are typically generous with the people around them (or, at least, the people they want to garner favor with). They’ll rarely get flustered in a social situation and will often try to talk their way out of tense situations. It’s up in the air whether it’s better to be loved or feared, but high-Charisma characters will definitely try for one of those.
+A high-Charisma character is going to jump in quickly to handle disagreements and calm things down when people are riled up. They know how to make introductions and win favor, and are typically generous with the people around them (or, at least, the people they want to garner favor with). They’ll rarely get flustered in a social situation and will often try to talk their way out of tense situations. It’s up in the air whether it’s better to be loved or feared, but high-Charisma characters will try for one of those.
 
 Low-Charisma characters are generally bad at getting other people to listen to what they have to say. This can sometimes mean they’re simply unlikeable, but it’s more likely that they’re simply pushovers whom others don’t listen to, or even invisible in most social situations.
 
@@ -167,7 +167,7 @@ High-Charisma characters from pop culture include:
 * Han Solo from _Star Wars_
 * Leliana from _Dragon Age_
 * Olivier Armstrong from _Full Metal Alchemist: Brotherhood_
-* Star Lord from _Guardians of the Galaxy_
+* Star-Lord from _Guardians of the Galaxy_
 * Xander from _Buffy the Vampire Slayer_
 
 ### High Charisma, Low Intelligence
@@ -184,7 +184,7 @@ An example of this type of character is **Hurley Reyes from _Lost_**. Hurley was
 
 Characters with high Charisma and low Wisdom often seem dumb, but they can show surprising intelligence at times; what they lack is common sense. Many comedic characters fit this definition, though serious characters can fit this too.
 
-The most classic example of this is **Kronk from _The Emperor’s New Groove_**. Though often oblivious, Kronk oozes charisma and confidence and is quick to befriend many that he comes across. Though he’s not dumb. He has a good vocabulary, speaks several languages (if you count Squirrel), and shows surprising mechanical aptitude. This dichotomy is mostly played for laughs, but it really highlights what a character with high Charisma, medium Intelligence, and low Wisdom would look like.
+The most classic example of this is **Kronk from _The Emperor’s New Groove_**. Though often oblivious, Kronk oozes charisma and confidence and is quick to befriend many that he comes across. Though he’s not dumb. He has a good vocabulary, speaks several languages (if you count Squirrel), and shows surprising mechanical aptitude. This dichotomy is mostly played for laughs, but it highlights what a character with high Charisma, medium Intelligence, and low Wisdom would look like.
 
 Sometimes lower Wisdom isn’t necessarily a chronic condition, though, but instead a lack of worldly experience. Imagine a noble trained to be a great speaker and mediator, but who has never had an ordinary conversation with anyone outside the walls of their estate. This lack of street smarts might look like a lack of common sense, but it’s really a lack of experience at its root.
 
@@ -194,7 +194,7 @@ A good example of this type of character would be **Princess Jasmine from Disney
 
 Not necessarily. If you have a good plan as a player, a low-Intelligence character shouldn’t be banned from talking about it (unless you want to). The random nature of rolls also means that a low-Charisma character might roll higher than the bard on a persuasion check.
 
-Low stats can be fun to roleplay, though. When creating my monk Sha’Ivae, I intentionally gave him a really low Charisma score (6), and it’s been fun roleplaying his hilariously incompetent attempts at persuasion. I highly suggest anyone, when creating a character, give thought not only to what they’re good at, but also to what they’re bad at. Those moments can be memorable.
+Low stats can be fun to roleplay, though. When creating my monk Sha’Ivae, I intentionally gave him a really low Charisma score (6), and it’s been fun roleplaying his hilariously incompetent attempts at persuasion. I highly suggest anyone, when creating a character, give thought not only to what they’re good at but also to what they’re bad at. Those moments can be memorable.
 
 ## <a name="Are-Any-Better"></a>Are Any of These Better Than Others?
 

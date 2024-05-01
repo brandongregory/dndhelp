@@ -1,6 +1,6 @@
 ---
 layout: article-no-related.njk
-meta_title: "Isabela from Dragon Age 2 in DnD"
+meta_title: "How to Build Isabela from Dragon Age 2 in DnD"
 meta_description: "Isabela is everyone's favorite pirate queen, but her flashy dueling style makes for a great DnD character. Check out this guide to learn how to make her in DnD."
 author: "Brandon Gregory"
 section_name: dragon-age
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Dragon Age in DnD
   url: /dnd-in-pop-culture/dragon-age/
----
 
-<img
-  src="/images/da2-isabela-360.webp"
-  srcset="/images/da2-isabela-360.webp 360w,
-          /images/da2-isabela-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Isabela from Dragon Age 2"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-da2-isabela.webp'
+posterDescription: "Illustration of Isabela, a pirate captain from Dragon Age 2, slashing her scimitar"
+
+---
 
 Isabela was a fan favorite in _Dragon Age 2_, and for good reason: she was probably the funniest companion character in the game, and she was an absolute badass in battle. She couldn’t take the hits like Aveline or a warrior Hawke, but against a single opponent or a small group, she would annihilate them. If you want to build a character like this pirate queen, there’s a great class and subclass for that. Read on!
 

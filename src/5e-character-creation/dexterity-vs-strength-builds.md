@@ -22,7 +22,7 @@ Martial classes live and die on their ability to do weapon damage, but most mart
 
 This duel from Game of Thrones is a great example of the difference between the two styles:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9bI6h_9K4s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<lite-youtube videoid="9bI6h_9K4s0" playlabel="Game of Thrones: Brienne and Arya"></lite-youtube>
 
 <div class="contents" markdown="1">
 <strong>Contents</strong>

@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Rosa from Final Fantasy IV in DnD"
+meta_title: "How to Build Rosa from Final Fantasy IV in DnD"
 meta_description: "Much more than a simple healer, Rosa was an amazing character in Final Fantasy IV, and can be a great basis for a build in DnD."
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff4-rosa-360.webp"
-  srcset="/images/ff4-rosa-360.webp 360w,
-          /images/ff4-rosa-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Rosa Joanna Farrell from Final Fantasy IV"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ff4-rosa.webp'
+posterDescription: 'Graphic of Rosa Joanna Farrell from Final Fantasy IV'
+
+---
 
 Rosa Joanna Farrell was the love interest for protagonist [Cecil Harvey](/dnd-in-pop-culture/final-fantasy/ff4-cecil/), and Cecil spends much of the early plot trying to rescue his love. But damsel in distress she is not. Once Cecil rescues Rosa from the main villain, she joins the party and stays there through the end of the game, proving to be one of the most important members of the party for the tough battles toward the end of the game. There's a little more to her than simply "the healer," though, so read this guide to find out how to get the many aspects of her right.
 

@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Auron from Final Fantasy X in DnD"
+meta_title: "How to Build Auron from Final Fantasy X in DnD"
 meta_description: "Auron, Final Fantasy X’s stoic warrior, was an invaluable party member due to his survivability and raw damage output. Here's how to build him in DnD."
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff10-auron-360.webp"
-  srcset="/images/ff10-auron-360.webp 360w,
-          /images/ff10-auron-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Auron from Final Fantasy X"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ffx-auron.webp'
+posterDescription: 'Graphic of Auron from Final Fantasy X'
+
+---
 
 Auron, Final Fantasy X’s stoic warrior and mentor, was an invaluable party member throughout most of the game due to his survivability and raw damage output. His character arc may not be as dynamic as some of the other characters like Wakka, due to most of his growth happening in the past and the players finding out about it retroactively, but he plays a vital role in the plot as well. Building Auron as a DnD character can make for a powerful combatant who serves as a voice of reason in their party. Here’s how to build him.
 

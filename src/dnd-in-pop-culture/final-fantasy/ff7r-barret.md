@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Barret from Final Fantasy VII Remake in DnD"
+meta_title: "How to Build Barret from Final Fantasy VII Remake in DnD"
 meta_description: "Barret is a character you don't see often in DnD: a ranged tank. Can that work in DnD? Surprisingly, yes! Here's how."
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff7-barret-360.webp"
-  srcset="/images/ff7-barret-360.webp 360w,
-          /images/ff7-barret-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Barret from Final Fantasy VII Remake"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ff7-barret.webp'
+posterDescription: 'Graphic of Barret Wallace from Final Fantasy VII'
+
+---
 
 Barret Wallace, Final Fantasy VII’s walking tank, was the game’s quintessential physical fighter. In the original game, he more or less attacked normally with his guns; but in the remake, ranged attacks matter a lot more. This makes Barret an odd mix: a super-strong ranged tank character. Is that a traditional build? No, not at all. But is it do-able in DnD? Yeah, absolutely! Here’s how.
 

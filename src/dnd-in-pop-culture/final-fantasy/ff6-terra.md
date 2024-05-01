@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Terra from Final Fantasy VI in DnD"
+meta_title: "How to Build Terra from Final Fantasy VI in DnD"
 meta_description: "Half-esper and powerful magic-user Terra from Final Fantasy VI is an interesting character and a challenge to build in DnD, but these tips will get you there!"
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff6-terra-360.webp"
-  srcset="/images/ff6-terra-360.webp 360w,
-          /images/ff6-terra-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Terra Branford from Final Fantasy VI"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ff6-terra.webp'
+posterDescription: 'Graphic of Terra Branford from Final Fantasy VI'
+
+---
 
 Terra Branford was the protagonist for the first half of Final Fantasy VI, and her journey of self discovery and redemption drove the plot for other characters as well. Though young, she’s already experienced a lot of things in her life and has powerful abilities that set her apart from the common folk and even some of her peers. Terra is a complex character with an equally complex story and skill set, meaning there are a lot of different ways you could spin her character. This article explains the different aspects of her character as they relate to Dungeons and Dragons, allowing you to build a character based on Terra depending on which aspects of her story and skills you want to focus on.
 

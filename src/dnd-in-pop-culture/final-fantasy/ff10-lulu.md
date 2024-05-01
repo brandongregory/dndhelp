@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Lulu from Final Fantasy X in DnD"
+meta_title: "How to Build Lulu from Final Fantasy X in DnD"
 meta_description: "Do you like magic? Do you like blowing things up? Do you want to be a goth princess? Lulu might be the DnD character you've been looking for!"
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff10-lulu-360.webp"
-  srcset="/images/ff10-lulu-360.webp 360w,
-          /images/ff10-lulu-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Lulu from Final Fantasy X"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ffx-lulu.webp'
+posterDescription: 'Graphic of Lulu from Final Fantasy X'
+
+---
 
 Lulu, Final Fantasy X’s stoic goth princess, is the party’s black mage, which means she excels at one thing: blowing up enemies with pure badass elemental magic. While her role in combat is a little one-note, she does what she does extremely well, and her offensive capabilities make her a terror on the battlefield and a powerful ally to the other main characters in the game. If you want to build a character to absolutely wreck enemies with explosive magic, a character like Lulu will get you there.
 

@@ -11,14 +11,14 @@ parent:
   url: /roleplaying/
 ---
 
-Stage plays are a big part of historical pop culture and offer some fun interactions for your players and a unique place to meet with and observe NPCs. From having players improvise parts of a play to using a play as a backdrop for important events, there are many ways to use them in your campaign. Here are some guidelines for effectively using plays in your game.
+Stage plays are a big part of historical pop culture and offer fun interactions for your players and a unique place to meet with and observe NPCs. From having players improvise parts of a play to using a play as a backdrop for important events, there are many ways to use them in your campaign. Here are some guidelines for effectively using plays in your game.
 
 
 ## Having Players Participate in a Play
 
 Having a participatory play can be a nice change of pace for most tables, especially if it helps them accomplish a goal. This depends on your table’s comfort with improvisation, but there are some things you can do to make a play into a fun event for your players.
 
-The DnD adventure _The Wild Beyond the Witchlight_ has an optional play section that gives the players lines that they must use and asks them to improvise the play around the lines. While this can be fun, it’s very improv-heavy and doesn’t provide a lot of guidance. When I ran that module, I re-wrote that section to instead use cue cards to give a rough idea of each scene and let them improvise the details.
+The DnD adventure _The Wild Beyond the Witchlight_ has an optional play section that gives the players lines that they must use and asks them to improvise the play around the lines. While this can be fun, it’s very improv-heavy and doesn’t provide much guidance. When I ran that module, I re-wrote that section to instead use cue cards to give a rough idea of each scene and let them improvise the details.
 
 Here’s the complete play I ran for the players:
 
@@ -50,7 +50,7 @@ For the battles, I ran them as normal battles, tracking hit points and limited c
 
 That said, my group is very comfortable with improv—the players included two improv comedy actors and a podcaster. If your group is less comfortable with improv, you might take an approach similar to _Final Fantasy VI_ and turn it into a slight memory game, asking each player to remember a detail or two about who they talk to or what action they take in the play. Couple this with some skill checks and you’ve got an interactive play with little improv required. Give the players a point for a success (either remembering the correct action or passing a skill check), and give different rewards based on their final score.
 
-The biggest key to success with a participatory play is the rule of cool. If you plan a puzzle with only one solution, you’re in trouble if the players don’t do that one thing. Allow the players to run the play and change your plan based on what the players do. If you plan a dragon fight and your players instead want to talk the dragon out of fighting, allow them to try that approach with skill checks. You usually want them to succeed, and you always want them to have fun. 
+The key to success with a participatory play is the rule of cool. If you plan a puzzle with only one solution, you’re in trouble if the players don’t do that one thing. Allow the players to run the play and change your plan based on what the players do. If you plan a dragon fight and your players instead want to talk the dragon out of fighting, allow them to try that approach with skill checks. You usually want them to succeed, and you always want them to have fun. 
 
 
 ## Using a Play as a Scene for Important Events
@@ -59,7 +59,7 @@ Sometimes a play isn’t something the players should participate in directly bu
 
 The “play within a play” plot device has been used in Shakespeare plays as well as Final Fantasy games, and for good reason: it’s a great way to provide foreshadowing for your campaign. Having a play that mirrors the plot of your game can allow the DM to hint at what’s to come or provide a dramatic parallel to the party’s actions.
 
-One great pop culture example of using a play for foreshadowing was the play toward the end of _Avatar: The Last Airbender_. The play hit on various plot points the party had dealt with throughout their journey and took a meta look at them, such as completely skipping over a mini-arc that fans widely regarded as the worst. In the end, though, the play took a turn for the serious by showing what would happen in the near future if the party failed in their task.
+One great pop culture example of using a play for foreshadowing was the play toward the end of _Avatar: The Last Airbender_. The play hit on various plot points the party had dealt with throughout their journey and took a meta look at them, such as completely skipping over a mini-arc that fans widely regarded as the worst. In the end, though, the play took a turn for the serious by showing what would happen if the party failed in their task.
 
 In TTRPGs, you should avoid using plays as a lore dump. Either summarize the play or (even better) get the players to participate in the play. Have players play either recurring NPCs or each other (pro tip: have players play other players’ characters for maximum satire) to give this a meta-parody feel like in _Avatar_. This makes it easier to work in a little bit of foreshadowing at the end of a play.
 
@@ -127,4 +127,4 @@ By halfling playwright Paela High-hill, a comedy of manners about three halfling
 
 When bad guys kidnap the duke, only one man can save him: Karate Bard, the adventurer who is both a Monk and a Bard. Aided by Clarence the Bloodthirsty Cleric and Fionna the Fairy Barbarian, the play is pretty much 5 minutes of setup and 1 hour of fighting stunts.
 
-**Using this play** – A perfect participation opportunity for a Monk or a Bard, or anyone else. Run it as a series of battles, tracking things normally. The constant fighting on stage is also a great cover for any fighting the party may have to do. (Pro tip: Fionna the Fairy Barbarian can be played by anyone. In fact, the bigger, the funnier.)
+**Using this play** – This is a perfect participation opportunity for a Monk, Bard, or anyone else. Run it as a series of battles, tracking things normally. The constant fighting on stage is also a great cover for any fighting the party may have to do. (Pro tip: Fionna the Fairy Barbarian can be played by anyone. In fact, the bigger, the funnier.)

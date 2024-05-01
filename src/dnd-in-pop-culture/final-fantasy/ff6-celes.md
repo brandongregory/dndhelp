@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Celes from Final Fantasy VI in DnD"
+meta_title: "How to Build Celes from Final Fantasy VI in DnD"
 meta_description: "A magic knight who can absorb harmful magic, Celes was a powerful character in Final Fantasy VI. Here's how to build her in DnD."
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff6-celes-360.webp"
-  srcset="/images/ff6-celes-360.webp 360w,
-          /images/ff6-celes-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Celes Chere from Final Fantasy VI"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ff6-celes.webp'
+posterDescription: 'Graphic of Celes Chere from Final Fantasy VI'
+
+---
 
 Much more than some opera floozy, Celes was a general in the Gestahlian Empire who defected and joined the resistance. Much like other leading lady Terra Branford, Celes has pretty solid fighting abilities, is able to equip most weapons and wear most armor, but is also one of the few characters in the game to learn magic naturally. Her Runic Blade ability allows her to nullify harmful spells cast against the party, making her invaluable when facing enemy mages. This concept has a pretty similar build in DnD, so read on!
 

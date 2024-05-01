@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-meta_title: "Yuna from Final Fantasy X in DnD"
+meta_title: "How to Build Yuna from Final Fantasy X in DnD"
 meta_description: "Yuna is a support caster who guides spirits into the afterlife and consoles their loved ones who are left behind. Is there an equivalent in DnD? Yes!"
 author: "Brandon Gregory"
 section_name: final-fantasy
@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff10-yuna-360.webp"
-  srcset="/images/ff10-yuna-360.webp 360w,
-          /images/ff10-yuna-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Yuna from Final Fantasy X"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ffx-yuna.webp'
+posterDescription: 'Graphic of Yuna from Final Fantasy X'
+
+---
 
 Along with [Tidus](/dnd-in-pop-culture/final-fantasy/ff10-tidus/), Summoner Yuna is one of the main characters from Final Fantasy X. She gets a lot of flack for being unsure of herself in the game, but her character development in overcoming that insecurity is one of the high points for the game. Summoners don’t really have an equivalent in Dungeons and Dragons, but Yuna’s other abilities as a white mage tie nicely into her story as someone who guides the spirits of the dead into a peaceful afterlife. Read on to find out how to recreate her in DnD!
 
