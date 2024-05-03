@@ -18,9 +18,9 @@ imageArray:
 
 ---
 
-Utility is basically things you can do both in and out of battle to solve problems. Some classes, like the Artificer and Wizard, provide amazing utility and can prepare your party to handle any type of problem. Even without a dedicated utility character, though, having some additional options available for problem-solving can help out any party.
+In DnD, utility includes things you can do in and out of battle to solve problems. Some classes, like the Artificer and Wizard, provide amazing utility and can prepare your party to handle any problem. Even without a dedicated utility character, though, having some additional options available for problem-solving can help out any party.
 
-This is especially important for martial characters, who may feel outpaced by casters outside of combat. It’s easy to optimize a character for combat, forgetting that combat is just part of the average DnD game—in fact, some sessions may not have combat at all. So having useful things to do outside of combat can make things much more fun for those times you’re not trying to kill something.
+Utility is especially important for martial characters, who may feel outpaced by casters outside of combat. It’s easy to optimize a character for combat, forgetting that combat is just part of the average DnD game—in fact, some sessions may not have combat at all. So having useful things to do outside of combat can make things much more fun for those times you’re not trying to kill something.
 
 Here are some mundane items, magic items, and feats to add utility to any character.
 
@@ -34,28 +34,28 @@ Here are some mundane items, magic items, and feats to add utility to any charac
 
 ## <a name="Mundane-Items"></a>10 Mundane Items for Utility
 
-With spellcasters using magic for everything, it’s easy to forget that items available in any general goods store can solve a lot of problems for players. Anyone, spellcaster or not, can find some use in these items, but martial characters can sometimes have an edge when using them.
+With spellcasters using magic for everything, it’s easy to forget that items available in any general goods store can solve many problems for players. Any character can find some use in these items, but martial characters can sometimes have an edge when using them.
 
-The _Dungeon Master’s Guide_ has a lot of little rules for how to play out things like breaking through doors, cutting ropes, or disabling a small lock. And, of course, Dungeon Masters can always just decide for themselves how to play these things out. Here are some mundane items that work well for high-Strength characters.
+The _Dungeon Master’s Guide_ has a lot of little rules for breaking through doors, cutting ropes, or disabling a small lock. And, of course, Dungeon Masters can always just decide for themselves how to play these things out. Here are some mundane items that work well for high-Strength characters.
 
 
 ### 10-Foot Pole
 
 The humble 10-foot pole, a poor man’s Mage Hand, can be useful for checking for traps—and this is probably the most common use—but there are other ways to use one. Pick something up through a cage door, hoist a bucket to a higher spot, and lift a party member from a lower spot. In a pinch, a 10-foot pole can be whittled into a pike or cut down to a quarterstaff.
 
-The only real challenge with 10-foot poles is carrying them. They’re not easy to carry on their own, and their length makes sure they won’t fit neatly in a Bag of Holding. Thoughtful DMs might provide one at the entrance to a dungeon, but you can’t count on that. At a cost of just 5 copper, though, it’s easy to buy one for a dungeon, then dispose of it when you leave.
+The only real challenge with 10-foot poles is carrying them. They’re not easy to carry and their length ensures they won’t fit neatly in a Bag of Holding. Thoughtful DMs might provide one at the entrance to a dungeon, but you can’t count on that. At a cost of just 5 copper, though, it’s easy to buy one for a dungeon, and then dispose of it when you leave.
 
 
 ### Hammer and Pitons
 
-If you have a higher Athletics score than most of the party, you’re going to be better at climbing and getting to more remote spots on the map. Having a hammer and pitons allows you to be not just a scout, but a trailblazer, opening the way up for other party members to follow you. Create footholds or anchor ropes, it’s all useful.
+If you have a higher Athletics score than most of the party, you’ll be better at climbing and getting to more remote spots on the map. A hammer and pitons allow you to be a trailblazer, opening the way up for other party members to follow you. Create footholds or anchor ropes—it’s all useful.
 
-Pitons can also be useful in a few other ways. Hammer one down on the floor to prevent a door from opening. Put two at the same height on trees near each other and run a rope between them—instant tents. Of course, hammers and pitons are much more useful with another item…
+Pitons are also helpful in a few other ways. Hammer one down on the floor to prevent a door from opening. Put two at the same height on trees near each other and run a rope between them—instant tents. Of course, hammers and pitons are much more useful with another item…
 
 
 ### Ropes
 
-Ropes are useful for climbing, but can have other uses. You can tie someone up, including their legs, so they won’t be able to run away (unlike with manacles). You can attach a rope to two pitons across a chasm to create a tightrope (although your party will probably need higher Acrobatics scores to cross it). You can even tie a sled to your Barbarian to more easily carry things. Physical characters should always have a few ropes on them.
+Ropes are useful for climbing but can have other uses. You can tie someone up, including their legs, so they won’t be able to run away (unlike with manacles). You can attach a rope to two pitons across a chasm to create a tightrope (although your party will probably need higher Acrobatics scores to cross it). You can even tie a sled to your Barbarian to carry things more easily. Physical characters should always have a few ropes on them.
 
 
 ### Ram - Portable
@@ -72,16 +72,16 @@ If you’re being chased, throwing some caltrops down behind you is a no-brainer
 
 ### Ball Bearings
 
-Ball Bearings can be used as a control item, covering a wider area than caltrops, but being a bit less potent. (If you’re wanting to disrupt people on stairs, however, ball bearings are unmatched.) But they have other uses.
+Ball Bearings can be used as a control item, covering a wider area than caltrops, but being a bit less potent. (If you want to disrupt people on stairs, however, ball bearings are unmatched.) But they have other uses.
 
 Throw a single ball bearing to divert someone’s attention. Drop it in someone’s mouth and cast Heat Metal. Drop it in some complicated machinery and see what your DM will do. Cast Light on one and roll it into a room ahead of you to see what’s there. Use it as sling ammunition, since [slings are easily concealed and can make a great backup weapon for most characters](/5e-build-guides/sling-builds/).
 
-There are a ton of uses for ball bearings and creative players will always find uses for them.
+Ball bearings have many uses and creative players will always find ways to use them.
 
 
 ### Oil
 
-The description paints this as a grenade-type weapon that you can splash on enemies to increase fire damage, and that can be useful, but it can also be useful to make any object, or any area, flammable. An object or area doused with oil will burn for 2 rounds, and this can be extended by throwing more oil into the flame.
+The description paints this as a grenade-type weapon that you can splash on enemies to increase fire damage, and that can be useful, but it can also be useful to make any object or area flammable. An object or area doused with oil will burn for 2 rounds, and this can be extended by throwing more oil into the flame.
 
 Smash a vial of oil on the floor, and have someone else ignite it with a tinderbox or lit torch to create a floor hazard to make enemies think twice about stepping through it. The oil can be poured down ahead of time to create a trap, and can be ignited in several ways—the Firebolt spell, placing a lit torch precariously on top of a door, or placing an unlit torch in the oil and igniting it from 30 feet away with the Druidcraft spell.
 
@@ -93,7 +93,7 @@ The item’s description makes it seem like these are grenades—and they can be
 
 ### Chalk
 
-At a cost of 1 copper and taking up no space in your inventory, everyone should have chalk. You can leave messages for others that they can erase once they read them, or mark things in a confusing dungeon so you’re not walking in circles. You can leave messages in a lesser-known language or system, like Thieves’ Cant or Druidic if you have a Rogue or Druid in both parts of the group. Pick a table in a tavern and write messages on the underside of it to pass information to a contact without even seeing them. You can even work out a code system to leave secret messages for each other that seem innocuous to onlookers.
+For 1 copper and taking up no space in your inventory, everyone should have chalk. You can leave messages for others that they can erase once they read them, or mark things in a confusing dungeon so you’re not walking in circles. You can leave messages in a lesser-known language or system, like Thieves’ Cant or Druidic if you have a Rogue or Druid in both parts of the group. Pick a table in a tavern and write messages on the underside of it to pass information to a contact without even seeing them. You can even work out a code system to leave secret messages for each other that seem innocuous to onlookers.
 
 Where chalk becomes really handy is if you’re using a virtual tabletop or actual map for your exploration. A scout-type character, like a Ranger or Monk, can make markings using chalk to show where the traps are, or how to get past puzzles. Using a VTT, a scout can draw on the map and let other party members know exactly what he or she finds.
 
@@ -114,7 +114,7 @@ No item inspires a party to think creatively like an Immovable Rod. Once activat
 
 An immovable rod can be used in conjunction with simpler items like pitons and ropes to easily create a way up a sheer cliff. Athletic members of your party can use the rod to break a small chasm into two manageable jumps. 
 
-The rod can also be used offensively. If you’re traveling at any considerable speed, holding the rod at about neck level and hitting the activation button can be deadly. If a foe has been knocked down on the ground, they can be held in place with a well-placed Immovable Rod.
+The rod can also be used offensively. If you’re traveling at any considerable speed, holding the rod at about neck level and hitting the activation button can be deadly. If a foe has been knocked down on the ground, it can be held in place with a well-placed Immovable Rod.
 
 
 ### Bag of Holding / Handy Haversack / Portable Hole
@@ -123,13 +123,13 @@ These do roughly the same thing, but there are some differences. All of them can
 
 The Bag of Holding is an uncommon magic item and will be the best option for most parties. Unlike a backpack, removing items from the Bag of Holding requires an action, so don’t put anything in there that you’d need in combat. Aside from that, though, this is a great item to give any party.
 
-The Handy Haversack is a little more rare, but equally useful. Based on the description, you’d think it would be easier to retrieve items from the haversack, but no, it still requires an action. It also can’t hold as much stuff as a Bag of Holding. The only reason to choose a Handy Haversack over a Bag of Holding is if weight constraints are a big deal for your character—the haversack weighs 10 pounds less. This may not sound like much, but if a character has a really low Strength, this may make a difference.
+The Handy Haversack is a little more rare but equally useful. Based on the description, you’d think it would be easier to retrieve items from the haversack, but no, it still requires an action. It also can’t hold as much stuff as a Bag of Holding. The only reason to choose a Handy Haversack over a Bag of Holding is if weight constraints are a big deal for your character—the haversack weighs 10 pounds less. This may not sound like much, but if a character has a really low Strength, this may make a difference.
 
 A Portable Hole is a much larger container that can notably hold 10-foot objects like ladders and a 10-foot pole. I’ve even heard of some parties using these as camping spots. Just make sure you have someone standing guard, to prevent an opponent from sneaking up, folding up the Portable Hole, and carrying you all away. This has some extra utility as well—you can slide one under a door, then go down on one side of the door and come up on the other. The tradeoff is that you have to unfold it and place it to retrieve anything from it.
 
 Note that a Bag of Holding is replicable by a 2nd-level Artificer.
 
-Also note: I see a lot of people recommending the Robe of Useful Items as a utility magic item. A Bag of Holding or Handy Haversack are generally superior, as they can hold most of the items on a Robe of Useful Items, and much more. The Robe of Useful Items has the potential to have a few other items, like a horse, but these are determined randomly.
+Also note: I see a lot of people recommending the Robe of Useful Items as a utility magic item. A Bag of Holding or Handy Haversack is generally superior, as they can hold most of the items on a Robe of Useful Items, and much more. The Robe of Useful Items has the potential to have a few other items, like a horse, but these are determined randomly.
 
 
 ### Broom of Flying / Winged Boots
@@ -152,12 +152,12 @@ Note that an Alchemy Jug is replicable by a 2nd-level Artificer.
 
 ### Helm of Comprehending Languages
 
-Comprehend Languages is a 1st-level spell, but not every spellcaster can spare a slot to keep it prepared for when they need it. The Helm of Comprehend Languages allows anyone, spellcaster or not, to understand all languages when they need to—and this includes reading. If you want to be able to actually _speak_ the language, that’s another thing, but you can still glean a lot of information from just being able to read or hear any other language.
+Comprehend Languages is a 1st-level spell, but not every spellcaster can spare a slot to keep it prepared for when they need it. The Helm of Comprehend Languages allows anyone, spellcaster or not, to understand all languages when they need to—and this includes reading. If you want to be able to _speak_ the language, that’s another thing, but you can still glean a lot of information from just being able to read or hear any other language.
 
 
 ### Medallion of Thoughts
 
-Detect Thoughts is a 2nd-level spell that’s extremely useful for covert interrogation, spying, or just finding local information on a topic. The Medallion of Thoughts has a lower DC than a dedicated spellcaster would have, but the target doesn’t know you cast it on them unless you really try to pry. Every party can find a use for this item.
+Detect Thoughts is a 2nd-level spell that’s extremely useful for covert interrogation, spying, or just finding local information on a topic. The Medallion of Thoughts has a lower DC than a dedicated spellcaster would have, but the target doesn’t know you cast it on them unless you try to pry. Every party can find a use for this item.
 
 Note that a Medallion of Thoughts is replicable by a 10th-level Artificer.
 
@@ -171,7 +171,7 @@ Note that a Cap of Water Breathing is replicable by a 2nd-level Artificer, and a
 
 ### Dust of Dryness / Decanter of Endless Water
 
-Water is always useful, whether to keep your party from dehydrating or using it with the Shape Water cantrip to accomplish a variety of tasks. The Decanter of Endless Water will provide all the water your party needs for survival purposes, but also has a few utility and even offensive capabilities. The Dust of Dryness condenses water down into super-dense pellets that can be turned back into large quantities of water when the need comes.
+Water is always useful, whether to keep your party from dehydrating or using it with the Shape Water cantrip to accomplish a variety of tasks. The Decanter of Endless Water will provide all the water your party needs for survival purposes but also has a few utility and even offensive capabilities. The Dust of Dryness condenses water down into super-dense pellets that can be turned back into large quantities of water when the need comes.
 
 
 ### Everbright Lantern / Candle of the Deep / Driftglobe
@@ -198,7 +198,7 @@ Perhaps the oddest choice on this list, Kyrzin’s Ooze (available in _Eberron: 
 
 ## <a name="Feats"></a>5 Feats for Utility
 
-Even with mundane and magic items, there are still some gaps in what players can do—or a player may just not want to carry around a dozen vials of oil and acid everywhere they go, which is totally understandable. Some feats increase utility by opening up some basic magic to any character, and these basic spells can go a long way in increasing the utility of a character. Here are 5 feats that can add utility to any character.
+Even with mundane and magic items, there are still some gaps in what players can do—or a player may just not want to carry around a dozen vials of oil and acid everywhere they go, which is understandable. Some feats increase utility by opening up some basic magic to any character, and these basic spells can go a long way in increasing the utility of a character. Here are 5 feats that can add utility to any character.
 
 
 ### Magic Initiate

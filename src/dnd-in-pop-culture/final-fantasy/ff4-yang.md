@@ -12,16 +12,11 @@ parent:
 parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
----
 
-<img
-  src="/images/ff4-yang-360.webp"
-  srcset="/images/ff4-yang-360.webp 360w,
-          /images/ff4-yang-768.webp 768w"
-  sizes="(min-width: 768px) 384px,180px"
-  alt="Graphic of Yang Fang Leiden from Final Fantasy IV"
-  class="tiny-hero"
-  height="360" width="360" />
+posterImage: 'poster-ff4-yang.webp'
+posterDescription: 'Graphic of Yang Fang Leiden from Final Fantasy IV'
+
+---
 
 Yang Fang Leiden, king of Fabul and master Monk, ended up being one of the strongest playable characters in Final Fantasy IV, and he fills a role that's a difficult build in DnD: a Monk [Tank](/5e-build-guides/tank-builds/). He had a few other tricks up his sleeves too, like an attack that hit all opponents and the ability to change his damage type based on which claws he equipped. There are a few build possibilities that fit these criteria, so if you're interested in building Final Fantasy IV's classic monk, read on!
 

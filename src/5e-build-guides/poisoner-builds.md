@@ -62,7 +62,7 @@ As of _Keys from the Golden Vault_, here are the stats on creatures with resista
 * 681 immune to poison damage (25.8%)
 * 739 immune to poisoned condition (28.0%)
 
-A whopping 25% of monsters are completely immune to poison damage, and the Poisoner feat won’t help with that. To compare with the next most resisted damage type, fire, here are the stats for that:
+A whopping 25% of monsters are completely immune to poison damage, and the Poisoner feat won’t help with that. To compare with the next most resisted damage type, [fire damage](https://www.plusonetogaming.com/blog-episodes/fire-damage-5e-rules-and-tools-to-manage-dnd-fire), here are the stats for that:
 
 * 41 vulnerable to fire damage (1.5%)
 * 257 resistant to fire (9.7%)
@@ -74,8 +74,6 @@ So for poison, compared to other damage types, resistance is less of a problem, 
 ### Poison Resistance and Immunity by Creature Type
 
 Creature type also plays a big role in poison considerations. Most of the poison immunities come from 3 monster types: Constructs, Fiends, and Undead. If you know what type of monsters you’ll be facing, that can greatly impact the effectiveness of poison. Here’s a breakdown of all the creature types and how many of that type are immune to poison damage:
-
-
 
 * Fiends: 178 of 207 (86.4%) immune to poison damage
 * Constructs: 152 of 179 (84.9%) immune to poison damage

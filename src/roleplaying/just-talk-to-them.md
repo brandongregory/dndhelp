@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Roleplaying
   url: /roleplaying/
+
+posterImage: 'poster-just-talk-to-them.webp'
+posterDescription: 'Illustration of a blonde woman and a brunette man mad at each other and looking away'
+
 ---
 
 Watching forums and subreddits for Dungeons & Dragons and other table-top RPGs, you see the same sorts of questions pop up over and over again.
@@ -33,7 +37,7 @@ Punishing male player characters in-game for sexual harassment will not stop the
 
 If a clown is not entertaining kids, they will find ways to entertain themselves using the clown; similarly, if a TTRPG game is not entertaining players, they will find ways to entertain themselves using the characters and setting—no matter how inappropriate that is for the table. If player characters are behaving in a way that the table does not like, there’s a mismatch in what the players and DM are looking for out of the game.
 
-Ideally, topics like this are discussed in a [session zero](https://www.level1geek.com/dnd-session-0/), but that’s not foolproof. Some tables don’t know how to conduct a session zero and are surprised to later find there are disagreements at the table. Even seasoned players will leave things out of a session zero. Whatever level of pre-campaign alignment you had, there may still be gaps and misunderstandings.
+Ideally, topics like this are discussed in a [session zero](https://www.plusonetogaming.com/blog-episodes/how-to-run-session-zero-dnd-5e), but that’s not foolproof. Some tables don’t know how to conduct a session zero and are surprised to later find there are disagreements at the table. Even seasoned players will leave things out of a session zero. Whatever level of pre-campaign alignment you had, there may still be gaps and misunderstandings.
 
 * One player may be unfamiliar with TTRPGs and won’t know what to ask for in a session zero.
 * Players may lack empathy for the lived experiences of another player and see nothing wrong with attacking them on a personal level through their characters.
@@ -44,7 +48,7 @@ Yes, session zero should catch all of these things, but even the most thorough p
 
 ## It’s Never Too Late for a Session Zero
 
-If there are some mismatches with expectations at your table—whether between players and the DM or just between players—the thing to do is take a step back and talk about it outside of the game. If your session zero didn’t cover something or you didn’t have a session zero, it’s never too late to have those conversations.
+If there are some mismatches with [game expectations at your table](https://www.plusonetogaming.com/blog-episodes/3-things-to-know-about-your-party-before-starting-a-new-campaign)—whether between players and the DM or just between players—the thing to do is take a step back and talk about it outside of the game. If your session zero didn’t cover something or you didn’t have a session zero, it’s never too late to have those conversations.
 
 If you’re a DM and you notice these problems, schedule some time to talk, but _you do not have to be a DM to initiate these conversations_. Players can and should keep a finger on the pulse of the game and can often be the first to address these problems head-on rather than try to solve them through in-game mechanics or ignore them.
 
@@ -142,6 +146,6 @@ Conversations like this can seem very personal, and they often are, so it’s im
 
 ## Fun for Everyone
 
-Dungeons & Dragons and other TTRPGs are vastly different from video games, books, and movies because they involve several people working together to create the story. For this to work, players and the DM need to be spending as much time helping other players tell their stories as they do telling their own. The “story” of a TTRPG is everyone’s story, not just a single plotline, and that takes some collaboration—and some compromise.
+Dungeons & Dragons and other TTRPGs are vastly different from video games, books, and movies because they involve several people [working together to create the story](https://www.plusonetogaming.com/blog-episodes/collaborative-storytelling-for-ttrpgs). For this to work, players and the DM need to be spending as much time helping other players tell their stories as they do telling their own. The “story” of a TTRPG is everyone’s story, not just a single plotline, and that takes some collaboration—and some compromise.
 
 TTRPGs work best when everyone at the table has the same goal: everyone at the table should be having fun. If a player or DM only wants to experience their own story, other mediums (video games and books) can be much better for that. Playing with someone who just wants to be writing a book can be an awful experience for everyone at the table. Playing together means working together on that collaborative story, and that means more fun for everyone.

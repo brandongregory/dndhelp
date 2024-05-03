@@ -9,6 +9,10 @@ date: Last Modified
 parent:
   name: Roleplaying
   url: /roleplaying/
+
+posterImage: 'poster-stage-plays.webp'
+posterDescription: 'Graphic of a well-dressed actor of South Asian descent holding a skull and delivering a monologue'
+
 ---
 
 Stage plays are a big part of historical pop culture and offer fun interactions for your players and a unique place to meet with and observe NPCs. From having players improvise parts of a play to using a play as a backdrop for important events, there are many ways to use them in your campaign. Here are some guidelines for effectively using plays in your game.
