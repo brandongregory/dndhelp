@@ -18,7 +18,7 @@ imageArray:
 
 ---
 
-Have you ever watched someone tossing darts in a bar and thought, that should be my DnD character? Well, probably not. But darts in DnD can be effective weapons, proving to be much more deadly than the little things we throw for sport. This is not an overly powerful build by any measure (unlike some older versions of DnD, where darts were wildly overpowered), but a dart thrower can make for a unique and fun character with the right build.
+Have you ever watched someone tossing darts in a bar and thought, that should be my DnD character? Well, probably not. But darts in DnD can be effective weapons, proving much more deadly than the little things we throw for sport. This is not an overly powerful build by any measure (unlike some older versions of DnD, where darts were wildly overpowered), but a dart thrower can make for a unique and fun character with the right build.
 
 <div markdown="1" class="contents">
 <strong>Contents</strong>
@@ -36,7 +36,7 @@ Have you ever watched someone tossing darts in a bar and thought, that should be
 
 ## <a name="What-Are-War-Darts"></a>What Are War Darts?
 
-<dfn>Darts in Dungeons and Dragons</dfn> are a far cry from the little darts thrown at targets in bars. They’re most likely based on the [Roman Plumbata](https://en.wikipedia.org/wiki/Plumbata), heavy weighted darts that were often tossed underhand up into the air to rain death and chaos down on enemy parties. These weapons had a barbed tip and metal shaft, along with a heavy lead weight, to make them fall with a good amount of force. The heavier metal shafts and weights were attached to a long wooden shaft with fletching to keep it moving straight once gravity took control. These were about 1 foot long and were typically 4.5-12.3 ounces (130-350 grams). These were not little novelty playthings that you tossed gingerly, they could do some serious damage.
+<dfn>Darts in Dungeons and Dragons</dfn> are a far cry from the little darts thrown at targets in bars. They’re most likely based on the [Roman Plumbata](https://en.wikipedia.org/wiki/Plumbata), weighted darts that were often tossed underhand up into the air to rain death and chaos down on enemy parties. These weapons had a barbed tip and metal shaft, along with a heavy lead weight, to make them fall with a good amount of force. The heavier metal shafts and weights were attached to a long wooden shaft with fletching to keep it moving straight once gravity took control. These were about 1 foot long and were typically 4.5-12.3 ounces (130-350 grams). These were not little novelty playthings that you tossed gingerly, they could do some serious damage.
 
 In DnD, darts are mechanically similar to throwing daggers, but they can easily be played as a more serious weapon, able to sink into a target with much more force than a light throwing dagger could manage. With some of the build tips in this article, darts can be more deadly than throwing daggers.
 
@@ -50,7 +50,7 @@ If you want throwing daggers to be your gimmick, you might also look into the So
 
 Yes and no. Rules as written, the boomerang is a ranged weapon; however, it lacks the Thrown property, so some of the synergies here won't work. This seems like a major oversight, as the boomerang is pretty obviously a thrown weapon in the same way that a dart is. If you really want a boomerang build, ask your DM if you can play with boomerangs having the Thrown property. Mechanically, boomerangs are similar to darts, so there aren't any balance problems with this. Keep in mind that if you're using an online character sheet like DND Beyond, bonuses that apply to thrown weapons may not automatically apply on your character sheet and may have to be added through manual adjustment.
 
-Also bear in mind that boomerangs only come back to you if they miss. If you want a boomerang that comes back to you every time, take a look at the Returning Weapon infusion builds below—otherwise, you'll have to carry multiple boomerangs.
+Also, bear in mind that boomerangs only come back to you if they miss. If you want a boomerang that comes back to you every time, take a look at the Returning Weapon infusion builds below—otherwise, you'll have to carry multiple boomerangs.
 
 All that said, most of the information on this page can also apply to boomerangs if you want that Aussie warrior.
 
@@ -62,7 +62,7 @@ First is the Thrown Weapon fighting style. Introduced in Tasha’s Cauldron of E
 
 Next up is the Artificer’s returning weapon infusion, which will make a thrown weapon return to your hand after it’s been thrown. Artificers can use this on their own, but the rules get a little hazy on how, exactly, sharing an infusion with a party member works. If you have an Artificer in your party and want to get them to share a returning dart with you, clear it with your DM first.
 
-Another solution requires some homebrew reflavoring. The Waterdeep: Dragon Heist adventure introduces a magic item that does something similar: the Bracer of Flying Daggers. This will allow you to draw up to 2 daggers as a free action and throw them. If your DM is cool with it, you can reflavor these to darts. It doesn’t help much if you have more than 2 attacks per turn (sorry, Fighters), but can help a lot of characters.
+Another solution requires some homebrew flavoring. The Waterdeep: Dragon Heist adventure introduces a magic item that does something similar: the Bracer of Flying Daggers. This will allow you to draw up to 2 daggers as a free action and throw them. If your DM is cool with it, you can flavor these as darts. It doesn’t help much if you have more than 2 attacks per turn (sorry, Fighters), but can help a lot of characters.
 
 Lastly is simply the rule of cool. The rules about drawing weapons are nowhere near the rules for throwing weapons in the Player’s Handbook, so it’s not clear if this limitation was intended. The Thrown Weapon fighting style was introduced later as a fix, but your DM may just allow you to overlook this rule about drawing thrown weapons. Even with this free ability, thrown weapons are not overpowered, so you’re not likely to encounter a game-breaking balance problem by drawing a thrown weapon for each attack. If your DM is willing to hand-wave this rule, it certainly makes thrown-weapon builds a lot easier.
 
@@ -124,12 +124,12 @@ We’re using the Kensei again as the chassis of this build, but instead dipping
 
 ### Druid 3 (any subclass)/Kensei Monk X
 
-We’re once again using the Kensei Monk for most of this build, but now we’re dipping into Druid. This does _not_ gain a fighting style, but Druids do get a spell at level 3 that can serve as the cornerstone of this build: Heat Metal. You can lodge darts in an enemy, then cast Heat Metal on the dart to deal damage on that turn, and as a bonus action on subsequent turns. The challenge is that this takes 2 or even 3 rounds to really pay off, and a lot of encounters don’t have single enemies that last that long.
+We’re once again using the Kensei Monk for most of this build, but now we’re dipping into Druid. This does _not_ gain a fighting style, but Druids do get a spell at level 3 that can serve as the cornerstone of this build: Heat Metal. You can lodge darts in an enemy, then cast Heat Metal on the dart to deal damage on that turn, and as a bonus action on subsequent turns. The challenge is that this takes 2 or even 3 rounds to pay off, and a lot of encounters don’t have single enemies that last that long.
 
 This can be a difficult build to make work mechanically, in a character concept that’s already pretty convoluted, so don’t go into this thinking that this will be an easy character to run. Still, this is certainly an interesting concept if you’re wanting to try something different.
 
 ## This is a lot to keep track of. Are dart throwers really worth it?
 
-Well, frankly, dart throwers are not going to be any more powerful than other martial builds. In fact, a [well-built archer character](/5e-build-guides/archer-builds/) will probably do more damage at just about every level. This isn’t a character you build because you want to be really strong; instead, this character is a niche concept that provides something different.
+Well, frankly, dart throwers are not going to be any more powerful than other martial builds. A [well-built archer character](/5e-build-guides/archer-builds/) will probably do more damage at just about every level. This isn’t a character you build because you want to be really strong; instead, this character is a niche concept that provides something different.
 
 Thankfully, DnD 5e is a game where you can play with an interesting but not as optimal build and have just as much fun as playing with a powerhouse character who can kill anything. The big question is what other players at your table will be doing. If you’re at a table that values roleplay above combat efficiency, this can be a fun build. If you’re at a table where everyone is min-maxing to get the most powerful characters, a dart thrower can get left behind. Make sure you know what kind of game you will be playing before committing to this, or any other niche character concept. The most important thing is just to have fun. If a unique and interesting character concept sounds like fun to you, it probably will be.

@@ -4,7 +4,15 @@ layout: layout.njk
 
 <main class="container">
     <h1>{{ meta_title }}</h1>
-    
+    <br>
+    {%- if posterImage -%}
+    <img
+        src="/images/{{ posterImage }}"
+        alt="{{ posterDescription }}"
+        class="poster"
+        height="432" width="768" />
+    {%- endif -%}
+
     {{ content | safe }}
 
     {% set pages = collections['main-page'] %}

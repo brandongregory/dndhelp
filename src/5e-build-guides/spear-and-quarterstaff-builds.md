@@ -18,7 +18,7 @@ imageArray:
 
 ---
 
-Heroes with swords are overrated. There's something fun about a classic warrior using a spear or quarterstaff as their main weapon. Historically, these weapons were powerful, and with the right feats and class selection, you'll find that these simple weapons are anything but simple. There are ways to use Dexterity and even Wisdom as your main stat for these builds, and some feats make them significantly more powerful. Here's how to make the most of them.
+Heroes with swords are overrated. There's something fun about a classic warrior using a spear or quarterstaff as their main weapon. Historically, these weapons were powerful, and with the right feats and class selection, these simple weapons are anything but simple. There are ways to use Dexterity and even Wisdom as your main stat for these builds, and some feats make them significantly more powerful. Here's how to make the most of them.
 
 <div markdown="1" class="contents">
 <strong>Contents</strong>
@@ -40,39 +40,39 @@ First off, which to choose? Here are the stats for each:
 
 ### Quarterstaff in DnD 5e
 
-* Cost: 2 sp
+* Cost: 2 SP
 * Weight: 4 lb.
 * 1-handed damage: 1d6 bludgeoning
 * 2-handed damage: 1d8 bludgeoning
 
 ### Spear in DnD 5e
 
-* Cost: 1 gp
+* Cost: 1 GP
 * Weight: 3 lb.
 * 1-handed damage: 1d6 piercing
 * 2-handed damage: 1d8 piercing
 * Thrown (range 20/60)
 
-Both spears and quarterstaves are simple versatile weapons that do 1d6 when used with one hand or 1d8 when used with both. Spears can be thrown, which might be useful in a pinch, but can leave you without your primary weapon. Aside from that, the only real difference is that spears do piercing damage and quarterstaves do bludgeoning, which doesn’t make a ton of difference in game, but can be important if you take either the Crusher or Piercer feats.
+Both spears and quarterstaves are simple versatile weapons that do 1d6 when used with one hand or 1d8 when used with both. Spears can be thrown, which might be useful in a pinch, but can leave you without your primary weapon. Aside from that, the only real difference is that spears do piercing damage and quarterstaves do bludgeoning, which doesn’t make a ton of difference in-game but can be important if you take either the Crusher or Piercer feats.
 
-If you want a spear that does 1d8 damage with one hand (so you can use a shield), check out the yklwa. It’s often overlooked for its odd name, but it’s basically a short spear that does 1d8 damage with one hand at the expense of the versatile option and some throwing distance.
+If you want a spear that does 1d8 damage with one hand (so you can use a shield), check out the yklwa. Though often overlooked for its odd name, it’s basically a short spear that does 1d8 damage with one hand at the expense of the versatile option and some throwing distance.
 
-Another factor to consider is the availability of magic items. There are basic versions of spears (and yklwas), but there’s a far greater variety of magic staves available with a variety of effects. For instance, the Staff of Defense can help increase your defenses, and the Spider Staff can give you some useful utility options as well as bonus damage. If you want more magic spears, you might talk to your DM about reflavoring a magic sword as a spear to give you some more options.
+Another factor to consider is the availability of magic items. There are basic versions of spears (and yklwas), but there’s a far greater variety of magic staves available with a variety of effects. For instance, the Staff of Defense can help increase your defenses, and the Spider Staff can give you some useful utility options as well as bonus damage. If you want more magic spears, you might talk to your DM about flavoring a magic sword as a spear to give you more options.
 
 ### Can I Use a Baseball Bat?
 
-Sure. Just use a quarterstaff and call it a baseball bat. That's probably the best way to go about doing this if you want a Harley Quinn-type character.
+Sure. Just use a quarterstaff and call it a baseball bat. That's probably the best way to do this if you want a Harley Quinn-type character.
 
 
 ## <a name="Getting-the-Most-From-Your-Attacks"></a>Getting the Most From Your Attacks
 
 With quarterstaves and spears doing less damage than similar weapons, it helps to get as much damage as you can from your attacks. There are two ways to do this: additive bonuses and a bonus attack.
 
-Additive bonuses add damage to each attack. Classic examples are the Barbarian rage ability and the Ranger spell Hunter’s Mark, making both Rangers and Barbarians great candidates for quarterstaff or spear fighting. Hex is another spell that adds bonus damage to each attack; this is normally a Warlock-exclusive spell, but you can get access to it with the Fey Touched feat, giving potentially any class access to this spell. Battle Master Fighters can also use their maneuvers to add damage to attacks, and the maneuvers work well thematically with a quarterstaff or spear user.
+Additive bonuses add damage to each attack. Classic examples are the Barbarian rage ability and the Ranger spell Hunter’s Mark, making both Rangers and Barbarians great candidates for quarterstaff or spear fighting. Hex is another spell that adds bonus damage to each attack; this is normally a Warlock-exclusive spell, but you can acquire it with the Fey Touched feat, giving potentially any class access to this spell. Battle Master Fighters can also use their maneuvers to add damage to attacks, and the maneuvers work well thematically with a quarterstaff or spear user.
 
 With a bonus to each attack, you can wrack up some more damage by getting another attack in each round. Any class can do this with the Polearm Master feat. This allows you to make a bonus action attack using a 1d4 damage die, making it lower damage than the main attack, but with additive bonuses mentioned above, this can still be a good source of damage.
 
-With these tactics in mind, you face another important choice. Both spears and quarterstaves are versatile weapons, meaning they can be used with one hand, or with both hands for additional damage. If the class you’re playing in is proficient with shields, this means choosing between a little less damage and added defense, or going all in on damage for a slight boost. If you take the Dueling fighting style, however, the damage is about equal for both options, essentially giving you free defense with a shield. If you can get both a shield and the Dueling fighting style, weapon and shield is mechanically better, but choose whichever works best for your character.
+With these tactics in mind, you face another important choice. Both spears and quarterstaves are versatile weapons, meaning they can be used with one hand or with both hands for additional damage. If the class you’re playing in is proficient with shields, this means choosing between a little less damage and added defense, or going all in on damage for a slight boost. If you take the Dueling fighting style, however, the damage is about equal for both options, essentially giving you free defense with a shield. If you can get both a shield and the Dueling fighting style, weapon-and-shield is mechanically better, but choose whichever works best for your character.
 
 
 ## <a name="Using-Dexterity-With-Spears-and-Quarterstaffs"></a>Using Dexterity With Spears and Quarterstaves
@@ -121,7 +121,7 @@ Most Rangers rely on using their bonus action for Hunter’s Mark, but the Horiz
 
 ### Ranger - Hunter
 
-Hunter Rangers are great at dealing lots of damage and taking less. Unlike the Horizon Walker, Hunters do rely on Hunter’s Mark, which will use their bonus action frequently—meaning the Polearm Master feat will be of less use to you than other options on this list, but can still be useful when you have a free bonus action. While Hunter’s Mark is active, if you do get in a bonus action attack, you will also get the 1d6 damage from Hunter’s Mark, making these hits much more potent.
+Hunter Rangers are great at dealing lots of damage and taking less. Unlike the Horizon Walker, Hunters do rely on Hunter’s Mark, which will use their bonus action frequently—meaning the Polearm Master feat will be of less use to you than other options on this list but can still be useful when you have a free bonus action. While Hunter’s Mark is active, if you do get in a bonus action attack, you will also get the 1d6 damage from Hunter’s Mark, making these hits much more potent.
 
 As with the Horizon Walker, take the Dueling fighting style so you can wear a shield. Max out your Strength quickly and pump your Constitution as high as possible, since you’ll be making concentration saves to keep Hunter’s Mark up. Shoot for 14 Dexterity to wear medium armor. With a need for high scores in three stats, your Wisdom stat will probably be lower than most other Rangers, but high Wisdom is only needed for spells that force the target to make a saving throw, so it’s perfectly viable to have a Ranger with lower Wisdom.
 
@@ -167,7 +167,7 @@ Neither quarterstaves nor spears have the heavy property, so both can be used by
 * **Bugbear** - An extra 5 feet of reach can be useful, and the sneak attack feature is always useful if you have the Dexterity to take advantage of it.
 * **Dragonborn** - The breath attacks can help you deal with crowds.
 * **Goblin** - If you went the Monk route, Goblins can disengage as a bonus action, potentially saving you a ki point. Fury of the Small is also a nice little damage boost when you want it.
-* **Goliath** - Some defensive abilities will help with your probably lower than average AC.
+* **Goliath** - Some defensive abilities will help with your probably lower-than-average AC.
 * **Half-Orc** - Half-Orcs are always fantastic attackers and all of their features can help you.
 * **Hill Dwarf** - You’ll be light on defense, so the extra hit points help.
 * **Variant Human** - Some feats can help this build, so getting one at level 1 can help make a character more viable in the early levels.

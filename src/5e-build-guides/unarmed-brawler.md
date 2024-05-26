@@ -18,7 +18,7 @@ imageArray:
 
 ---
 
-Monks are great at a lot of things, but sometimes we want to build Mike Tyson rather than Bruce Lee. An unarmed Fighter offers several benefits, such as their staying power over long adventuring days and their strong ability to grapple opponents. It also opens up builds that don't have Wisdom as a cornerstone stat, allowing a character to be a charistmatic pugilist, or a cunning battlefield tactician. If you want to punch things and use Strength as your primary stat, this guide shows you how to do that in DnD 5e.
+Monks are great at many things, but sometimes we want to build Mike Tyson rather than Bruce Lee. An unarmed Fighter offers several benefits, such as their staying power over long adventuring days and their strong ability to grapple opponents. It also opens up builds that don't have Wisdom as a cornerstone stat, allowing a character to be a charismatic pugilist or a cunning battlefield tactician. If you want to punch things and use Strength as your primary stat, this guide shows you how to do that in DnD 5e.
 
 <div markdown="1" class="contents">
 <strong>Contents</strong>
@@ -35,7 +35,7 @@ Monks are great at a lot of things, but sometimes we want to build Mike Tyson ra
 
 _Tasha’s Cauldron of Everything_ introduced a new fighting style that made unarmed builds much more enticing. The Unarmed fighting style, available exclusively to Fighters, lets you do 1d6 + Strength modifier damage with your unarmed attacks. If you’re not holding a weapon or shield, that goes up to 1d8. Also, at the start of each turn, you can deal 1d4 damage to each creature you’re grappling as a free action.
 
-With this fighting style, your fists (or feet, or forehead) do damage comparable to most 1-handed martial weapons. The catch is that you can’t use a shield. There is the opportunity to do an extra 1d4 damage per turn for free, but this won’t compete with the raw damage output of a strong great weapon build. That’s OK. It’s fine to do things because you like the flavor, even if they’re not completely optimized. Fighters do a lot of damage to begin with, so it evens out.
+With this fighting style, your fists (or feet, or forehead) do damage comparable to most 1-handed martial weapons. The catch is that you can’t use a shield. There is the opportunity to do an extra 1d4 damage per turn for free, but this won’t compete with the raw damage output of a strong great weapon build. That’s OK. You can do things because you like the flavor, even if they’re not completely optimized. Fighters do a lot of damage, so it evens out.
 
 ### What About Paladins, Rangers, and Barbarians?
 
@@ -53,7 +53,7 @@ As for Barbarians, they’d have to multiclass or take a feat to get the fightin
 
 Grappling in 5e grants some strategic advantages, if you know how to use it. To grapple, you roll an Athletics check; whoever you’re trying to grapple rolls either Athletics or Acrobatics to contest it. If your opponent rolls lower than you, they are now grappled by you. On its own, grappling reduces an enemy’s movement speed to 0. That’s it. You can move the opponent, moving at half speed on your turn, but grappling does not give advantage on attacks (unless you took the Grappler feat).
 
-Why would you use this? If an enemy keeps getting away from you (like an enemy who can fly or run up walls), this prevents them from fleeing out of reach. You may want to take advantage of effects in the field, or nullify enemy advantages from effects—for instance, dragging an enemy into the Cleric’s Spirit Guardians range and preventing them from fleeing, or grabbing an enemy that’s hiding in darkness and dragging them out into a brighter area so your allies can hit them more effectively.
+Why would you use this? If an enemy keeps getting away from you (like an enemy who can fly or run up walls), this prevents them from fleeing out of reach. You may want to take advantage of effects in the field or nullify enemy advantages from effects—for instance, dragging an enemy into the Cleric’s Spirit Guardians range and preventing them from fleeing or grabbing an enemy that’s hiding in darkness and dragging them out into a brighter area so your allies can hit them more effectively.
 
 One other nasty combination is with shoving. Shoving works much like grappling—you make an Athletics check, and the opponent contests it with either Athletics or Acrobatics. You can either shove an opponent away from you or down onto the ground. While an enemy is prone on the ground, all melee attacks against them are made with advantage. Here’s the trick: getting up from the ground takes half your movement. If your movement is 0 (like when you’re grappled), you can’t get up. So if you grapple and then shove an opponent, the only way they can get up is by beating you in an Athletics or Acrobatics check. If you have a few melee attackers in your party, this can turn the tables against a single opponent.
 
@@ -65,8 +65,8 @@ The Unarmed fighting style also has a synergy with grappling, so proficiency in 
 
 Once you get past level 5, enemies that resist non-magical attacks become more common, and you have no innate way of making your unarmed attacks magical or magical weapons available to you. You’ll need one of two magic weapons:
 
-* Eldritch Claw Tattoo - This is basically a +1 weapon for your fists, and gives an extra ranged attack once per day. Requires attunement.
-* Insignia of Claws - This is also a +1 weapon for your fists, but grants no additional abilities. Does not require attunement.
+* Eldritch Claw Tattoo - This is basically a +1 weapon for your fists and gives an extra ranged attack once per day. Requires attunement.
+* Insignia of Claws - This is also a +1 weapon for your fists but grants no additional abilities. Does not require attunement.
 
 You might also talk to your DM about homebrewing some magic weapons, like knuckle dusters or hand wraps.
 
@@ -87,7 +87,7 @@ Harnessing primal magic from giants, the Rune Knight grants a toolkit of abiliti
 
 ### Eldritch Knight
 
-The Eldritch Knight subclass grants a few simple spells to Fighters. Defensive spells like Absorb Elements and Shield will be your bread and butter and can help any Fighter build be a defensive powerhouse. Eldritch Knights get an ability to summon their chosen weapon to them if they’re ever separated, which may be wasted on an unarmed character (pro-tip: bond to a net!), but most of the other abilities will be of some use. The Eldritch Knight is great for more defensive builds, but adding some magic to your Fighter might be great flavor as well.
+The Eldritch Knight subclass grants a few simple spells to Fighters. Defensive spells like Absorb Elements and Shield will be your bread and butter and can help any Fighter be a defensive powerhouse. Eldritch Knights get the ability to summon their chosen weapon to them if they’re ever separated, which may be wasted on an unarmed character (pro-tip: bond to a net!), but most of the other abilities will be of some use. The Eldritch Knight is great for more defensive builds, but adding some magic to your Fighter might be great flavor as well.
 
 ## <a name="feats-for-unarmed-fighters"></a>Feats for Unarmed Fighters
 
@@ -115,7 +115,7 @@ Without a shield, lower AC might get you pretty beat up. With the Fighting Initi
 
 ### Eldritch Claw Tattoo/Insignia of Claws
 
-Mentioned above, but without homebrewing, these two items are the only way for an unarmed Fighter to get magic damage with their attacks.
+As mentioned above, these two items are the only way for an unarmed Fighter to get magic damage with their attacks without homebrewing.
 
 ### Belt of [Frost, Stone, Fire, Cloud, Storm] Giant Strength
 

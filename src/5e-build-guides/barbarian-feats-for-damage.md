@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 meta_title: "Best Barbarian Feats for Damage"
-meta_description: "When building a Barbarian, there are a few feats that can be the cornerstone of your build. Here are some hard numbers comparing them."
+meta_description: "When building a Barbarian, some feats can be the cornerstone of your build. Here are some hard numbers comparing them."
 author: "Brandon Gregory"
 section_name: build
 tags: ['build']
@@ -15,16 +15,16 @@ posterDescription: 'Illustration of a half-orc barbarian wielding a spear and sh
 
 ---
 
-Feats are a useful thing for any character, but sometimes a feat can completely define a build. Barbarians can benefit a lot from feats, particularly if they’re wanting to do more damage. Here are some of the best feats for Barbarians that you can base your build around.
+Feats are useful for any character, but sometimes a feat can completely define a build. Barbarians can benefit a lot from feats, particularly if they want to do more damage. Here are some of the best feats for Barbarians that you can base your build around.
 
-First, a word on the math. Though most of my guides give more general advice, this one uses some hard math to show the results. Finding exact calculations for every possibility is difficult, so there’s definitely some fuzzy math going on here. Though the calculations are precise, the formulae are generalizations.
+First, a word on the math. Though most of my guides give general advice, this one uses math to show the results. Finding exact calculations for every possibility is difficult, so there’s definitely some fuzzy math going on here. Though the calculations are precise, the formulae are generalizations.
 
 Assumptions:
 
-1. You take a feat at level 1. This means playing as a variant human, or using a popular house rule to allow characters to take a free feat at level 1.
+1. You take a feat at level 1. This means playing as a variant human or using a popular house rule to allow characters to take a free feat at level 1.
 2. You start with 16 Strength and increase it at levels 4 and 8 to max it out.
-3. This does not factor in critical hits. I tried working on that, but honestly, the difference between the builds was minor. For all builds, critical hits become more effective at levels 9 and 13, when you get Brutal Critical.
-4. Your chance to hit goes up with each tier. This is based on general calculations for all classes, because as you go up in level, you usually get magic items that increase your accuracy.
+3. This guide does not factor in critical hits. I tried working on that, but the difference between the builds was minor. For all builds, critical hits become more effective at levels 9 and 13, when you get Brutal Critical.
+4. Your chance to hit goes up with each tier. This is based on general calculations for all classes because you usually get magic items that increase your accuracy as you level.
 5. You use Reckless Attack on every turn to give yourself advantage.
 
 That out of the way, let’s begin!
@@ -32,7 +32,7 @@ That out of the way, let’s begin!
 
 ## The Baseline - No Feats
 
-To get a good comparison, here’s what a Barbarian can do without feats. This Barbarian is using a great weapon (greatsword, greataxe, or maul).
+To get a good comparison, here’s what a Barbarian can do without feats. This Barbarian uses a great weapon (greatsword, greataxe, or maul).
 
 |Level|Hit|Str|Rage|Atk 1|Atk 2|BA Atk|DPR|
 |-----|---|---|----|-----|-----|------|---|
@@ -57,12 +57,12 @@ To get a good comparison, here’s what a Barbarian can do without feats. This B
 |19   |89%|5  |4   |6.5  |6.5  |0     |27 |
 |20   |89%|7  |4   |6.5  |6.5  |0     |31 |
 
-The average damage per round doubles when you get your second attack at level 5, then increases steadily as you progress through the game.
+The average damage per round doubles when you get your second attack at level 5, then increases as you progress through the game.
 
 
 ## Fighting Initiate: Dueling
 
-Taking the Fighting Initiate feat allows you to take the Dueling fighting style, which gives you additional damage with weapons used with one hand. This is useful because you can then use a shield to increase your armor class by 2. Let’s take a look at calculations using a 1d8 weapon like a longsword.
+Taking the Fighting Initiate feat allows you to take the Dueling fighting style, which gives you additional damage with weapons used with one hand. This allows you to use a shield to increase your armor class by 2. Let’s look at calculations using a 1d8 weapon like a longsword.
 
 |Level|Hit|Str|Rage|Atk 1|Atk 2|BA Atk|DPR|
 |-----|---|---|----|-----|-----|------|---|
@@ -93,12 +93,12 @@ So the numbers for a Barbarian with the Dueling fighting style are identical to 
 
 A Dueling build is your classic sword and board, so this is the defensive option on this list. With the focus on defense, the Path of the Ancestral Guardian is a natural fit. Ancestral Guardian Barbarians are natural tanks, able to get enemies to focus on them, so having increased defense really benefits them.
 
-The Path of the Storm Herald is also a good fit for a more defensive build, since they have options for damage and control beyond just hitting things. Storm Herald Barbarians have a damaging aura, so walking into the middle of a big group of enemies is a great strategy. They also have options for control and even support, so staying alive longer is a huge benefit for them.
+The Path of the Storm Herald is also a good fit for a more defensive build since they have options for damage and control beyond just hitting things. Storm Herald Barbarians have a damaging aura, so walking into the middle of a big group of enemies is a great strategy. They also have options for control and even support, so staying alive longer is a huge benefit for them.
 
 
 ## Polearm Master
 
-The Polearm Master feat allows you to make a bonus attack when using a polearm weapon. This also grants several other benefits. Polearms have a longer range than most melee weapons, allowing you to perform hit and run attacks without receiving an opportunity attack from many creatures. This allows the use of [a spear or quarterstaff build](/5e-build-guides/spear-and-quarterstaff-builds/), although the damage will be slightly lower than the chart below. Additionally, with this feat, you can make an opportunity attack when an enemy _enters_ your reach, not just when they leave it.
+The Polearm Master feat allows you to make a bonus attack when using a polearm weapon. This also grants several other benefits. Polearms have a longer range than most melee weapons, allowing you to perform hit-and-run attacks without receiving opportunity attacks. This allows the use of [a spear or quarterstaff build](/5e-build-guides/spear-and-quarterstaff-builds/), although the damage will be slightly lower than in the chart below. Additionally, with this feat, you can make an opportunity attack when an enemy _enters_ your reach, not just when they leave it.
 
 |Level|Hit|Str|Rage|Atk 1|Atk 2|BA Atk|DPR|
 |-----|---|---|----|-----|-----|------|---|
@@ -123,20 +123,20 @@ The Polearm Master feat allows you to make a bonus attack when using a polearm w
 |19   |89%|5  |4   |5.5  |5.5  |2.5   |31 |
 |20   |89%|7  |4   |5.5  |5.5  |2.5   |35 |
 
-This build provides mid-range damage, but comes with the other perks of the feat and using polearms.
+This build provides mid-range damage but comes with the other perks of the feat and using polearms.
 
 ### Best Barbarian Subclasses for a Polearm Master Build
 
 Polearm Master gives you a bonus action attack, which is a big part of the damage calculations for this build, so you want to stay away from subclasses that use your bonus action. Path of the Totem Warrior is a great subclass that doesn’t use your bonus action much, and the hit-and-run capability of polearms pairs well with the additional movement you’d get from choosing Elk at level 3.
 
-Other options work, but there’s no special synergy with Polearm Master. The new Path of the Juggernaut from the _Tal’Dorei Campaign Setting Reborn_ is a good option if your table allows third-party content. (Path of the Juggernaut is available on DnD Beyond.) Path of the Ancestral Guardian can also work, but without a boost to your defenses, this might make things tougher.
+Other subclass options work, but there’s not much synergy with Polearm Master. The new Path of the Juggernaut from the _Tal’Dorei Campaign Setting Reborn_ is a good option if your table allows third-party content. (Path of the Juggernaut is available on DnD Beyond.) Path of the Ancestral Guardian can also work, but without a boost to your defenses, this might make things tougher.
 
 
 ## Fighting Initiate: Two-Weapon Fighting
 
-Fighting with two light weapons (like handaxes or scimitars) might seem an odd choice for a Barbarian, but it’s surprisingly effective. Ordinarily, attacking with your off hand does not allow you to add your Strength modifier to the damage; this feat fixes that. It doesn’t provide any other benefits, but if you want to use two weapons, this is a huge boost to your damage.
+Fighting with two light weapons (like handaxes or scimitars) might seem an odd choice for a Barbarian, but it’s surprisingly effective. Ordinarily, attacking with your off-hand does not allow you to add your Strength modifier to the damage; this feat fixes that. It doesn’t provide any other benefits, but if you want to use two weapons, this is a huge boost to your damage.
 
-Also note that, since small races can’t use great weapons, using two weapons is the best damage option for them. Yes, you could use a versatile weapon like a longsword, but the rules for small races say that you’d have to use it two-handed, so you couldn’t do that with a shield. If you really want to build a halfling or goblin Barbarian, this is your best option.
+Since small races can’t use great weapons, using two weapons is their best damage option. Yes, you could use a versatile weapon like a longsword, but the rules for small races say that you’d have to use it two-handed, so you couldn’t do that with a shield. If you want to build a halfling or goblin Barbarian, this is your best option.
 
 |Level|Hit|Str|Rage|Atk 1|Atk 2|BA Atk|DPR|
 |-----|---|---|----|-----|-----|------|---|
@@ -165,18 +165,18 @@ The damage for two-weapon fighting outclasses most other options on this list, a
 
 ### Best Barbarian Subclasses for a Two-Weapon Build
 
-Much like Polearm Master, two-weapon fighting relies on a bonus action attack, so you need a subclass that leaves your bonus action free. Path of the Totem Warrior remains a great choice with many different options to customize your build. Bear is always a great defensive choice, and Wolf can help you support other melee attackers in your party.
+Much like Polearm Master, two-weapon fighting relies on a bonus action attack, so you need a subclass that leaves your bonus action free. Path of the Totem Warrior remains a great choice with many options to customize your build. Bear is always a great defensive choice, and Wolf can help you support other melee attackers in your party.
 
-Path of the Juggernaut (from the _Tal’Dorei Campaign Setting Reborn_) allows you to knock opponents back with each attack, and having an extra attack every turn can really cause some chaos in the battlefield. Three enemies standing next to a ledge? Not for long.
+Path of the Juggernaut (from the _Tal’Dorei Campaign Setting Reborn_) allows you to knock opponents back with each attack, and having an extra attack every turn can cause chaos on the battlefield. Three enemies standing next to a ledge? Not for long.
 
-Path of the Ancestral Guardian can also work if you want to draw more of your opponents’ attacks, but this is a subclass that really benefits from additional defense, so a Dueling build is probably a better fit.
+Path of the Ancestral Guardian can also work if you want to draw more of your opponents’ attacks, but it benefits from additional defense, so a Dueling build is probably a better fit.
 
 
 ## Great Weapon Master
 
-Great Weapon Master is considered the best feat for Barbarians, and for good reason. It allows you to reduce your chance to hit for a significant boost in damage. With the Barbarian’s reckless attack, this basically negates the attack penalty and greatly increases your damage. As an added bonus, if you strike the killing blow on a creature, you can make a bonus action attack with that weapon, giving you even more damage potential.
+Great Weapon Master is considered the best feat for Barbarians, and for good reason. It allows you to reduce your chance to hit for a significant boost in damage. With the Barbarian’s reckless attack, this basically negates the attack penalty and greatly increases your damage. Additionally, if you strike the killing blow on a creature, you can make a bonus action attack with that weapon, giving you even more damage potential.
 
-The calculations here assume you’ll use the Great Weapon Master attack for every attack, but you have a choice as to whether you want to use it each turn, so your actual damage may vary a bit from this.
+The calculations here assume you’ll use the Great Weapon Master attack for every attack, but you have a choice as to whether you want to use it each turn, so your actual damage may vary from this.
 
 |Level|Hit|Str|Rage|Atk 1|Atk 2|BA Atk|DPR|
 |-----|---|---|----|-----|-----|------|---|
@@ -205,8 +205,8 @@ The first four levels are good but not amazing, but once you get your second att
 
 ### Best Barbarian Subclasses for a Great Weapon Master Build
 
-Though Great Weapon Master does give you a bonus action attack, it doesn’t pop up every turn, so you’re safe to pick something that gives you some other options with your bonus action. The important thing to optimize for is great weapons.
+Though Great Weapon Master gives you a bonus action attack, it doesn’t pop up every turn, so you’re safe to pick something that gives you other options with your bonus action. The important thing to optimize for is great weapons.
 
-Path of the Berserker works best with great weapons, and between the Frenzy ability and the Great Weapon Master bonus attack, you’ll be getting a lot of bonus action attacks, boosting your damage by 50% whenever you get the extra hit. Bear in mind that exhaustion can be a tough price to pay, so you’ll only want to use Frenzy once a day unless you know you’ll have time to recover.
+Path of the Berserker works best with great weapons Between the Frenzy ability and the Great Weapon Master bonus attack, you’ll be getting a lot of bonus action attacks, boosting your damage by 50% whenever you get the extra hit. Exhaustion can be a tough price to pay, so you’ll only want to use Frenzy once a day unless you know you’ll have time to recover.
 
 Totem Warrior, Zealot, and Wild Magic can all work well. Totem Warrior has outstanding defensive capabilities and a lot of other options to customize your build. Zealot gives you some extra damage and makes death much easier to deal with. Wild Magic is glorious chaos and can make for some fun sessions.
