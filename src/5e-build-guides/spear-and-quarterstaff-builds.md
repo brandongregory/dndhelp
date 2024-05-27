@@ -182,6 +182,8 @@ Any of the standard martial character feats can apply here, but here are some wi
 
 As discussed above, this allows you to make a bonus action attack with a spear or quarterstaff and gives you some additional options for opportunity attacks as well.
 
+[Caverns and Creatures has a more thorough write-up on the Polearm Master feat.](https://www.caverns-and-creatures.com/5e-feats/polearm-master)
+
 ### Sentinel
 
 The ultimate Tank feat, this feat can stop enemies dead in their tracks as they try to move past you. Won’t help much on the damage front, but it’s a great option for many martial characters.

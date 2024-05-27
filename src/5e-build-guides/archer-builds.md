@@ -233,6 +233,8 @@ The right feats can turn an archer character from good to great. Here are some o
 
 The number 1 feat for high-damage archers is Sharpshooter. This feat allows you to take a -5 to your attack roll for a +10 bonus to damage. The catch is that you don't have to decide whether to use this feature until after you roll (but before you know if it hits). It also greatly increases the range of ranged weapons like bows. If your attack rolls are generally high or you have a reliable way of getting advantage on attacks, you can get some truly wild damage with this feat.
 
+Be aware that [the Sharpshooter feat is so powerful it may unbalance or trivialize encounters](https://www.caverns-and-creatures.com/5e-feats/sharpshooter). It's a power-gamer feat that's so amazing that a well-optimized Sharpshooter build may outpace other characters at the table.
+
 ### <a name="Feat-Crossbow-Expert"></a>Crossbow Expert
 
 Crossbow Expert removes the reloading property of crossbows, allowing you to fire more than once per turn, and removes the penalty for shooting an enemy within 5 feet of you. Most importantly, it allows you to fire a hand crossbow as a bonus action. Hand crossbows aren't particularly damaging weapons, only having a d4 damage die. So why choose this feat? If you have Sharpshooter, you can add +10 to that one bonus attack. On top of all that, hand crossbows are one-handed weapons, so you can use a shield. The Sharpshooter/Crossbow Expert combination has a reputation for being a bit of a cheap move, but it is undeniably powerful.

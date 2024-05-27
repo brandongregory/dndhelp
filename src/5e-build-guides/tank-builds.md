@@ -236,6 +236,8 @@ Reducing the speed of your foes makes it harder for them to get away from you an
 
 While not as powerful as other feats on this list, Heavy Armor Master gives you a flat reduction to any non-magical physical damage you take. This effect is amazing at the beginning of the game, although underwhelming at higher levels. Campaigns rarely get past mid-tier levels, though, so this isn't as much of an issue as you would think. Even at those higher tiers of play, small reductions to damage can add up. Heavy Armor Master is an underrated feat choice for Tanks.
 
+[Caverns and Creatures has a more thorough write-up on the Heavy Armor Master feat.](https://www.caverns-and-creatures.com/5e-feats/heavy-armor-master)
+
 ### <a name="Feat-Tough"></a>Tough
 
 Most martial classes get plenty of hit points, but if you're playing an Artificer or Cleric tank, the extra hit points can help you keep up with martial Tanks.
