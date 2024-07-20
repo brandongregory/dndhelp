@@ -58,7 +58,8 @@ article: true
                 src="/images/{{ post.data.posterImage }}-426.webp"
                 alt="{{ post.data.posterDescription }}"
                 class="aside-poster"
-                height="120" width="213" /></a>
+                height="120" width="213"
+                loading="lazy" /></a>
             <h3><a href="{{ post.url }}">{{ post.data.meta_title }}</a></h3>
             <p class="description">{{post.data.meta_description}}</p>
             <p class="link"><a href="{{ post.url }}">Read Now &raquo;</a></p>
