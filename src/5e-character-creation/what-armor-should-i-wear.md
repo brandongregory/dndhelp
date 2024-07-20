@@ -10,7 +10,7 @@ parent:
   name: Character Creation
   url: /5e-character-creation/
 
-posterImage: 'poster-armor-types.webp'
+posterImage: 'poster-armor-types'
 posterDescription: 'Illustration of a black human man wearing heavy plate armor and challenging an opponent to attack him'
 
 imageArray: 

@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ff4-edward.webp'
+posterImage: 'poster-ff4-edward'
 posterDescription: 'Graphic of Edward Chris von Muir from Final Fantasy IV'
 
 ---

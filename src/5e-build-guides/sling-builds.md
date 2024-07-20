@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-sling-builds.webp'
+posterImage: 'poster-sling-builds'
 posterDescription: 'Illustration of a determined halfling woman swinging a baseball-sized stone in a sling'
 
 imageArray: 
@@ -70,7 +70,7 @@ Gloom Stalkers gain a feature at level 3 to potentially get an extra attack in t
 
 Hunters get features at levels 3 and 11 to boost the damage of ranged attacks. Hunters may be a simple subclass, but they do plenty of damage and have some great defensive abilities.
 
-The Druidic Warrior fighting style opens up some interesting options with the Magic Stone spell. This spell allows you to use Wisdom instead of Dexterity for your attack and damage rolls. The spell states you can throw the stones, but if you do that, you can’t apply the Archery fighting style or Sharpshooter feat, so loading them in your sling is the way to go. Note that the Magic Stone spell does require a bonus action, so creating the stones will compete with your use of Hunter’s Mark. With a Wisdom Ranger build, you’ll want to wear medium armor and drop your Dexterity to 14. With high Wisdom, you can also reliably use spells like Entangle. If you want a melee option, [take Shillelagh as your other cantrip to use Wisdom with clubs or staves](/5e-build-guides/spear-and-quarterstaff-builds/).
+The Druidic Warrior fighting style opens up some interesting options with the Magic Stone spell. (DND Tinker Inn has <a href="https://www.dndtinkerinn.com/articles-1/ranger-fighting-style-druidic-warrior-what-cantrip-should-you-choose">a great write-up on cantrips to pick with the Druidic Warrior fighting style</a> for other options.) This spell allows you to use Wisdom instead of Dexterity for your attack and damage rolls. The spell states you can throw the stones, but if you do that, you can’t apply the Archery fighting style or Sharpshooter feat, so loading them in your sling is the way to go. Note that the Magic Stone spell does require a bonus action, so creating the stones will compete with your use of Hunter’s Mark. With a Wisdom Ranger build, you’ll want to wear medium armor and drop your Dexterity to 14. With high Wisdom, you can also reliably use spells like Entangle. If you want a melee option, [take Shillelagh as your other cantrip to use Wisdom with clubs or staves](/5e-build-guides/spear-and-quarterstaff-builds/).
 
 Beast Master is a poor pick for a Magic Stone build because it takes a bonus action to control your Primal Companion, so you’ll be forced to choose between creating magic stones and using your animal companion.
 

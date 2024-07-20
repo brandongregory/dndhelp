@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ff7-barret.webp'
+posterImage: 'poster-ff7-barret'
 posterDescription: 'Graphic of Barret Wallace from Final Fantasy VII'
 
 ---

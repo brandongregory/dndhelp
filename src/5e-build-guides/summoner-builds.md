@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-summoner-builds.webp'
+posterImage: 'poster-summoner-builds'
 posterDescription: 'Illustration of a drow woman raising a staff to summon a fierce infernal being to fight for her'
 
 imageArray: 

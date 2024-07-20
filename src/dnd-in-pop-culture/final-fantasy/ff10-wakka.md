@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ffx-wakka.webp'
+posterImage: 'poster-ffx-wakka'
 posterDescription: 'Graphic of Wakka from Final Fantasy X'
 
 ---

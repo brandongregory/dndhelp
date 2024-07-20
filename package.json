@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm run buildinit && npm run buildcss && npm run buildhtml && npm run buildimages && npm run buildjs",
+    "build": "npm run buildinit && npm run buildcss && npm run buildhtml && npm run buildimages && npm run resizeimages && npm run buildjs",
     "buildcss": "node-sass --output-style compressed --include-path scss src/scss/main.scss src/_includes/styles.css && node-sass --output-style compressed --include-path scss src/scss/article.scss src/_includes/article.css && node-sass --output-style compressed --include-path scss src/scss/toc.scss src/_includes/toc.css",
     "buildhtml": "npx @11ty/eleventy",
     "buildimages": "imagemin src/images/**/*.{jpg,jpeg,png,gif,svg,webp} --out-dir=webroot/images",
     "buildinit": "make-dir webroot/js",
     "buildjs": "make-dir webroot/js && terser src/js/custom.js -o webroot/js/custom.min.js",
     "cleandir": "del-cli webroot",
+    "resizeimages": "sharp resize 640 --input 'src/images/posters/*.webp' --output 'webroot/images/{name}-640.webp' && sharp resize 426 --input 'src/images/posters/*.webp' --output 'webroot/images/{name}-426.webp'",
     "start": "npm run build && concurrently --kill-others \"npm run start-server\" \"npm run watch\"",
     "start-server": "http-server ./webroot -p 5309 -o -c-1",
     "watch": "npm run watchcss & npm run watchhtml & npm run watchjs",
@@ -29,12 +30,17 @@
     "del-cli": "^5.0.0",
     "html-minifier": "^4.0.0",
     "http-server": "^14.1.1",
-    "imagemin-cli": "^7.0.0",
+    "imagemin-cli": "^8.0.0",
     "make-dir-cli": "^3.0.0",
+    "markdown-it": "^14.1.0",
     "move-file-cli": "^3.0.0",
-    "node-sass": "^8.0.0",
+    "node-sass": "^9.0.0",
     "nodemon": "^2.0.22",
     "normalize.css": "^8.0.1",
+    "sharp-cli": "^5.0.0",
     "terser": "^5.17.2"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0"
   }
 }

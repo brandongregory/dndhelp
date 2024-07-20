@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-dart-thrower-builds.webp'
+posterImage: 'poster-dart-thrower-builds'
 posterDescription: 'Illustration of a halfling rogue wielding two throwing daggers'
 
 imageArray: 

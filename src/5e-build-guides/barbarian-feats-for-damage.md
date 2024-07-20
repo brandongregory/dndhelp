@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-barbarian-feats-for-damage.webp'
+posterImage: 'poster-barbarian-feats-for-damage'
 posterDescription: 'Illustration of a half-orc barbarian wielding a spear and shield'
 
 ---

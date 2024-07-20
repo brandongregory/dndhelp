@@ -13,7 +13,7 @@ parent2:
   name: Dragon Age in DnD
   url: /dnd-in-pop-culture/dragon-age/
 
-posterImage: 'poster-dai-solas.webp'
+posterImage: 'poster-dai-solas'
 posterDescription: "Illustration of Solas, a mage from Dragon Age Inquisition who definitely won't betray your party"
 
 ---

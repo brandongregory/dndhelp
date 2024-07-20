@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-mage-hunter-builds.webp'
+posterImage: 'poster-mage-hunter-builds'
 posterDescription: 'Illustration of a fierce armored dwarf with a longsword beckoning with his hand'
 
 imageArray: 

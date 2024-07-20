@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-poisoner-builds.webp'
+posterImage: 'poster-poisoner-builds'
 posterDescription: 'Illustration of a goblin rogue holding a dagger and some vials of poison'
 
 imageArray: 
@@ -41,6 +41,8 @@ A poisoner character can be fun and effective in most situations, but there are 
 ## <a name="The-Poisoner-Feat"></a>The Poisoner Feat
 
 The key to a real poison-themed character is the Poisoner feat from _Tasha’s Cauldron of Everything_. This feat grants several benefits, most notably allowing you to ignore poison resistance on creatures and create several doses of a potent poison that can increase damage with weapon attacks. You don’t get unlimited poison, but you can choose when to apply it to your weapons, requiring some strategy on when to try for that damage boost.
+
+DND Tinker Inn has <a href="https://www.dndtinkerinn.com/articles-1/feat-poisoner-what-spell-should-you-choose-and-character-concept">a great write-up on poison spells</a> that work well with the Poisoner feat, so read up on that if you want to be a spellcaster. This article will focus on weapon attacks.
 
 The poison also causes the poisoned condition for a short time. Poisoned is a nasty condition that imposes disadvantage on all attack rolls and ability checks, which can debilitate some foes.
 

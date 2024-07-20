@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-tank-builds.webp'
+posterImage: 'poster-tank-builds'
 posterDescription: 'Illustration of a black human man wearing heavy plate armor and challenging an opponent to attack him'
 
 imageArray: 
@@ -20,7 +20,7 @@ imageArray:
 
 In gaming, a Tank is an iconic role, drawing the enemies' ire so your more fragile teammates stay safe. Tanks in DnD work a bit differently. In video games, dedicated tanks will have methods of generating aggro, forcing nearby enemies to focus on them. There isn't really a mechanic for this in DnD. The Tank Fallacy in DnD is that you can build an extremely defensive character who can stand up to any attack, but enemies can run right around you and attack the wizard behind you.
 
-Playing a tank is deceptively hard. A good tank needs defense to stay alive, offense to make yourself a decent threat, and a mix of abilities to protect your allies and keep them (and yourself) alive. While a tank isn’t essential in a party, keeping the fire off your allies allows them to focus on what they do best. Here are 10 of the best tank builds.
+Playing a tank is deceptively hard. A good tank needs defense to stay alive, offense to make yourself a decent threat, and a mix of abilities to protect your allies and keep them (and yourself) alive. While a tank isn't essential in a party, keeping the fire off your allies allows them to focus on what they do best. Here are 10 of the best tank builds.
 
 <div class="contents" markdown="1">
 <strong>Contents</strong>
@@ -60,7 +60,7 @@ Playing a tank is deceptively hard. A good tank needs defense to stay alive, off
 
 ### <a name="Class-Ancestral-Guardian"></a>Barbarian – Path of the Ancestral Guardian
 
-Probably a best-in-class tank, the Ancestral Guardian takes the Barbarian’s natural durability and adds some useful features for getting enemies to focus on you instead of your allies. Barbarians are already durable, but you'll probably want to go weapon-and-shield, as your main goal will be getting the enemies to focus on you. Your main goal is to keep your allies from harm, so this is the best option. Ancestral Guardian is one of the least offensive Barbarian subclasses, so your allies must deal good damage. Also, Barbarians typically have all their high stats locked up in the three physical stats, so mental stats are often low. Low mental stats can make it hard to withstand magical attacks.
+Probably a best-in-class tank, the Ancestral Guardian takes the Barbarian's natural durability and adds some useful features for getting enemies to focus on you instead of your allies. Barbarians are already durable, but you'll probably want to go weapon-and-shield, as your main goal will be getting the enemies to focus on you. Your main goal is to keep your allies from harm, so this is the best option. Ancestral Guardian is one of the least offensive Barbarian subclasses, so your allies must deal good damage. Also, Barbarians typically have all their high stats locked up in the three physical stats, so mental stats are often low. Low mental stats can make it hard to withstand magical attacks.
 
 Barbarians need a high Strength and Constitution, a fairly high Dexterity, and possibly a decent mental stat. The original Human is a good choice, getting a +1 to every stat. Mountain Dwarves, Half-Orcs, and Goliaths also make excellent Barbarians, with Goliaths getting the ability to shrug off damage once a day.
 
@@ -88,7 +88,7 @@ Juggernauts get a few more perks, like a knock-back effect on attacks and immuni
 
 ### <a name="Class-Totem-Warrior"></a>Barbarian – Path of the Totem Warrior
 
-While the Ancestral Guardian Barbarian focuses on drawing enemies' attention, the Totem Warrior adds some powerful defensive skills to the mix. Picking Bear totem at level 3 makes for an exceptionally durable character that can withstand enormous damage. Combined with the Barbarian’s high hit points, this character will be tough to kill. On the flip side, you don’t get an option to incentivize enemies to target you until level 14, but the survivability of this subclass earns it a spot on the list. To get the enemies to attack you rather than your friends, you'll need to do as much damage as possible to make yourself a threat, probably using great weapons and taking the Great Weapons Master feat.
+While the Ancestral Guardian Barbarian focuses on drawing enemies' attention, the Totem Warrior adds some powerful defensive skills to the mix. Picking Bear totem at level 3 makes for an exceptionally durable character that can withstand enormous damage. Combined with the Barbarian's high hit points, this character will be tough to kill. On the flip side, you don't get an option to incentivize enemies to target you until level 14, but the survivability of this subclass earns it a spot on the list. To get the enemies to attack you rather than your friends, you'll need to do as much damage as possible to make yourself a threat, probably using great weapons and taking the Great Weapons Master feat.
 
 Most of what makes a great Ancestral Guardian Barbarian applies here. Original Humans can be good, as they get bonuses to many stats, and Mountain Dwarves, Half-Orcs, and Goliaths make excellent choices as well, with Half-Orcs getting numerous abilities that pair nicely with a damage-focused Barbarian.
 
@@ -156,7 +156,7 @@ Most of what made a good Oath of the Crown Paladin also applies to Oath of the A
 
 ### <a name="Class-Armorer"></a>Artificer – Armorer
 
-The D&D equivalent of Iron Man, Armorers enchant their armor to make them great tanks. Armorers can choose one of two "models" for their armor: Guardian or Infiltration. Infiltration armor can be interesting, but if you want to be a Tank, go with Guardian. Guardian Armorers gain a special melee attack that uses their intelligence and incentivizes enemies to focus on them. Additionally, armor that usually has a strength requirement has none for Armorers, so if you want a Gnome with 8 strength running around in full plate armor, that’s doable, enabling a tank with Intelligence as their highest stat.
+The D&D equivalent of Iron Man, Armorers enchant their armor to make them great tanks. Armorers can choose one of two "models" for their armor: Guardian or Infiltration. Infiltration armor can be interesting, but if you want to be a Tank, go with Guardian. Guardian Armorers gain a special melee attack that uses their intelligence and incentivizes enemies to focus on them. Additionally, armor that usually has a strength requirement has none for Armorers, so if you want a Gnome with 8 strength running around in full plate armor, that's doable, enabling a tank with Intelligence as their highest stat.
 
 Artificers are half-casters and get a good amount of spells, so their spellcasting ability (Intelligence) is vital. Due to their class features, this is one of the only options that could get away with not having Strength or Dexterity as their highest stat (although you can certainly use those stats in a build). Gnomes are a great fit for any Artificer, with a boost to Intelligence and a reputation for being curious and tinkering with things. Feral Tieflings get a bonus to Dexterity and Intelligence. Kobolds and Warforged are good fits thematically and can work well as Artificers.
 
@@ -170,7 +170,7 @@ Artificers are half-casters and get a good amount of spells, so their spellcasti
 
 ### <a name="Class-Moon"></a>Druid – Circle of the Moon
 
-Druids are full spellcasters who can turn into animals. They're usually known for being fragile, but Circle of the Moon Druids can use their wildshape feature to transform into tougher animals than other Druids, and their hit points reset to the creature they transform into, essentially giving them a new pool of hit points for every encounter. When you’re not wildshaped, you’re a full caster with an excellent list of Druid spells. While not as damage-oriented as the Barbarian, Fighter, and Paladin builds, it’s hard to beat the versatility of the Circle of the Moon Druid. You can be a Tank when needed or a control and support spellcaster.
+Druids are full spellcasters who can turn into animals. They're usually known for being fragile, but Circle of the Moon Druids can use their wildshape feature to transform into tougher animals than other Druids, and their hit points reset to the creature they transform into, essentially giving them a new pool of hit points for every encounter. When you're not wildshaped, you're a full caster with an excellent list of Druid spells. While not as damage-oriented as the Barbarian, Fighter, and Paladin builds, it's hard to beat the versatility of the Circle of the Moon Druid. You can be a Tank when needed or a control and support spellcaster.
 
 Since Druids use the animal stat blocks while wildshaped, Strength isn't needed. Dexterity remains pretty important for Druids, as it affects their armor class while not wildshaped, but your highest stat as a Druid should be Wisdom, which is their spellcasting stat. Druids use animal stat blocks instead of weapons, so small races are perfectly viable. Races that get a bonus to Wisdom are great: Ghostwise Halflings, Hill Dwarves, Kalashtar, Firbolg, and Wood Elves are all great fits. Goblins can work pretty well, and the idea of a Goblin tank will never not be funny to me.
 

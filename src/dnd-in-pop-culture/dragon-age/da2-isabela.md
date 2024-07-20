@@ -13,7 +13,7 @@ parent2:
   name: Dragon Age in DnD
   url: /dnd-in-pop-culture/dragon-age/
 
-posterImage: 'poster-da2-isabela.webp'
+posterImage: 'poster-da2-isabela'
 posterDescription: "Illustration of Isabela, a pirate captain from Dragon Age 2, slashing her scimitar"
 
 ---

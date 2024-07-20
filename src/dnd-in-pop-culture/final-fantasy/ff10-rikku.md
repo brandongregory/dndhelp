@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ffx-rikku.webp'
+posterImage: 'poster-ffx-rikku'
 posterDescription: 'Graphic of Rikku from Final Fantasy X'
 
 ---

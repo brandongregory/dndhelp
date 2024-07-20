@@ -10,7 +10,7 @@ parent:
   name: Character Creation
   url: /5e-character-creation/
 
-posterImage: 'poster-class-guide-and-playstyles.webp'
+posterImage: 'poster-class-guide-and-playstyles'
 posterDescription: 'Illustration of a half-elf pirate holding two scimitars'
 
 imageArray: 

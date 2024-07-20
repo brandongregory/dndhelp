@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ff7-yuffie.webp'
+posterImage: 'poster-ff7-yuffie'
 posterDescription: 'Graphic of Yuffie Kisaragi from Final Fantasy VII'
 
 ---

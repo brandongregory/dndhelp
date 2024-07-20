@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-archer-builds.webp'
+posterImage: 'poster-archer-builds'
 posterDescription: 'Illustration of a half-elf woman in a cowboy hat aiming a longbow'
 
 imageArray: 

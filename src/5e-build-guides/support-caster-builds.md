@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-support-caster-builds.webp'
+posterImage: 'poster-support-caster-builds'
 posterDescription: 'Illustration of a halfling cleric smiling warmly and holding out his hand'
 
 imageArray: 

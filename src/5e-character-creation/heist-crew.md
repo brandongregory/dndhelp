@@ -10,7 +10,7 @@ parent:
   name: Character Creation
   url: /5e-character-creation/
 
-posterImage: 'poster-heist-crew.webp'
+posterImage: 'poster-heist-crew'
 posterDescription: "Illustration of a kobold rogue prowling the city streets at night"
 
 imageArray: 

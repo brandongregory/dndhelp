@@ -13,7 +13,7 @@ parent2:
   name: Dragon Age in DnD
   url: /dnd-in-pop-culture/dragon-age/
 
-posterImage: 'poster-da2-anders.webp'
+posterImage: 'poster-da2-anders'
 posterDescription: "Illustration of a Anders, a mage from Dragon Age 2, possessed by a spirit of justice"
 
 ---

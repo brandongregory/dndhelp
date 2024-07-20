@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ffx-auron.webp'
+posterImage: 'poster-ffx-auron'
 posterDescription: 'Graphic of Auron from Final Fantasy X'
 
 ---

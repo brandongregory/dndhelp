@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ff6-terra.webp'
+posterImage: 'poster-ff6-terra'
 posterDescription: 'Graphic of Terra Branford from Final Fantasy VI'
 
 ---

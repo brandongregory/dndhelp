@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-spear-and-quarterstaff-builds.webp'
+posterImage: 'poster-spear-and-quarterstaff-builds'
 posterDescription: 'Illustration of a half-elf pirate monk holding a quarterstaff over her shoulder in a relaxed pose'
 
 imageArray: 
@@ -85,7 +85,7 @@ If you don’t want to be a Monk, you can easily be another class and multiclass
 
 Fighter-Monks can also be a good fit, provided you choose a subclass that works with a high-Wisdom build. Fighters don’t get Hunter’s Mark, but they do get Action Surge, which can give you some good burst damage when needed. Battle Master Fighters can be a particularly fun build.
 
-Note that both Fighters and Rangers get access to a fighting style. For this build, there’s no clear winner. You can’t wear a shield, so you might as well use both hands for your weapon, so the dueling fighting style is out. Fighters get access to the unarmed style, although this won’t work with your bonus action attacks and will offer little benefit (unless you lose your weapon somehow). The defense fighting style requires you to wear armor, which you cannot. Rangers get access to Druidic Warrior, which grants two Druid cantrips, which can add some nice flavor. Blind fighting is available to both of them and can add some nice flavor and might come in handy if your DM pits you against invisible foes or makes you fight in magical darkness.
+Note that both Fighters and Rangers get access to a fighting style. For this build, there’s no clear winner. You can’t wear a shield, so you might as well use both hands for your weapon, so the dueling fighting style is out. Fighters get access to the unarmed style, although this won’t work with your bonus action attacks and will offer little benefit (unless you lose your weapon somehow). The defense fighting style requires you to wear armor, which you cannot. Rangers get access to Druidic Warrior, which grants two Druid cantrips, which can add some nice flavor. (DND Tinker Inn has <a href="https://www.dndtinkerinn.com/articles-1/ranger-fighting-style-druidic-warrior-what-cantrip-should-you-choose">a great write-up on cantrips to pick with the Druidic Warrior fighting style</a> for other options.) Blind fighting is available to both of them and can add some nice flavor and might come in handy if your DM pits you against invisible foes or makes you fight in magical darkness.
 
 
 ## <a name="Using-Wisdom-With-Quarterstaffs"></a>Using Wisdom With Quarterstaves

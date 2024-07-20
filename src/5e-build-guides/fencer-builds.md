@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-fencer-builds.webp'
+posterImage: 'poster-fencer-builds'
 posterDescription: 'Illustration of a Hispanic human noble woman brandishing a rapier'
 
 ---

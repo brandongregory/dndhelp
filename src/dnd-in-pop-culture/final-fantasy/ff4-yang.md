@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ff4-yang.webp'
+posterImage: 'poster-ff4-yang'
 posterDescription: 'Graphic of Yang Fang Leiden from Final Fantasy IV'
 
 ---

@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ffx-yuna.webp'
+posterImage: 'poster-ffx-yuna'
 posterDescription: 'Graphic of Yuna from Final Fantasy X'
 
 ---

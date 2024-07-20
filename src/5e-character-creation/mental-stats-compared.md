@@ -10,7 +10,7 @@ parent:
   name: Character Creation
   url: /5e-character-creation/
 
-posterImage: 'poster-mental-stats-compared.webp'
+posterImage: 'poster-mental-stats-compared'
 posterDescription: "Illustration of a woman in monk's robes intently studying a book"
 
 imageArray: 

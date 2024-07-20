@@ -22,7 +22,10 @@ article: true
 
     {%- if posterImage -%}
     <img
-        src="/images/{{ posterImage }}"
+        src="/images/{{ posterImage }}.webp"
+        srcset="/images/{{ posterImage }}-640.webp 640w,
+                /images/{{ posterImage }}.webp 1536w"
+        sizes="(min-width: 768px) 768px,360px"
         alt="{{ posterDescription }}"
         class="poster"
         height="384" width="768" />

@@ -10,7 +10,7 @@ parent:
   name: Character Creation
   url: /5e-character-creation/
 
-posterImage: 'poster-dexterity-vs-strength-builds.webp'
+posterImage: 'poster-dexterity-vs-strength-builds'
 posterDescription: 'Illustration of a Hispanic human noble woman with a rapier and a stoic white human man with a greatsword'
 
 imageArray: 

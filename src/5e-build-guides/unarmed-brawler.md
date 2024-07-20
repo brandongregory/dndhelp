@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-strength-based-unarmed-brawler-builds.webp'
+posterImage: 'poster-strength-based-unarmed-brawler-builds'
 posterDescription: 'Illustration of a dapper half-orc pugilist with a mustache, raising his fists in challenge'
 
 imageArray: 
@@ -88,6 +88,8 @@ Harnessing primal magic from giants, the Rune Knight grants a toolkit of abiliti
 ### Eldritch Knight
 
 The Eldritch Knight subclass grants a few simple spells to Fighters. Defensive spells like Absorb Elements and Shield will be your bread and butter and can help any Fighter be a defensive powerhouse. Eldritch Knights get the ability to summon their chosen weapon to them if they’re ever separated, which may be wasted on an unarmed character (pro-tip: bond to a net!), but most of the other abilities will be of some use. The Eldritch Knight is great for more defensive builds, but adding some magic to your Fighter might be great flavor as well.
+
+DND Tinker Inn has <a href="https://www.dndtinkerinn.com/articles-1/feat-tavern-brawler-character-concept">a more thorough write-up on an Eldritch Knight built around unarmed attacks</a>, so give that a read if you're considering an Eldritch Knight.
 
 ## <a name="feats-for-unarmed-fighters"></a>Feats for Unarmed Fighters
 

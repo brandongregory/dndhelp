@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ffx-tidus.webp'
+posterImage: 'poster-ffx-tidus'
 posterDescription: 'Graphic of Tidus from Final Fantasy X'
 
 ---

@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ff4-rosa.webp'
+posterImage: 'poster-ff4-rosa'
 posterDescription: 'Graphic of Rosa Joanna Farrell from Final Fantasy IV'
 
 ---

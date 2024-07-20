@@ -7,7 +7,7 @@ tags: ['main-page']
 eleventyExcludeFromCollections: true
 date: Last Modified
 
-posterImage: 'poster-home.webp'
+posterImage: 'poster-home'
 posterDescription: 'Illustration of a kobold in casual clothing grinning and flashing finger guns'
 
 ---

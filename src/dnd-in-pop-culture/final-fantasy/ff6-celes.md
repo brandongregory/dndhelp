@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ff6-celes.webp'
+posterImage: 'poster-ff6-celes'
 posterDescription: 'Graphic of Celes Chere from Final Fantasy VI'
 
 ---

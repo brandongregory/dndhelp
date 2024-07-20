@@ -10,7 +10,7 @@ parent:
   name: Build Guides
   url: /5e-build-guides/
 
-posterImage: 'poster-adding-utility-to-any-character.webp'
+posterImage: 'poster-adding-utility-to-any-character'
 posterDescription: 'Illustration of a halfling carrying a plethora of tools'
 
 imageArray: 

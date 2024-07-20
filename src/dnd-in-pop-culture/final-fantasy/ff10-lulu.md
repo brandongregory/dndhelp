@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ffx-lulu.webp'
+posterImage: 'poster-ffx-lulu'
 posterDescription: 'Graphic of Lulu from Final Fantasy X'
 
 ---

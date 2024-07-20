@@ -10,7 +10,7 @@ parent:
   name: Roleplaying
   url: /roleplaying/
 
-posterImage: 'poster-just-talk-to-them.webp'
+posterImage: 'poster-just-talk-to-them'
 posterDescription: 'Illustration of a blonde woman and a brunette man mad at each other and looking away'
 
 ---

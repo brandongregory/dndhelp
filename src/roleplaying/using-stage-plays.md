@@ -10,7 +10,7 @@ parent:
   name: Roleplaying
   url: /roleplaying/
 
-posterImage: 'poster-stage-plays.webp'
+posterImage: 'poster-stage-plays'
 posterDescription: 'Graphic of a well-dressed actor of South Asian descent holding a skull and delivering a monologue'
 
 ---

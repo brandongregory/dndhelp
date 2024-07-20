@@ -13,7 +13,7 @@ parent2:
   name: Final Fantasy in DnD
   url: /dnd-in-pop-culture/final-fantasy/
 
-posterImage: 'poster-ff4-cecil.webp'
+posterImage: 'poster-ff4-cecil'
 posterDescription: 'Graphic of Cecil Harvey from Final Fantasy IV'
 
 ---
