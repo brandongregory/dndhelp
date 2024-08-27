@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm run buildinit && npm run buildcss && npm run buildhtml && npm run buildimages && npm run resizeimages && npm run buildjs",
-    "buildcss": "node-sass --output-style compressed --include-path scss src/scss/main.scss src/_includes/styles.css && node-sass --output-style compressed --include-path scss src/scss/article.scss src/_includes/article.css && node-sass --output-style compressed --include-path scss src/scss/toc.scss src/_includes/toc.css",
+    "buildcss": "sass --style=compressed src/scss/main.scss src/_includes/styles.css && sass --style=compressed src/scss/article.scss src/_includes/article.css && sass --style=compressed src/scss/toc.scss src/_includes/toc.css",
     "buildhtml": "npx @11ty/eleventy",
     "buildimages": "imagemin src/images/**/*.{jpg,jpeg,png,gif,svg,webp} --out-dir=webroot/images",
     "buildinit": "make-dir webroot/js",
@@ -34,13 +34,14 @@
     "make-dir-cli": "^3.0.0",
     "markdown-it": "^14.1.0",
     "move-file-cli": "^3.0.0",
-    "node-sass": "^9.0.0",
     "nodemon": "^2.0.22",
     "normalize.css": "^8.0.1",
+    "sass": "^1.77.8",
     "sharp-cli": "^5.0.0",
     "terser": "^5.17.2"
   },
   "dependencies": {
-    "markdown-it": "^14.1.0"
+    "markdown-it": "^14.1.0",
+    "npm": "^10.8.2"
   }
 }
