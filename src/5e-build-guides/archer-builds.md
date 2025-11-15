@@ -18,6 +18,8 @@ imageArray:
 
 ---
 
+(*This guide is for the DnD 5e rules. [DnD 2024 archer builds can be found here.](/2024-build-guides/archer-builds/)*)
+
 Want to build an archer as your Dungeons & Dragons 5e character? Here are significant builds to look at.
 
 <div markdown="1" class="contents">
